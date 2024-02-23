@@ -1,0 +1,3420 @@
+Ṛgveda 8
+RV_8,001.01a mā cid anyad vi śaṃsata sakhāyo mā riṣaṇyata /
+RV_8,001.01c indram it stotā vṛṣaṇaṃ sacā sute muhur ukthā ca śaṃsata //
+RV_8,001.02a avakrakṣiṇaṃ vṛṣabhaṃ yathājuraṃ gāṃ na carṣaṇīsaham /
+RV_8,001.02c vidveṣaṇaṃ saṃvananobhayaṅkaram maṃhiṣṭham ubhayāvinam //
+RV_8,001.03a yac cid dhi tvā janā ime nānā havanta ūtaye /
+RV_8,001.03c asmākam brahmedam indra bhūtu te 'hā viśvā ca vardhanam //
+RV_8,001.04a vi tartūryante maghavan vipaścito 'ryo vipo janānām /
+RV_8,001.04c upa kramasva pururūpam ā bhara vājaṃ nediṣṭham ūtaye //
+RV_8,001.05a mahe cana tvām adrivaḥ parā śulkāya deyām /
+RV_8,001.05c na sahasrāya nāyutāya vajrivo na śatāya śatāmagha //
+RV_8,001.06a vasyāṃ indrāsi me pitur uta bhrātur abhuñjataḥ /
+RV_8,001.06c mātā ca me chadayathaḥ samā vaso vasutvanāya rādhase //
+RV_8,001.07a kveyatha kved asi purutrā cid dhi te manaḥ /
+RV_8,001.07c alarṣi yudhma khajakṛt purandara pra gāyatrā agāsiṣuḥ //
+RV_8,001.08a prāsmai gāyatram arcata vāvātur yaḥ purandaraḥ /
+RV_8,001.08c yābhiḥ kāṇvasyopa barhir āsadaṃ yāsad vajrī bhinat puraḥ //
+RV_8,001.09a ye te santi daśagvinaḥ śatino ye sahasriṇaḥ /
+RV_8,001.09c aśvāso ye te vṛṣaṇo raghudruvas tebhir nas tūyam ā gahi //
+RV_8,001.10a ā tv adya sabardughāṃ huve gāyatravepasam /
+RV_8,001.10c indraṃ dhenuṃ sudughām anyām iṣam urudhārām araṅkṛtam //
+RV_8,001.11a yat tudat sūra etaśaṃ vaṅkū vātasya parṇinā /
+RV_8,001.11c vahat kutsam ārjuneyaṃ śatakratuḥ tsarad gandharvam astṛtam //
+RV_8,001.12a ya ṛte cid abhiśriṣaḥ purā jatrubhya ātṛdaḥ /
+RV_8,001.12c saṃdhātā saṃdhim maghavā purūvasur iṣkartā vihrutam punaḥ //
+RV_8,001.13a mā bhūma niṣṭyā ivendra tvad araṇā iva /
+RV_8,001.13c vanāni na prajahitāny adrivo duroṣāso amanmahi //
+RV_8,001.14a amanmahīd anāśavo 'nugrāsaś ca vṛtrahan /
+RV_8,001.14c sakṛt su te mahatā śūra rādhasā anu stomam mudīmahi //
+RV_8,001.15a yadi stomam mama śravad asmākam indram indavaḥ /
+RV_8,001.15c tiraḥ pavitraṃ sasṛvāṃsa āśavo mandantu tugryāvṛdhaḥ //
+RV_8,001.16a ā tv adya sadhastutiṃ vāvātuḥ sakhyur ā gahi /
+RV_8,001.16c upastutir maghonām pra tvāvatv adhā te vaśmi suṣṭutim //
+RV_8,001.17a sotā hi somam adribhir em enam apsu dhāvata /
+RV_8,001.17c gavyā vastreva vāsayanta in naro nir dhukṣan vakṣaṇābhyaḥ //
+RV_8,001.18a adha jmo adha vā divo bṛhato rocanād adhi /
+RV_8,001.18c ayā vardhasva tanvā girā mamā jātā sukrato pṛṇa //
+RV_8,001.19a indrāya su madintamaṃ somaṃ sotā vareṇyam /
+RV_8,001.19c śakra eṇam pīpayad viśvayā dhiyā hinvānaṃ na vājayum //
+RV_8,001.20a mā tvā somasya galdayā sadā yācann ahaṃ girā /
+RV_8,001.20c bhūrṇim mṛgaṃ na savaneṣu cukrudhaṃ ka īśānaṃ na yāciṣat //
+RV_8,001.21a madeneṣitam madam ugram ugreṇa śavasā /
+RV_8,001.21c viśveṣāṃ tarutāram madacyutam made hi ṣmā dadāti naḥ //
+RV_8,001.22a śevāre vāryā puru devo martāya dāśuṣe /
+RV_8,001.22c sa sunvate ca stuvate ca rāsate viśvagūrto ariṣṭutaḥ //
+RV_8,001.23a endra yāhi matsva citreṇa deva rādhasā /
+RV_8,001.23c saro na prāsy udaraṃ sapītibhir ā somebhir uru sphiram //
+RV_8,001.24a ā tvā sahasram ā śataṃ yuktā rathe hiraṇyaye /
+RV_8,001.24c brahmayujo haraya indra keśino vahantu somapītaye //
+RV_8,001.25a ā tvā rathe hiraṇyaye harī mayūraśepyā /
+RV_8,001.25c śitipṛṣṭhā vahatām madhvo andhaso vivakṣaṇasya pītaye //
+RV_8,001.26a pibā tv asya girvaṇaḥ sutasya pūrvapā iva /
+RV_8,001.26c pariṣkṛtasya rasina iyam āsutiś cārur madāya patyate //
+RV_8,001.27a ya eko asti daṃsanā mahāṃ ugro abhi vrataiḥ /
+RV_8,001.27c gamat sa śiprī na sa yoṣad ā gamad dhavaṃ na pari varjati //
+RV_8,001.28a tvam puraṃ cariṣṇvaṃ vadhaiḥ śuṣṇasya sam piṇak /
+RV_8,001.28c tvam bhā anu caro adha dvitā yad indra havyo bhuvaḥ //
+RV_8,001.29a mama tvā sūra udite mama madhyandine divaḥ /
+RV_8,001.29c mama prapitve apiśarvare vasav ā stomāso avṛtsata //
+RV_8,001.30a stuhi stuhīd ete ghā te maṃhiṣṭhāso maghonām /
+RV_8,001.30c ninditāśvaḥ prapathī paramajyā maghasya medhyātithe //
+RV_8,001.31a ā yad aśvān vananvataḥ śraddhayāhaṃ rathe ruham /
+RV_8,001.31c uta vāmasya vasunaś ciketati yo asti yādvaḥ paśuḥ //
+RV_8,001.32a ya ṛjrā mahyam māmahe saha tvacā hiraṇyayā /
+RV_8,001.32c eṣa viśvāny abhy astu saubhagāsaṅgasya svanadrathaḥ //
+RV_8,001.33a adha plāyogir ati dāsad anyān āsaṅgo agne daśabhiḥ sahasraiḥ /
+RV_8,001.33c adhokṣaṇo daśa mahyaṃ ruśanto naḷā iva saraso nir atiṣṭhan //
+RV_8,001.34a anv asya sthūraṃ dadṛśe purastād anastha ūrur avarambamāṇaḥ /
+RV_8,001.34c śaśvatī nāry abhicakṣyāha subhadram arya bhojanam bibharṣi //
+RV_8,002.01a idaṃ vaso sutam andhaḥ pibā supūrṇam udaram /
+RV_8,002.01c anābhayin rarimā te //
+RV_8,002.02a nṛbhir dhūtaḥ suto aśnair avyo vāraiḥ paripūtaḥ /
+RV_8,002.02c aśvo na nikto nadīṣu //
+RV_8,002.03a taṃ te yavaṃ yathā gobhiḥ svādum akarma śrīṇantaḥ /
+RV_8,002.03c indra tvāsmin sadhamāde //
+RV_8,002.04a indra it somapā eka indraḥ sutapā viśvāyuḥ /
+RV_8,002.04c antar devān martyāṃś ca //
+RV_8,002.05a na yaṃ śukro na durāśīr na tṛprā uruvyacasam /
+RV_8,002.05c apaspṛṇvate suhārdam //
+RV_8,002.06a gobhir yad īm anye asman mṛgaṃ na vrā mṛgayante /
+RV_8,002.06c abhitsaranti dhenubhiḥ //
+RV_8,002.07a traya indrasya somāḥ sutāsaḥ santu devasya /
+RV_8,002.07c sve kṣaye sutapāvnaḥ //
+RV_8,002.08a trayaḥ kośāsa ścotanti tisraś camvaḥ supūrṇāḥ /
+RV_8,002.08c samāne adhi bhārman //
+RV_8,002.09a śucir asi puruniṣṭhāḥ kṣīrair madhyata āśīrtaḥ /
+RV_8,002.09c dadhnā mandiṣṭhaḥ śūrasya //
+RV_8,002.10a ime ta indra somās tīvrā asme sutāsaḥ /
+RV_8,002.10c śukrā āśiraṃ yācante //
+RV_8,002.11a tāṃ āśiram puroḷāśam indremaṃ somaṃ śrīṇīhi /
+RV_8,002.11c revantaṃ hi tvā śṛṇomi //
+RV_8,002.12a hṛtsu pītāso yudhyante durmadāso na surāyām /
+RV_8,002.12c ūdhar na nagnā jarante //
+RV_8,002.13a revāṃ id revata stotā syāt tvāvato maghonaḥ /
+RV_8,002.13c pred u harivaḥ śrutasya //
+RV_8,002.14a ukthaṃ cana śasyamānam agor arir ā ciketa /
+RV_8,002.14c na gāyatraṃ gīyamānam //
+RV_8,002.15a mā na indra pīyatnave mā śardhate parā dāḥ /
+RV_8,002.15c śikṣā śacīvaḥ śacībhiḥ //
+RV_8,002.16a vayam u tvā tadidarthā indra tvāyantaḥ sakhāyaḥ /
+RV_8,002.16c kaṇvā ukthebhir jarante //
+RV_8,002.17a na ghem anyad ā papana vajrinn apaso naviṣṭau /
+RV_8,002.17c taved u stomaṃ ciketa //
+RV_8,002.18a icchanti devāḥ sunvantaṃ na svapnāya spṛhayanti /
+RV_8,002.18c yanti pramādam atandrāḥ //
+RV_8,002.19a o ṣu pra yāhi vājebhir mā hṛṇīthā abhy asmān /
+RV_8,002.19c mahāṃ iva yuvajāniḥ //
+RV_8,002.20a mo ṣv adya durhaṇāvān sāyaṃ karad āre asmat /
+RV_8,002.20c aśrīra iva jāmātā //
+RV_8,002.21a vidmā hy asya vīrasya bhūridāvarīṃ sumatim /
+RV_8,002.21c triṣu jātasya manāṃsi //
+RV_8,002.22a ā tū ṣiñca kaṇvamantaṃ na ghā vidma śavasānāt /
+RV_8,002.22c yaśastaraṃ śatamūteḥ //
+RV_8,002.23a jyeṣṭhena sotar indrāya somaṃ vīrāya śakrāya /
+RV_8,002.23c bharā piban naryāya //
+RV_8,002.24a yo vediṣṭho avyathiṣv aśvāvantaṃ jaritṛbhyaḥ /
+RV_8,002.24c vājaṃ stotṛbhyo gomantam //
+RV_8,002.25a panyam-panyam it sotāra ā dhāvata madyāya /
+RV_8,002.25c somaṃ vīrāya śūrāya //
+RV_8,002.26a pātā vṛtrahā sutam ā ghā gaman nāre asmat /
+RV_8,002.26c ni yamate śatamūtiḥ //
+RV_8,002.27a eha harī brahmayujā śagmā vakṣataḥ sakhāyam /
+RV_8,002.27c gīrbhiḥ śrutaṃ girvaṇasam //
+RV_8,002.28a svādavaḥ somā ā yāhi śrītāḥ somā ā yāhi /
+RV_8,002.28c śiprinn ṛṣīvaḥ śacīvo nāyam acchā sadhamādam //
+RV_8,002.29a stutaś ca yās tvā vardhanti mahe rādhase nṛmṇāya /
+RV_8,002.29c indra kāriṇaṃ vṛdhantaḥ //
+RV_8,002.30a giraś ca yās te girvāha ukthā ca tubhyaṃ tāni /
+RV_8,002.30c satrā dadhire śavāṃsi //
+RV_8,002.31a eved eṣa tuvikūrmir vājāṃ eko vajrahastaḥ /
+RV_8,002.31c sanād amṛkto dayate //
+RV_8,002.32a hantā vṛtraṃ dakṣiṇenendraḥ purū puruhūtaḥ /
+RV_8,002.32c mahān mahībhiḥ śacībhiḥ //
+RV_8,002.33a yasmin viśvāś carṣaṇaya uta cyautnā jrayāṃsi ca /
+RV_8,002.33c anu ghen mandī maghonaḥ //
+RV_8,002.34a eṣa etāni cakārendro viśvā yo 'ti śṛṇve /
+RV_8,002.34c vājadāvā maghonām //
+RV_8,002.35a prabhartā rathaṃ gavyantam apākāc cid yam avati /
+RV_8,002.35c ino vasu sa hi voḷhā //
+RV_8,002.36a sanitā vipro arvadbhir hantā vṛtraṃ nṛbhiḥ śūraḥ /
+RV_8,002.36c satyo 'vitā vidhantam //
+RV_8,002.37a yajadhvainam priyamedhā indraṃ satrācā manasā /
+RV_8,002.37c yo bhūt somaiḥ satyamadvā //
+RV_8,002.38a gāthaśravasaṃ satpatiṃ śravaskāmam purutmānam /
+RV_8,002.38c kaṇvāso gāta vājinam //
+RV_8,002.39a ya ṛte cid gās padebhyo dāt sakhā nṛbhyaḥ śacīvān /
+RV_8,002.39c ye asmin kāmam aśriyan //
+RV_8,002.40a itthā dhīvantam adrivaḥ kāṇvam medhyātithim /
+RV_8,002.40c meṣo bhūto 'bhi yann ayaḥ //
+RV_8,002.41a śikṣā vibhindo asmai catvāry ayutā dadat /
+RV_8,002.41c aṣṭā paraḥ sahasrā //
+RV_8,002.42a uta su tye payovṛdhā mākī raṇasya naptyā /
+RV_8,002.42c janitvanāya māmahe //
+RV_8,003.01a pibā sutasya rasino matsvā na indra gomataḥ /
+RV_8,003.01c āpir no bodhi sadhamādyo vṛdhe 'smāṃ avantu te dhiyaḥ //
+RV_8,003.02a bhūyāma te sumatau vājino vayam mā na star abhimātaye /
+RV_8,003.02c asmāñ citrābhir avatād abhiṣṭibhir ā naḥ sumneṣu yāmaya //
+RV_8,003.03a imā u tvā purūvaso giro vardhantu yā mama /
+RV_8,003.03c pāvakavarṇāḥ śucayo vipaścito 'bhi stomair anūṣata //
+RV_8,003.04a ayaṃ sahasram ṛṣibhiḥ sahaskṛtaḥ samudra iva paprathe /
+RV_8,003.04c satyaḥ so asya mahimā gṛṇe śavo yajñeṣu viprarājye //
+RV_8,003.05a indram id devatātaya indram prayaty adhvare /
+RV_8,003.05c indraṃ samīke vanino havāmaha indraṃ dhanasya sātaye //
+RV_8,003.06a indro mahnā rodasī paprathac chava indraḥ sūryam arocayat /
+RV_8,003.06c indre ha viśvā bhuvanāni yemira indre suvānāsa indavaḥ //
+RV_8,003.07a abhi tvā pūrvapītaya indra stomebhir āyavaḥ /
+RV_8,003.07c samīcīnāsa ṛbhavaḥ sam asvaran rudrā gṛṇanta pūrvyam //
+RV_8,003.08a asyed indro vāvṛdhe vṛṣṇyaṃ śavo made sutasya viṣṇavi /
+RV_8,003.08c adyā tam asya mahimānam āyavo 'nu ṣṭuvanti pūrvathā //
+RV_8,003.09a tat tvā yāmi suvīryaṃ tad brahma pūrvacittaye /
+RV_8,003.09c yenā yatibhyo bhṛgave dhane hite yena praskaṇvam āvitha //
+RV_8,003.10a yenā samudram asṛjo mahīr apas tad indra vṛṣṇi te śavaḥ /
+RV_8,003.10c sadyaḥ so asya mahimā na saṃnaśe yaṃ kṣoṇīr anucakrade //
+RV_8,003.11a śagdhī na indra yat tvā rayiṃ yāmi suvīryam /
+RV_8,003.11c śagdhi vājāya prathamaṃ siṣāsate śagdhi stomāya pūrvya //
+RV_8,003.12a śagdhī no asya yad dha pauram āvitha dhiya indra siṣāsataḥ /
+RV_8,003.12c śagdhi yathā ruśamaṃ śyāvakaṃ kṛpam indra prāvaḥ svarṇaram //
+RV_8,003.13a kan navyo atasīnāṃ turo gṛṇīta martyaḥ /
+RV_8,003.13c nahī nv asya mahimānam indriyaṃ svar gṛṇanta ānaśuḥ //
+RV_8,003.14a kad u stuvanta ṛtayanta devata ṛṣiḥ ko vipra ohate /
+RV_8,003.14c kadā havam maghavann indra sunvataḥ kad u stuvata ā gamaḥ //
+RV_8,003.15a ud u tye madhumattamā gira stomāsa īrate /
+RV_8,003.15c satrājito dhanasā akṣitotayo vājayanto rathā iva //
+RV_8,003.16a kaṇvā iva bhṛgavaḥ sūryā iva viśvam id dhītam ānaśuḥ /
+RV_8,003.16c indraṃ stomebhir mahayanta āyavaḥ priyamedhāso asvaran //
+RV_8,003.17a yukṣvā hi vṛtrahantama harī indra parāvataḥ /
+RV_8,003.17c arvācīno maghavan somapītaya ugra ṛṣvebhir ā gahi //
+RV_8,003.18a ime hi te kāravo vāvaśur dhiyā viprāso medhasātaye /
+RV_8,003.18c sa tvaṃ no maghavann indra girvaṇo veno na śṛṇudhī havam //
+RV_8,003.19a nir indra bṛhatībhyo vṛtraṃ dhanubhyo asphuraḥ /
+RV_8,003.19c nir arbudasya mṛgayasya māyino niḥ parvatasya gā ājaḥ //
+RV_8,003.20a nir agnayo rurucur nir u sūryo niḥ soma indriyo rasaḥ /
+RV_8,003.20c nir antarikṣād adhamo mahām ahiṃ kṛṣe tad indra pauṃsyam //
+RV_8,003.21a yam me dur indro marutaḥ pākasthāmā kaurayāṇaḥ /
+RV_8,003.21c viśveṣāṃ tmanā śobhiṣṭham upeva divi dhāvamānam //
+RV_8,003.22a rohitam me pākasthāmā sudhuraṃ kakṣyaprām /
+RV_8,003.22c adād rāyo vibodhanam //
+RV_8,003.23a yasmā anye daśa prati dhuraṃ vahanti vahnayaḥ /
+RV_8,003.23c astaṃ vayo na tugryam //
+RV_8,003.24a ātmā pitus tanūr vāsa ojodā abhyañjanam /
+RV_8,003.24c turīyam id rohitasya pākasthāmānam bhojaṃ dātāram abravam //
+RV_8,004.01a yad indra prāg apāg udaṅ nyag vā hūyase nṛbhiḥ /
+RV_8,004.01c simā purū nṛṣūto asy ānave 'si praśardha turvaśe //
+RV_8,004.02a yad vā rume ruśame śyāvake kṛpa indra mādayase sacā /
+RV_8,004.02c kaṇvāsas tvā brahmabhi stomavāhasa indrā yacchanty ā gahi //
+RV_8,004.03a yathā gauro apā kṛtaṃ tṛṣyann ety averiṇam /
+RV_8,004.03c āpitve naḥ prapitve tūyam ā gahi kaṇveṣu su sacā piba //
+RV_8,004.04a mandantu tvā maghavann indrendavo rādhodeyāya sunvate /
+RV_8,004.04c āmuṣyā somam apibaś camū sutaṃ jyeṣṭhaṃ tad dadhiṣe sahaḥ //
+RV_8,004.05a pra cakre sahasā saho babhañja manyum ojasā /
+RV_8,004.05c viśve ta indra pṛtanāyavo yaho ni vṛkṣā iva yemire //
+RV_8,004.06a sahasreṇeva sacate yavīyudhā yas ta ānaḷ upastutim /
+RV_8,004.06c putram prāvargaṃ kṛṇute suvīrye dāśnoti namauktibhiḥ //
+RV_8,004.07a mā bhema mā śramiṣmograsya sakhye tava /
+RV_8,004.07c mahat te vṛṣṇo abhicakṣyaṃ kṛtam paśyema turvaśaṃ yadum //
+RV_8,004.08a savyām anu sphigyaṃ vāvase vṛṣā na dāno asya roṣati /
+RV_8,004.08c madhvā sampṛktāḥ sāragheṇa dhenavas tūyam ehi dravā piba //
+RV_8,004.09a aśvī rathī surūpa id gomāṃ id indra te sakhā /
+RV_8,004.09c śvātrabhājā vayasā sacate sadā candro yāti sabhām upa //
+RV_8,004.10a ṛśyo na tṛṣyann avapānam ā gahi pibā somaṃ vaśāṃ anu /
+RV_8,004.10c nimeghamāno maghavan dive-diva ojiṣṭhaṃ dadhiṣe sahaḥ //
+RV_8,004.11a adhvaryo drāvayā tvaṃ somam indraḥ pipāsati /
+RV_8,004.11c upa nūnaṃ yuyuje vṛṣaṇā harī ā ca jagāma vṛtrahā //
+RV_8,004.12a svayaṃ cit sa manyate dāśurir jano yatrā somasya tṛmpasi /
+RV_8,004.12c idaṃ te annaṃ yujyaṃ samukṣitaṃ tasyehi pra dravā piba //
+RV_8,004.13a ratheṣṭhāyādhvaryavaḥ somam indrāya sotana /
+RV_8,004.13c adhi bradhnasyādrayo vi cakṣate sunvanto dāśvadhvaram //
+RV_8,004.14a upa bradhnaṃ vāvātā vṛṣaṇā harī indram apasu vakṣataḥ /
+RV_8,004.14c arvāñcaṃ tvā saptayo 'dhvaraśriyo vahantu savaned upa //
+RV_8,004.15a pra pūṣaṇaṃ vṛṇīmahe yujyāya purūvasum /
+RV_8,004.15c sa śakra śikṣa puruhūta no dhiyā tuje rāye vimocana //
+RV_8,004.16a saṃ naḥ śiśīhi bhurijor iva kṣuraṃ rāsva rāyo vimocana /
+RV_8,004.16c tve tan naḥ suvedam usriyaṃ vasu yaṃ tvaṃ hinoṣi martyam //
+RV_8,004.17a vemi tvā pūṣann ṛñjase vemi stotava āghṛṇe /
+RV_8,004.17c na tasya vemy araṇaṃ hi tad vaso stuṣe pajrāya sāmne //
+RV_8,004.18a parā gāvo yavasaṃ kac cid āghṛṇe nityaṃ rekṇo amartya /
+RV_8,004.18c asmākam pūṣann avitā śivo bhava maṃhiṣṭho vājasātaye //
+RV_8,004.19a sthūraṃ rādhaḥ śatāśvaṃ kuruṅgasya diviṣṭiṣu /
+RV_8,004.19c rājñas tveṣasya subhagasya rātiṣu turvaśeṣv amanmahi //
+RV_8,004.20a dhībhiḥ sātāni kāṇvasya vājinaḥ priyamedhair abhidyubhiḥ /
+RV_8,004.20c ṣaṣṭiṃ sahasrānu nirmajām aje nir yūthāni gavām ṛṣiḥ //
+RV_8,004.21a vṛkṣāś cin me abhipitve arāraṇuḥ /
+RV_8,004.21c gām bhajanta mehanāśvam bhajanta mehanā //
+RV_8,005.01a dūrād iheva yat saty aruṇapsur aśiśvitat /
+RV_8,005.01c vi bhānuṃ viśvadhātanat //
+RV_8,005.02a nṛvad dasrā manoyujā rathena pṛthupājasā /
+RV_8,005.02c sacethe aśvinoṣasam //
+RV_8,005.03a yuvābhyāṃ vājinīvasū prati stomā adṛkṣata /
+RV_8,005.03c vācaṃ dūto yathohiṣe //
+RV_8,005.04a purupriyā ṇa ūtaye purumandrā purūvasū /
+RV_8,005.04c stuṣe kaṇvāso aśvinā //
+RV_8,005.05a maṃhiṣṭhā vājasātameṣayantā śubhas patī /
+RV_8,005.05c gantārā dāśuṣo gṛham //
+RV_8,005.06a tā sudevāya dāśuṣe sumedhām avitāriṇīm /
+RV_8,005.06c ghṛtair gavyūtim ukṣatam //
+RV_8,005.07a ā na stomam upa dravat tūyaṃ śyenebhir āśubhiḥ /
+RV_8,005.07c yātam aśvebhir aśvinā //
+RV_8,005.08a yebhis tisraḥ parāvato divo viśvāni rocanā /
+RV_8,005.08c trīṃr aktūn paridīyathaḥ //
+RV_8,005.09a uta no gomatīr iṣa uta sātīr aharvidā /
+RV_8,005.09c vi pathaḥ sātaye sitam //
+RV_8,005.10a ā no gomantam aśvinā suvīraṃ surathaṃ rayim /
+RV_8,005.10c voḷham aśvāvatīr iṣaḥ //
+RV_8,005.11a vāvṛdhānā śubhas patī dasrā hiraṇyavartanī /
+RV_8,005.11c pibataṃ somyam madhu //
+RV_8,005.12a asmabhyaṃ vājinīvasū maghavadbhyaś ca saprathaḥ /
+RV_8,005.12c chardir yantam adābhyam //
+RV_8,005.13a ni ṣu brahma janānāṃ yāviṣṭaṃ tūyam ā gatam /
+RV_8,005.13c mo ṣv anyāṃ upāratam //
+RV_8,005.14a asya pibatam aśvinā yuvam madasya cāruṇaḥ /
+RV_8,005.14c madhvo rātasya dhiṣṇyā //
+RV_8,005.15a asme ā vahataṃ rayiṃ śatavantaṃ sahasriṇam /
+RV_8,005.15c purukṣuṃ viśvadhāyasam //
+RV_8,005.16a purutrā cid dhi vāṃ narā vihvayante manīṣiṇaḥ /
+RV_8,005.16c vāghadbhir aśvinā gatam //
+RV_8,005.17a janāso vṛktabarhiṣo haviṣmanto araṅkṛtaḥ /
+RV_8,005.17c yuvāṃ havante aśvinā //
+RV_8,005.18a asmākam adya vām ayaṃ stomo vāhiṣṭho antamaḥ /
+RV_8,005.18c yuvābhyām bhūtv aśvinā //
+RV_8,005.19a yo ha vām madhuno dṛtir āhito rathacarṣaṇe /
+RV_8,005.19c tataḥ pibatam aśvinā //
+RV_8,005.20a tena no vājinīvasū paśve tokāya śaṃ gave /
+RV_8,005.20c vahatam pīvarīr iṣaḥ //
+RV_8,005.21a uta no divyā iṣa uta sindhūṃr aharvidā /
+RV_8,005.21c apa dvāreva varṣathaḥ //
+RV_8,005.22a kadā vāṃ taugryo vidhat samudre jahito narā /
+RV_8,005.22c yad vāṃ ratho vibhiṣ patāt //
+RV_8,005.23a yuvaṃ kaṇvāya nāsatyā ṛpiriptāya harmye /
+RV_8,005.23c śaśvad ūtīr daśasyathaḥ //
+RV_8,005.24a tābhir ā yātam ūtibhir navyasībhiḥ suśastibhiḥ /
+RV_8,005.24c yad vāṃ vṛṣaṇvasū huve //
+RV_8,005.25a yathā cit kaṇvam āvatam priyamedham upastutam /
+RV_8,005.25c atriṃ śiñjāram aśvinā //
+RV_8,005.26a yathota kṛtvye dhane 'ṃśuṃ goṣv agastyam /
+RV_8,005.26c yathā vājeṣu sobharim //
+RV_8,005.27a etāvad vāṃ vṛṣaṇvasū ato vā bhūyo aśvinā /
+RV_8,005.27c gṛṇantaḥ sumnam īmahe //
+RV_8,005.28a rathaṃ hiraṇyavandhuraṃ hiraṇyābhīśum aśvinā /
+RV_8,005.28c ā hi sthātho divispṛśam //
+RV_8,005.29a hiraṇyayī vāṃ rabhir īṣā akṣo hiraṇyayaḥ /
+RV_8,005.29c ubhā cakrā hiraṇyayā //
+RV_8,005.30a tena no vājinīvasū parāvataś cid ā gatam /
+RV_8,005.30c upemāṃ suṣṭutim mama //
+RV_8,005.31a ā vahethe parākāt pūrvīr aśnantāv aśvinā /
+RV_8,005.31c iṣo dāsīr amartyā //
+RV_8,005.32a ā no dyumnair ā śravobhir ā rāyā yātam aśvinā /
+RV_8,005.32c puruścandrā nāsatyā //
+RV_8,005.33a eha vām pruṣitapsavo vayo vahantu parṇinaḥ /
+RV_8,005.33c acchā svadhvaraṃ janam //
+RV_8,005.34a rathaṃ vām anugāyasaṃ ya iṣā vartate saha /
+RV_8,005.34c na cakram abhi bādhate //
+RV_8,005.35a hiraṇyayena rathena dravatpāṇibhir aśvaiḥ /
+RV_8,005.35c dhījavanā nāsatyā //
+RV_8,005.36a yuvam mṛgaṃ jāgṛvāṃsaṃ svadatho vā vṛṣaṇvasū /
+RV_8,005.36c tā naḥ pṛṅktam iṣā rayim //
+RV_8,005.37a tā me aśvinā sanīnāṃ vidyātaṃ navānām /
+RV_8,005.37c yathā cic caidyaḥ kaśuḥ śatam uṣṭrānāṃ dadat sahasrā daśa gonām //
+RV_8,005.38a yo me hiraṇyasaṃdṛśo daśa rājño amaṃhata /
+RV_8,005.38c adhaspadā ic caidyasya kṛṣṭayaś carmamnā abhito janāḥ //
+RV_8,005.39a mākir enā pathā gād yeneme yanti cedayaḥ /
+RV_8,005.39c anyo net sūrir ohate bhūridāvattaro janaḥ //
+RV_8,006.01a mahāṃ indro ya ojasā parjanyo vṛṣṭimāṃ iva /
+RV_8,006.01c stomair vatsasya vāvṛdhe //
+RV_8,006.02a prajām ṛtasya piprataḥ pra yad bharanta vahnayaḥ /
+RV_8,006.02c viprā ṛtasya vāhasā //
+RV_8,006.03a kaṇvā indraṃ yad akrata stomair yajñasya sādhanam /
+RV_8,006.03c jāmi bruvata āyudham //
+RV_8,006.04a sam asya manyave viśo viśvā namanta kṛṣṭayaḥ /
+RV_8,006.04c samudrāyeva sindhavaḥ //
+RV_8,006.05a ojas tad asya titviṣa ubhe yat samavartayat /
+RV_8,006.05c indraś carmeva rodasī //
+RV_8,006.06a vi cid vṛtrasya dodhato vajreṇa śataparvaṇā /
+RV_8,006.06c śiro bibheda vṛṣṇinā //
+RV_8,006.07a imā abhi pra ṇonumo vipām agreṣu dhītayaḥ /
+RV_8,006.07c agneḥ śocir na didyutaḥ //
+RV_8,006.08a guhā satīr upa tmanā pra yac chocanta dhītayaḥ /
+RV_8,006.08c kaṇvā ṛtasya dhārayā //
+RV_8,006.09a pra tam indra naśīmahi rayiṃ gomantam aśvinam /
+RV_8,006.09c pra brahma pūrvacittaye //
+RV_8,006.10a aham id dhi pituṣ pari medhām ṛtasya jagrabha /
+RV_8,006.10c ahaṃ sūrya ivājani //
+RV_8,006.11a aham pratnena manmanā giraḥ śumbhāmi kaṇvavat /
+RV_8,006.11c yenendraḥ śuṣmam id dadhe //
+RV_8,006.12a ye tvām indra na tuṣṭuvur ṛṣayo ye ca tuṣṭuvuḥ /
+RV_8,006.12c mamed vardhasva suṣṭutaḥ //
+RV_8,006.13a yad asya manyur adhvanīd vi vṛtram parvaśo rujan /
+RV_8,006.13c apaḥ samudram airayat //
+RV_8,006.14a ni śuṣṇa indra dharṇasiṃ vajraṃ jaghantha dasyavi /
+RV_8,006.14c vṛṣā hy ugra śṛṇviṣe //
+RV_8,006.15a na dyāva indram ojasā nāntarikṣāṇi vajriṇam /
+RV_8,006.15c na vivyacanta bhūmayaḥ //
+RV_8,006.16a yas ta indra mahīr apa stabhūyamāna āśayat /
+RV_8,006.16c ni tam padyāsu śiśnathaḥ //
+RV_8,006.17a ya ime rodasī mahī samīcī samajagrabhīt /
+RV_8,006.17c tamobhir indra taṃ guhaḥ //
+RV_8,006.18a ya indra yatayas tvā bhṛgavo ye ca tuṣṭuvuḥ /
+RV_8,006.18c mamed ugra śrudhī havam //
+RV_8,006.19a imās ta indra pṛśnayo ghṛtaṃ duhata āśiram /
+RV_8,006.19c enām ṛtasya pipyuṣīḥ //
+RV_8,006.20a yā indra prasvas tvāsā garbham acakriran /
+RV_8,006.20c pari dharmeva sūryam //
+RV_8,006.21a tvām ic chavasas pate kaṇvā ukthena vāvṛdhuḥ /
+RV_8,006.21c tvāṃ sutāsa indavaḥ //
+RV_8,006.22a taved indra praṇītiṣūta praśastir adrivaḥ /
+RV_8,006.22c yajño vitantasāyyaḥ //
+RV_8,006.23a ā na indra mahīm iṣam puraṃ na darṣi gomatīm /
+RV_8,006.23c uta prajāṃ suvīryam //
+RV_8,006.24a uta tyad āśvaśvyaṃ yad indra nāhuṣīṣv ā /
+RV_8,006.24c agre vikṣu pradīdayat //
+RV_8,006.25a abhi vrajaṃ na tatniṣe sūra upākacakṣasam /
+RV_8,006.25c yad indra mṛḷayāsi naḥ //
+RV_8,006.26a yad aṅga taviṣīyasa indra prarājasi kṣitīḥ /
+RV_8,006.26c mahāṃ apāra ojasā //
+RV_8,006.27a taṃ tvā haviṣmatīr viśa upa bruvata ūtaye /
+RV_8,006.27c urujrayasam indubhiḥ //
+RV_8,006.28a upahvare girīṇāṃ saṃgathe ca nadīnām /
+RV_8,006.28c dhiyā vipro ajāyata //
+RV_8,006.29a ataḥ samudram udvataś cikitvāṃ ava paśyati /
+RV_8,006.29c yato vipāna ejati //
+RV_8,006.30a ād it pratnasya retaso jyotiṣ paśyanti vāsaram /
+RV_8,006.30c paro yad idhyate divā //
+RV_8,006.31a kaṇvāsa indra te matiṃ viśve vardhanti pauṃsyam /
+RV_8,006.31c uto śaviṣṭha vṛṣṇyam //
+RV_8,006.32a imām ma indra suṣṭutiṃ juṣasva pra su mām ava /
+RV_8,006.32c uta pra vardhayā matim //
+RV_8,006.33a uta brahmaṇyā vayaṃ tubhyam pravṛddha vajrivaḥ /
+RV_8,006.33c viprā atakṣma jīvase //
+RV_8,006.34a abhi kaṇvā anūṣatāpo na pravatā yatīḥ /
+RV_8,006.34c indraṃ vananvatī matiḥ //
+RV_8,006.35a indram ukthāni vāvṛdhuḥ samudram iva sindhavaḥ /
+RV_8,006.35c anuttamanyum ajaram //
+RV_8,006.36a ā no yāhi parāvato haribhyāṃ haryatābhyām /
+RV_8,006.36c imam indra sutam piba //
+RV_8,006.37a tvām id vṛtrahantama janāso vṛktabarhiṣaḥ /
+RV_8,006.37c havante vājasātaye //
+RV_8,006.38a anu tvā rodasī ubhe cakraṃ na varty etaśam /
+RV_8,006.38c anu suvānāsa indavaḥ //
+RV_8,006.39a mandasvā su svarṇara utendra śaryaṇāvati /
+RV_8,006.39c matsvā vivasvato matī //
+RV_8,006.40a vāvṛdhāna upa dyavi vṛṣā vajry aroravīt /
+RV_8,006.40c vṛtrahā somapātamaḥ //
+RV_8,006.41a ṛṣir hi pūrvajā asy eka īśāna ojasā /
+RV_8,006.41c indra coṣkūyase vasu //
+RV_8,006.42a asmākaṃ tvā sutāṃ upa vītapṛṣṭhā abhi prayaḥ /
+RV_8,006.42c śataṃ vahantu harayaḥ //
+RV_8,006.43a imāṃ su pūrvyāṃ dhiyam madhor ghṛtasya pipyuṣīm /
+RV_8,006.43c kaṇvā ukthena vāvṛdhuḥ //
+RV_8,006.44a indram id vimahīnām medhe vṛṇīta martyaḥ /
+RV_8,006.44c indraṃ saniṣyur ūtaye //
+RV_8,006.45a arvāñcaṃ tvā puruṣṭuta priyamedhastutā harī /
+RV_8,006.45c somapeyāya vakṣataḥ //
+RV_8,006.46a śatam ahaṃ tirindire sahasram parśāv ā dade /
+RV_8,006.46c rādhāṃsi yādvānām //
+RV_8,006.47a trīṇi śatāny arvatāṃ sahasrā daśa gonām /
+RV_8,006.47c daduṣ pajrāya sāmne //
+RV_8,006.48a ud ānaṭ kakuho divam uṣṭrāñ caturyujo dadat /
+RV_8,006.48c śravasā yādvaṃ janam //
+RV_8,007.01a pra yad vas triṣṭubham iṣam maruto vipro akṣarat /
+RV_8,007.01c vi parvateṣu rājatha //
+RV_8,007.02a yad aṅga taviṣīyavo yāmaṃ śubhrā acidhvam /
+RV_8,007.02c ni parvatā ahāsata //
+RV_8,007.03a ud īrayanta vāyubhir vāśrāsaḥ pṛśnimātaraḥ /
+RV_8,007.03c dhukṣanta pipyuṣīm iṣam //
+RV_8,007.04a vapanti maruto miham pra vepayanti parvatān /
+RV_8,007.04c yad yāmaṃ yānti vāyubhiḥ //
+RV_8,007.05a ni yad yāmāya vo girir ni sindhavo vidharmaṇe /
+RV_8,007.05c mahe śuṣmāya yemire //
+RV_8,007.06a yuṣmāṃ u naktam ūtaye yuṣmān divā havāmahe /
+RV_8,007.06c yuṣmān prayaty adhvare //
+RV_8,007.07a ud u tye aruṇapsavaś citrā yāmebhir īrate /
+RV_8,007.07c vāśrā adhi ṣṇunā divaḥ //
+RV_8,007.08a sṛjanti raśmim ojasā panthāṃ sūryāya yātave /
+RV_8,007.08c te bhānubhir vi tasthire //
+RV_8,007.09a imām me maruto giram imaṃ stomam ṛbhukṣaṇaḥ /
+RV_8,007.09c imam me vanatā havam //
+RV_8,007.10a trīṇi sarāṃsi pṛśnayo duduhre vajriṇe madhu /
+RV_8,007.10c utsaṃ kavandham udriṇam //
+RV_8,007.11a maruto yad dha vo divaḥ sumnāyanto havāmahe /
+RV_8,007.11c ā tū na upa gantana //
+RV_8,007.12a yūyaṃ hi ṣṭhā sudānavo rudrā ṛbhukṣaṇo dame /
+RV_8,007.12c uta pracetaso made //
+RV_8,007.13a ā no rayim madacyutam purukṣuṃ viśvadhāyasam /
+RV_8,007.13c iyartā maruto divaḥ //
+RV_8,007.14a adhīva yad girīṇāṃ yāmaṃ śubhrā acidhvam /
+RV_8,007.14c suvānair mandadhva indubhiḥ //
+RV_8,007.15a etāvataś cid eṣāṃ sumnam bhikṣeta martyaḥ /
+RV_8,007.15c adābhyasya manmabhiḥ //
+RV_8,007.16a ye drapsā iva rodasī dhamanty anu vṛṣṭibhiḥ /
+RV_8,007.16c utsaṃ duhanto akṣitam //
+RV_8,007.17a ud u svānebhir īrata ud rathair ud u vāyubhiḥ /
+RV_8,007.17c ut stomaiḥ pṛśnimātaraḥ //
+RV_8,007.18a yenāva turvaśaṃ yaduṃ yena kaṇvaṃ dhanaspṛtam /
+RV_8,007.18c rāye su tasya dhīmahi //
+RV_8,007.19a imā u vaḥ sudānavo ghṛtaṃ na pipyuṣīr iṣaḥ /
+RV_8,007.19c vardhān kāṇvasya manmabhiḥ //
+RV_8,007.20a kva nūnaṃ sudānavo madathā vṛktabarhiṣaḥ /
+RV_8,007.20c brahmā ko vaḥ saparyati //
+RV_8,007.21a nahi ṣma yad dha vaḥ purā stomebhir vṛktabarhiṣaḥ /
+RV_8,007.21c śardhāṃ ṛtasya jinvatha //
+RV_8,007.22a sam u tye mahatīr apaḥ saṃ kṣoṇī sam u sūryam /
+RV_8,007.22c saṃ vajram parvaśo dadhuḥ //
+RV_8,007.23a vi vṛtram parvaśo yayur vi parvatāṃ arājinaḥ /
+RV_8,007.23c cakrāṇā vṛṣṇi pauṃsyam //
+RV_8,007.24a anu tritasya yudhyataḥ śuṣmam āvann uta kratum /
+RV_8,007.24c anv indraṃ vṛtratūrye //
+RV_8,007.25a vidyuddhastā abhidyavaḥ śiprāḥ śīrṣan hiraṇyayīḥ /
+RV_8,007.25c śubhrā vy añjata śriye //
+RV_8,007.26a uśanā yat parāvata ukṣṇo randhram ayātana /
+RV_8,007.26c dyaur na cakradad bhiyā //
+RV_8,007.27a ā no makhasya dāvane 'śvair hiraṇyapāṇibhiḥ /
+RV_8,007.27c devāsa upa gantana //
+RV_8,007.28a yad eṣām pṛṣatī rathe praṣṭir vahati rohitaḥ /
+RV_8,007.28c yānti śubhrā riṇann apaḥ //
+RV_8,007.29a suṣome śaryaṇāvaty ārjīke pastyāvati /
+RV_8,007.29c yayur nicakrayā naraḥ //
+RV_8,007.30a kadā gacchātha maruta itthā vipraṃ havamānam /
+RV_8,007.30c mārḍīkebhir nādhamānam //
+RV_8,007.31a kad dha nūnaṃ kadhapriyo yad indram ajahātana /
+RV_8,007.31c ko vaḥ sakhitva ohate //
+RV_8,007.32a saho ṣu ṇo vajrahastaiḥ kaṇvāso agnim marudbhiḥ /
+RV_8,007.32c stuṣe hiraṇyavāśībhiḥ //
+RV_8,007.33a o ṣu vṛṣṇaḥ prayajyūn ā navyase suvitāya /
+RV_8,007.33c vavṛtyāṃ citravājān //
+RV_8,007.34a girayaś cin ni jihate parśānāso manyamānāḥ /
+RV_8,007.34c parvatāś cin ni yemire //
+RV_8,007.35a ākṣṇayāvāno vahanty antarikṣeṇa patataḥ /
+RV_8,007.35c dhātāra stuvate vayaḥ //
+RV_8,007.36a agnir hi jāni pūrvyaś chando na sūro arciṣā /
+RV_8,007.36c te bhānubhir vi tasthire //
+RV_8,008.01a ā no viśvābhir ūtibhir aśvinā gacchataṃ yuvam /
+RV_8,008.01c dasrā hiraṇyavartanī pibataṃ somyam madhu //
+RV_8,008.02a ā nūnaṃ yātam aśvinā rathena sūryatvacā /
+RV_8,008.02c bhujī hiraṇyapeśasā kavī gambhīracetasā //
+RV_8,008.03a ā yātaṃ nahuṣas pary āntarikṣāt suvṛktibhiḥ /
+RV_8,008.03c pibātho aśvinā madhu kaṇvānāṃ savane sutam //
+RV_8,008.04a ā no yātaṃ divas pary āntarikṣād adhapriyā /
+RV_8,008.04c putraḥ kaṇvasya vām iha suṣāva somyam madhu //
+RV_8,008.05a ā no yātam upaśruty aśvinā somapītaye /
+RV_8,008.05c svāhā stomasya vardhanā pra kavī dhītibhir narā //
+RV_8,008.06a yac cid dhi vām pura ṛṣayo juhūre 'vase narā /
+RV_8,008.06c ā yātam aśvinā gatam upemāṃ suṣṭutim mama //
+RV_8,008.07a divaś cid rocanād adhy ā no gantaṃ svarvidā /
+RV_8,008.07c dhībhir vatsapracetasā stomebhir havanaśrutā //
+RV_8,008.08a kim anye pary āsate 'smat stomebhir aśvinā /
+RV_8,008.08c putraḥ kaṇvasya vām ṛṣir gīrbhir vatso avīvṛdhat //
+RV_8,008.09a ā vāṃ vipra ihāvase 'hvat stomebhir aśvinā /
+RV_8,008.09c ariprā vṛtrahantamā tā no bhūtam mayobhuvā //
+RV_8,008.10a ā yad vāṃ yoṣaṇā ratham atiṣṭhad vājinīvasū /
+RV_8,008.10c viśvāny aśvinā yuvam pra dhītāny agacchatam //
+RV_8,008.11a ataḥ sahasranirṇijā rathenā yātam aśvinā /
+RV_8,008.11c vatso vām madhumad vaco 'śaṃsīt kāvyaḥ kaviḥ //
+RV_8,008.12a purumandrā purūvasū manotarā rayīṇām /
+RV_8,008.12c stomam me aśvināv imam abhi vahnī anūṣātām //
+RV_8,008.13a ā no viśvāny aśvinā dhattaṃ rādhāṃsy ahrayā /
+RV_8,008.13c kṛtaṃ na ṛtviyāvato mā no rīradhataṃ nide //
+RV_8,008.14a yan nāsatyā parāvati yad vā stho adhy ambare /
+RV_8,008.14c ataḥ sahasranirṇijā rathenā yātam aśvinā //
+RV_8,008.15a yo vāṃ nāsatyāv ṛṣir gīrbhir vatso avīvṛdhat /
+RV_8,008.15c tasmai sahasranirṇijam iṣaṃ dhattaṃ ghṛtaścutam //
+RV_8,008.16a prāsmā ūrjaṃ ghṛtaścutam aśvinā yacchataṃ yuvam /
+RV_8,008.16c yo vāṃ sumnāya tuṣṭavad vasūyād dānunas patī //
+RV_8,008.17a ā no gantaṃ riśādasemaṃ stomam purubhujā /
+RV_8,008.17c kṛtaṃ naḥ suśriyo naremā dātam abhiṣṭaye //
+RV_8,008.18a ā vāṃ viśvābhir ūtibhiḥ priyamedhā ahūṣata /
+RV_8,008.18c rājantāv adhvarāṇām aśvinā yāmahūtiṣu //
+RV_8,008.19a ā no gantam mayobhuvāśvinā śambhuvā yuvam /
+RV_8,008.19c yo vāṃ vipanyū dhītibhir gīrbhir vatso avīvṛdhat //
+RV_8,008.20a yābhiḥ kaṇvam medhātithiṃ yābhir vaśaṃ daśavrajam /
+RV_8,008.20c yābhir gośaryam āvataṃ tābhir no 'vataṃ narā //
+RV_8,008.21a yābhir narā trasadasyum āvataṃ kṛtvye dhane /
+RV_8,008.21c tābhiḥ ṣv asmāṃ aśvinā prāvataṃ vājasātaye //
+RV_8,008.22a pra vāṃ stomāḥ suvṛktayo giro vardhantv aśvinā /
+RV_8,008.22c purutrā vṛtrahantamā tā no bhūtam puruspṛhā //
+RV_8,008.23a trīṇi padāny aśvinor āviḥ sānti guhā paraḥ /
+RV_8,008.23c kavī ṛtasya patmabhir arvāg jīvebhyas pari //
+RV_8,009.01a ā nūnam aśvinā yuvaṃ vatsasya gantam avase /
+RV_8,009.01c prāsmai yacchatam avṛkam pṛthu cchardir yuyutaṃ yā arātayaḥ //
+RV_8,009.02a yad antarikṣe yad divi yat pañca mānuṣāṃ anu /
+RV_8,009.02c nṛmṇaṃ tad dhattam aśvinā //
+RV_8,009.03a ye vāṃ daṃsāṃsy aśvinā viprāsaḥ parimāmṛśuḥ /
+RV_8,009.03c evet kāṇvasya bodhatam //
+RV_8,009.04a ayaṃ vāṃ gharmo aśvinā stomena pari ṣicyate /
+RV_8,009.04c ayaṃ somo madhumān vājinīvasū yena vṛtraṃ ciketathaḥ //
+RV_8,009.05a yad apsu yad vanaspatau yad oṣadhīṣu purudaṃsasā kṛtam /
+RV_8,009.05c tena māviṣṭam aśvinā //
+RV_8,009.06a yan nāsatyā bhuraṇyatho yad vā deva bhiṣajyathaḥ /
+RV_8,009.06c ayaṃ vāṃ vatso matibhir na vindhate haviṣmantaṃ hi gacchathaḥ //
+RV_8,009.07a ā nūnam aśvinor ṛṣi stomaṃ ciketa vāmayā /
+RV_8,009.07c ā somam madhumattamaṃ gharmaṃ siñcād atharvaṇi //
+RV_8,009.08a ā nūnaṃ raghuvartaniṃ rathaṃ tiṣṭhātho aśvinā /
+RV_8,009.08c ā vāṃ stomā ime mama nabho na cucyavīrata //
+RV_8,009.09a yad adya vāṃ nāsatyokthair ācucyuvīmahi /
+RV_8,009.09c yad vā vāṇībhir aśvinevet kāṇvasya bodhatam //
+RV_8,009.10a yad vāṃ kakṣīvāṃ uta yad vyaśva ṛṣir yad vāṃ dīrghatamā juhāva /
+RV_8,009.10c pṛthī yad vāṃ vainyaḥ sādaneṣv eved ato aśvinā cetayethām //
+RV_8,009.11a yātaṃ chardiṣpā uta naḥ paraspā bhūtaṃ jagatpā uta nas tanūpā /
+RV_8,009.11c vartis tokāya tanayāya yātam //
+RV_8,009.12a yad indreṇa sarathaṃ yātho aśvinā yad vā vāyunā bhavathaḥ samokasā /
+RV_8,009.12c yad ādityebhir ṛbhubhiḥ sajoṣasā yad vā viṣṇor vikramaṇeṣu tiṣṭhathaḥ //
+RV_8,009.13a yad adyāśvināv ahaṃ huveya vājasātaye /
+RV_8,009.13c yat pṛtsu turvaṇe sahas tac chreṣṭham aśvinor avaḥ //
+RV_8,009.14a ā nūnaṃ yātam aśvinemā havyāni vāṃ hitā /
+RV_8,009.14c ime somāso adhi turvaśe yadāv ime kaṇveṣu vām atha //
+RV_8,009.15a yan nāsatyā parāke arvāke asti bheṣajam /
+RV_8,009.15c tena nūnaṃ vimadāya pracetasā chardir vatsāya yacchatam //
+RV_8,009.16a abhutsy u pra devyā sākaṃ vācāham aśvinoḥ /
+RV_8,009.16c vy āvar devy ā matiṃ vi rātim martyebhyaḥ //
+RV_8,009.17a pra bodhayoṣo aśvinā pra devi sūnṛte mahi /
+RV_8,009.17c pra yajñahotar ānuṣak pra madāya śravo bṛhat //
+RV_8,009.18a yad uṣo yāsi bhānunā saṃ sūryeṇa rocase /
+RV_8,009.18c ā hāyam aśvino ratho vartir yāti nṛpāyyam //
+RV_8,009.19a yad āpītāso aṃśavo gāvo na duhra ūdhabhiḥ /
+RV_8,009.19c yad vā vāṇīr anūṣata pra devayanto aśvinā //
+RV_8,009.20a pra dyumnāya pra śavase pra nṛṣāhyāya śarmaṇe /
+RV_8,009.20c pra dakṣāya pracetasā //
+RV_8,009.21a yan nūnaṃ dhībhir aśvinā pitur yonā niṣīdathaḥ /
+RV_8,009.21c yad vā sumnebhir ukthyā //
+RV_8,010.01a yat stho dīrghaprasadmani yad vādo rocane divaḥ /
+RV_8,010.01c yad vā samudre adhy ākṛte gṛhe 'ta ā yātam aśvinā //
+RV_8,010.02a yad vā yajñam manave sammimikṣathur evet kāṇvasya bodhatam /
+RV_8,010.02c bṛhaspatiṃ viśvān devāṃ ahaṃ huva indrāviṣṇū aśvināv āśuheṣasā //
+RV_8,010.03a tyā nv aśvinā huve sudaṃsasā gṛbhe kṛtā /
+RV_8,010.03c yayor asti pra ṇaḥ sakhyaṃ deveṣv adhy āpyam //
+RV_8,010.04a yayor adhi pra yajñā asūre santi sūrayaḥ /
+RV_8,010.04c tā yajñasyādhvarasya pracetasā svadhābhir yā pibataḥ somyam madhu //
+RV_8,010.05a yad adyāśvināv apāg yat prāk stho vājinīvasū /
+RV_8,010.05c yad druhyavy anavi turvaśe yadau huve vām atha mā gatam //
+RV_8,010.06a yad antarikṣe patathaḥ purubhujā yad veme rodasī anu /
+RV_8,010.06c yad vā svadhābhir adhitiṣṭhatho ratham ata ā yātam aśvinā //
+RV_8,011.01a tvam agne vratapā asi deva ā martyeṣv ā /
+RV_8,011.01c tvaṃ yajñeṣv īḍyaḥ //
+RV_8,011.02a tvam asi praśasyo vidatheṣu sahantya /
+RV_8,011.02c agne rathīr adhvarāṇām //
+RV_8,011.03a sa tvam asmad apa dviṣo yuyodhi jātavedaḥ /
+RV_8,011.03c adevīr agne arātīḥ //
+RV_8,011.04a anti cit santam aha yajñam martasya ripoḥ /
+RV_8,011.04c nopa veṣi jātavedaḥ //
+RV_8,011.05a martā amartyasya te bhūri nāma manāmahe /
+RV_8,011.05c viprāso jātavedasaḥ //
+RV_8,011.06a vipraṃ viprāso 'vase devam martāsa ūtaye /
+RV_8,011.06c agniṃ gīrbhir havāmahe //
+RV_8,011.07a ā te vatso mano yamat paramāc cit sadhasthāt /
+RV_8,011.07c agne tvāṅkāmayā girā //
+RV_8,011.08a purutrā hi sadṛṅṅ asi viśo viśvā anu prabhuḥ /
+RV_8,011.08c samatsu tvā havāmahe //
+RV_8,011.09a samatsv agnim avase vājayanto havāmahe /
+RV_8,011.09c vājeṣu citrarādhasam //
+RV_8,011.10a pratno hi kam īḍyo adhvareṣu sanāc ca hotā navyaś ca satsi /
+RV_8,011.10c svāṃ cāgne tanvam piprayasvāsmabhyaṃ ca saubhagam ā yajasva //
+RV_8,012.01a ya indra somapātamo madaḥ śaviṣṭha cetati /
+RV_8,012.01c yenā haṃsi ny atriṇaṃ tam īmahe //
+RV_8,012.02a yenā daśagvam adhriguṃ vepayantaṃ svarṇaram /
+RV_8,012.02c yenā samudram āvithā tam īmahe //
+RV_8,012.03a yena sindhum mahīr apo rathāṃ iva pracodayaḥ /
+RV_8,012.03c panthām ṛtasya yātave tam īmahe //
+RV_8,012.04a imaṃ stomam abhiṣṭaye ghṛtaṃ na pūtam adrivaḥ /
+RV_8,012.04c yenā nu sadya ojasā vavakṣitha //
+RV_8,012.05a imaṃ juṣasva girvaṇaḥ samudra iva pinvate /
+RV_8,012.05c indra viśvābhir ūtibhir vavakṣitha //
+RV_8,012.06a yo no devaḥ parāvataḥ sakhitvanāya māmahe /
+RV_8,012.06c divo na vṛṣṭim prathayan vavakṣitha //
+RV_8,012.07a vavakṣur asya ketavo uta vajro gabhastyoḥ /
+RV_8,012.07c yat sūryo na rodasī avardhayat //
+RV_8,012.08a yadi pravṛddha satpate sahasram mahiṣāṃ aghaḥ /
+RV_8,012.08c ād it ta indriyam mahi pra vāvṛdhe //
+RV_8,012.09a indraḥ sūryasya raśmibhir ny arśasānam oṣati /
+RV_8,012.09c agnir vaneva sāsahiḥ pra vāvṛdhe //
+RV_8,012.10a iyaṃ ta ṛtviyāvatī dhītir eti navīyasī /
+RV_8,012.10c saparyantī purupriyā mimīta it //
+RV_8,012.11a garbho yajñasya devayuḥ kratum punīta ānuṣak /
+RV_8,012.11c stomair indrasya vāvṛdhe mimīta it //
+RV_8,012.12a sanir mitrasya papratha indraḥ somasya pītaye /
+RV_8,012.12c prācī vāśīva sunvate mimīta it //
+RV_8,012.13a yaṃ viprā ukthavāhaso 'bhipramandur āyavaḥ /
+RV_8,012.13c ghṛtaṃ na pipya āsany ṛtasya yat //
+RV_8,012.14a uta svarāje aditi stomam indrāya jījanat /
+RV_8,012.14c purupraśastam ūtaya ṛtasya yat //
+RV_8,012.15a abhi vahnaya ūtaye 'nūṣata praśastaye /
+RV_8,012.15c na deva vivratā harī ṛtasya yat //
+RV_8,012.16a yat somam indra viṣṇavi yad vā gha trita āptye /
+RV_8,012.16c yad vā marutsu mandase sam indubhiḥ //
+RV_8,012.17a yad vā śakra parāvati samudre adhi mandase /
+RV_8,012.17c asmākam it sute raṇā sam indubhiḥ //
+RV_8,012.18a yad vāsi sunvato vṛdho yajamānasya satpate /
+RV_8,012.18c ukthe vā yasya raṇyasi sam indubhiḥ //
+RV_8,012.19a devaṃ-devaṃ vo 'vasa indram-indraṃ gṛṇīṣaṇi /
+RV_8,012.19c adhā yajñāya turvaṇe vy ānaśuḥ //
+RV_8,012.20a yajñebhir yajñavāhasaṃ somebhiḥ somapātamam /
+RV_8,012.20c hotrābhir indraṃ vāvṛdhur vy ānaśuḥ //
+RV_8,012.21a mahīr asya praṇītayaḥ pūrvīr uta praśastayaḥ /
+RV_8,012.21c viśvā vasūni dāśuṣe vy ānaśuḥ //
+RV_8,012.22a indraṃ vṛtrāya hantave devāso dadhire puraḥ /
+RV_8,012.22c indraṃ vāṇīr anūṣatā sam ojase //
+RV_8,012.23a mahāntam mahinā vayaṃ stomebhir havanaśrutam /
+RV_8,012.23c arkair abhi pra ṇonumaḥ sam ojase //
+RV_8,012.24a na yaṃ vivikto rodasī nāntarikṣāṇi vajriṇam /
+RV_8,012.24c amād id asya titviṣe sam ojasaḥ //
+RV_8,012.25a yad indra pṛtanājye devās tvā dadhire puraḥ /
+RV_8,012.25c ād it te haryatā harī vavakṣatuḥ //
+RV_8,012.26a yadā vṛtraṃ nadīvṛtaṃ śavasā vajrinn avadhīḥ /
+RV_8,012.26c ād it te haryatā harī vavakṣatuḥ //
+RV_8,012.27a yadā te viṣṇur ojasā trīṇi padā vicakrame /
+RV_8,012.27c ād it te haryatā harī vavakṣatuḥ //
+RV_8,012.28a yadā te haryatā harī vāvṛdhāte dive-dive /
+RV_8,012.28c ād it te viśvā bhuvanāni yemire //
+RV_8,012.29a yadā te mārutīr viśas tubhyam indra niyemire /
+RV_8,012.29c ād it te viśvā bhuvanāni yemire //
+RV_8,012.30a yadā sūryam amuṃ divi śukraṃ jyotir adhārayaḥ /
+RV_8,012.30c ād it te viśvā bhuvanāni yemire //
+RV_8,012.31a imāṃ ta indra suṣṭutiṃ vipra iyarti dhītibhiḥ /
+RV_8,012.31c jāmim padeva pipratīm prādhvare //
+RV_8,012.32a yad asya dhāmani priye samīcīnāso asvaran /
+RV_8,012.32c nābhā yajñasya dohanā prādhvare //
+RV_8,012.33a suvīryaṃ svaśvyaṃ sugavyam indra daddhi naḥ /
+RV_8,012.33c hoteva pūrvacittaye prādhvare //
+RV_8,013.01a indraḥ suteṣu someṣu kratum punīta ukthyam /
+RV_8,013.01c vide vṛdhasya dakṣaso mahān hi ṣaḥ //
+RV_8,013.02a sa prathame vyomani devānāṃ sadane vṛdhaḥ /
+RV_8,013.02c supāraḥ suśravastamaḥ sam apsujit //
+RV_8,013.03a tam ahve vājasātaya indram bharāya śuṣmiṇam /
+RV_8,013.03c bhavā naḥ sumne antamaḥ sakhā vṛdhe //
+RV_8,013.04a iyaṃ ta indra girvaṇo rātiḥ kṣarati sunvataḥ /
+RV_8,013.04c mandāno asya barhiṣo vi rājasi //
+RV_8,013.05a nūnaṃ tad indra daddhi no yat tvā sunvanta īmahe /
+RV_8,013.05c rayiṃ naś citram ā bharā svarvidam //
+RV_8,013.06a stotā yat te vicarṣaṇir atipraśardhayad giraḥ /
+RV_8,013.06c vayā ivānu rohate juṣanta yat //
+RV_8,013.07a pratnavaj janayā giraḥ śṛṇudhī jaritur havam /
+RV_8,013.07c made-made vavakṣithā sukṛtvane //
+RV_8,013.08a krīḷanty asya sūnṛtā āpo na pravatā yatīḥ /
+RV_8,013.08c ayā dhiyā ya ucyate patir divaḥ //
+RV_8,013.09a uto patir ya ucyate kṛṣṭīnām eka id vaśī /
+RV_8,013.09c namovṛdhair avasyubhiḥ sute raṇa //
+RV_8,013.10a stuhi śrutaṃ vipaścitaṃ harī yasya prasakṣiṇā /
+RV_8,013.10c gantārā dāśuṣo gṛhaṃ namasvinaḥ //
+RV_8,013.11a tūtujāno mahemate 'śvebhiḥ pruṣitapsubhiḥ /
+RV_8,013.11c ā yāhi yajñam āśubhiḥ śam id dhi te //
+RV_8,013.12a indra śaviṣṭha satpate rayiṃ gṛṇatsu dhāraya /
+RV_8,013.12c śravaḥ sūribhyo amṛtaṃ vasutvanam //
+RV_8,013.13a have tvā sūra udite have madhyandine divaḥ /
+RV_8,013.13c juṣāṇa indra saptibhir na ā gahi //
+RV_8,013.14a ā tū gahi pra tu drava matsvā sutasya gomataḥ /
+RV_8,013.14c tantuṃ tanuṣva pūrvyaṃ yathā vide //
+RV_8,013.15a yac chakrāsi parāvati yad arvāvati vṛtrahan /
+RV_8,013.15c yad vā samudre andhaso 'vited asi //
+RV_8,013.16a indraṃ vardhantu no gira indraṃ sutāsa indavaḥ /
+RV_8,013.16c indre haviṣmatīr viśo arāṇiṣuḥ //
+RV_8,013.17a tam id viprā avasyavaḥ pravatvatībhir ūtibhiḥ /
+RV_8,013.17c indraṃ kṣoṇīr avardhayan vayā iva //
+RV_8,013.18a trikadrukeṣu cetanaṃ devāso yajñam atnata /
+RV_8,013.18c tam id vardhantu no giraḥ sadāvṛdham //
+RV_8,013.19a stotā yat te anuvrata ukthāny ṛtuthā dadhe /
+RV_8,013.19c śuciḥ pāvaka ucyate so adbhutaḥ //
+RV_8,013.20a tad id rudrasya cetati yahvam pratneṣu dhāmasu /
+RV_8,013.20c mano yatrā vi tad dadhur vicetasaḥ //
+RV_8,013.21a yadi me sakhyam āvara imasya pāhy andhasaḥ /
+RV_8,013.21c yena viśvā ati dviṣo atārima //
+RV_8,013.22a kadā ta indra girvaṇa stotā bhavāti śantamaḥ /
+RV_8,013.22c kadā no gavye aśvye vasau dadhaḥ //
+RV_8,013.23a uta te suṣṭutā harī vṛṣaṇā vahato ratham /
+RV_8,013.23c ajuryasya madintamaṃ yam īmahe //
+RV_8,013.24a tam īmahe puruṣṭutaṃ yahvam pratnābhir ūtibhiḥ /
+RV_8,013.24c ni barhiṣi priye sadad adha dvitā //
+RV_8,013.25a vardhasvā su puruṣṭuta ṛṣiṣṭutābhir ūtibhiḥ /
+RV_8,013.25c dhukṣasva pipyuṣīm iṣam avā ca naḥ //
+RV_8,013.26a indra tvam avited asītthā stuvato adrivaḥ /
+RV_8,013.26c ṛtād iyarmi te dhiyam manoyujam //
+RV_8,013.27a iha tyā sadhamādyā yujānaḥ somapītaye /
+RV_8,013.27c harī indra pratadvasū abhi svara //
+RV_8,013.28a abhi svarantu ye tava rudrāsaḥ sakṣata śriyam /
+RV_8,013.28c uto marutvatīr viśo abhi prayaḥ //
+RV_8,013.29a imā asya pratūrtayaḥ padaṃ juṣanta yad divi /
+RV_8,013.29c nābhā yajñasya saṃ dadhur yathā vide //
+RV_8,013.30a ayaṃ dīrghāya cakṣase prāci prayaty adhvare /
+RV_8,013.30c mimīte yajñam ānuṣag vicakṣya //
+RV_8,013.31a vṛṣāyam indra te ratha uto te vṛṣaṇā harī /
+RV_8,013.31c vṛṣā tvaṃ śatakrato vṛṣā havaḥ //
+RV_8,013.32a vṛṣā grāvā vṛṣā mado vṛṣā somo ayaṃ sutaḥ /
+RV_8,013.32c vṛṣā yajño yam invasi vṛṣā havaḥ //
+RV_8,013.33a vṛṣā tvā vṛṣaṇaṃ huve vajriñ citrābhir ūtibhiḥ /
+RV_8,013.33c vāvantha hi pratiṣṭutiṃ vṛṣā havaḥ //
+RV_8,014.01a yad indrāhaṃ yathā tvam īśīya vasva eka it /
+RV_8,014.01c stotā me goṣakhā syāt //
+RV_8,014.02a śikṣeyam asmai ditseyaṃ śacīpate manīṣiṇe /
+RV_8,014.02c yad ahaṃ gopatiḥ syām //
+RV_8,014.03a dhenuṣ ṭa indra sūnṛtā yajamānāya sunvate /
+RV_8,014.03c gām aśvam pipyuṣī duhe //
+RV_8,014.04a na te vartāsti rādhasa indra devo na martyaḥ /
+RV_8,014.04c yad ditsasi stuto magham //
+RV_8,014.05a yajña indram avardhayad yad bhūmiṃ vy avartayat /
+RV_8,014.05c cakrāṇa opaśaṃ divi //
+RV_8,014.06a vāvṛdhānasya te vayaṃ viśvā dhanāni jigyuṣaḥ /
+RV_8,014.06c ūtim indrā vṛṇīmahe //
+RV_8,014.07a vy antarikṣam atiran made somasya rocanā /
+RV_8,014.07c indro yad abhinad valam //
+RV_8,014.08a ud gā ājad aṅgirobhya āviṣ kṛṇvan guhā satīḥ /
+RV_8,014.08c arvāñcaṃ nunude valam //
+RV_8,014.09a indreṇa rocanā divo dṛḷhāni dṛṃhitāni ca /
+RV_8,014.09c sthirāṇi na parāṇude //
+RV_8,014.10a apām ūrmir madann iva stoma indrājirāyate /
+RV_8,014.10c vi te madā arājiṣuḥ //
+RV_8,014.11a tvaṃ hi stomavardhana indrāsy ukthavardhanaḥ /
+RV_8,014.11c stotṝṇām uta bhadrakṛt //
+RV_8,014.12a indram it keśinā harī somapeyāya vakṣataḥ /
+RV_8,014.12c upa yajñaṃ surādhasam //
+RV_8,014.13a apām phenena namuceḥ śira indrod avartayaḥ /
+RV_8,014.13c viśvā yad ajaya spṛdhaḥ //
+RV_8,014.14a māyābhir utsisṛpsata indra dyām ārurukṣataḥ /
+RV_8,014.14c ava dasyūṃr adhūnuthāḥ //
+RV_8,014.15a asunvām indra saṃsadaṃ viṣūcīṃ vy anāśayaḥ /
+RV_8,014.15c somapā uttaro bhavan //
+RV_8,015.01a tam v abhi pra gāyata puruhūtam puruṣṭutam /
+RV_8,015.01c indraṃ gīrbhis taviṣam ā vivāsata //
+RV_8,015.02a yasya dvibarhaso bṛhat saho dādhāra rodasī /
+RV_8,015.02c girīṃr ajrāṃ apaḥ svar vṛṣatvanā //
+RV_8,015.03a sa rājasi puruṣṭutaṃ eko vṛtrāṇi jighnase /
+RV_8,015.03c indra jaitrā śravasyā ca yantave //
+RV_8,015.04a taṃ te madaṃ gṛṇīmasi vṛṣaṇam pṛtsu sāsahim /
+RV_8,015.04c u lokakṛtnum adrivo hariśriyam //
+RV_8,015.05a yena jyotīṃṣy āyave manave ca viveditha /
+RV_8,015.05c mandāno asya barhiṣo vi rājasi //
+RV_8,015.06a tad adyā cit ta ukthino 'nu ṣṭuvanti pūrvathā /
+RV_8,015.06c vṛṣapatnīr apo jayā dive-dive //
+RV_8,015.07a tava tyad indriyam bṛhat tava śuṣmam uta kratum /
+RV_8,015.07c vajraṃ śiśāti dhiṣaṇā vareṇyam //
+RV_8,015.08a tava dyaur indra pauṃsyam pṛthivī vardhati śravaḥ /
+RV_8,015.08c tvām āpaḥ parvatāsaś ca hinvire //
+RV_8,015.09a tvāṃ viṣṇur bṛhan kṣayo mitro gṛṇāti varuṇaḥ /
+RV_8,015.09c tvāṃ śardho madaty anu mārutam //
+RV_8,015.10a tvaṃ vṛṣā janānām maṃhiṣṭha indra jajñiṣe /
+RV_8,015.10c satrā viśvā svapatyāni dadhiṣe //
+RV_8,015.11a satrā tvam puruṣṭutaṃ eko vṛtrāṇi tośase /
+RV_8,015.11c nānya indrāt karaṇam bhūya invati //
+RV_8,015.12a yad indra manmaśas tvā nānā havanta ūtaye /
+RV_8,015.12c asmākebhir nṛbhir atrā svar jaya //
+RV_8,015.13a araṃ kṣayāya no mahe viśvā rūpāṇy āviśan /
+RV_8,015.13c indraṃ jaitrāya harṣayā śacīpatim //
+RV_8,016.01a pra samrājaṃ carṣaṇīnām indraṃ stotā navyaṃ gīrbhiḥ /
+RV_8,016.01c naraṃ nṛṣāham maṃhiṣṭham //
+RV_8,016.02a yasminn ukthāni raṇyanti viśvāni ca śravasyā /
+RV_8,016.02c apām avo na samudre //
+RV_8,016.03a taṃ suṣṭutyā vivāse jyeṣṭharājam bhare kṛtnum /
+RV_8,016.03c maho vājinaṃ sanibhyaḥ //
+RV_8,016.04a yasyānūnā gabhīrā madā uravas tarutrāḥ /
+RV_8,016.04c harṣumantaḥ śūrasātau //
+RV_8,016.05a tam id dhaneṣu hiteṣv adhivākāya havante /
+RV_8,016.05c yeṣām indras te jayanti //
+RV_8,016.06a tam ic cyautnair āryanti taṃ kṛtebhiś carṣaṇayaḥ /
+RV_8,016.06c eṣa indro varivaskṛt //
+RV_8,016.07a indro brahmendra ṛṣir indraḥ purū puruhūtaḥ /
+RV_8,016.07c mahān mahībhiḥ śacībhiḥ //
+RV_8,016.08a sa stomyaḥ sa havyaḥ satyaḥ satvā tuvikūrmiḥ /
+RV_8,016.08c ekaś cit sann abhibhūtiḥ //
+RV_8,016.09a tam arkebhis taṃ sāmabhis taṃ gāyatraiś carṣaṇayaḥ /
+RV_8,016.09c indraṃ vardhanti kṣitayaḥ //
+RV_8,016.10a praṇetāraṃ vasyo acchā kartāraṃ jyotiḥ samatsu /
+RV_8,016.10c sāsahvāṃsaṃ yudhāmitrān //
+RV_8,016.11a sa naḥ papriḥ pārayāti svasti nāvā puruhūtaḥ /
+RV_8,016.11c indro viśvā ati dviṣaḥ //
+RV_8,016.12a sa tvaṃ na indra vājebhir daśasyā ca gātuyā ca /
+RV_8,016.12c acchā ca naḥ sumnaṃ neṣi //
+RV_8,017.01a ā yāhi suṣumā hi ta indra somam pibā imam /
+RV_8,017.01c edam barhiḥ sado mama //
+RV_8,017.02a ā tvā brahmayujā harī vahatām indra keśinā /
+RV_8,017.02c upa brahmāṇi naḥ śṛṇu //
+RV_8,017.03a brahmāṇas tvā vayaṃ yujā somapām indra sominaḥ /
+RV_8,017.03c sutāvanto havāmahe //
+RV_8,017.04a ā no yāhi sutāvato 'smākaṃ suṣṭutīr upa /
+RV_8,017.04c pibā su śiprinn andhasaḥ //
+RV_8,017.05a ā te siñcāmi kukṣyor anu gātrā vi dhāvatu /
+RV_8,017.05c gṛbhāya jihvayā madhu //
+RV_8,017.06a svāduṣ ṭe astu saṃsude madhumān tanve tava /
+RV_8,017.06c somaḥ śam astu te hṛde //
+RV_8,017.07a ayam u tvā vicarṣaṇe janīr ivābhi saṃvṛtaḥ /
+RV_8,017.07c pra soma indra sarpatu //
+RV_8,017.08a tuvigrīvo vapodaraḥ subāhur andhaso made /
+RV_8,017.08c indro vṛtrāṇi jighnate //
+RV_8,017.09a indra prehi puras tvaṃ viśvasyeśāna ojasā /
+RV_8,017.09c vṛtrāṇi vṛtrahañ jahi //
+RV_8,017.10a dīrghas te astv aṅkuśo yenā vasu prayacchasi /
+RV_8,017.10c yajamānāya sunvate //
+RV_8,017.11a ayaṃ ta indra somo nipūto adhi barhiṣi /
+RV_8,017.11c ehīm asya dravā piba //
+RV_8,017.12a śācigo śācipūjanāyaṃ raṇāya te sutaḥ /
+RV_8,017.12c ākhaṇḍala pra hūyase //
+RV_8,017.13a yas te śṛṅgavṛṣo napāt praṇapāt kuṇḍapāyyaḥ /
+RV_8,017.13c ny asmin dadhra ā manaḥ //
+RV_8,017.14a vāstoṣ pate dhruvā sthūṇāṃsatraṃ somyānām /
+RV_8,017.14c drapso bhettā purāṃ śaśvatīnām indro munīnāṃ sakhā //
+RV_8,017.15a pṛdākusānur yajato gaveṣaṇa ekaḥ sann abhi bhūyasaḥ /
+RV_8,017.15c bhūrṇim aśvaṃ nayat tujā puro gṛbhendraṃ somasya pītaye //
+RV_8,018.01a idaṃ ha nūnam eṣāṃ sumnam bhikṣeta martyaḥ /
+RV_8,018.01c ādityānām apūrvyaṃ savīmani //
+RV_8,018.02a anarvāṇo hy eṣām panthā ādityānām /
+RV_8,018.02c adabdhāḥ santi pāyavaḥ sugevṛdhaḥ //
+RV_8,018.03a tat su naḥ savitā bhago varuṇo mitro aryamā /
+RV_8,018.03c śarma yacchantu sapratho yad īmahe //
+RV_8,018.04a devebhir devy adite 'riṣṭabharmann ā gahi /
+RV_8,018.04c smat sūribhiḥ purupriye suśarmabhiḥ //
+RV_8,018.05a te hi putrāso aditer vidur dveṣāṃsi yotave /
+RV_8,018.05c aṃhoś cid urucakrayo 'nehasaḥ //
+RV_8,018.06a aditir no divā paśum aditir naktam advayāḥ /
+RV_8,018.06c aditiḥ pātv aṃhasaḥ sadāvṛdhā //
+RV_8,018.07a uta syā no divā matir aditir ūtyā gamat /
+RV_8,018.07c sā śantāti mayas karad apa sridhaḥ //
+RV_8,018.08a uta tyā daivyā bhiṣajā śaṃ naḥ karato aśvinā /
+RV_8,018.08c yuyuyātām ito rapo apa sridhaḥ //
+RV_8,018.09a śam agnir agnibhiḥ karac chaṃ nas tapatu sūryaḥ /
+RV_8,018.09c śaṃ vāto vātv arapā apa sridhaḥ //
+RV_8,018.10a apāmīvām apa sridham apa sedhata durmatim /
+RV_8,018.10c ādityāso yuyotanā no aṃhasaḥ //
+RV_8,018.11a yuyotā śarum asmad āṃ ādityāsa utāmatim /
+RV_8,018.11c ṛdhag dveṣaḥ kṛṇuta viśvavedasaḥ //
+RV_8,018.12a tat su naḥ śarma yacchatādityā yan mumocati /
+RV_8,018.12c enasvantaṃ cid enasaḥ sudānavaḥ //
+RV_8,018.13a yo naḥ kaś cid ririkṣati rakṣastvena martyaḥ /
+RV_8,018.13c svaiḥ ṣa evai ririṣīṣṭa yur janaḥ //
+RV_8,018.14a sam it tam agham aśnavad duḥśaṃsam martyaṃ ripum /
+RV_8,018.14c yo asmatrā durhaṇāvāṃ upa dvayuḥ //
+RV_8,018.15a pākatrā sthana devā hṛtsu jānītha martyam /
+RV_8,018.15c upa dvayuṃ cādvayuṃ ca vasavaḥ //
+RV_8,018.16a ā śarma parvatānām otāpāṃ vṛṇīmahe /
+RV_8,018.16c dyāvākṣāmāre asmad rapas kṛtam //
+RV_8,018.17a te no bhadreṇa śarmaṇā yuṣmākaṃ nāvā vasavaḥ /
+RV_8,018.17c ati viśvāni duritā pipartana //
+RV_8,018.18a tuce tanāya tat su no drāghīya āyur jīvase /
+RV_8,018.18c ādityāsaḥ sumahasaḥ kṛṇotana //
+RV_8,018.19a yajño hīḷo vo antara ādityā asti mṛḷata /
+RV_8,018.19c yuṣme id vo api ṣmasi sajātye //
+RV_8,018.20a bṛhad varūtham marutāṃ devaṃ trātāram aśvinā /
+RV_8,018.20c mitram īmahe varuṇaṃ svastaye //
+RV_8,018.21a aneho mitrāryaman nṛvad varuṇa śaṃsyam /
+RV_8,018.21c trivarūtham maruto yanta naś chardiḥ //
+RV_8,018.22a ye cid dhi mṛtyubandhava ādityā manavaḥ smasi /
+RV_8,018.22c pra sū na āyur jīvase tiretana //
+RV_8,019.01a taṃ gūrdhayā svarṇaraṃ devāso devam aratiṃ dadhanvire /
+RV_8,019.01c devatrā havyam ohire //
+RV_8,019.02a vibhūtarātiṃ vipra citraśociṣam agnim īḷiṣva yanturam /
+RV_8,019.02c asya medhasya somyasya sobhare prem adhvarāya pūrvyam //
+RV_8,019.03a yajiṣṭhaṃ tvā vavṛmahe devaṃ devatrā hotāram amartyam /
+RV_8,019.03c asya yajñasya sukratum //
+RV_8,019.04a ūrjo napātaṃ subhagaṃ sudīditim agniṃ śreṣṭhaśociṣam /
+RV_8,019.04c sa no mitrasya varuṇasya so apām ā sumnaṃ yakṣate divi //
+RV_8,019.05a yaḥ samidhā ya āhutī yo vedena dadāśa marto agnaye /
+RV_8,019.05c yo namasā svadhvaraḥ //
+RV_8,019.06a tasyed arvanto raṃhayanta āśavas tasya dyumnitamaṃ yaśaḥ /
+RV_8,019.06c na tam aṃho devakṛtaṃ kutaś cana na martyakṛtaṃ naśat //
+RV_8,019.07a svagnayo vo agnibhiḥ syāma sūno sahasa ūrjām pate /
+RV_8,019.07c suvīras tvam asmayuḥ //
+RV_8,019.08a praśaṃsamāno atithir na mitriyo 'gnī ratho na vedyaḥ /
+RV_8,019.08c tve kṣemāso api santi sādhavas tvaṃ rājā rayīṇām //
+RV_8,019.09a so addhā dāśvadhvaro 'gne martaḥ subhaga sa praśaṃsyaḥ /
+RV_8,019.09c sa dhībhir astu sanitā //
+RV_8,019.10a yasya tvam ūrdhvo adhvarāya tiṣṭhasi kṣayadvīraḥ sa sādhate /
+RV_8,019.10c so arvadbhiḥ sanitā sa vipanyubhiḥ sa śūraiḥ sanitā kṛtam //
+RV_8,019.11a yasyāgnir vapur gṛhe stomaṃ cano dadhīta viśvavāryaḥ /
+RV_8,019.11c havyā vā veviṣad viṣaḥ //
+RV_8,019.12a viprasya vā stuvataḥ sahaso yaho makṣūtamasya rātiṣu /
+RV_8,019.12c avodevam uparimartyaṃ kṛdhi vaso vividuṣo vacaḥ //
+RV_8,019.13a yo agniṃ havyadātibhir namobhir vā sudakṣam āvivāsati /
+RV_8,019.13c girā vājiraśociṣam //
+RV_8,019.14a samidhā yo niśitī dāśad aditiṃ dhāmabhir asya martyaḥ /
+RV_8,019.14c viśvet sa dhībhiḥ subhago janāṃ ati dyumnair udna iva tāriṣat //
+RV_8,019.15a tad agne dyumnam ā bhara yat sāsahat sadane kaṃ cid atriṇam /
+RV_8,019.15c manyuṃ janasya dūḍhyaḥ //
+RV_8,019.16a yena caṣṭe varuṇo mitro aryamā yena nāsatyā bhagaḥ /
+RV_8,019.16c vayaṃ tat te śavasā gātuvittamā indratvotā vidhemahi //
+RV_8,019.17a te ghed agne svādhyo ye tvā vipra nidadhire nṛcakṣasam /
+RV_8,019.17c viprāso deva sukratum //
+RV_8,019.18a ta id vediṃ subhaga ta āhutiṃ te sotuṃ cakrire divi /
+RV_8,019.18c ta id vājebhir jigyur mahad dhanaṃ ye tve kāmaṃ nyerire //
+RV_8,019.19a bhadro no agnir āhuto bhadrā rātiḥ subhaga bhadro adhvaraḥ /
+RV_8,019.19c bhadrā uta praśastayaḥ //
+RV_8,019.20a bhadram manaḥ kṛṇuṣva vṛtratūrye yenā samatsu sāsahaḥ /
+RV_8,019.20c ava sthirā tanuhi bhūri śardhatāṃ vanemā te abhiṣṭibhiḥ //
+RV_8,019.21a īḷe girā manurhitaṃ yaṃ devā dūtam aratiṃ nyerire /
+RV_8,019.21c yajiṣṭhaṃ havyavāhanam //
+RV_8,019.22a tigmajambhāya taruṇāya rājate prayo gāyasy agnaye /
+RV_8,019.22c yaḥ piṃśate sūnṛtābhiḥ suvīryam agnir ghṛtebhir āhutaḥ //
+RV_8,019.23a yadī ghṛtebhir āhuto vāśīm agnir bharata uc cāva ca /
+RV_8,019.23c asura iva nirṇijam //
+RV_8,019.24a yo havyāny airayatā manurhito deva āsā sugandhinā /
+RV_8,019.24c vivāsate vāryāṇi svadhvaro hotā devo amartyaḥ //
+RV_8,019.25a yad agne martyas tvaṃ syām aham mitramaho amartyaḥ /
+RV_8,019.25c sahasaḥ sūnav āhuta //
+RV_8,019.26a na tvā rāsīyābhiśastaye vaso na pāpatvāya santya /
+RV_8,019.26c na me stotāmatīvā na durhitaḥ syād agne na pāpayā //
+RV_8,019.27a pitur na putraḥ subhṛto duroṇa ā devāṃ etu pra ṇo haviḥ //
+RV_8,019.28a tavāham agna ūtibhir nediṣṭhābhiḥ saceya joṣam ā vaso /
+RV_8,019.28c sadā devasya martyaḥ //
+RV_8,019.29a tava kratvā saneyaṃ tava rātibhir agne tava praśastibhiḥ /
+RV_8,019.29c tvām id āhuḥ pramatiṃ vaso mamāgne harṣasva dātave //
+RV_8,019.30a pra so agne tavotibhiḥ suvīrābhis tirate vājabharmabhiḥ /
+RV_8,019.30c yasya tvaṃ sakhyam āvaraḥ //
+RV_8,019.31a tava drapso nīlavān vāśa ṛtviya indhānaḥ siṣṇav ā dade /
+RV_8,019.31c tvam mahīnām uṣasām asi priyaḥ kṣapo vastuṣu rājasi //
+RV_8,019.32a tam āganma sobharayaḥ sahasramuṣkaṃ svabhiṣṭim avase /
+RV_8,019.32c samrājaṃ trāsadasyavam //
+RV_8,019.33a yasya te agne anye agnaya upakṣito vayā iva /
+RV_8,019.33c vipo na dyumnā ni yuve janānāṃ tava kṣatrāṇi vardhayan //
+RV_8,019.34a yam ādityāso adruhaḥ pāraṃ nayatha martyam /
+RV_8,019.34c maghonāṃ viśveṣāṃ sudānavaḥ //
+RV_8,019.35a yūyaṃ rājānaḥ kaṃ cic carṣaṇīsahaḥ kṣayantam mānuṣāṃ anu /
+RV_8,019.35c vayaṃ te vo varuṇa mitrāryaman syāmed ṛtasya rathyaḥ //
+RV_8,019.36a adān me paurukutsyaḥ pañcāśataṃ trasadasyur vadhūnām /
+RV_8,019.36c maṃhiṣṭho aryaḥ satpatiḥ //
+RV_8,019.37a uta me prayiyor vayiyoḥ suvāstvā adhi tugvani /
+RV_8,019.37c tisṝṇāṃ saptatīnāṃ śyāvaḥ praṇetā bhuvad vasur diyānām patiḥ //
+RV_8,020.01a ā gantā mā riṣaṇyata prasthāvāno māpa sthātā samanyavaḥ /
+RV_8,020.01c sthirā cin namayiṣṇavaḥ //
+RV_8,020.02a vīḷupavibhir maruta ṛbhukṣaṇa ā rudrāsaḥ sudītibhiḥ /
+RV_8,020.02c iṣā no adyā gatā puruspṛho yajñam ā sobharīyavaḥ //
+RV_8,020.03a vidmā hi rudriyāṇāṃ śuṣmam ugram marutāṃ śimīvatām /
+RV_8,020.03c viṣṇor eṣasya mīḷhuṣām //
+RV_8,020.04a vi dvīpāni pāpatan tiṣṭhad ducchunobhe yujanta rodasī /
+RV_8,020.04c pra dhanvāny airata śubhrakhādayo yad ejatha svabhānavaḥ //
+RV_8,020.05a acyutā cid vo ajmann ā nānadati parvatāso vanaspatiḥ /
+RV_8,020.05c bhūmir yāmeṣu rejate //
+RV_8,020.06a amāya vo maruto yātave dyaur jihīta uttarā bṛhat /
+RV_8,020.06c yatrā naro dediśate tanūṣv ā tvakṣāṃsi bāhvojasaḥ //
+RV_8,020.07a svadhām anu śriyaṃ naro mahi tveṣā amavanto vṛṣapsavaḥ /
+RV_8,020.07c vahante ahrutapsavaḥ //
+RV_8,020.08a gobhir vāṇo ajyate sobharīṇāṃ rathe kośe hiraṇyaye /
+RV_8,020.08c gobandhavaḥ sujātāsa iṣe bhuje mahānto na sparase nu //
+RV_8,020.09a prati vo vṛṣadañjayo vṛṣṇe śardhāya mārutāya bharadhvam /
+RV_8,020.09c havyā vṛṣaprayāvṇe //
+RV_8,020.10a vṛṣaṇaśvena maruto vṛṣapsunā rathena vṛṣanābhinā /
+RV_8,020.10c ā śyenāso na pakṣiṇo vṛthā naro havyā no vītaye gata //
+RV_8,020.11a samānam añjy eṣāṃ vi bhrājante rukmāso adhi bāhuṣu /
+RV_8,020.11c davidyutaty ṛṣṭayaḥ //
+RV_8,020.12a ta ugrāso vṛṣaṇa ugrabāhavo nakiṣ ṭanūṣu yetire /
+RV_8,020.12c sthirā dhanvāny āyudhā ratheṣu vo 'nīkeṣv adhi śriyaḥ //
+RV_8,020.13a yeṣām arṇo na sapratho nāma tveṣaṃ śaśvatām ekam id bhuje /
+RV_8,020.13c vayo na pitryaṃ sahaḥ //
+RV_8,020.14a tān vandasva marutas tāṃ upa stuhi teṣāṃ hi dhunīnām /
+RV_8,020.14c arāṇāṃ na caramas tad eṣāṃ dānā mahnā tad eṣām //
+RV_8,020.15a subhagaḥ sa va ūtiṣv āsa pūrvāsu maruto vyuṣṭiṣu /
+RV_8,020.15c yo vā nūnam utāsati //
+RV_8,020.16a yasya vā yūyam prati vājino nara ā havyā vītaye gatha /
+RV_8,020.16c abhi ṣa dyumnair uta vājasātibhiḥ sumnā vo dhūtayo naśat //
+RV_8,020.17a yathā rudrasya sūnavo divo vaśanty asurasya vedhasaḥ /
+RV_8,020.17c yuvānas tathed asat //
+RV_8,020.18a ye cārhanti marutaḥ sudānavaḥ sman mīḷhuṣaś caranti ye /
+RV_8,020.18c ataś cid ā na upa vasyasā hṛdā yuvāna ā vavṛdhvam //
+RV_8,020.19a yūna ū ṣu naviṣṭhayā vṛṣṇaḥ pāvakāṃ abhi sobhare girā /
+RV_8,020.19c gāya gā iva carkṛṣat //
+RV_8,020.20a sāhā ye santi muṣṭiheva havyo viśvāsu pṛtsu hotṛṣu /
+RV_8,020.20c vṛṣṇaś candrān na suśravastamān girā vandasva maruto aha //
+RV_8,020.21a gāvaś cid ghā samanyavaḥ sajātyena marutaḥ sabandhavaḥ /
+RV_8,020.21c rihate kakubho mithaḥ //
+RV_8,020.22a martaś cid vo nṛtavo rukmavakṣasa upa bhrātṛtvam āyati /
+RV_8,020.22c adhi no gāta marutaḥ sadā hi va āpitvam asti nidhruvi //
+RV_8,020.23a maruto mārutasya na ā bheṣajasya vahatā sudānavaḥ /
+RV_8,020.23c yūyaṃ sakhāyaḥ saptayaḥ //
+RV_8,020.24a yābhiḥ sindhum avatha yābhis tūrvatha yābhir daśasyathā krivim /
+RV_8,020.24c mayo no bhūtotibhir mayobhuvaḥ śivābhir asacadviṣaḥ //
+RV_8,020.25a yat sindhau yad asiknyāṃ yat samudreṣu marutaḥ subarhiṣaḥ /
+RV_8,020.25c yat parvateṣu bheṣajam //
+RV_8,020.26a viśvam paśyanto bibhṛthā tanūṣv ā tenā no adhi vocata /
+RV_8,020.26c kṣamā rapo maruta āturasya na iṣkartā vihrutam punaḥ //
+RV_8,021.01a vayam u tvām apūrvya sthūraṃ na kac cid bharanto 'vasyavaḥ /
+RV_8,021.01c vāje citraṃ havāmahe //
+RV_8,021.02a upa tvā karmann ūtaye sa no yuvograś cakrāma yo dhṛṣat /
+RV_8,021.02c tvām id dhy avitāraṃ vavṛmahe sakhāya indra sānasim //
+RV_8,021.03a ā yāhīma indavo 'śvapate gopata urvarāpate /
+RV_8,021.03c somaṃ somapate piba //
+RV_8,021.04a vayaṃ hi tvā bandhumantam abandhavo viprāsa indra yemima /
+RV_8,021.04c yā te dhāmāni vṛṣabha tebhir ā gahi viśvebhiḥ somapītaye //
+RV_8,021.05a sīdantas te vayo yathā gośrīte madhau madire vivakṣaṇe /
+RV_8,021.05c abhi tvām indra nonumaḥ //
+RV_8,021.06a acchā ca tvainā namasā vadāmasi kim muhuś cid vi dīdhayaḥ /
+RV_8,021.06c santi kāmāso harivo dadiṣ ṭvaṃ smo vayaṃ santi no dhiyaḥ //
+RV_8,021.07a nūtnā id indra te vayam ūtī abhūma nahi nū te adrivaḥ /
+RV_8,021.07c vidmā purā parīṇasaḥ //
+RV_8,021.08a vidmā sakhitvam uta śūra bhojyam ā te tā vajrinn īmahe /
+RV_8,021.08c uto samasminn ā śiśīhi no vaso vāje suśipra gomati //
+RV_8,021.09a yo na idam-idam purā pra vasya ānināya tam u va stuṣe /
+RV_8,021.09c sakhāya indram ūtaye //
+RV_8,021.10a haryaśvaṃ satpatiṃ carṣaṇīsahaṃ sa hi ṣmā yo amandata /
+RV_8,021.10c ā tu naḥ sa vayati gavyam aśvyaṃ stotṛbhyo maghavā śatam //
+RV_8,021.11a tvayā ha svid yujā vayam prati śvasantaṃ vṛṣabha bruvīmahi /
+RV_8,021.11c saṃsthe janasya gomataḥ //
+RV_8,021.12a jayema kāre puruhūta kāriṇo 'bhi tiṣṭhema dūḍhyaḥ /
+RV_8,021.12c nṛbhir vṛtraṃ hanyāma śūśuyāma cāver indra pra ṇo dhiyaḥ //
+RV_8,021.13a abhrātṛvyo anā tvam anāpir indra januṣā sanād asi /
+RV_8,021.13c yudhed āpitvam icchase //
+RV_8,021.14a nakī revantaṃ sakhyāya vindase pīyanti te surāśvaḥ /
+RV_8,021.14c yadā kṛṇoṣi nadanuṃ sam ūhasy ād it piteva hūyase //
+RV_8,021.15a mā te amājuro yathā mūrāsa indra sakhye tvāvataḥ /
+RV_8,021.15c ni ṣadāma sacā sute //
+RV_8,021.16a mā te godatra nir arāma rādhasa indra mā te gṛhāmahi /
+RV_8,021.16c dṛḷhā cid aryaḥ pra mṛśābhy ā bhara na te dāmāna ādabhe //
+RV_8,021.17a indro vā ghed iyan maghaṃ sarasvatī vā subhagā dadir vasu /
+RV_8,021.17c tvaṃ vā citra dāśuṣe //
+RV_8,021.18a citra id rājā rājakā id anyake yake sarasvatīm anu /
+RV_8,021.18c parjanya iva tatanad dhi vṛṣṭyā sahasram ayutā dadat //
+RV_8,022.01a o tyam ahva ā ratham adyā daṃsiṣṭham ūtaye /
+RV_8,022.01c yam aśvinā suhavā rudravartanī ā sūryāyai tasthathuḥ //
+RV_8,022.02a pūrvāyuṣaṃ suhavam puruspṛham bhujyuṃ vājeṣu pūrvyam /
+RV_8,022.02c sacanāvantaṃ sumatibhiḥ sobhare vidveṣasam anehasam //
+RV_8,022.03a iha tyā purubhūtamā devā namobhir aśvinā /
+RV_8,022.03c arvācīnā sv avase karāmahe gantārā dāśuṣo gṛham //
+RV_8,022.04a yuvo rathasya pari cakram īyata īrmānyad vām iṣaṇyati /
+RV_8,022.04c asmāṃ acchā sumatir vāṃ śubhas patī ā dhenur iva dhāvatu //
+RV_8,022.05a ratho yo vāṃ trivandhuro hiraṇyābhīśur aśvinā /
+RV_8,022.05c pari dyāvāpṛthivī bhūṣati śrutas tena nāsatyā gatam //
+RV_8,022.06a daśasyantā manave pūrvyaṃ divi yavaṃ vṛkeṇa karṣathaḥ /
+RV_8,022.06c tā vām adya sumatibhiḥ śubhas patī aśvinā pra stuvīmahi //
+RV_8,022.07a upa no vājinīvasū yātam ṛtasya pathibhiḥ /
+RV_8,022.07c yebhis tṛkṣiṃ vṛṣaṇā trāsadasyavam mahe kṣatrāya jinvathaḥ //
+RV_8,022.08a ayaṃ vām adribhiḥ sutaḥ somo narā vṛṣaṇvasū /
+RV_8,022.08c ā yātaṃ somapītaye pibataṃ dāśuṣo gṛhe //
+RV_8,022.09a ā hi ruhatam aśvinā rathe kośe hiraṇyaye vṛṣaṇvasū /
+RV_8,022.09c yuñjāthām pīvarīr iṣaḥ //
+RV_8,022.10a yābhiḥ paktham avatho yābhir adhriguṃ yābhir babhruṃ vijoṣasam /
+RV_8,022.10c tābhir no makṣū tūyam aśvinā gatam bhiṣajyataṃ yad āturam //
+RV_8,022.11a yad adhrigāvo adhrigū idā cid ahno aśvinā havāmahe /
+RV_8,022.11c vayaṃ gīrbhir vipanyavaḥ //
+RV_8,022.12a tābhir ā yātaṃ vṛṣaṇopa me havaṃ viśvapsuṃ viśvavāryam /
+RV_8,022.12c iṣā maṃhiṣṭhā purubhūtamā narā yābhiḥ kriviṃ vāvṛdhus tābhir ā gatam //
+RV_8,022.13a tāv idā cid ahānāṃ tāv aśvinā vandamāna upa bruve /
+RV_8,022.13c tā u namobhir īmahe //
+RV_8,022.14a tāv id doṣā tā uṣasi śubhas patī tā yāman rudravartanī /
+RV_8,022.14c mā no martāya ripave vājinīvasū paro rudrāv ati khyatam //
+RV_8,022.15a ā sugmyāya sugmyam prātā rathenāśvinā vā sakṣaṇī /
+RV_8,022.15c huve piteva sobharī //
+RV_8,022.16a manojavasā vṛṣaṇā madacyutā makṣuṅgamābhir ūtibhiḥ /
+RV_8,022.16c ārāttāc cid bhūtam asme avase pūrvībhiḥ purubhojasā //
+RV_8,022.17a ā no aśvāvad aśvinā vartir yāsiṣṭam madhupātamā narā /
+RV_8,022.17c gomad dasrā hiraṇyavat //
+RV_8,022.18a suprāvargaṃ suvīryaṃ suṣṭhu vāryam anādhṛṣṭaṃ rakṣasvinā /
+RV_8,022.18c asminn ā vām āyāne vājinīvasū viśvā vāmāni dhīmahi //
+RV_8,023.01a īḷiṣvā hi pratīvyaṃ yajasva jātavedasam /
+RV_8,023.01c cariṣṇudhūmam agṛbhītaśociṣam //
+RV_8,023.02a dāmānaṃ viśvacarṣaṇe 'gniṃ viśvamano girā /
+RV_8,023.02c uta stuṣe viṣpardhaso rathānām //
+RV_8,023.03a yeṣām ābādha ṛgmiya iṣaḥ pṛkṣaś ca nigrabhe /
+RV_8,023.03c upavidā vahnir vindate vasu //
+RV_8,023.04a ud asya śocir asthād dīdiyuṣo vy ajaram /
+RV_8,023.04c tapurjambhasya sudyuto gaṇaśriyaḥ //
+RV_8,023.05a ud u tiṣṭha svadhvara stavāno devyā kṛpā /
+RV_8,023.05c abhikhyā bhāsā bṛhatā śuśukvaniḥ //
+RV_8,023.06a agne yāhi suśastibhir havyā juhvāna ānuṣak /
+RV_8,023.06c yathā dūto babhūtha havyavāhanaḥ //
+RV_8,023.07a agniṃ vaḥ pūrvyaṃ huve hotāraṃ carṣaṇīnām /
+RV_8,023.07c tam ayā vācā gṛṇe tam u va stuṣe //
+RV_8,023.08a yajñebhir adbhutakratuṃ yaṃ kṛpā sūdayanta it /
+RV_8,023.08c mitraṃ na jane sudhitam ṛtāvani //
+RV_8,023.09a ṛtāvānam ṛtāyavo yajñasya sādhanaṃ girā /
+RV_8,023.09c upo enaṃ jujuṣur namasas pade //
+RV_8,023.10a acchā no aṅgirastamaṃ yajñāso yantu saṃyataḥ /
+RV_8,023.10c hotā yo asti vikṣv ā yaśastamaḥ //
+RV_8,023.11a agne tava tye ajarendhānāso bṛhad bhāḥ /
+RV_8,023.11c aśvā iva vṛṣaṇas taviṣīyavaḥ //
+RV_8,023.12a sa tvaṃ na ūrjām pate rayiṃ rāsva suvīryam /
+RV_8,023.12c prāva nas toke tanaye samatsv ā //
+RV_8,023.13a yad vā u viśpatiḥ śitaḥ suprīto manuṣo viśi /
+RV_8,023.13c viśved agniḥ prati rakṣāṃsi sedhati //
+RV_8,023.14a śruṣṭy agne navasya me stomasya vīra viśpate /
+RV_8,023.14c ni māyinas tapuṣā rakṣaso daha //
+RV_8,023.15a na tasya māyayā cana ripur īśīta martyaḥ /
+RV_8,023.15c yo agnaye dadāśa havyadātibhiḥ //
+RV_8,023.16a vyaśvas tvā vasuvidam ukṣaṇyur aprīṇād ṛṣiḥ /
+RV_8,023.16c maho rāye tam u tvā sam idhīmahi //
+RV_8,023.17a uśanā kāvyas tvā ni hotāram asādayat /
+RV_8,023.17c āyajiṃ tvā manave jātavedasam //
+RV_8,023.18a viśve hi tvā sajoṣaso devāso dūtam akrata /
+RV_8,023.18c śruṣṭī deva prathamo yajñiyo bhuvaḥ //
+RV_8,023.19a imaṃ ghā vīro amṛtaṃ dūtaṃ kṛṇvīta martyaḥ /
+RV_8,023.19c pāvakaṃ kṛṣṇavartaniṃ vihāyasam //
+RV_8,023.20a taṃ huvema yatasrucaḥ subhāsaṃ śukraśociṣam /
+RV_8,023.20c viśām agnim ajaram pratnam īḍyam //
+RV_8,023.21a yo asmai havyadātibhir āhutim marto 'vidhat /
+RV_8,023.21c bhūri poṣaṃ sa dhatte vīravad yaśaḥ //
+RV_8,023.22a prathamaṃ jātavedasam agniṃ yajñeṣu pūrvyam /
+RV_8,023.22c prati srug eti namasā haviṣmatī //
+RV_8,023.23a ābhir vidhemāgnaye jyeṣṭhābhir vyaśvavat /
+RV_8,023.23c maṃhiṣṭhābhir matibhiḥ śukraśociṣe //
+RV_8,023.24a nūnam arca vihāyase stomebhi sthūrayūpavat /
+RV_8,023.24c ṛṣe vaiyaśva damyāyāgnaye //
+RV_8,023.25a atithim mānuṣāṇāṃ sūnuṃ vanaspatīnām /
+RV_8,023.25c viprā agnim avase pratnam īḷate //
+RV_8,023.26a maho viśvāṃ abhi ṣato 'bhi havyāni mānuṣā /
+RV_8,023.26c agne ni ṣatsi namasādhi barhiṣi //
+RV_8,023.27a vaṃsvā no vāryā puru vaṃsva rāyaḥ puruspṛhaḥ /
+RV_8,023.27c suvīryasya prajāvato yaśasvataḥ //
+RV_8,023.28a tvaṃ varo suṣāmṇe 'gne janāya codaya /
+RV_8,023.28c sadā vaso rātiṃ yaviṣṭha śaśvate //
+RV_8,023.29a tvaṃ hi supratūr asi tvaṃ no gomatīr iṣaḥ /
+RV_8,023.29c maho rāyaḥ sātim agne apā vṛdhi //
+RV_8,023.30a agne tvaṃ yaśā asy ā mitrāvaruṇā vaha /
+RV_8,023.30c ṛtāvānā samrājā pūtadakṣasā //
+RV_8,024.01a sakhāya ā śiṣāmahi brahmendrāya vajriṇe /
+RV_8,024.01c stuṣa ū ṣu vo nṛtamāya dhṛṣṇave //
+RV_8,024.02a śavasā hy asi śruto vṛtrahatyena vṛtrahā /
+RV_8,024.02c maghair maghono ati śūra dāśasi //
+RV_8,024.03a sa na stavāna ā bhara rayiṃ citraśravastamam /
+RV_8,024.03c nireke cid yo harivo vasur dadiḥ //
+RV_8,024.04a ā nirekam uta priyam indra darṣi janānām /
+RV_8,024.04c dhṛṣatā dhṛṣṇo stavamāna ā bhara //
+RV_8,024.05a na te savyaṃ na dakṣiṇaṃ hastaṃ varanta āmuraḥ /
+RV_8,024.05c na paribādho harivo gaviṣṭiṣu //
+RV_8,024.06a ā tvā gobhir iva vrajaṃ gīrbhir ṛṇomy adrivaḥ /
+RV_8,024.06c ā smā kāmaṃ jaritur ā manaḥ pṛṇa //
+RV_8,024.07a viśvāni viśvamanaso dhiyā no vṛtrahantama /
+RV_8,024.07c ugra praṇetar adhi ṣū vaso gahi //
+RV_8,024.08a vayaṃ te asya vṛtrahan vidyāma śūra navyasaḥ /
+RV_8,024.08c vaso spārhasya puruhūta rādhasaḥ //
+RV_8,024.09a indra yathā hy asti te 'parītaṃ nṛto śavaḥ /
+RV_8,024.09c amṛktā rātiḥ puruhūta dāśuṣe //
+RV_8,024.10a ā vṛṣasva mahāmaha mahe nṛtama rādhase /
+RV_8,024.10c dṛḷhaś cid dṛhya maghavan maghattaye //
+RV_8,024.11a nū anyatrā cid adrivas tvan no jagmur āśasaḥ /
+RV_8,024.11c maghavañ chagdhi tava tan na ūtibhiḥ //
+RV_8,024.12a nahy aṅga nṛto tvad anyaṃ vindāmi rādhase /
+RV_8,024.12c rāye dyumnāya śavase ca girvaṇaḥ //
+RV_8,024.13a endum indrāya siñcata pibāti somyam madhu /
+RV_8,024.13c pra rādhasā codayāte mahitvanā //
+RV_8,024.14a upo harīṇām patiṃ dakṣam pṛñcantam abravam /
+RV_8,024.14c nūnaṃ śrudhi stuvato aśvyasya //
+RV_8,024.15a nahy aṅga purā cana jajñe vīrataras tvat /
+RV_8,024.15c nakī rāyā naivathā na bhandanā //
+RV_8,024.16a ed u madhvo madintaraṃ siñca vādhvaryo andhasaḥ /
+RV_8,024.16c evā hi vīra stavate sadāvṛdhaḥ //
+RV_8,024.17a indra sthātar harīṇāṃ nakiṣ ṭe pūrvyastutim /
+RV_8,024.17c ud ānaṃśa śavasā na bhandanā //
+RV_8,024.18a taṃ vo vājānām patim ahūmahi śravasyavaḥ /
+RV_8,024.18c aprāyubhir yajñebhir vāvṛdhenyam //
+RV_8,024.19a eto nv indraṃ stavāma sakhāya stomyaṃ naram /
+RV_8,024.19c kṛṣṭīr yo viśvā abhy asty eka it //
+RV_8,024.20a agorudhāya gaviṣe dyukṣāya dasmyaṃ vacaḥ /
+RV_8,024.20c ghṛtāt svādīyo madhunaś ca vocata //
+RV_8,024.21a yasyāmitāni vīryā na rādhaḥ paryetave /
+RV_8,024.21c jyotir na viśvam abhy asti dakṣiṇā //
+RV_8,024.22a stuhīndraṃ vyaśvavad anūrmiṃ vājinaṃ yamam /
+RV_8,024.22c aryo gayam maṃhamānaṃ vi dāśuṣe //
+RV_8,024.23a evā nūnam upa stuhi vaiyaśva daśamaṃ navam /
+RV_8,024.23c suvidvāṃsaṃ carkṛtyaṃ caraṇīnām //
+RV_8,024.24a vetthā hi nirṛtīnāṃ vajrahasta parivṛjam /
+RV_8,024.24c ahar-ahaḥ śundhyuḥ paripadām iva //
+RV_8,024.25a tad indrāva ā bhara yenā daṃsiṣṭha kṛtvane /
+RV_8,024.25c dvitā kutsāya śiśnatho ni codaya //
+RV_8,024.26a tam u tvā nūnam īmahe navyaṃ daṃsiṣṭha sanyase /
+RV_8,024.26c sa tvaṃ no viśvā abhimātīḥ sakṣaṇiḥ //
+RV_8,024.27a ya ṛkṣād aṃhaso mucad yo vāryāt sapta sindhuṣu /
+RV_8,024.27c vadhar dāsasya tuvinṛmṇa nīnamaḥ //
+RV_8,024.28a yathā varo suṣāmṇe sanibhya āvaho rayim /
+RV_8,024.28c vyaśvebhyaḥ subhage vājinīvati //
+RV_8,024.29a ā nāryasya dakṣiṇā vyaśvāṃ etu sominaḥ /
+RV_8,024.29c sthūraṃ ca rādhaḥ śatavat sahasravat //
+RV_8,024.30a yat tvā pṛcchād ījānaḥ kuhayā kuhayākṛte /
+RV_8,024.30c eṣo apaśrito valo gomatīm ava tiṣṭhati //
+RV_8,025.01a tā vāṃ viśvasya gopā devā deveṣu yajñiyā /
+RV_8,025.01c ṛtāvānā yajase pūtadakṣasā //
+RV_8,025.02a mitrā tanā na rathyā varuṇo yaś ca sukratuḥ /
+RV_8,025.02c sanāt sujātā tanayā dhṛtavratā //
+RV_8,025.03a tā mātā viśvavedasāsuryāya pramahasā /
+RV_8,025.03c mahī jajānāditir ṛtāvarī //
+RV_8,025.04a mahāntā mitrāvaruṇā samrājā devāv asurā /
+RV_8,025.04c ṛtāvānāv ṛtam ā ghoṣato bṛhat //
+RV_8,025.05a napātā śavaso mahaḥ sūnū dakṣasya sukratū /
+RV_8,025.05c sṛpradānū iṣo vāstv adhi kṣitaḥ //
+RV_8,025.06a saṃ yā dānūni yemathur divyāḥ pārthivīr iṣaḥ /
+RV_8,025.06c nabhasvatīr ā vāṃ carantu vṛṣṭayaḥ //
+RV_8,025.07a adhi yā bṛhato divo 'bhi yūtheva paśyataḥ /
+RV_8,025.07c ṛtāvānā samrājā namase hitā //
+RV_8,025.08a ṛtāvānā ni ṣedatuḥ sāmrājyāya sukratū /
+RV_8,025.08c dhṛtavratā kṣatriyā kṣatram āśatuḥ //
+RV_8,025.09a akṣṇaś cid gātuvittarānulbaṇena cakṣasā /
+RV_8,025.09c ni cin miṣantā nicirā ni cikyatuḥ //
+RV_8,025.10a uta no devy aditir uruṣyatāṃ nāsatyā /
+RV_8,025.10c uruṣyantu maruto vṛddhaśavasaḥ //
+RV_8,025.11a te no nāvam uruṣyata divā naktaṃ sudānavaḥ /
+RV_8,025.11c ariṣyanto ni pāyubhiḥ sacemahi //
+RV_8,025.12a aghnate viṣṇave vayam ariṣyantaḥ sudānave /
+RV_8,025.12c śrudhi svayāvan sindho pūrvacittaye //
+RV_8,025.13a tad vāryaṃ vṛṇīmahe variṣṭhaṃ gopayatyam /
+RV_8,025.13c mitro yat pānti varuṇo yad aryamā //
+RV_8,025.14a uta naḥ sindhur apāṃ tan marutas tad aśvinā /
+RV_8,025.14c indro viṣṇur mīḍhvāṃsaḥ sajoṣasaḥ //
+RV_8,025.15a te hi ṣmā vanuṣo naro 'bhimātiṃ kayasya cit /
+RV_8,025.15c tigmaṃ na kṣodaḥ pratighnanti bhūrṇayaḥ //
+RV_8,025.16a ayam eka itthā purūru caṣṭe vi viśpatiḥ /
+RV_8,025.16c tasya vratāny anu vaś carāmasi //
+RV_8,025.17a anu pūrvāṇy okyā sāmrājyasya saścima /
+RV_8,025.17c mitrasya vratā varuṇasya dīrghaśrut //
+RV_8,025.18a pari yo raśminā divo 'ntān mame pṛthivyāḥ /
+RV_8,025.18c ubhe ā paprau rodasī mahitvā //
+RV_8,025.19a ud u ṣya śaraṇe divo jyotir ayaṃsta sūryaḥ /
+RV_8,025.19c agnir na śukraḥ samidhāna āhutaḥ //
+RV_8,025.20a vaco dīrghaprasadmanīśe vājasya gomataḥ /
+RV_8,025.20c īśe hi pitvo 'viṣasya dāvane //
+RV_8,025.21a tat sūryaṃ rodasī ubhe doṣā vastor upa bruve /
+RV_8,025.21c bhojeṣv asmāṃ abhy uc carā sadā //
+RV_8,025.22a ṛjram ukṣaṇyāyane rajataṃ harayāṇe /
+RV_8,025.22c rathaṃ yuktam asanāma suṣāmaṇi //
+RV_8,025.23a tā me aśvyānāṃ harīṇāṃ nitośanā /
+RV_8,025.23c uto nu kṛtvyānāṃ nṛvāhasā //
+RV_8,025.24a smadabhīśū kaśāvantā viprā naviṣṭhayā matī /
+RV_8,025.24c maho vājināv arvantā sacāsanam //
+RV_8,026.01a yuvor u ṣū rathaṃ huve sadhastutyāya sūriṣu /
+RV_8,026.01c atūrtadakṣā vṛṣaṇā vṛṣaṇvasū //
+RV_8,026.02a yuvaṃ varo suṣāmṇe mahe tane nāsatyā /
+RV_8,026.02c avobhir yātho vṛṣaṇā vṛṣaṇvasū //
+RV_8,026.03a tā vām adya havāmahe havyebhir vājinīvasū /
+RV_8,026.03c pūrvīr iṣa iṣayantāv ati kṣapaḥ //
+RV_8,026.04a ā vāṃ vāhiṣṭho aśvinā ratho yātu śruto narā /
+RV_8,026.04c upa stomān turasya darśathaḥ śriye //
+RV_8,026.05a juhurāṇā cid aśvinā manyethāṃ vṛṣaṇvasū /
+RV_8,026.05c yuvaṃ hi rudrā parṣatho ati dviṣaḥ //
+RV_8,026.06a dasrā hi viśvam ānuṣaṅ makṣūbhiḥ paridīyathaḥ /
+RV_8,026.06c dhiyañjinvā madhuvarṇā śubhas patī //
+RV_8,026.07a upa no yātam aśvinā rāyā viśvapuṣā saha /
+RV_8,026.07c maghavānā suvīrāv anapacyutā //
+RV_8,026.08a ā me asya pratīvyam indranāsatyā gatam /
+RV_8,026.08c devā devebhir adya sacanastamā //
+RV_8,026.09a vayaṃ hi vāṃ havāmaha ukṣaṇyanto vyaśvavat /
+RV_8,026.09c sumatibhir upa viprāv ihā gatam //
+RV_8,026.10a aśvinā sv ṛṣe stuhi kuvit te śravato havam /
+RV_8,026.10c nedīyasaḥ kūḷayātaḥ paṇīṃr uta //
+RV_8,026.11a vaiyaśvasya śrutaṃ naroto me asya vedathaḥ /
+RV_8,026.11c sajoṣasā varuṇo mitro aryamā //
+RV_8,026.12a yuvādattasya dhiṣṇyā yuvānītasya sūribhiḥ /
+RV_8,026.12c ahar-ahar vṛṣaṇa mahyaṃ śikṣatam //
+RV_8,026.13a yo vāṃ yajñebhir āvṛto 'dhivastrā vadhūr iva /
+RV_8,026.13c saparyantā śubhe cakrāte aśvinā //
+RV_8,026.14a yo vām uruvyacastamaṃ ciketati nṛpāyyam /
+RV_8,026.14c vartir aśvinā pari yātam asmayū //
+RV_8,026.15a asmabhyaṃ su vṛṣaṇvasū yātaṃ vartir nṛpāyyam /
+RV_8,026.15c viṣudruheva yajñam ūhathur girā //
+RV_8,026.16a vāhiṣṭho vāṃ havānāṃ stomo dūto huvan narā /
+RV_8,026.16c yuvābhyām bhūtv aśvinā //
+RV_8,026.17a yad ado divo arṇava iṣo vā madatho gṛhe /
+RV_8,026.17c śrutam in me amartyā //
+RV_8,026.18a uta syā śvetayāvarī vāhiṣṭhā vāṃ nadīnām /
+RV_8,026.18c sindhur hiraṇyavartaniḥ //
+RV_8,026.19a smad etayā sukīrtyāśvinā śvetayā dhiyā /
+RV_8,026.19c vahethe śubhrayāvānā //
+RV_8,026.20a yukṣvā hi tvaṃ rathāsahā yuvasva poṣyā vaso /
+RV_8,026.20c ān no vāyo madhu pibāsmākaṃ savanā gahi //
+RV_8,026.21a tava vāyav ṛtaspate tvaṣṭur jāmātar adbhuta /
+RV_8,026.21c avāṃsy ā vṛṇīmahe //
+RV_8,026.22a tvaṣṭur jāmātaraṃ vayam īśānaṃ rāya īmahe /
+RV_8,026.22c sutāvanto vāyuṃ dyumnā janāsaḥ //
+RV_8,026.23a vāyo yāhi śivā divo vahasvā su svaśvyam /
+RV_8,026.23c vahasva mahaḥ pṛthupakṣasā rathe //
+RV_8,026.24a tvāṃ hi supsarastamaṃ nṛṣadaneṣu hūmahe /
+RV_8,026.24c grāvāṇaṃ nāśvapṛṣṭham maṃhanā //
+RV_8,026.25a sa tvaṃ no deva manasā vāyo mandāno agriyaḥ /
+RV_8,026.25c kṛdhi vājāṃ apo dhiyaḥ //
+RV_8,027.01a agnir ukthe purohito grāvāṇo barhir adhvare /
+RV_8,027.01c ṛcā yāmi maruto brahmaṇas patiṃ devāṃ avo vareṇyam //
+RV_8,027.02a ā paśuṃ gāsi pṛthivīṃ vanaspatīn uṣāsā naktam oṣadhīḥ /
+RV_8,027.02c viśve ca no vasavo viśvavedaso dhīnām bhūta prāvitāraḥ //
+RV_8,027.03a pra sū na etv adhvaro 'gnā deveṣu pūrvyaḥ /
+RV_8,027.03c ādityeṣu pra varuṇe dhṛtavrate marutsu viśvabhānuṣu //
+RV_8,027.04a viśve hi ṣmā manave viśvavedaso bhuvan vṛdhe riśādasaḥ /
+RV_8,027.04c ariṣṭebhiḥ pāyubhir viśvavedaso yantā no 'vṛkaṃ chardiḥ //
+RV_8,027.05a ā no adya samanaso gantā viśve sajoṣasaḥ /
+RV_8,027.05c ṛcā girā maruto devy adite sadane pastye mahi //
+RV_8,027.06a abhi priyā maruto yā vo aśvyā havyā mitra prayāthana /
+RV_8,027.06c ā barhir indro varuṇas turā nara ādityāsaḥ sadantu naḥ //
+RV_8,027.07a vayaṃ vo vṛktabarhiṣo hitaprayasa ānuṣak /
+RV_8,027.07c sutasomāso varuṇa havāmahe manuṣvad iddhāgnayaḥ //
+RV_8,027.08a ā pra yāta maruto viṣṇo aśvinā pūṣan mākīnayā dhiyā /
+RV_8,027.08c indra ā yātu prathamaḥ saniṣyubhir vṛṣā yo vṛtrahā gṛṇe //
+RV_8,027.09a vi no devāso adruho 'cchidraṃ śarma yacchata /
+RV_8,027.09c na yad dūrād vasavo nū cid antito varūtham ādadharṣati //
+RV_8,027.10a asti hi vaḥ sajātyaṃ riśādaso devāso asty āpyam /
+RV_8,027.10c pra ṇaḥ pūrvasmai suvitāya vocata makṣū sumnāya navyase //
+RV_8,027.11a idā hi va upastutim idā vāmasya bhaktaye /
+RV_8,027.11c upa vo viśvavedaso namasyur āṃ asṛkṣy anyām iva //
+RV_8,027.12a ud u ṣya vaḥ savitā supraṇītayo 'sthād ūrdhvo vareṇyaḥ /
+RV_8,027.12c ni dvipādaś catuṣpādo arthino 'viśran patayiṣṇavaḥ //
+RV_8,027.13a devaṃ-devaṃ vo 'vase devaṃ-devam abhiṣṭaye /
+RV_8,027.13c devaṃ-devaṃ huvema vājasātaye gṛṇanto devyā dhiyā //
+RV_8,027.14a devāso hi ṣmā manave samanyavo viśve sākaṃ sarātayaḥ /
+RV_8,027.14c te no adya te aparaṃ tuce tu no bhavantu varivovidaḥ //
+RV_8,027.15a pra vaḥ śaṃsāmy adruhaḥ saṃstha upastutīnām /
+RV_8,027.15c na taṃ dhūrtir varuṇa mitra martyaṃ yo vo dhāmabhyo 'vidhat //
+RV_8,027.16a pra sa kṣayaṃ tirate vi mahīr iṣo yo vo varāya dāśati /
+RV_8,027.16c pra prajābhir jāyate dharmaṇas pary ariṣṭaḥ sarva edhate //
+RV_8,027.17a ṛte sa vindate yudhaḥ sugebhir yāty adhvanaḥ /
+RV_8,027.17c aryamā mitro varuṇaḥ sarātayo yaṃ trāyante sajoṣasaḥ //
+RV_8,027.18a ajre cid asmai kṛṇuthā nyañcanaṃ durge cid ā susaraṇam /
+RV_8,027.18c eṣā cid asmād aśaniḥ paro nu sāsredhantī vi naśyatu //
+RV_8,027.19a yad adya sūrya udyati priyakṣatrā ṛtaṃ dadha /
+RV_8,027.19c yan nimruci prabudhi viśvavedaso yad vā madhyandine divaḥ //
+RV_8,027.20a yad vābhipitve asurā ṛtaṃ yate chardir yema vi dāśuṣe /
+RV_8,027.20c vayaṃ tad vo vasavo viśvavedasa upa stheyāma madhya ā //
+RV_8,027.21a yad adya sūra udite yan madhyandina ātuci /
+RV_8,027.21c vāmaṃ dhattha manave viśvavedaso juhvānāya pracetase //
+RV_8,027.22a vayaṃ tad vaḥ samrāja ā vṛṇīmahe putro na bahupāyyam /
+RV_8,027.22c aśyāma tad ādityā juhvato havir yena vasyo 'naśāmahai //
+RV_8,028.01a ye triṃśati trayas paro devāso barhir āsadan /
+RV_8,028.01c vidann aha dvitāsanan //
+RV_8,028.02a varuṇo mitro aryamā smadrātiṣāco agnayaḥ /
+RV_8,028.02c patnīvanto vaṣaṭkṛtāḥ //
+RV_8,028.03a te no gopā apācyās ta udak ta itthā nyak /
+RV_8,028.03c purastāt sarvayā viśā //
+RV_8,028.04a yathā vaśanti devās tathed asat tad eṣāṃ nakir ā minat /
+RV_8,028.04c arāvā cana martyaḥ //
+RV_8,028.05a saptānāṃ sapta ṛṣṭayaḥ sapta dyumnāny eṣām /
+RV_8,028.05c sapto adhi śriyo dhire //
+RV_8,029.01a babhrur eko viṣuṇaḥ sūnaro yuvāñjy aṅkte hiraṇyayam //
+RV_8,029.02a yonim eka ā sasāda dyotano 'ntar deveṣu medhiraḥ //
+RV_8,029.03a vāśīm eko bibharti hasta āyasīm antar deveṣu nidhruviḥ //
+RV_8,029.04a vajram eko bibharti hasta āhitaṃ tena vṛtrāṇi jighnate //
+RV_8,029.05a tigmam eko bibharti hasta āyudhaṃ śucir ugro jalāṣabheṣajaḥ //
+RV_8,029.06a patha ekaḥ pīpāya taskaro yathāṃ eṣa veda nidhīnām //
+RV_8,029.07a trīṇy eka urugāyo vi cakrame yatra devāso madanti //
+RV_8,029.08a vibhir dvā carata ekayā saha pra pravāseva vasataḥ //
+RV_8,029.09a sado dvā cakrāte upamā divi samrājā sarpirāsutī //
+RV_8,029.10a arcanta eke mahi sāma manvata tena sūryam arocayan //
+RV_8,030.01a nahi vo asty arbhako devāso na kumārakaḥ /
+RV_8,030.01c viśve satomahānta it //
+RV_8,030.02a iti stutāso asathā riśādaso ye stha trayaś ca triṃśac ca /
+RV_8,030.02c manor devā yajñiyāsaḥ //
+RV_8,030.03a te nas trādhvaṃ te 'vata ta u no adhi vocata /
+RV_8,030.03c mā naḥ pathaḥ pitryān mānavād adhi dūraṃ naiṣṭa parāvataḥ //
+RV_8,030.04a ye devāsa iha sthana viśve vaiśvānarā uta /
+RV_8,030.04c asmabhyaṃ śarma sapratho gave 'śvāya yacchata //
+RV_8,031.01a yo yajāti yajāta it sunavac ca pacāti ca /
+RV_8,031.01c brahmed indrasya cākanat //
+RV_8,031.02a puroḷāśaṃ yo asmai somaṃ rarata āśiram /
+RV_8,031.02c pād it taṃ śakro aṃhasaḥ //
+RV_8,031.03a tasya dyumāṃ asad ratho devajūtaḥ sa śūśuvat /
+RV_8,031.03c viśvā vanvann amitriyā //
+RV_8,031.04a asya prajāvatī gṛhe 'saścantī dive-dive /
+RV_8,031.04c iḷā dhenumatī duhe //
+RV_8,031.05a yā dampatī samanasā sunuta ā ca dhāvataḥ /
+RV_8,031.05c devāso nityayāśirā //
+RV_8,031.06a prati prāśavyāṃ itaḥ samyañcā barhir āśāte /
+RV_8,031.06c na tā vājeṣu vāyataḥ //
+RV_8,031.07a na devānām api hnutaḥ sumatiṃ na jugukṣataḥ /
+RV_8,031.07c śravo bṛhad vivāsataḥ //
+RV_8,031.08a putriṇā tā kumāriṇā viśvam āyur vy aśnutaḥ /
+RV_8,031.08c ubhā hiraṇyapeśasā //
+RV_8,031.09a vītihotrā kṛtadvasū daśasyantāmṛtāya kam /
+RV_8,031.09c sam ūdho romaśaṃ hato deveṣu kṛṇuto duvaḥ //
+RV_8,031.10a ā śarma parvatānāṃ vṛṇīmahe nadīnām /
+RV_8,031.10c ā viṣṇoḥ sacābhuvaḥ //
+RV_8,031.11a aitu pūṣā rayir bhagaḥ svasti sarvadhātamaḥ /
+RV_8,031.11c urur adhvā svastaye //
+RV_8,031.12a aramatir anarvaṇo viśvo devasya manasā /
+RV_8,031.12c ādityānām aneha it //
+RV_8,031.13a yathā no mitro aryamā varuṇaḥ santi gopāḥ /
+RV_8,031.13c sugā ṛtasya panthāḥ //
+RV_8,031.14a agniṃ vaḥ pūrvyaṃ girā devam īḷe vasūnām /
+RV_8,031.14c saparyantaḥ purupriyam mitraṃ na kṣetrasādhasam //
+RV_8,031.15a makṣū devavato rathaḥ śūro vā pṛtsu kāsu cit /
+RV_8,031.15c devānāṃ ya in mano yajamāna iyakṣaty abhīd ayajvano bhuvat //
+RV_8,031.16a na yajamāna riṣyasi na sunvāna na devayo /
+RV_8,031.16c devānāṃ ya in mano yajamāna iyakṣaty abhīd ayajvano bhuvat //
+RV_8,031.17a nakiṣ ṭaṃ karmaṇā naśan na pra yoṣan na yoṣati /
+RV_8,031.17c devānāṃ ya in mano yajamāna iyakṣaty abhīd ayajvano bhuvat //
+RV_8,031.18a asad atra suvīryam uta tyad āśvaśvyam /
+RV_8,031.18c devānāṃ ya in mano yajamāna iyakṣaty abhīd ayajvano bhuvat //
+RV_8,032.01a pra kṛtāny ṛjīṣiṇaḥ kaṇvā indrasya gāthayā /
+RV_8,032.01c made somasya vocata //
+RV_8,032.02a yaḥ sṛbindam anarśanim pipruṃ dāsam ahīśuvam /
+RV_8,032.02c vadhīd ugro riṇann apaḥ //
+RV_8,032.03a ny arbudasya viṣṭapaṃ varṣmāṇam bṛhatas tira /
+RV_8,032.03c kṛṣe tad indra pauṃsyam //
+RV_8,032.04a prati śrutāya vo dhṛṣat tūrṇāśaṃ na girer adhi /
+RV_8,032.04c huve suśipram ūtaye //
+RV_8,032.05a sa gor aśvasya vi vrajam mandānaḥ somyebhyaḥ /
+RV_8,032.05c puraṃ na śūra darṣasi //
+RV_8,032.06a yadi me rāraṇaḥ suta ukthe vā dadhase canaḥ /
+RV_8,032.06c ārād upa svadhā gahi //
+RV_8,032.07a vayaṃ ghā te api ṣmasi stotāra indra girvaṇaḥ /
+RV_8,032.07c tvaṃ no jinva somapāḥ //
+RV_8,032.08a uta naḥ pitum ā bhara saṃrarāṇo avikṣitam /
+RV_8,032.08c maghavan bhūri te vasu //
+RV_8,032.09a uta no gomatas kṛdhi hiraṇyavato aśvinaḥ /
+RV_8,032.09c iḷābhiḥ saṃ rabhemahi //
+RV_8,032.10a bṛbadukthaṃ havāmahe sṛprakarasnam ūtaye /
+RV_8,032.10c sādhu kṛṇvantam avase //
+RV_8,032.11a yaḥ saṃsthe cic chatakratur ād īṃ kṛṇoti vṛtrahā /
+RV_8,032.11c jaritṛbhyaḥ purūvasuḥ //
+RV_8,032.12a sa naḥ śakraś cid ā śakad dānavāṃ antarābharaḥ /
+RV_8,032.12c indro viśvābhir ūtibhiḥ //
+RV_8,032.13a yo rāyo 'vanir mahān supāraḥ sunvataḥ sakhā /
+RV_8,032.13c tam indram abhi gāyata //
+RV_8,032.14a āyantāram mahi sthiram pṛtanāsu śravojitam /
+RV_8,032.14c bhūrer īśānam ojasā //
+RV_8,032.15a nakir asya śacīnāṃ niyantā sūnṛtānām /
+RV_8,032.15c nakir vaktā na dād iti //
+RV_8,032.16a na nūnam brahmaṇām ṛṇam prāśūnām asti sunvatām /
+RV_8,032.16c na somo apratā pape //
+RV_8,032.17a panya id upa gāyata panya ukthāni śaṃsata /
+RV_8,032.17c brahmā kṛṇota panya it //
+RV_8,032.18a panya ā dardirac chatā sahasrā vājy avṛtaḥ /
+RV_8,032.18c indro yo yajvano vṛdhaḥ //
+RV_8,032.19a vi ṣū cara svadhā anu kṛṣṭīnām anv āhuvaḥ /
+RV_8,032.19c indra piba sutānām //
+RV_8,032.20a piba svadhainavānām uta yas tugrye sacā /
+RV_8,032.20c utāyam indra yas tava //
+RV_8,032.21a atīhi manyuṣāviṇaṃ suṣuvāṃsam upāraṇe /
+RV_8,032.21c imaṃ rātaṃ sutam piba //
+RV_8,032.22a ihi tisraḥ parāvata ihi pañca janāṃ ati /
+RV_8,032.22c dhenā indrāvacākaśat //
+RV_8,032.23a sūryo raśmiṃ yathā sṛjā tvā yacchantu me giraḥ /
+RV_8,032.23c nimnam āpo na sadhryak //
+RV_8,032.24a adhvaryav ā tu hi ṣiñca somaṃ vīrāya śipriṇe /
+RV_8,032.24c bharā sutasya pītaye //
+RV_8,032.25a ya udnaḥ phaligam bhinan nyak sindhūṃr avāsṛjat /
+RV_8,032.25c yo goṣu pakvaṃ dhārayat //
+RV_8,032.26a ahan vṛtram ṛcīṣama aurṇavābham ahīśuvam /
+RV_8,032.26c himenāvidhyad arbudam //
+RV_8,032.27a pra va ugrāya niṣṭure 'ṣāḷhāya prasakṣiṇe /
+RV_8,032.27c devattam brahma gāyata //
+RV_8,032.28a yo viśvāny abhi vratā somasya made andhasaḥ /
+RV_8,032.28c indro deveṣu cetati //
+RV_8,032.29a iha tyā sadhamādyā harī hiraṇyakeśyā /
+RV_8,032.29c voḷhām abhi prayo hitam //
+RV_8,032.30a arvāñcaṃ tvā puruṣṭuta priyamedhastutā harī /
+RV_8,032.30c somapeyāya vakṣataḥ //
+RV_8,033.01a vayaṃ gha tvā sutāvanta āpo na vṛktabarhiṣaḥ /
+RV_8,033.01c pavitrasya prasravaṇeṣu vṛtrahan pari stotāra āsate //
+RV_8,033.02a svaranti tvā sute naro vaso nireka ukthinaḥ /
+RV_8,033.02c kadā sutaṃ tṛṣāṇa oka ā gama indra svabdīva vaṃsagaḥ //
+RV_8,033.03a kaṇvebhir dhṛṣṇav ā dhṛṣad vājaṃ darṣi sahasriṇam /
+RV_8,033.03c piśaṅgarūpam maghavan vicarṣaṇe makṣū gomantam īmahe //
+RV_8,033.04a pāhi gāyāndhaso mada indrāya medhyātithe /
+RV_8,033.04c yaḥ sammiślo haryor yaḥ sute sacā vajrī ratho hiraṇyayaḥ //
+RV_8,033.05a yaḥ suṣavyaḥ sudakṣiṇa ino yaḥ sukratur gṛṇe /
+RV_8,033.05c ya ākaraḥ sahasrā yaḥ śatāmagha indro yaḥ pūrbhid āritaḥ //
+RV_8,033.06a yo dhṛṣito yo 'vṛto yo asti śmaśruṣu śritaḥ /
+RV_8,033.06c vibhūtadyumnaś cyavanaḥ puruṣṭutaḥ kratvā gaur iva śākinaḥ //
+RV_8,033.07a ka īṃ veda sute sacā pibantaṃ kad vayo dadhe /
+RV_8,033.07c ayaṃ yaḥ puro vibhinatty ojasā mandānaḥ śipry andhasaḥ //
+RV_8,033.08a dānā mṛgo na vāraṇaḥ purutrā carathaṃ dadhe /
+RV_8,033.08c nakiṣ ṭvā ni yamad ā sute gamo mahāṃś carasy ojasā //
+RV_8,033.09a ya ugraḥ sann aniṣṭṛta sthiro raṇāya saṃskṛtaḥ /
+RV_8,033.09c yadi stotur maghavā śṛṇavad dhavaṃ nendro yoṣaty ā gamat //
+RV_8,033.10a satyam itthā vṛṣed asi vṛṣajūtir no 'vṛtaḥ /
+RV_8,033.10c vṛṣā hy ugra śṛṇviṣe parāvati vṛṣo arvāvati śrutaḥ //
+RV_8,033.11a vṛṣaṇas te abhīśavo vṛṣā kaśā hiraṇyayī /
+RV_8,033.11c vṛṣā ratho maghavan vṛṣaṇā harī vṛṣā tvaṃ śatakrato //
+RV_8,033.12a vṛṣā sotā sunotu te vṛṣann ṛjīpinn ā bhara /
+RV_8,033.12c vṛṣā dadhanve vṛṣaṇaṃ nadīṣv ā tubhyaṃ sthātar harīṇām //
+RV_8,033.13a endra yāhi pītaye madhu śaviṣṭha somyam /
+RV_8,033.13c nāyam acchā maghavā śṛṇavad giro brahmokthā ca sukratuḥ //
+RV_8,033.14a vahantu tvā ratheṣṭhām ā harayo rathayujaḥ /
+RV_8,033.14c tiraś cid aryaṃ savanāni vṛtrahann anyeṣāṃ yā śatakrato //
+RV_8,033.15a asmākam adyāntamaṃ stomaṃ dhiṣva mahāmaha /
+RV_8,033.15c asmākaṃ te savanā santu śantamā madāya dyukṣa somapāḥ //
+RV_8,033.16a nahi ṣas tava no mama śāstre anyasya raṇyati /
+RV_8,033.16c yo asmān vīra ānayat //
+RV_8,033.17a indraś cid ghā tad abravīt striyā aśāsyam manaḥ /
+RV_8,033.17c uto aha kratuṃ raghum //
+RV_8,033.18a saptī cid ghā madacyutā mithunā vahato ratham /
+RV_8,033.18c eved dhūr vṛṣṇa uttarā //
+RV_8,033.19a adhaḥ paśyasva mopari saṃtarām pādakau hara /
+RV_8,033.19c mā te kaśaplakau dṛśan strī hi brahmā babhūvitha //
+RV_8,034.01a endra yāhi haribhir upa kaṇvasya suṣṭutim /
+RV_8,034.01c divo amuṣya śāsato divaṃ yaya divāvaso //
+RV_8,034.02a ā tvā grāvā vadann iha somī ghoṣeṇa yacchatu /
+RV_8,034.02c divo amuṣya śāsato divaṃ yaya divāvaso //
+RV_8,034.03a atrā vi nemir eṣām urāṃ na dhūnute vṛkaḥ /
+RV_8,034.03c divo amuṣya śāsato divaṃ yaya divāvaso //
+RV_8,034.04a ā tvā kaṇvā ihāvase havante vājasātaye /
+RV_8,034.04c divo amuṣya śāsato divaṃ yaya divāvaso //
+RV_8,034.05a dadhāmi te sutānāṃ vṛṣṇe na pūrvapāyyam /
+RV_8,034.05c divo amuṣya śāsato divaṃ yaya divāvaso //
+RV_8,034.06a smatpurandhir na ā gahi viśvatodhīr na ūtaye /
+RV_8,034.06c divo amuṣya śāsato divaṃ yaya divāvaso //
+RV_8,034.07a ā no yāhi mahemate sahasrote śatāmagha /
+RV_8,034.07c divo amuṣya śāsato divaṃ yaya divāvaso //
+RV_8,034.08a ā tvā hotā manurhito devatrā vakṣad īḍyaḥ /
+RV_8,034.08c divo amuṣya śāsato divaṃ yaya divāvaso //
+RV_8,034.09a ā tvā madacyutā harī śyenam pakṣeva vakṣataḥ /
+RV_8,034.09c divo amuṣya śāsato divaṃ yaya divāvaso //
+RV_8,034.10a ā yāhy arya ā pari svāhā somasya pītaye /
+RV_8,034.10c divo amuṣya śāsato divaṃ yaya divāvaso //
+RV_8,034.11a ā no yāhy upaśruty uktheṣu raṇayā iha /
+RV_8,034.11c divo amuṣya śāsato divaṃ yaya divāvaso //
+RV_8,034.12a sarūpair ā su no gahi sambhṛtaiḥ sambhṛtāśvaḥ /
+RV_8,034.12c divo amuṣya śāsato divaṃ yaya divāvaso //
+RV_8,034.13a ā yāhi parvatebhyaḥ samudrasyādhi viṣṭapaḥ /
+RV_8,034.13c divo amuṣya śāsato divaṃ yaya divāvaso //
+RV_8,034.14a ā no gavyāny aśvyā sahasrā śūra dardṛhi /
+RV_8,034.14c divo amuṣya śāsato divaṃ yaya divāvaso //
+RV_8,034.15a ā naḥ sahasraśo bharāyutāni śatāni ca /
+RV_8,034.15c divo amuṣya śāsato divaṃ yaya divāvaso //
+RV_8,034.16a ā yad indraś ca dadvahe sahasraṃ vasurociṣaḥ /
+RV_8,034.16c ojiṣṭham aśvyam paśum //
+RV_8,034.17a ya ṛjrā vātaraṃhaso 'ruṣāso raghuṣyadaḥ /
+RV_8,034.17c bhrājante sūryā iva //
+RV_8,034.18a pārāvatasya rātiṣu dravaccakreṣv āśuṣu /
+RV_8,034.18c tiṣṭhaṃ vanasya madhya ā //
+RV_8,035.01a agninendreṇa varuṇena viṣṇunādityai rudrair vasubhiḥ sacābhuvā /
+RV_8,035.01c sajoṣasā uṣasā sūryeṇa ca somam pibatam aśvinā //
+RV_8,035.02a viśvābhir dhībhir bhuvanena vājinā divā pṛthivyādribhiḥ sacābhuvā /
+RV_8,035.02c sajoṣasā uṣasā sūryeṇa ca somam pibatam aśvinā //
+RV_8,035.03a viśvair devais tribhir ekādaśair ihādbhir marudbhir bhṛgubhiḥ sacābhuvā /
+RV_8,035.03c sajoṣasā uṣasā sūryeṇa ca somam pibatam aśvinā //
+RV_8,035.04a juṣethāṃ yajñam bodhataṃ havasya me viśveha devau savanāva gacchatam /
+RV_8,035.04c sajoṣasā uṣasā sūryeṇa ceṣaṃ no voḷham aśvinā //
+RV_8,035.05a stomaṃ juṣethāṃ yuvaśeva kanyanāṃ viśveha devau savanāva gacchatam /
+RV_8,035.05c sajoṣasā uṣasā sūryeṇa ceṣaṃ no voḷham aśvinā //
+RV_8,035.06a giro juṣethām adhvaraṃ juṣethāṃ viśveha devau savanāva gacchatam /
+RV_8,035.06c sajoṣasā uṣasā sūryeṇa ceṣaṃ no voḷham aśvinā //
+RV_8,035.07a hāridraveva patatho vaned upa somaṃ sutam mahiṣevāva gacchathaḥ /
+RV_8,035.07c sajoṣasā uṣasā sūryeṇa ca trir vartir yātam aśvinā //
+RV_8,035.08a haṃsāv iva patatho adhvagāv iva somaṃ sutam mahiṣevāva gacchathaḥ /
+RV_8,035.08c sajoṣasā uṣasā sūryeṇa ca trir vartir yātam aśvinā //
+RV_8,035.09a śyenāv iva patatho havyadātaye somaṃ sutam mahiṣevāva gacchathaḥ /
+RV_8,035.09c sajoṣasā uṣasā sūryeṇa ca trir vartir yātam aśvinā //
+RV_8,035.10a pibataṃ ca tṛpṇutaṃ cā ca gacchatam prajāṃ ca dhattaṃ draviṇaṃ ca dhattam /
+RV_8,035.10c sajoṣasā uṣasā sūryeṇa corjaṃ no dhattam aśvinā //
+RV_8,035.11a jayataṃ ca pra stutaṃ ca pra cāvatam prajāṃ ca dhattaṃ draviṇaṃ ca dhattam /
+RV_8,035.11c sajoṣasā uṣasā sūryeṇa corjaṃ no dhattam aśvinā //
+RV_8,035.12a hataṃ ca śatrūn yatataṃ ca mitriṇaḥ prajāṃ ca dhattaṃ draviṇaṃ ca dhattam /
+RV_8,035.12c sajoṣasā uṣasā sūryeṇa corjaṃ no dhattam aśvinā //
+RV_8,035.13a mitrāvaruṇavantā uta dharmavantā marutvantā jaritur gacchatho havam /
+RV_8,035.13c sajoṣasā uṣasā sūryeṇa cādityair yātam aśvinā //
+RV_8,035.14a aṅgirasvantā uta viṣṇuvantā marutvantā jaritur gacchatho havam /
+RV_8,035.14c sajoṣasā uṣasā sūryeṇa cādityair yātam aśvinā //
+RV_8,035.15a ṛbhumantā vṛṣaṇā vājavantā marutvantā jaritur gacchatho havam /
+RV_8,035.15c sajoṣasā uṣasā sūryeṇa cādityair yātam aśvinā //
+RV_8,035.16a brahma jinvatam uta jinvataṃ dhiyo hataṃ rakṣāṃsi sedhatam amīvāḥ /
+RV_8,035.16c sajoṣasā uṣasā sūryeṇa ca somaṃ sunvato aśvinā //
+RV_8,035.17a kṣatraṃ jinvatam uta jinvataṃ nṝn hataṃ rakṣāṃsi sedhatam amīvāḥ /
+RV_8,035.17c sajoṣasā uṣasā sūryeṇa ca somaṃ sunvato aśvinā //
+RV_8,035.18a dhenūr jinvatam uta jinvataṃ viśo hataṃ rakṣāṃsi sedhatam amīvāḥ /
+RV_8,035.18c sajoṣasā uṣasā sūryeṇa ca somaṃ sunvato aśvinā //
+RV_8,035.19a atrer iva śṛṇutam pūrvyastutiṃ śyāvāśvasya sunvato madacyutā /
+RV_8,035.19c sajoṣasā uṣasā sūryeṇa cāśvinā tiroahnyam //
+RV_8,035.20a sargāṃ iva sṛjataṃ suṣṭutīr upa śyāvāśvasya sunvato madacyutā /
+RV_8,035.20c sajoṣasā uṣasā sūryeṇa cāśvinā tiroahnyam //
+RV_8,035.21a raśmīṃr iva yacchatam adhvarāṃ upa śyāvāśvasya sunvato madacyutā /
+RV_8,035.21c sajoṣasā uṣasā sūryeṇa cāśvinā tiroahnyam //
+RV_8,035.22a arvāg rathaṃ ni yacchatam pibataṃ somyam madhu /
+RV_8,035.22c ā yātam aśvinā gatam avasyur vām ahaṃ huve dhattaṃ ratnāni dāśuṣe //
+RV_8,035.23a namovāke prasthite adhvare narā vivakṣaṇasya pītaye /
+RV_8,035.23c ā yātam aśvinā gatam avasyur vām ahaṃ huve dhattaṃ ratnāni dāśuṣe //
+RV_8,035.24a svāhākṛtasya tṛmpataṃ sutasya devāv andhasaḥ /
+RV_8,035.24c ā yātam aśvinā gatam avasyur vām ahaṃ huve dhattaṃ ratnāni dāśuṣe //
+RV_8,036.01a avitāsi sunvato vṛktabarhiṣaḥ pibā somam madāya kaṃ śatakrato /
+RV_8,036.01c yaṃ te bhāgam adhārayan viśvāḥ sehānaḥ pṛtanā uru jrayaḥ sam apsujin marutvāṃ indra satpate //
+RV_8,036.02a prāva stotāram maghavann ava tvām pibā somam madāya kaṃ śatakrato /
+RV_8,036.02c yaṃ te bhāgam adhārayan viśvāḥ sehānaḥ pṛtanā uru jrayaḥ sam apsujin marutvāṃ indra satpate //
+RV_8,036.03a ūrjā devāṃ avasy ojasā tvām pibā somam madāya kaṃ śatakrato /
+RV_8,036.03c yaṃ te bhāgam adhārayan viśvāḥ sehānaḥ pṛtanā uru jrayaḥ sam apsujin marutvāṃ indra satpate //
+RV_8,036.04a janitā divo janitā pṛthivyāḥ pibā somam madāya kaṃ śatakrato /
+RV_8,036.04c yaṃ te bhāgam adhārayan viśvāḥ sehānaḥ pṛtanā uru jrayaḥ sam apsujin marutvāṃ indra satpate //
+RV_8,036.05a janitāśvānāṃ janitā gavām asi pibā somam madāya kaṃ śatakrato /
+RV_8,036.05c yaṃ te bhāgam adhārayan viśvāḥ sehānaḥ pṛtanā uru jrayaḥ sam apsujin marutvāṃ indra satpate //
+RV_8,036.06a atrīṇāṃ stomam adrivo mahas kṛdhi pibā somam madāya kaṃ śatakrato /
+RV_8,036.06c yaṃ te bhāgam adhārayan viśvāḥ sehānaḥ pṛtanā uru jrayaḥ sam apsujin marutvāṃ indra satpate //
+RV_8,036.07a śyāvāśvasya sunvatas tathā śṛṇu yathāśṛṇor atreḥ karmāṇi kṛṇvataḥ /
+RV_8,036.07c pra trasadasyum āvitha tvam eka in nṛṣāhya indra brahmāṇi vardhayan //
+RV_8,037.01a predam brahma vṛtratūryeṣv āvitha pra sunvataḥ śacīpata indra viśvābhir ūtibhiḥ /
+RV_8,037.01d mādhyandinasya savanasya vṛtrahann anedya pibā somasya vajrivaḥ //
+RV_8,037.02a sehāna ugra pṛtanā abhi druhaḥ śacīpata indra viśvābhir ūtibhiḥ /
+RV_8,037.02d mādhyandinasya savanasya vṛtrahann anedya pibā somasya vajrivaḥ //
+RV_8,037.03a ekarāḷ asya bhuvanasya rājasi śacīpata indra viśvābhir ūtibhiḥ /
+RV_8,037.03d mādhyandinasya savanasya vṛtrahann anedya pibā somasya vajrivaḥ //
+RV_8,037.04a sasthāvānā yavayasi tvam eka ic chacīpata indra viśvābhir ūtibhiḥ /
+RV_8,037.04d mādhyandinasya savanasya vṛtrahann anedya pibā somasya vajrivaḥ //
+RV_8,037.05a kṣemasya ca prayujaś ca tvam īśiṣe śacīpata indra viśvābhir ūtibhiḥ /
+RV_8,037.05d mādhyandinasya savanasya vṛtrahann anedya pibā somasya vajrivaḥ //
+RV_8,037.06a kṣatrāya tvam avasi na tvam āvitha śacīpata indra viśvābhir ūtibhiḥ /
+RV_8,037.06d mādhyandinasya savanasya vṛtrahann anedya pibā somasya vajrivaḥ //
+RV_8,037.07a śyāvāśvasya rebhatas tathā śṛṇu yathāśṛṇor atreḥ karmāṇi kṛṇvataḥ /
+RV_8,037.07c pra trasadasyum āvitha tvam eka in nṛṣāhya indra kṣatrāṇi vardhayan //
+RV_8,038.01a yajñasya hi stha ṛtvijā sasnī vājeṣu karmasu /
+RV_8,038.01c indrāgnī tasya bodhatam //
+RV_8,038.02a tośāsā rathayāvānā vṛtrahaṇāparājitā /
+RV_8,038.02c indrāgnī tasya bodhatam //
+RV_8,038.03a idaṃ vām madiram madhv adhukṣann adribhir naraḥ /
+RV_8,038.03c indrāgnī tasya bodhatam //
+RV_8,038.04a juṣethāṃ yajñam iṣṭaye sutaṃ somaṃ sadhastutī /
+RV_8,038.04c indrāgnī ā gataṃ narā //
+RV_8,038.05a imā juṣethāṃ savanā yebhir havyāny ūhathuḥ /
+RV_8,038.05c indrāgnī ā gataṃ narā //
+RV_8,038.06a imāṃ gāyatravartaniṃ juṣethāṃ suṣṭutim mama /
+RV_8,038.06c indrāgnī ā gataṃ narā //
+RV_8,038.07a prātaryāvabhir ā gataṃ devebhir jenyāvasū /
+RV_8,038.07c indrāgnī somapītaye //
+RV_8,038.08a śyāvāśvasya sunvato 'trīṇāṃ śṛṇutaṃ havam /
+RV_8,038.08c indrāgnī somapītaye //
+RV_8,038.09a evā vām ahva ūtaye yathāhuvanta medhirāḥ /
+RV_8,038.09c indrāgnī somapītaye //
+RV_8,038.10a āhaṃ sarasvatīvator indrāgnyor avo vṛṇe /
+RV_8,038.10c yābhyāṃ gāyatram ṛcyate //
+RV_8,039.01a agnim astoṣy ṛgmiyam agnim īḷā yajadhyai /
+RV_8,039.01c agnir devāṃ anaktu na ubhe hi vidathe kavir antaś carati dūtyaṃ nabhantām anyake same //
+RV_8,039.02a ny agne navyasā vacas tanūṣu śaṃsam eṣām /
+RV_8,039.02c ny arātī rarāvṇāṃ viśvā aryo arātīr ito yucchantv āmuro nabhantām anyake same //
+RV_8,039.03a agne manmāni tubhyaṃ kaṃ ghṛtaṃ na juhva āsani /
+RV_8,039.03c sa deveṣu pra cikiddhi tvaṃ hy asi pūrvyaḥ śivo dūto vivasvato nabhantām anyake same //
+RV_8,039.04a tat-tad agnir vayo dadhe yathā-yathā kṛpaṇyati /
+RV_8,039.04c ūrjāhutir vasūnāṃ śaṃ ca yoś ca mayo dadhe viśvasyai devahūtyai nabhantām anyake same //
+RV_8,039.05a sa ciketa sahīyasāgniś citreṇa karmaṇā /
+RV_8,039.05c sa hotā śaśvatīnāṃ dakṣiṇābhir abhīvṛta inoti ca pratīvyaṃ nabhantām anyake same //
+RV_8,039.06a agnir jātā devānām agnir veda martānām apīcyam /
+RV_8,039.06c agniḥ sa draviṇodā agnir dvārā vy ūrṇute svāhuto navīyasā nabhantām anyake same //
+RV_8,039.07a agnir deveṣu saṃvasuḥ sa vikṣu yajñiyāsv ā /
+RV_8,039.07c sa mudā kāvyā puru viśvam bhūmeva puṣyati devo deveṣu yajñiyo nabhantām anyake same //
+RV_8,039.08a yo agniḥ saptamānuṣaḥ śrito viśveṣu sindhuṣu /
+RV_8,039.08c tam āganma tripastyam mandhātur dasyuhantamam agniṃ yajñeṣu pūrvyaṃ nabhantām anyake same //
+RV_8,039.09a agnis trīṇi tridhātūny ā kṣeti vidathā kaviḥ /
+RV_8,039.09c sa trīṃr ekādaśāṃ iha yakṣac ca piprayac ca no vipro dūtaḥ pariṣkṛto nabhantām anyake same //
+RV_8,039.10a tvaṃ no agna āyuṣu tvaṃ deveṣu pūrvya vasva eka irajyasi /
+RV_8,039.10d tvām āpaḥ parisrutaḥ pari yanti svasetavo nabhantām anyake same //
+RV_8,040.01a indrāgnī yuvaṃ su naḥ sahantā dāsatho rayim /
+RV_8,040.01c yena dṛḷhā samatsv ā vīḷu cit sāhiṣīmahy agnir vaneva vāta in nabhantām anyake same //
+RV_8,040.02a nahi vāṃ vavrayāmahe 'thendram id yajāmahe śaviṣṭhaṃ nṛṇāṃ naram /
+RV_8,040.02d sa naḥ kadā cid arvatā gamad ā vājasātaye gamad ā medhasātaye nabhantām anyake same //
+RV_8,040.03a tā hi madhyam bharāṇām indrāgnī adhikṣitaḥ /
+RV_8,040.03c tā u kavitvanā kavī pṛcchyamānā sakhīyate saṃ dhītam aśnutaṃ narā nabhantām anyake same //
+RV_8,040.04a abhy arca nabhākavad indrāgnī yajasā girā /
+RV_8,040.04c yayor viśvam idaṃ jagad iyaṃ dyauḥ pṛthivī mahy upasthe bibhṛto vasu nabhantām anyake same //
+RV_8,040.05a pra brahmāṇi nabhākavad indrāgnibhyām irajyata /
+RV_8,040.05c yā saptabudhnam arṇavaṃ jihmabāram aporṇuta indra īśāna ojasā nabhantām anyake same //
+RV_8,040.06a api vṛśca purāṇavad vratater iva guṣpitam ojo dāsasya dambhaya /
+RV_8,040.06d vayaṃ tad asya sambhṛtaṃ vasv indreṇa vi bhajemahi nabhantām anyake same //
+RV_8,040.07a yad indrāgnī janā ime vihvayante tanā girā /
+RV_8,040.07c asmākebhir nṛbhir vayaṃ sāsahyāma pṛtanyato vanuyāma vanuṣyato nabhantām anyake same //
+RV_8,040.08a yā nu śvetāv avo diva uccarāta upa dyubhiḥ /
+RV_8,040.08c indrāgnyor anu vratam uhānā yanti sindhavo yān sīm bandhād amuñcatāṃ nabhantām anyake same //
+RV_8,040.09a pūrvīṣ ṭa indropamātayaḥ pūrvīr uta praśastayaḥ sūno hinvasya harivaḥ /
+RV_8,040.09d vasvo vīrasyāpṛco yā nu sādhanta no dhiyo nabhantām anyake same //
+RV_8,040.10a taṃ śiśītā suvṛktibhis tveṣaṃ satvānam ṛgmiyam /
+RV_8,040.10c uto nu cid ya ojasā śuṣṇasyāṇḍāni bhedati jeṣat svarvatīr apo nabhantām anyake same //
+RV_8,040.11a taṃ śiśītā svadhvaraṃ satyaṃ satvānam ṛtviyam /
+RV_8,040.11c uto nu cid ya ohata āṇḍā śuṣṇasya bhedaty ajaiḥ svarvatīr apo nabhantām anyake same //
+RV_8,040.12a evendrāgnibhyām pitṛvan navīyo mandhātṛvad aṅgirasvad avāci /
+RV_8,040.12c tridhātunā śarmaṇā pātam asmān vayaṃ syāma patayo rayīṇām //
+RV_8,041.01a asmā ū ṣu prabhūtaye varuṇāya marudbhyo 'rcā viduṣṭarebhyaḥ /
+RV_8,041.01d yo dhītā mānuṣāṇām paśvo gā iva rakṣati nabhantām anyake same //
+RV_8,041.02a tam ū ṣu samanā girā pitṝṇāṃ ca manmabhiḥ /
+RV_8,041.02c nābhākasya praśastibhir yaḥ sindhūnām upodaye saptasvasā sa madhyamo nabhantām anyake same //
+RV_8,041.03a sa kṣapaḥ pari ṣasvaje ny usro māyayā dadhe sa viśvam pari darśataḥ /
+RV_8,041.03d tasya venīr anu vratam uṣas tisro avardhayan nabhantām anyake same //
+RV_8,041.04a yaḥ kakubho nidhārayaḥ pṛthivyām adhi darśataḥ /
+RV_8,041.04c sa mātā pūrvyam padaṃ tad varuṇasya saptyaṃ sa hi gopā iveryo nabhantām anyake same //
+RV_8,041.05a yo dhartā bhuvanānāṃ ya usrāṇām apīcyā veda nāmāni guhyā /
+RV_8,041.05d sa kaviḥ kāvyā puru rūpaṃ dyaur iva puṣyati nabhantām anyake same //
+RV_8,041.06a yasmin viśvāni kāvyā cakre nābhir iva śritā /
+RV_8,041.06c tritaṃ jūtī saparyata vraje gāvo na saṃyuje yuje aśvāṃ ayukṣata nabhantām anyake same //
+RV_8,041.07a ya āsv atka āśaye viśvā jātāny eṣām /
+RV_8,041.07c pari dhāmāni marmṛśad varuṇasya puro gaye viśve devā anu vrataṃ nabhantām anyake same //
+RV_8,041.08a sa samudro apīcyas turo dyām iva rohati ni yad āsu yajur dadhe /
+RV_8,041.08d sa māyā arcinā padāstṛṇān nākam āruhan nabhantām anyake same //
+RV_8,041.09a yasya śvetā vicakṣaṇā tisro bhūmīr adhikṣitaḥ /
+RV_8,041.09c trir uttarāṇi papratur varuṇasya dhruvaṃ sadaḥ sa saptānām irajyati nabhantām anyake same //
+RV_8,041.10a yaḥ śvetāṃ adhinirṇijaś cakre kṛṣṇāṃ anu vratā /
+RV_8,041.10c sa dhāma pūrvyam mame ya skambhena vi rodasī ajo na dyām adhārayan nabhantām anyake same //
+RV_8,042.01a astabhnād dyām asuro viśvavedā amimīta varimāṇam pṛthivyāḥ /
+RV_8,042.01c āsīdad viśvā bhuvanāni samrāḍ viśvet tāni varuṇasya vratāni //
+RV_8,042.02a evā vandasva varuṇam bṛhantaṃ namasyā dhīram amṛtasya gopām /
+RV_8,042.02c sa naḥ śarma trivarūthaṃ vi yaṃsat pātaṃ no dyāvāpṛthivī upasthe //
+RV_8,042.03a imāṃ dhiyaṃ śikṣamāṇasya deva kratuṃ dakṣaṃ varuṇa saṃ śiśādhi /
+RV_8,042.03c yayāti viśvā duritā tarema sutarmāṇam adhi nāvaṃ ruhema //
+RV_8,042.04a ā vāṃ grāvāṇo aśvinā dhībhir viprā acucyavuḥ /
+RV_8,042.04c nāsatyā somapītaye nabhantām anyake same //
+RV_8,042.05a yathā vām atrir aśvinā gīrbhir vipro ajohavīt /
+RV_8,042.05c nāsatyā somapītaye nabhantām anyake same //
+RV_8,042.06a evā vām ahva ūtaye yathāhuvanta medhirāḥ /
+RV_8,042.06c nāsatyā somapītaye nabhantām anyake same //
+RV_8,043.01a ime viprasya vedhaso 'gner astṛtayajvanaḥ /
+RV_8,043.01c gira stomāsa īrate //
+RV_8,043.02a asmai te pratiharyate jātavedo vicarṣaṇe /
+RV_8,043.02c agne janāmi suṣṭutim //
+RV_8,043.03a ārokā iva ghed aha tigmā agne tava tviṣaḥ /
+RV_8,043.03c dadbhir vanāni bapsati //
+RV_8,043.04a harayo dhūmaketavo vātajūtā upa dyavi /
+RV_8,043.04c yatante vṛthag agnayaḥ //
+RV_8,043.05a ete tye vṛthag agnaya iddhāsaḥ sam adṛkṣata /
+RV_8,043.05c uṣasām iva ketavaḥ //
+RV_8,043.06a kṛṣṇā rajāṃsi patsutaḥ prayāṇe jātavedasaḥ /
+RV_8,043.06c agnir yad rodhati kṣami //
+RV_8,043.07a dhāsiṃ kṛṇvāna oṣadhīr bapsad agnir na vāyati /
+RV_8,043.07c punar yan taruṇīr api //
+RV_8,043.08a jihvābhir aha nannamad arciṣā jañjaṇābhavan /
+RV_8,043.08c agnir vaneṣu rocate //
+RV_8,043.09a apsv agne sadhiṣ ṭava sauṣadhīr anu rudhyase /
+RV_8,043.09c garbhe sañ jāyase punaḥ //
+RV_8,043.10a ud agne tava tad ghṛtād arcī rocata āhutam /
+RV_8,043.10c niṃsānaṃ juhvo mukhe //
+RV_8,043.11a ukṣānnāya vaśānnāya somapṛṣṭhāya vedhase /
+RV_8,043.11c stomair vidhemāgnaye //
+RV_8,043.12a uta tvā namasā vayaṃ hotar vareṇyakrato /
+RV_8,043.12c agne samidbhir īmahe //
+RV_8,043.13a uta tvā bhṛguvac chuce manuṣvad agna āhuta /
+RV_8,043.13c aṅgirasvad dhavāmahe //
+RV_8,043.14a tvaṃ hy agne agninā vipro vipreṇa san satā /
+RV_8,043.14c sakhā sakhyā samidhyase //
+RV_8,043.15a sa tvaṃ viprāya dāśuṣe rayiṃ dehi sahasriṇam /
+RV_8,043.15c agne vīravatīm iṣam //
+RV_8,043.16a agne bhrātaḥ sahaskṛta rohidaśva śucivrata /
+RV_8,043.16c imaṃ stomaṃ juṣasva me //
+RV_8,043.17a uta tvāgne mama stuto vāśrāya pratiharyate /
+RV_8,043.17c goṣṭhaṃ gāva ivāśata //
+RV_8,043.18a tubhyaṃ tā aṅgirastama viśvāḥ sukṣitayaḥ pṛthak /
+RV_8,043.18c agne kāmāya yemire //
+RV_8,043.19a agniṃ dhībhir manīṣiṇo medhirāso vipaścitaḥ /
+RV_8,043.19c admasadyāya hinvire //
+RV_8,043.20a taṃ tvām ajmeṣu vājinaṃ tanvānā agne adhvaram /
+RV_8,043.20c vahniṃ hotāram īḷate //
+RV_8,043.21a purutrā hi sadṛṅṅ asi viśo viśvā anu prabhuḥ /
+RV_8,043.21c samatsu tvā havāmahe //
+RV_8,043.22a tam īḷiṣva ya āhuto 'gnir vibhrājate ghṛtaiḥ /
+RV_8,043.22c imaṃ naḥ śṛṇavad dhavam //
+RV_8,043.23a taṃ tvā vayaṃ havāmahe śṛṇvantaṃ jātavedasam /
+RV_8,043.23c agne ghnantam apa dviṣaḥ //
+RV_8,043.24a viśāṃ rājānam adbhutam adhyakṣaṃ dharmaṇām imam /
+RV_8,043.24c agnim īḷe sa u śravat //
+RV_8,043.25a agniṃ viśvāyuvepasam maryaṃ na vājinaṃ hitam /
+RV_8,043.25c saptiṃ na vājayāmasi //
+RV_8,043.26a ghnan mṛdhrāṇy apa dviṣo dahan rakṣāṃsi viśvahā /
+RV_8,043.26c agne tigmena dīdihi //
+RV_8,043.27a yaṃ tvā janāsa indhate manuṣvad aṅgirastama /
+RV_8,043.27c agne sa bodhi me vacaḥ //
+RV_8,043.28a yad agne divijā asy apsujā vā sahaskṛta /
+RV_8,043.28c taṃ tvā gīrbhir havāmahe //
+RV_8,043.29a tubhyaṃ ghet te janā ime viśvāḥ sukṣitayaḥ pṛthak /
+RV_8,043.29c dhāsiṃ hinvanty attave //
+RV_8,043.30a te ghed agne svādhyo 'hā viśvā nṛcakṣasaḥ /
+RV_8,043.30c tarantaḥ syāma durgahā //
+RV_8,043.31a agnim mandram purupriyaṃ śīram pāvakaśociṣam /
+RV_8,043.31c hṛdbhir mandrebhir īmahe //
+RV_8,043.32a sa tvam agne vibhāvasuḥ sṛjan sūryo na raśmibhiḥ /
+RV_8,043.32c śardhan tamāṃsi jighnase //
+RV_8,043.33a tat te sahasva īmahe dātraṃ yan nopadasyati /
+RV_8,043.33c tvad agne vāryaṃ vasu //
+RV_8,044.01a samidhāgniṃ duvasyata ghṛtair bodhayatātithim /
+RV_8,044.01c āsmin havyā juhotana //
+RV_8,044.02a agne stomaṃ juṣasva me vardhasvānena manmanā /
+RV_8,044.02c prati sūktāni harya naḥ //
+RV_8,044.03a agniṃ dūtam puro dadhe havyavāham upa bruve /
+RV_8,044.03c devāṃ ā sādayād iha //
+RV_8,044.04a ut te bṛhanto arcayaḥ samidhānasya dīdivaḥ /
+RV_8,044.04c agne śukrāsa īrate //
+RV_8,044.05a upa tvā juhvo mama ghṛtācīr yantu haryata /
+RV_8,044.05c agne havyā juṣasva naḥ //
+RV_8,044.06a mandraṃ hotāram ṛtvijaṃ citrabhānuṃ vibhāvasum /
+RV_8,044.06c agnim īḷe sa u śravat //
+RV_8,044.07a pratnaṃ hotāram īḍyaṃ juṣṭam agniṃ kavikratum /
+RV_8,044.07c adhvarāṇām abhiśriyam //
+RV_8,044.08a juṣāṇo aṅgirastamemā havyāny ānuṣak /
+RV_8,044.08c agne yajñaṃ naya ṛtuthā //
+RV_8,044.09a samidhāna u santya śukraśoca ihā vaha /
+RV_8,044.09c cikitvān daivyaṃ janam //
+RV_8,044.10a vipraṃ hotāram adruhaṃ dhūmaketuṃ vibhāvasum /
+RV_8,044.10c yajñānāṃ ketum īmahe //
+RV_8,044.11a agne ni pāhi nas tvam prati ṣma deva rīṣataḥ /
+RV_8,044.11c bhindhi dveṣaḥ sahaskṛta //
+RV_8,044.12a agniḥ pratnena manmanā śumbhānas tanvaṃ svām /
+RV_8,044.12c kavir vipreṇa vāvṛdhe //
+RV_8,044.13a ūrjo napātam ā huve 'gnim pāvakaśociṣam /
+RV_8,044.13c asmin yajñe svadhvare //
+RV_8,044.14a sa no mitramahas tvam agne śukreṇa śociṣā /
+RV_8,044.14c devair ā satsi barhiṣi //
+RV_8,044.15a yo agniṃ tanvo dame devam martaḥ saparyati /
+RV_8,044.15c tasmā id dīdayad vasu //
+RV_8,044.16a agnir mūrdhā divaḥ kakut patiḥ pṛthivyā ayam /
+RV_8,044.16c apāṃ retāṃsi jinvati //
+RV_8,044.17a ud agne śucayas tava śukrā bhrājanta īrate /
+RV_8,044.17c tava jyotīṃṣy arcayaḥ //
+RV_8,044.18a īśiṣe vāryasya hi dātrasyāgne svarpatiḥ /
+RV_8,044.18c stotā syāṃ tava śarmaṇi //
+RV_8,044.19a tvām agne manīṣiṇas tvāṃ hinvanti cittibhiḥ /
+RV_8,044.19c tvāṃ vardhantu no giraḥ //
+RV_8,044.20a adabdhasya svadhāvato dūtasya rebhataḥ sadā /
+RV_8,044.20c agneḥ sakhyaṃ vṛṇīmahe //
+RV_8,044.21a agniḥ śucivratatamaḥ śucir vipraḥ śuciḥ kaviḥ /
+RV_8,044.21c śucī rocata āhutaḥ //
+RV_8,044.22a uta tvā dhītayo mama giro vardhantu viśvahā /
+RV_8,044.22c agne sakhyasya bodhi naḥ //
+RV_8,044.23a yad agne syām ahaṃ tvaṃ tvaṃ vā ghā syā aham /
+RV_8,044.23c syuṣ ṭe satyā ihāśiṣaḥ //
+RV_8,044.24a vasur vasupatir hi kam asy agne vibhāvasuḥ /
+RV_8,044.24c syāma te sumatāv api //
+RV_8,044.25a agne dhṛtavratāya te samudrāyeva sindhavaḥ /
+RV_8,044.25c giro vāśrāsa īrate //
+RV_8,044.26a yuvānaṃ viśpatiṃ kaviṃ viśvādam puruvepasam /
+RV_8,044.26c agniṃ śumbhāmi manmabhiḥ //
+RV_8,044.27a yajñānāṃ rathye vayaṃ tigmajambhāya vīḷave /
+RV_8,044.27c stomair iṣemāgnaye //
+RV_8,044.28a ayam agne tve api jaritā bhūtu santya /
+RV_8,044.28c tasmai pāvaka mṛḷaya //
+RV_8,044.29a dhīro hy asy admasad vipro na jāgṛviḥ sadā /
+RV_8,044.29c agne dīdayasi dyavi //
+RV_8,044.30a purāgne duritebhyaḥ purā mṛdhrebhyaḥ kave /
+RV_8,044.30c pra ṇa āyur vaso tira //
+RV_8,045.01a ā ghā ye agnim indhate stṛṇanti barhir ānuṣak /
+RV_8,045.01c yeṣām indro yuvā sakhā //
+RV_8,045.02a bṛhann id idhma eṣām bhūri śastam pṛthuḥ svaruḥ /
+RV_8,045.02c yeṣām indro yuvā sakhā //
+RV_8,045.03a ayuddha id yudhā vṛtaṃ śūra ājati satvabhiḥ /
+RV_8,045.03c yeṣām indro yuvā sakhā //
+RV_8,045.04a ā bundaṃ vṛtrahā dade jātaḥ pṛcchad vi mātaram /
+RV_8,045.04c ka ugrāḥ ke ha śṛṇvire //
+RV_8,045.05a prati tvā śavasī vadad girāv apso na yodhiṣat /
+RV_8,045.05c yas te śatrutvam ācake //
+RV_8,045.06a uta tvam maghavañ chṛṇu yas te vaṣṭi vavakṣi tat /
+RV_8,045.06c yad vīḷayāsi vīḷu tat //
+RV_8,045.07a yad ājiṃ yāty ājikṛd indraḥ svaśvayur upa /
+RV_8,045.07c rathītamo rathīnām //
+RV_8,045.08a vi ṣu viśvā abhiyujo vajrin viṣvag yathā vṛha /
+RV_8,045.08c bhavā naḥ suśravastamaḥ //
+RV_8,045.09a asmākaṃ su ratham pura indraḥ kṛṇotu sātaye /
+RV_8,045.09c na yaṃ dhūrvanti dhūrtayaḥ //
+RV_8,045.10a vṛjyāma te pari dviṣo 'raṃ te śakra dāvane /
+RV_8,045.10c gamemed indra gomataḥ //
+RV_8,045.11a śanaiś cid yanto adrivo 'śvāvantaḥ śatagvinaḥ /
+RV_8,045.11c vivakṣaṇā anehasaḥ //
+RV_8,045.12a ūrdhvā hi te dive-dive sahasrā sūnṛtā śatā /
+RV_8,045.12c jaritṛbhyo vimaṃhate //
+RV_8,045.13a vidmā hi tvā dhanañjayam indra dṛḷhā cid ārujam /
+RV_8,045.13c ādāriṇaṃ yathā gayam //
+RV_8,045.14a kakuhaṃ cit tvā kave mandantu dhṛṣṇav indavaḥ /
+RV_8,045.14c ā tvā paṇiṃ yad īmahe //
+RV_8,045.15a yas te revāṃ adāśuriḥ pramamarṣa maghattaye /
+RV_8,045.15c tasya no veda ā bhara //
+RV_8,045.16a ima u tvā vi cakṣate sakhāya indra sominaḥ /
+RV_8,045.16c puṣṭāvanto yathā paśum //
+RV_8,045.17a uta tvābadhiraṃ vayaṃ śrutkarṇaṃ santam ūtaye /
+RV_8,045.17c dūrād iha havāmahe //
+RV_8,045.18a yac chuśrūyā imaṃ havaṃ durmarṣaṃ cakriyā uta /
+RV_8,045.18c bhaver āpir no antamaḥ //
+RV_8,045.19a yac cid dhi te api vyathir jaganvāṃso amanmahi /
+RV_8,045.19c godā id indra bodhi naḥ //
+RV_8,045.20a ā tvā rambhaṃ na jivrayo rarabhmā śavasas pate /
+RV_8,045.20c uśmasi tvā sadhastha ā //
+RV_8,045.21a stotram indrāya gāyata purunṛmṇāya satvane /
+RV_8,045.21c nakir yaṃ vṛṇvate yudhi //
+RV_8,045.22a abhi tvā vṛṣabhā sute sutaṃ sṛjāmi pītaye /
+RV_8,045.22c tṛmpā vy aśnuhī madam //
+RV_8,045.23a mā tvā mūrā aviṣyavo mopahasvāna ā dabhan /
+RV_8,045.23c mākīm brahmadviṣo vanaḥ //
+RV_8,045.24a iha tvā goparīṇasā mahe mandantu rādhase /
+RV_8,045.24c saro gauro yathā piba //
+RV_8,045.25a yā vṛtrahā parāvati sanā navā ca cucyuve /
+RV_8,045.25c tā saṃsatsu pra vocata //
+RV_8,045.26a apibat kadruvaḥ sutam indraḥ sahasrabāhve /
+RV_8,045.26c atrādediṣṭa pauṃsyam //
+RV_8,045.27a satyaṃ tat turvaśe yadau vidāno ahnavāyyam /
+RV_8,045.27c vy ānaṭ turvaṇe śami //
+RV_8,045.28a taraṇiṃ vo janānāṃ tradaṃ vājasya gomataḥ /
+RV_8,045.28c samānam u pra śaṃsiṣam //
+RV_8,045.29a ṛbhukṣaṇaṃ na vartava uktheṣu tugryāvṛdham /
+RV_8,045.29c indraṃ some sacā sute //
+RV_8,045.30a yaḥ kṛntad id vi yonyaṃ triśokāya girim pṛthum /
+RV_8,045.30c gobhyo gātuṃ niretave //
+RV_8,045.31a yad dadhiṣe manasyasi mandānaḥ pred iyakṣasi /
+RV_8,045.31c mā tat kar indra mṛḷaya //
+RV_8,045.32a dabhraṃ cid dhi tvāvataḥ kṛtaṃ śṛṇve adhi kṣami /
+RV_8,045.32c jigātv indra te manaḥ //
+RV_8,045.33a taved u tāḥ sukīrtayo 'sann uta praśastayaḥ /
+RV_8,045.33c yad indra mṛḷayāsi naḥ //
+RV_8,045.34a mā na ekasminn āgasi mā dvayor uta triṣu /
+RV_8,045.34c vadhīr mā śūra bhūriṣu //
+RV_8,045.35a bibhayā hi tvāvata ugrād abhiprabhaṅgiṇaḥ /
+RV_8,045.35c dasmād aham ṛtīṣahaḥ //
+RV_8,045.36a mā sakhyuḥ śūnam ā vide mā putrasya prabhūvaso /
+RV_8,045.36c āvṛtvad bhūtu te manaḥ //
+RV_8,045.37a ko nu maryā amithitaḥ sakhā sakhāyam abravīt /
+RV_8,045.37c jahā ko asmad īṣate //
+RV_8,045.38a evāre vṛṣabhā sute 'sinvan bhūry āvayaḥ /
+RV_8,045.38c śvaghnīva nivatā caran //
+RV_8,045.39a ā ta etā vacoyujā harī gṛbhṇe sumadrathā /
+RV_8,045.39c yad īm brahmabhya id dadaḥ //
+RV_8,045.40a bhindhi viśvā apa dviṣaḥ pari bādho jahī mṛdhaḥ /
+RV_8,045.40c vasu spārhaṃ tad ā bhara //
+RV_8,045.41a yad vīḷāv indra yat sthire yat parśāne parābhṛtam /
+RV_8,045.41c vasu spārhaṃ tad ā bhara //
+RV_8,045.42a yasya te viśvamānuṣo bhūrer dattasya vedati /
+RV_8,045.42c vasu spārhaṃ tad ā bhara //
+RV_8,046.01a tvāvataḥ purūvaso vayam indra praṇetaḥ /
+RV_8,046.01c smasi sthātar harīṇām //
+RV_8,046.02a tvāṃ hi satyam adrivo vidma dātāram iṣām /
+RV_8,046.02c vidma dātāraṃ rayīṇām //
+RV_8,046.03a ā yasya te mahimānaṃ śatamūte śatakrato /
+RV_8,046.03c gīrbhir gṛṇanti kāravaḥ //
+RV_8,046.04a sunītho ghā sa martyo yam maruto yam aryamā /
+RV_8,046.04c mitraḥ pānty adruhaḥ //
+RV_8,046.05a dadhāno gomad aśvavat suvīryam ādityajūta edhate /
+RV_8,046.05c sadā rāyā puruspṛhā //
+RV_8,046.06a tam indraṃ dānam īmahe śavasānam abhīrvam /
+RV_8,046.06c īśānaṃ rāya īmahe //
+RV_8,046.07a tasmin hi santy ūtayo viśvā abhīravaḥ sacā /
+RV_8,046.07c tam ā vahantu saptayaḥ purūvasum madāya harayaḥ sutam //
+RV_8,046.08a yas te mado vareṇyo ya indra vṛtrahantamaḥ /
+RV_8,046.08c ya ādadiḥ svar nṛbhir yaḥ pṛtanāsu duṣṭaraḥ //
+RV_8,046.09a yo duṣṭaro viśvavāra śravāyyo vājeṣv asti tarutā /
+RV_8,046.09c sa naḥ śaviṣṭha savanā vaso gahi gamema gomati vraje //
+RV_8,046.10a gavyo ṣu ṇo yathā purāśvayota rathayā /
+RV_8,046.10c varivasya mahāmaha //
+RV_8,046.11a nahi te śūra rādhaso 'ntaṃ vindāmi satrā /
+RV_8,046.11c daśasyā no maghavan nū cid adrivo dhiyo vājebhir āvitha //
+RV_8,046.12a ya ṛṣvaḥ śrāvayatsakhā viśvet sa veda janimā puruṣṭutaḥ /
+RV_8,046.12c taṃ viśve mānuṣā yugendraṃ havante taviṣaṃ yatasrucaḥ //
+RV_8,046.13a sa no vājeṣv avitā purūvasuḥ purasthātā maghavā vṛtrahā bhuvat //
+RV_8,046.14a abhi vo vīram andhaso madeṣu gāya girā mahā vicetasam /
+RV_8,046.14c indraṃ nāma śrutyaṃ śākinaṃ vaco yathā //
+RV_8,046.15a dadī rekṇas tanve dadir vasu dadir vājeṣu puruhūta vājinam /
+RV_8,046.15c nūnam atha //
+RV_8,046.16a viśveṣām irajyantaṃ vasūnāṃ sāsahvāṃsaṃ cid asya varpasaḥ /
+RV_8,046.16c kṛpayato nūnam aty atha //
+RV_8,046.17a mahaḥ su vo aram iṣe stavāmahe mīḷhuṣe araṅgamāya jagmaye /
+RV_8,046.17c yajñebhir gīrbhir viśvamanuṣām marutām iyakṣasi gāye tvā namasā girā //
+RV_8,046.18a ye pātayante ajmabhir girīṇāṃ snubhir eṣām /
+RV_8,046.18c yajñam mahiṣvaṇīnāṃ sumnaṃ tuviṣvaṇīnām prādhvare //
+RV_8,046.19a prabhaṅgaṃ durmatīnām indra śaviṣṭhā bhara /
+RV_8,046.19c rayim asmabhyaṃ yujyaṃ codayanmate jyeṣṭhaṃ codayanmate //
+RV_8,046.20a sanitaḥ susanitar ugra citra cetiṣṭha sūnṛta /
+RV_8,046.20c prāsahā samrāṭ sahuriṃ sahantam bhujyuṃ vājeṣu pūrvyam //
+RV_8,046.21a ā sa etu ya īvad āṃ adevaḥ pūrtam ādade /
+RV_8,046.21c yathā cid vaśo aśvyaḥ pṛthuśravasi kānīte 'syā vyuṣy ādade //
+RV_8,046.22a ṣaṣṭiṃ sahasrāśvyasyāyutāsanam uṣṭrānāṃ viṃśatiṃ śatā /
+RV_8,046.22c daśa śyāvīnāṃ śatā daśa tryaruṣīṇāṃ daśa gavāṃ sahasrā //
+RV_8,046.23a daśa śyāvā ṛdhadrayo vītavārāsa āśavaḥ /
+RV_8,046.23c mathrā nemiṃ ni vāvṛtuḥ //
+RV_8,046.24a dānāsaḥ pṛthuśravasaḥ kānītasya surādhasaḥ /
+RV_8,046.24c rathaṃ hiraṇyayaṃ dadan maṃhiṣṭhaḥ sūrir abhūd varṣiṣṭham akṛta śravaḥ //
+RV_8,046.25a ā no vāyo mahe tane yāhi makhāya pājase /
+RV_8,046.25c vayaṃ hi te cakṛmā bhūri dāvane sadyaś cin mahi dāvane //
+RV_8,046.26a yo aśvebhir vahate vasta usrās triḥ sapta saptatīnām /
+RV_8,046.26c ebhiḥ somebhiḥ somasudbhiḥ somapā dānāya śukrapūtapāḥ //
+RV_8,046.27a yo ma imaṃ cid u tmanāmandac citraṃ dāvane /
+RV_8,046.27c araṭve akṣe nahuṣe sukṛtvani sukṛttarāya sukratuḥ //
+RV_8,046.28a ucathye vapuṣi yaḥ svarāḷ uta vāyo ghṛtasnāḥ /
+RV_8,046.28c aśveṣitaṃ rajeṣitaṃ śuneṣitam prājma tad idaṃ nu tat //
+RV_8,046.29a adha priyam iṣirāya ṣaṣṭiṃ sahasrāsanam /
+RV_8,046.29c aśvānām in na vṛṣṇām //
+RV_8,046.30a gāvo na yūtham upa yanti vadhraya upa mā yanti vadhrayaḥ //
+RV_8,046.31a adha yac cārathe gaṇe śatam uṣṭrāṃ acikradat /
+RV_8,046.31c adha śvitneṣu viṃśatiṃ śatā //
+RV_8,046.32a śataṃ dāse balbūthe vipras tarukṣa ā dade /
+RV_8,046.32c te te vāyav ime janā madantīndragopā madanti devagopāḥ //
+RV_8,046.33a adha syā yoṣaṇā mahī pratīcī vaśam aśvyam /
+RV_8,046.33c adhirukmā vi nīyate //
+RV_8,047.01a mahi vo mahatām avo varuṇa mitra dāśuṣe /
+RV_8,047.01c yam ādityā abhi druho rakṣathā nem aghaṃ naśad anehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.02a vidā devā aghānām ādityāso apākṛtim /
+RV_8,047.02c pakṣā vayo yathopari vy asme śarma yacchatānehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.03a vy asme adhi śarma tat pakṣā vayo na yantana /
+RV_8,047.03c viśvāni viśvavedaso varūthyā manāmahe 'nehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.04a yasmā arāsata kṣayaṃ jīvātuṃ ca pracetasaḥ /
+RV_8,047.04c manor viśvasya ghed ima ādityā rāya īśate 'nehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.05a pari ṇo vṛṇajann aghā durgāṇi rathyo yathā /
+RV_8,047.05c syāmed indrasya śarmaṇy ādityānām utāvasy anehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.06a parihvṛted anā jano yuṣmādattasya vāyati /
+RV_8,047.06c devā adabhram āśa vo yam ādityā ahetanānehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.07a na taṃ tigmaṃ cana tyajo na drāsad abhi taṃ guru /
+RV_8,047.07c yasmā u śarma sapratha ādityāso arādhvam anehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.08a yuṣme devā api ṣmasi yudhyanta iva varmasu /
+RV_8,047.08c yūyam maho na enaso yūyam arbhād uruṣyatānehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.09a aditir na uruṣyatv aditiḥ śarma yacchatu /
+RV_8,047.09c mātā mitrasya revato 'ryamṇo varuṇasya cānehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.10a yad devāḥ śarma śaraṇaṃ yad bhadraṃ yad anāturam /
+RV_8,047.10c tridhātu yad varūthyaṃ tad asmāsu vi yantanānehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.11a ādityā ava hi khyatādhi kūlād iva spaśaḥ /
+RV_8,047.11c sutīrtham arvato yathānu no neṣathā sugam anehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.12a neha bhadraṃ rakṣasvine nāvayai nopayā uta /
+RV_8,047.12c gave ca bhadraṃ dhenave vīrāya ca śravasyate 'nehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.13a yad āvir yad apīcyaṃ devāso asti duṣkṛtam /
+RV_8,047.13c trite tad viśvam āptya āre asmad dadhātanānehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.14a yac ca goṣu duṣṣvapnyaṃ yac cāsme duhitar divaḥ /
+RV_8,047.14c tritāya tad vibhāvary āptyāya parā vahānehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.15a niṣkaṃ vā ghā kṛṇavate srajaṃ vā duhitar divaḥ /
+RV_8,047.15c trite duṣṣvapnyaṃ sarvam āptye pari dadmasy anehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.16a tadannāya tadapase tam bhāgam upaseduṣe /
+RV_8,047.16c tritāya ca dvitāya coṣo duṣṣvapnyaṃ vahānehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.17a yathā kalāṃ yathā śaphaṃ yatha ṛṇaṃ saṃnayāmasi /
+RV_8,047.17c evā duṣṣvapnyaṃ sarvam āptye saṃ nayāmasy anehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,047.18a ajaiṣmādyāsanāma cābhūmānāgaso vayam /
+RV_8,047.18c uṣo yasmād duṣṣvapnyād abhaiṣmāpa tad ucchatv anehaso va ūtayaḥ suūtayo va ūtayaḥ //
+RV_8,048.01a svādor abhakṣi vayasaḥ sumedhāḥ svādhyo varivovittarasya /
+RV_8,048.01c viśve yaṃ devā uta martyāso madhu bruvanto abhi saṃcaranti //
+RV_8,048.02a antaś ca prāgā aditir bhavāsy avayātā haraso daivyasya /
+RV_8,048.02c indav indrasya sakhyaṃ juṣāṇaḥ śrauṣṭīva dhuram anu rāya ṛdhyāḥ //
+RV_8,048.03a apāma somam amṛtā abhūmāganma jyotir avidāma devān /
+RV_8,048.03c kiṃ nūnam asmān kṛṇavad arātiḥ kim u dhūrtir amṛta martyasya //
+RV_8,048.04a śaṃ no bhava hṛda ā pīta indo piteva soma sūnave suśevaḥ /
+RV_8,048.04c sakheva sakhya uruśaṃsa dhīraḥ pra ṇa āyur jīvase soma tārīḥ //
+RV_8,048.05a ime mā pītā yaśasa uruṣyavo rathaṃ na gāvaḥ sam anāha parvasu /
+RV_8,048.05c te mā rakṣantu visrasaś caritrād uta mā srāmād yavayantv indavaḥ //
+RV_8,048.06a agniṃ na mā mathitaṃ saṃ didīpaḥ pra cakṣaya kṛṇuhi vasyaso naḥ /
+RV_8,048.06c athā hi te mada ā soma manye revāṃ iva pra carā puṣṭim accha //
+RV_8,048.07a iṣireṇa te manasā sutasya bhakṣīmahi pitryasyeva rāyaḥ /
+RV_8,048.07c soma rājan pra ṇa āyūṃṣi tārīr ahānīva sūryo vāsarāṇi //
+RV_8,048.08a soma rājan mṛḷayā naḥ svasti tava smasi vratyās tasya viddhi /
+RV_8,048.08c alarti dakṣa uta manyur indo mā no aryo anukāmam parā dāḥ //
+RV_8,048.09a tvaṃ hi nas tanvaḥ soma gopā gātre-gātre niṣasatthā nṛcakṣāḥ /
+RV_8,048.09c yat te vayam pramināma vratāni sa no mṛḷa suṣakhā deva vasyaḥ //
+RV_8,048.10a ṛdūdareṇa sakhyā saceya yo mā na riṣyed dharyaśva pītaḥ /
+RV_8,048.10c ayaṃ yaḥ somo ny adhāyy asme tasmā indram pratiram emy āyuḥ //
+RV_8,048.11a apa tyā asthur anirā amīvā nir atrasan tamiṣīcīr abhaiṣuḥ /
+RV_8,048.11c ā somo asmāṃ aruhad vihāyā aganma yatra pratiranta āyuḥ //
+RV_8,048.12a yo na induḥ pitaro hṛtsu pīto 'martyo martyāṃ āviveśa /
+RV_8,048.12c tasmai somāya haviṣā vidhema mṛḷīke asya sumatau syāma //
+RV_8,048.13a tvaṃ soma pitṛbhiḥ saṃvidāno 'nu dyāvāpṛthivī ā tatantha /
+RV_8,048.13c tasmai ta indo haviṣā vidhema vayaṃ syāma patayo rayīṇām //
+RV_8,048.14a trātāro devā adhi vocatā no mā no nidrā īśata mota jalpiḥ /
+RV_8,048.14c vayaṃ somasya viśvaha priyāsaḥ suvīrāso vidatham ā vadema //
+RV_8,048.15a tvaṃ naḥ soma viśvato vayodhās tvaṃ svarvid ā viśā nṛcakṣāḥ /
+RV_8,048.15c tvaṃ na inda ūtibhiḥ sajoṣāḥ pāhi paścātād uta vā purastāt //
+RV_8,049.01a abhi pra vaḥ surādhasam indram arca yathā vide /
+RV_8,049.01c yo jaritṛbhyo maghavā purūvasuḥ sahasreṇeva śikṣati //
+RV_8,049.02a śatānīkeva pra jigāti dhṛṣṇuyā hanti vṛtrāṇi dāśuṣe /
+RV_8,049.02c girer iva pra rasā asya pinvire datrāṇi purubhojasaḥ //
+RV_8,049.03a ā tvā sutāsa indavo madā ya indra girvaṇaḥ /
+RV_8,049.03c āpo na vajrinn anv okyaṃ saraḥ pṛṇanti śūra rādhase //
+RV_8,049.04a anehasam prataraṇaṃ vivakṣaṇam madhvaḥ svādiṣṭham īm piba /
+RV_8,049.04c ā yathā mandasānaḥ kirāsi naḥ pra kṣudreva tmanā dhṛṣat //
+RV_8,049.05a ā na stomam upa dravad dhiyāno aśvo na sotṛbhiḥ /
+RV_8,049.05c yaṃ te svadhāvan svadayanti dhenava indra kaṇveṣu rātayaḥ //
+RV_8,049.06a ugraṃ na vīraṃ namasopa sedima vibhūtim akṣitāvasum /
+RV_8,049.06c udrīva vajrinn avato na siñcate kṣarantīndra dhītayaḥ //
+RV_8,049.07a yad dha nūnaṃ yad vā yajñe yad vā pṛthivyām adhi /
+RV_8,049.07c ato no yajñam āśubhir mahemata ugra ugrebhir ā gahi //
+RV_8,049.08a ajirāso harayo ye ta āśavo vātā iva prasakṣiṇaḥ /
+RV_8,049.08c yebhir apatyam manuṣaḥ parīyase yebhir viśvaṃ svar dṛśe //
+RV_8,049.09a etāvatas ta īmaha indra sumnasya gomataḥ /
+RV_8,049.09c yathā prāvo maghavan medhyātithiṃ yathā nīpātithiṃ dhane //
+RV_8,049.10a yathā kaṇve maghavan trasadasyavi yathā pakthe daśavraje /
+RV_8,049.10c yathā gośarye asanor ṛjiśvanīndra gomad dhiraṇyavat //
+RV_8,050.01a pra su śrutaṃ surādhasam arcā śakram abhiṣṭaye /
+RV_8,050.01c yaḥ sunvate stuvate kāmyaṃ vasu sahasreṇeva maṃhate //
+RV_8,050.02a śatānīkā hetayo asya duṣṭarā indrasya samiṣo mahīḥ /
+RV_8,050.02c girir na bhujmā maghavatsu pinvate yad īṃ sutā amandiṣuḥ //
+RV_8,050.03a yad īṃ sutāsa indavo 'bhi priyam amandiṣuḥ /
+RV_8,050.03c āpo na dhāyi savanam ma ā vaso dughā ivopa dāśuṣe //
+RV_8,050.04a anehasaṃ vo havamānam ūtaye madhvaḥ kṣaranti dhītayaḥ /
+RV_8,050.04c ā tvā vaso havamānāsa indava upa stotreṣu dadhire //
+RV_8,050.05a ā naḥ some svadhvara iyāno atyo na tośate /
+RV_8,050.05c yaṃ te svadāvan svadanti gūrtayaḥ paure chandayase havam //
+RV_8,050.06a pra vīram ugraṃ viviciṃ dhanaspṛtaṃ vibhūtiṃ rādhaso mahaḥ /
+RV_8,050.06c udrīva vajrinn avato vasutvanā sadā pīpetha dāśuṣe //
+RV_8,050.07a yad dha nūnam parāvati yad vā pṛthivyāṃ divi /
+RV_8,050.07c yujāna indra haribhir mahemata ṛṣva ṛṣvebhir ā gahi //
+RV_8,050.08a rathirāso harayo ye te asridha ojo vātasya piprati /
+RV_8,050.08c yebhir ni dasyum manuṣo nighoṣayo yebhiḥ svaḥ parīyase //
+RV_8,050.09a etāvatas te vaso vidyāma śūra navyasaḥ /
+RV_8,050.09c yathā prāva etaśaṃ kṛtvye dhane yathā vaśaṃ daśavraje //
+RV_8,050.10a yathā kaṇve maghavan medhe adhvare dīrghanīthe damūnasi /
+RV_8,050.10c yathā gośarye asiṣāso adrivo mayi gotraṃ hariśriyam //
+RV_8,051.01a yathā manau sāṃvaraṇau somam indrāpibaḥ sutam /
+RV_8,051.01c nīpātithau maghavan medhyātithau puṣṭigau śruṣṭigau sacā //
+RV_8,051.02a pārṣadvāṇaḥ praskaṇvaṃ sam asādayac chayānaṃ jivrim uddhitam /
+RV_8,051.02c sahasrāṇy asiṣāsad gavām ṛṣis tvoto dasyave vṛkaḥ //
+RV_8,051.03a ya ukthebhir na vindhate cikid ya ṛṣicodanaḥ /
+RV_8,051.03c indraṃ tam acchā vada navyasyā maty ariṣyantaṃ na bhojase //
+RV_8,051.04a yasmā arkaṃ saptaśīrṣāṇam ānṛcus tridhātum uttame pade /
+RV_8,051.04c sa tv imā viśvā bhuvanāni cikradad ād ij janiṣṭa pauṃsyam //
+RV_8,051.05a yo no dātā vasūnām indraṃ taṃ hūmahe vayam /
+RV_8,051.05c vidmā hy asya sumatiṃ navīyasīṃ gamema gomati vraje //
+RV_8,051.06a yasmai tvaṃ vaso dānāya śikṣasi sa rāyas poṣam aśnute /
+RV_8,051.06c taṃ tvā vayam maghavann indra girvaṇaḥ sutāvanto havāmahe //
+RV_8,051.07a kadā cana starīr asi nendra saścasi dāśuṣe /
+RV_8,051.07c upopen nu maghavan bhūya in nu te dānaṃ devasya pṛcyate //
+RV_8,051.08a pra yo nanakṣe abhy ojasā kriviṃ vadhaiḥ śuṣṇaṃ nighoṣayan /
+RV_8,051.08c yaded astambhīt prathayann amūṃ divam ād ij janiṣṭa pārthivaḥ //
+RV_8,051.09a yasyāyaṃ viśva āryo dāsaḥ śevadhipā ariḥ /
+RV_8,051.09c tiraś cid arye ruśame parīravi tubhyet so ajyate rayiḥ //
+RV_8,051.10a turaṇyavo madhumantaṃ ghṛtaścutaṃ viprāso arkam ānṛcuḥ /
+RV_8,051.10c asme rayiḥ paprathe vṛṣṇyaṃ śavo 'sme suvānāsa indavaḥ //
+RV_8,052.01a yathā manau vivasvati somaṃ śakrāpibaḥ sutam /
+RV_8,052.01c yathā trite chanda indra jujoṣasy āyau mādayase sacā //
+RV_8,052.02a pṛṣadhre medhye mātariśvanīndra suvāne amandathāḥ /
+RV_8,052.02c yathā somaṃ daśaśipre daśoṇye syūmaraśmāv ṛjūnasi //
+RV_8,052.03a ya ukthā kevalā dadhe yaḥ somaṃ dhṛṣitāpibat /
+RV_8,052.03c yasmai viṣṇus trīṇi padā vicakrama upa mitrasya dharmabhiḥ //
+RV_8,052.04a yasya tvam indra stomeṣu cākano vāje vājiñ chatakrato /
+RV_8,052.04c taṃ tvā vayaṃ sudughām iva goduho juhūmasi śravasyavaḥ //
+RV_8,052.05a yo no dātā sa naḥ pitā mahāṃ ugra īśānakṛt /
+RV_8,052.05c ayāmann ugro maghavā purūvasur gor aśvasya pra dātu naḥ //
+RV_8,052.06a yasmai tvaṃ vaso dānāya maṃhase sa rāyas poṣam invati /
+RV_8,052.06c vasūyavo vasupatiṃ śatakratuṃ stomair indraṃ havāmahe //
+RV_8,052.07a kadā cana pra yucchasy ubhe ni pāsi janmanī /
+RV_8,052.07c turīyāditya havanaṃ ta indriyam ā tasthāv amṛtaṃ divi //
+RV_8,052.08a yasmai tvam maghavann indra girvaṇaḥ śikṣo śikṣasi dāśuṣe /
+RV_8,052.08c asmākaṃ gira uta suṣṭutiṃ vaso kaṇvavac chṛṇudhī havam //
+RV_8,052.09a astāvi manma pūrvyam brahmendrāya vocata /
+RV_8,052.09c pūrvīr ṛtasya bṛhatīr anūṣata stotur medhā asṛkṣata //
+RV_8,052.10a sam indro rāyo bṛhatīr adhūnuta saṃ kṣoṇī sam u sūryam /
+RV_8,052.10c saṃ śukrāsaḥ śucayaḥ saṃ gavāśiraḥ somā indram amandiṣuḥ //
+RV_8,053.01a upamaṃ tvā maghonāṃ jyeṣṭhaṃ ca vṛṣabhāṇām /
+RV_8,053.01c pūrbhittamam maghavann indra govidam īśānaṃ rāya īmahe //
+RV_8,053.02a ya āyuṃ kutsam atithigvam ardayo vāvṛdhāno dive-dive /
+RV_8,053.02c taṃ tvā vayaṃ haryaśvaṃ śatakratuṃ vājayanto havāmahe //
+RV_8,053.03a ā no viśveṣāṃ rasam madhvaḥ siñcantv adrayaḥ /
+RV_8,053.03c ye parāvati sunvire janeṣv ā ye arvāvatīndavaḥ //
+RV_8,053.04a viśvā dveṣāṃsi jahi cāva cā kṛdhi viśve sanvantv ā vasu /
+RV_8,053.04c śīṣṭeṣu cit te madirāso aṃśavo yatrā somasya tṛmpasi //
+RV_8,053.05a indra nedīya ed ihi mitamedhābhir ūtibhiḥ /
+RV_8,053.05c ā śantama śantamābhir abhiṣṭibhir ā svāpe svāpibhiḥ //
+RV_8,053.06a ājituraṃ satpatiṃ viśvacarṣaṇiṃ kṛdhi prajāsv ābhagam /
+RV_8,053.06c pra sū tirā śacībhir ye ta ukthinaḥ kratum punata ānuṣak //
+RV_8,053.07a yas te sādhiṣṭho 'vase te syāma bhareṣu te /
+RV_8,053.07c vayaṃ hotrābhir uta devahūtibhiḥ sasavāṃso manāmahe //
+RV_8,053.08a ahaṃ hi te harivo brahma vājayur ājiṃ yāmi sadotibhiḥ /
+RV_8,053.08c tvām id eva tam ame sam aśvayur gavyur agre mathīnām //
+RV_8,054.01a etat ta indra vīryaṃ gīrbhir gṛṇanti kāravaḥ /
+RV_8,054.01c te stobhanta ūrjam āvan ghṛtaścutam paurāso nakṣan dhītibhiḥ //
+RV_8,054.02a nakṣanta indram avase sukṛtyayā yeṣāṃ suteṣu mandase /
+RV_8,054.02c yathā saṃvarte amado yathā kṛśa evāsme indra matsva //
+RV_8,054.03a ā no viśve sajoṣaso devāso gantanopa naḥ /
+RV_8,054.03c vasavo rudrā avase na ā gamañ chṛṇvantu maruto havam //
+RV_8,054.04a pūṣā viṣṇur havanam me sarasvaty avantu sapta sindhavaḥ /
+RV_8,054.04c āpo vātaḥ parvatāso vanaspatiḥ śṛṇotu pṛthivī havam //
+RV_8,054.05a yad indra rādho asti te māghonam maghavattama /
+RV_8,054.05c tena no bodhi sadhamādyo vṛdhe bhago dānāya vṛtrahan //
+RV_8,054.06a ājipate nṛpate tvam id dhi no vāja ā vakṣi sukrato /
+RV_8,054.06c vītī hotrābhir uta devavītibhiḥ sasavāṃso vi śṛṇvire //
+RV_8,054.07a santi hy arya āśiṣa indra āyur janānām /
+RV_8,054.07c asmān nakṣasva maghavann upāvase dhukṣasva pipyuṣīm iṣam //
+RV_8,054.08a vayaṃ ta indra stomebhir vidhema tvam asmākaṃ śatakrato /
+RV_8,054.08c mahi sthūraṃ śaśayaṃ rādho ahrayam praskaṇvāya ni tośaya //
+RV_8,055.01a bhūrīd indrasya vīryaṃ vy akhyam abhy āyati /
+RV_8,055.01c rādhas te dasyave vṛka //
+RV_8,055.02a śataṃ śvetāsa ukṣaṇo divi tāro na rocante /
+RV_8,055.02c mahnā divaṃ na tastabhuḥ //
+RV_8,055.03a śataṃ veṇūñ chataṃ śunaḥ śataṃ carmāṇi mlātāni /
+RV_8,055.03c śatam me balbajastukā aruṣīṇāṃ catuḥśatam //
+RV_8,055.04a sudevā stha kāṇvāyanā vayo-vayo vicarantaḥ /
+RV_8,055.04c aśvāso na caṅkramata //
+RV_8,055.05a ād it sāptasya carkirann ānūnasya mahi śravaḥ /
+RV_8,055.05c śyāvīr atidhvasan pathaś cakṣuṣā cana saṃnaśe //
+RV_8,056.01a prati te dasyave vṛka rādho adarśy ahrayam /
+RV_8,056.01c dyaur na prathinā śavaḥ //
+RV_8,056.02a daśa mahyam pautakrataḥ sahasrā dasyave vṛkaḥ /
+RV_8,056.02c nityād rāyo amaṃhata //
+RV_8,056.03a śatam me gardabhānāṃ śatam ūrṇāvatīnām /
+RV_8,056.03c śataṃ dāsāṃ ati srajaḥ //
+RV_8,056.04a tatro api prāṇīyata pūtakratāyai vyaktā /
+RV_8,056.04c aśvānām in na yūthyām //
+RV_8,056.05a acety agniś cikitur havyavāṭ sa sumadrathaḥ /
+RV_8,056.05c agniḥ śukreṇa śociṣā bṛhat sūro arocata divi sūryo arocata //
+RV_8,057.01a yuvaṃ devā kratunā pūrvyeṇa yuktā rathena taviṣaṃ yajatrā /
+RV_8,057.01c āgacchataṃ nāsatyā śacībhir idaṃ tṛtīyaṃ savanam pibāthaḥ //
+RV_8,057.02a yuvāṃ devās traya ekādaśāsaḥ satyāḥ satyasya dadṛśe purastāt /
+RV_8,057.02c asmākaṃ yajñaṃ savanaṃ juṣāṇā pātaṃ somam aśvinā dīdyagnī //
+RV_8,057.03a panāyyaṃ tad aśvinā kṛtaṃ vāṃ vṛṣabho divo rajasaḥ pṛthivyāḥ /
+RV_8,057.03c sahasraṃ śaṃsā uta ye gaviṣṭau sarvāṃ it tāṃ upa yātā pibadhyai //
+RV_8,057.04a ayaṃ vām bhāgo nihito yajatremā giro nāsatyopa yātam /
+RV_8,057.04c pibataṃ somam madhumantam asme pra dāśvāṃsam avataṃ śacībhiḥ //
+RV_8,058.01a yam ṛtvijo bahudhā kalpayantaḥ sacetaso yajñam imaṃ vahanti /
+RV_8,058.01c yo anūcāno brāhmaṇo yukta āsīt kā svit tatra yajamānasya saṃvit //
+RV_8,058.02a eka evāgnir bahudhā samiddha ekaḥ sūryo viśvam anu prabhūtaḥ /
+RV_8,058.02c ekaivoṣāḥ sarvam idaṃ vi bhāty ekaṃ vā idaṃ vi babhūva sarvam //
+RV_8,058.03a jyotiṣmantaṃ ketumantaṃ tricakraṃ sukhaṃ rathaṃ suṣadam bhūrivāram /
+RV_8,058.03c citrāmaghā yasya yoge 'dhijajñe taṃ vāṃ huve ati riktam pibadhyai //
+RV_8,059.01a imāni vām bhāgadheyāni sisrata indrāvaruṇā pra mahe suteṣu vām /
+RV_8,059.01c yajñe-yajñe ha savanā bhuraṇyatho yat sunvate yajamānāya śikṣathaḥ //
+RV_8,059.02a niṣṣidhvarīr oṣadhīr āpa āstām indrāvaruṇā mahimānam āśata /
+RV_8,059.02c yā sisratū rajasaḥ pāre adhvano yayoḥ śatrur nakir ādeva ohate //
+RV_8,059.03a satyaṃ tad indrāvaruṇā kṛśasya vām madhva ūrmiṃ duhate sapta vāṇīḥ /
+RV_8,059.03c tābhir dāśvāṃsam avataṃ śubhas patī yo vām adabdho abhi pāti cittibhiḥ //
+RV_8,059.04a ghṛtapruṣaḥ saumyā jīradānavaḥ sapta svasāraḥ sadana ṛtasya /
+RV_8,059.04c yā ha vām indrāvaruṇā ghṛtaścutas tābhir dhattaṃ yajamānāya śikṣatam //
+RV_8,059.05a avocāma mahate saubhagāya satyaṃ tveṣābhyām mahimānam indriyam /
+RV_8,059.05c asmān sv indrāvaruṇā ghṛtaścutas tribhiḥ sāptebhir avataṃ śubhas patī //
+RV_8,059.06a indrāvaruṇā yad ṛṣibhyo manīṣāṃ vāco matiṃ śrutam adattam agre /
+RV_8,059.06c yāni sthānāny asṛjanta dhīrā yajñaṃ tanvānās tapasābhy apaśyam //
+RV_8,059.07a indrāvaruṇā saumanasam adṛptaṃ rāyas poṣaṃ yajamāneṣu dhattam /
+RV_8,059.07c prajām puṣṭim bhūtim asmāsu dhattaṃ dīrghāyutvāya pra tirataṃ na āyuḥ //
+RV_8,060.01a agna ā yāhy agnibhir hotāraṃ tvā vṛṇīmahe /
+RV_8,060.01c ā tvām anaktu prayatā haviṣmatī yajiṣṭham barhir āsade //
+RV_8,060.02a acchā hi tvā sahasaḥ sūno aṅgiraḥ srucaś caranty adhvare /
+RV_8,060.02c ūrjo napātaṃ ghṛtakeśam īmahe 'gniṃ yajñeṣu pūrvyam //
+RV_8,060.03a agne kavir vedhā asi hotā pāvaka yakṣyaḥ /
+RV_8,060.03c mandro yajiṣṭho adhvareṣv īḍyo viprebhiḥ śukra manmabhiḥ //
+RV_8,060.04a adrogham ā vahośato yaviṣṭhya devāṃ ajasra vītaye /
+RV_8,060.04c abhi prayāṃsi sudhitā vaso gahi mandasva dhītibhir hitaḥ //
+RV_8,060.05a tvam it saprathā asy agne trātar ṛtas kaviḥ /
+RV_8,060.05c tvāṃ viprāsaḥ samidhāna dīdiva ā vivāsanti vedhasaḥ //
+RV_8,060.06a śocā śociṣṭha dīdihi viśe mayo rāsva stotre mahāṃ asi /
+RV_8,060.06c devānāṃ śarman mama santu sūrayaḥ śatrūṣāhaḥ svagnayaḥ //
+RV_8,060.07a yathā cid vṛddham atasam agne saṃjūrvasi kṣami /
+RV_8,060.07c evā daha mitramaho yo asmadhrug durmanmā kaś ca venati //
+RV_8,060.08a mā no martāya ripave rakṣasvine māghaśaṃsāya rīradhaḥ /
+RV_8,060.08c asredhadbhis taraṇibhir yaviṣṭhya śivebhiḥ pāhi pāyubhiḥ //
+RV_8,060.09a pāhi no agna ekayā pāhy uta dvitīyayā /
+RV_8,060.09c pāhi gīrbhis tisṛbhir ūrjām pate pāhi catasṛbhir vaso //
+RV_8,060.10a pāhi viśvasmād rakṣaso arāvṇaḥ pra sma vājeṣu no 'va /
+RV_8,060.10c tvām id dhi nediṣṭhaṃ devatātaya āpiṃ nakṣāmahe vṛdhe //
+RV_8,060.11a ā no agne vayovṛdhaṃ rayim pāvaka śaṃsyam /
+RV_8,060.11c rāsvā ca na upamāte puruspṛhaṃ sunītī svayaśastaram //
+RV_8,060.12a yena vaṃsāma pṛtanāsu śardhatas taranto arya ādiśaḥ /
+RV_8,060.12c sa tvaṃ no vardha prayasā śacīvaso jinvā dhiyo vasuvidaḥ //
+RV_8,060.13a śiśāno vṛṣabho yathāgniḥ śṛṅge davidhvat /
+RV_8,060.13c tigmā asya hanavo na pratidhṛṣe sujambhaḥ sahaso yahuḥ //
+RV_8,060.14a nahi te agne vṛṣabha pratidhṛṣe jambhāso yad vitiṣṭhase /
+RV_8,060.14c sa tvaṃ no hotaḥ suhutaṃ haviṣ kṛdhi vaṃsvā no vāryā puru //
+RV_8,060.15a śeṣe vaneṣu mātroḥ saṃ tvā martāsa indhate /
+RV_8,060.15c atandro havyā vahasi haviṣkṛta ād id deveṣu rājasi //
+RV_8,060.16a sapta hotāras tam id īḷate tvāgne sutyajam ahrayam /
+RV_8,060.16c bhinatsy adriṃ tapasā vi śociṣā prāgne tiṣṭha janāṃ ati //
+RV_8,060.17a agnim-agniṃ vo adhriguṃ huvema vṛktabarhiṣaḥ /
+RV_8,060.17c agniṃ hitaprayasaḥ śaśvatīṣv ā hotāraṃ carṣaṇīnām //
+RV_8,060.18a ketena śarman sacate suṣāmaṇy agne tubhyaṃ cikitvanā /
+RV_8,060.18c iṣaṇyayā naḥ pururūpam ā bhara vājaṃ nediṣṭham ūtaye //
+RV_8,060.19a agne jaritar viśpatis tepāno deva rakṣasaḥ /
+RV_8,060.19c aproṣivān gṛhapatir mahāṃ asi divas pāyur duroṇayuḥ //
+RV_8,060.20a mā no rakṣa ā veśīd āghṛṇīvaso mā yātur yātumāvatām /
+RV_8,060.20c parogavyūty anirām apa kṣudham agne sedha rakṣasvinaḥ //
+RV_8,061.01a ubhayaṃ śṛṇavac ca na indro arvāg idaṃ vacaḥ /
+RV_8,061.01c satrācyā maghavā somapītaye dhiyā śaviṣṭha ā gamat //
+RV_8,061.02a taṃ hi svarājaṃ vṛṣabhaṃ tam ojase dhiṣaṇe niṣṭatakṣatuḥ /
+RV_8,061.02c utopamānām prathamo ni ṣīdasi somakāmaṃ hi te manaḥ //
+RV_8,061.03a ā vṛṣasva purūvaso sutasyendrāndhasaḥ /
+RV_8,061.03c vidmā hi tvā harivaḥ pṛtsu sāsahim adhṛṣṭaṃ cid dadhṛṣvaṇim //
+RV_8,061.04a aprāmisatya maghavan tathed asad indra kratvā yathā vaśaḥ /
+RV_8,061.04c sanema vājaṃ tava śiprinn avasā makṣū cid yanto adrivaḥ //
+RV_8,061.05a śagdhy ū ṣu śacīpata indra viśvābhir ūtibhiḥ /
+RV_8,061.05c bhagaṃ na hi tvā yaśasaṃ vasuvidam anu śūra carāmasi //
+RV_8,061.06a pauro aśvasya purukṛd gavām asy utso deva hiraṇyayaḥ /
+RV_8,061.06c nakir hi dānam parimardhiṣat tve yad-yad yāmi tad ā bhara //
+RV_8,061.07a tvaṃ hy ehi cerave vidā bhagaṃ vasuttaye /
+RV_8,061.07c ud vāvṛṣasva maghavan gaviṣṭaya ud indrāśvamiṣṭaye //
+RV_8,061.08a tvam purū sahasrāṇi śatāni ca yūthā dānāya maṃhase /
+RV_8,061.08c ā purandaraṃ cakṛma vipravacasa indraṃ gāyanto 'vase //
+RV_8,061.09a avipro vā yad avidhad vipro vendra te vacaḥ /
+RV_8,061.09c sa pra mamandat tvāyā śatakrato prācāmanyo ahaṃsana //
+RV_8,061.10a ugrabāhur mrakṣakṛtvā purandaro yadi me śṛṇavad dhavam /
+RV_8,061.10c vasūyavo vasupatiṃ śatakratuṃ stomair indraṃ havāmahe //
+RV_8,061.11a na pāpāso manāmahe nārāyāso na jaḷhavaḥ /
+RV_8,061.11c yad in nv indraṃ vṛṣaṇaṃ sacā sute sakhāyaṃ kṛṇavāmahai //
+RV_8,061.12a ugraṃ yuyujma pṛtanāsu sāsahim ṛṇakātim adābhyam /
+RV_8,061.12c vedā bhṛmaṃ cit sanitā rathītamo vājinaṃ yam id ū naśat //
+RV_8,061.13a yata indra bhayāmahe tato no abhayaṃ kṛdhi /
+RV_8,061.13c maghavañ chagdhi tava tan na ūtibhir vi dviṣo vi mṛdho jahi //
+RV_8,061.14a tvaṃ hi rādhaspate rādhaso mahaḥ kṣayasyāsi vidhataḥ /
+RV_8,061.14c taṃ tvā vayam maghavann indra girvaṇaḥ sutāvanto havāmahe //
+RV_8,061.15a indra spaḷ uta vṛtrahā paraspā no vareṇyaḥ /
+RV_8,061.15c sa no rakṣiṣac caramaṃ sa madhyamaṃ sa paścāt pātu naḥ puraḥ //
+RV_8,061.16a tvaṃ naḥ paścād adharād uttarāt pura indra ni pāhi viśvataḥ /
+RV_8,061.16c āre asmat kṛṇuhi daivyam bhayam āre hetīr adevīḥ //
+RV_8,061.17a adyādyā śvaḥ-śva indra trāsva pare ca naḥ /
+RV_8,061.17c viśvā ca no jaritṝn satpate ahā divā naktaṃ ca rakṣiṣaḥ //
+RV_8,061.18a prabhaṅgī śūro maghavā tuvīmaghaḥ sammiślo viryāya kam /
+RV_8,061.18c ubhā te bāhū vṛṣaṇā śatakrato ni yā vajram mimikṣatuḥ //
+RV_8,062.01a pro asmā upastutim bharatā yaj jujoṣati /
+RV_8,062.01c ukthair indrasya māhinaṃ vayo vardhanti somino bhadrā indrasya rātayaḥ //
+RV_8,062.02a ayujo asamo nṛbhir ekaḥ kṛṣṭīr ayāsyaḥ /
+RV_8,062.02c pūrvīr ati pra vāvṛdhe viśvā jātāny ojasā bhadrā indrasya rātayaḥ //
+RV_8,062.03a ahitena cid arvatā jīradānuḥ siṣāsati /
+RV_8,062.03c pravācyam indra tat tava vīryāṇi kariṣyato bhadrā indrasya rātayaḥ //
+RV_8,062.04a ā yāhi kṛṇavāma ta indra brahmāṇi vardhanā /
+RV_8,062.04c yebhiḥ śaviṣṭha cākano bhadram iha śravasyate bhadrā indrasya rātayaḥ //
+RV_8,062.05a dhṛṣataś cid dhṛṣan manaḥ kṛṇoṣīndra yat tvam /
+RV_8,062.05c tīvraiḥ somaiḥ saparyato namobhiḥ pratibhūṣato bhadrā indrasya rātayaḥ //
+RV_8,062.06a ava caṣṭa ṛcīṣamo 'vatāṃ iva mānuṣaḥ /
+RV_8,062.06c juṣṭvī dakṣasya sominaḥ sakhāyaṃ kṛṇute yujam bhadrā indrasya rātayaḥ //
+RV_8,062.07a viśve ta indra vīryaṃ devā anu kratuṃ daduḥ /
+RV_8,062.07c bhuvo viśvasya gopatiḥ puruṣṭuta bhadrā indrasya rātayaḥ //
+RV_8,062.08a gṛṇe tad indra te śava upamaṃ devatātaye /
+RV_8,062.08c yad dhaṃsi vṛtram ojasā śacīpate bhadrā indrasya rātayaḥ //
+RV_8,062.09a samaneva vapuṣyataḥ kṛṇavan mānuṣā yugā /
+RV_8,062.09c vide tad indraś cetanam adha śruto bhadrā indrasya rātayaḥ //
+RV_8,062.10a uj jātam indra te śava ut tvām ut tava kratum /
+RV_8,062.10c bhūrigo bhūri vāvṛdhur maghavan tava śarmaṇi bhadrā indrasya rātayaḥ //
+RV_8,062.11a ahaṃ ca tvaṃ ca vṛtrahan saṃ yujyāva sanibhya ā /
+RV_8,062.11c arātīvā cid adrivo 'nu nau śūra maṃsate bhadrā indrasya rātayaḥ //
+RV_8,062.12a satyam id vā u taṃ vayam indraṃ stavāma nānṛtam /
+RV_8,062.12c mahāṃ asunvato vadho bhūri jyotīṃṣi sunvato bhadrā indrasya rātayaḥ //
+RV_8,063.01a sa pūrvyo mahānāṃ venaḥ kratubhir ānaje /
+RV_8,063.01c yasya dvārā manuṣ pitā deveṣu dhiya ānaje //
+RV_8,063.02a divo mānaṃ not sadan somapṛṣṭhāso adrayaḥ /
+RV_8,063.02c ukthā brahma ca śaṃsyā //
+RV_8,063.03a sa vidvāṃ aṅgirobhya indro gā avṛṇod apa /
+RV_8,063.03c stuṣe tad asya pauṃsyam //
+RV_8,063.04a sa pratnathā kavivṛdha indro vākasya vakṣaṇiḥ /
+RV_8,063.04c śivo arkasya homany asmatrā gantv avase //
+RV_8,063.05a ād ū nu te anu kratuṃ svāhā varasya yajyavaḥ /
+RV_8,063.05c śvātram arkā anūṣatendra gotrasya dāvane //
+RV_8,063.06a indre viśvāni vīryā kṛtāni kartvāni ca /
+RV_8,063.06c yam arkā adhvaraṃ viduḥ //
+RV_8,063.07a yat pāñcajanyayā viśendre ghoṣā asṛkṣata /
+RV_8,063.07c astṛṇād barhaṇā vipo 'ryo mānasya sa kṣayaḥ //
+RV_8,063.08a iyam u te anuṣṭutiś cakṛṣe tāni pauṃsyā /
+RV_8,063.08c prāvaś cakrasya vartanim //
+RV_8,063.09a asya vṛṣṇo vyodana uru kramiṣṭa jīvase /
+RV_8,063.09c yavaṃ na paśva ā dade //
+RV_8,063.10a tad dadhānā avasyavo yuṣmābhir dakṣapitaraḥ /
+RV_8,063.10c syāma marutvato vṛdhe //
+RV_8,063.11a baḷ ṛtviyāya dhāmna ṛkvabhiḥ śūra nonumaḥ /
+RV_8,063.11c jeṣāmendra tvayā yujā //
+RV_8,063.12a asme rudrā mehanā parvatāso vṛtrahatye bharahūtau sajoṣāḥ /
+RV_8,063.12c yaḥ śaṃsate stuvate dhāyi pajra indrajyeṣṭhā asmāṃ avantu devāḥ //
+RV_8,064.01a ut tvā mandantu stomāḥ kṛṇuṣva rādho adrivaḥ /
+RV_8,064.01c ava brahmadviṣo jahi //
+RV_8,064.02a padā paṇīṃr arādhaso ni bādhasva mahāṃ asi /
+RV_8,064.02c nahi tvā kaś cana prati //
+RV_8,064.03a tvam īśiṣe sutānām indra tvam asutānām /
+RV_8,064.03c tvaṃ rājā janānām //
+RV_8,064.04a ehi prehi kṣayo divy āghoṣañ carṣaṇīnām /
+RV_8,064.04c obhe pṛṇāsi rodasī //
+RV_8,064.05a tyaṃ cit parvataṃ giriṃ śatavantaṃ sahasriṇam /
+RV_8,064.05c vi stotṛbhyo rurojitha //
+RV_8,064.06a vayam u tvā divā sute vayaṃ naktaṃ havāmahe /
+RV_8,064.06c asmākaṃ kāmam ā pṛṇa //
+RV_8,064.07a kva sya vṛṣabho yuvā tuvigrīvo anānataḥ /
+RV_8,064.07c brahmā kas taṃ saparyati //
+RV_8,064.08a kasya svit savanaṃ vṛṣā jujuṣvāṃ ava gacchati /
+RV_8,064.08c indraṃ ka u svid ā cake //
+RV_8,064.09a kaṃ te dānā asakṣata vṛtrahan kaṃ suvīryā /
+RV_8,064.09c ukthe ka u svid antamaḥ //
+RV_8,064.10a ayaṃ te mānuṣe jane somaḥ pūruṣu sūyate /
+RV_8,064.10c tasyehi pra dravā piba //
+RV_8,064.11a ayaṃ te śaryaṇāvati suṣomāyām adhi priyaḥ /
+RV_8,064.11c ārjīkīye madintamaḥ //
+RV_8,064.12a tam adya rādhase mahe cārum madāya ghṛṣvaye /
+RV_8,064.12c ehīm indra dravā piba //
+RV_8,065.01a yad indra prāg apāg udaṅ nyag vā hūyase nṛbhiḥ /
+RV_8,065.01c ā yāhi tūyam āśubhiḥ //
+RV_8,065.02a yad vā prasravaṇe divo mādayāse svarṇare /
+RV_8,065.02c yad vā samudre andhasaḥ //
+RV_8,065.03a ā tvā gīrbhir mahām uruṃ huve gām iva bhojase /
+RV_8,065.03c indra somasya pītaye //
+RV_8,065.04a ā ta indra mahimānaṃ harayo deva te mahaḥ /
+RV_8,065.04c rathe vahantu bibhrataḥ //
+RV_8,065.05a indra gṛṇīṣa u stuṣe mahāṃ ugra īśānakṛt /
+RV_8,065.05c ehi naḥ sutam piba //
+RV_8,065.06a sutāvantas tvā vayam prayasvanto havāmahe /
+RV_8,065.06c idaṃ no barhir āsade //
+RV_8,065.07a yac cid dhi śaśvatām asīndra sādhāraṇas tvam /
+RV_8,065.07c taṃ tvā vayaṃ havāmahe //
+RV_8,065.08a idaṃ te somyam madhv adhukṣann adribhir naraḥ /
+RV_8,065.08c juṣāṇa indra tat piba //
+RV_8,065.09a viśvāṃ aryo vipaścito 'ti khyas tūyam ā gahi /
+RV_8,065.09c asme dhehi śravo bṛhat //
+RV_8,065.10a dātā me pṛṣatīnāṃ rājā hiraṇyavīnām /
+RV_8,065.10c mā devā maghavā riṣat //
+RV_8,065.11a sahasre pṛṣatīnām adhi ścandram bṛhat pṛthu /
+RV_8,065.11c śukraṃ hiraṇyam ā dade //
+RV_8,065.12a napāto durgahasya me sahasreṇa surādhasaḥ /
+RV_8,065.12c śravo deveṣv akrata //
+RV_8,066.01a tarobhir vo vidadvasum indraṃ sabādha ūtaye /
+RV_8,066.01c bṛhad gāyantaḥ sutasome adhvare huve bharaṃ na kāriṇam //
+RV_8,066.02a na yaṃ dudhrā varante na sthirā muro made suśipram andhasaḥ /
+RV_8,066.02c ya ādṛtyā śaśamānāya sunvate dātā jaritra ukthyam //
+RV_8,066.03a yaḥ śakro mṛkṣo aśvyo yo vā kījo hiraṇyayaḥ /
+RV_8,066.03c sa ūrvasya rejayaty apāvṛtim indro gavyasya vṛtrahā //
+RV_8,066.04a nikhātaṃ cid yaḥ purusambhṛtaṃ vasūd id vapati dāśuṣe /
+RV_8,066.04c vajrī suśipro haryaśva it karad indraḥ kratvā yathā vaśat //
+RV_8,066.05a yad vāvantha puruṣṭuta purā cic chūra nṛṇām /
+RV_8,066.05c vayaṃ tat ta indra sam bharāmasi yajñam ukthaṃ turaṃ vacaḥ //
+RV_8,066.06a sacā someṣu puruhūta vajrivo madāya dyukṣa somapāḥ /
+RV_8,066.06c tvam id dhi brahmakṛte kāmyaṃ vasu deṣṭhaḥ sunvate bhuvaḥ //
+RV_8,066.07a vayam enam idā hyo 'pīpemeha vajriṇam /
+RV_8,066.07c tasmā u adya samanā sutam bharā nūnam bhūṣata śrute //
+RV_8,066.08a vṛkaś cid asya vāraṇa urāmathir ā vayuneṣu bhūṣati /
+RV_8,066.08c semaṃ na stomaṃ jujuṣāṇa ā gahīndra pra citrayā dhiyā //
+RV_8,066.09a kad ū nv asyākṛtam indrasyāsti pauṃsyam /
+RV_8,066.09c keno nu kaṃ śromatena na śuśruve januṣaḥ pari vṛtrahā //
+RV_8,066.10a kad ū mahīr adhṛṣṭā asya taviṣīḥ kad u vṛtraghno astṛtam /
+RV_8,066.10c indro viśvān bekanāṭāṃ ahardṛśa uta kratvā paṇīṃr abhi //
+RV_8,066.11a vayaṃ ghā te apūrvyendra brahmāṇi vṛtrahan /
+RV_8,066.11c purūtamāsaḥ puruhūta vajrivo bhṛtiṃ na pra bharāmasi //
+RV_8,066.12a pūrvīś cid dhi tve tuvikūrminn āśaso havanta indrotayaḥ /
+RV_8,066.12c tiraś cid aryaḥ savanā vaso gahi śaviṣṭha śrudhi me havam //
+RV_8,066.13a vayaṃ ghā te tve id v indra viprā api ṣmasi /
+RV_8,066.13c nahi tvad anyaḥ puruhūta kaś cana maghavann asti marḍitā //
+RV_8,066.14a tvaṃ no asyā amater uta kṣudho 'bhiśaster ava spṛdhi /
+RV_8,066.14c tvaṃ na ūtī tava citrayā dhiyā śikṣā śaciṣṭha gātuvit //
+RV_8,066.15a soma id vaḥ suto astu kalayo mā bibhītana /
+RV_8,066.15c aped eṣa dhvasmāyati svayaṃ ghaiṣo apāyati //
+RV_8,067.01a tyān nu kṣatriyāṃ ava ādityān yāciṣāmahe /
+RV_8,067.01c sumṛḷīkāṃ abhiṣṭaye //
+RV_8,067.02a mitro no aty aṃhatiṃ varuṇaḥ parṣad aryamā /
+RV_8,067.02c ādityāso yathā viduḥ //
+RV_8,067.03a teṣāṃ hi citram ukthyaṃ varūtham asti dāśuṣe /
+RV_8,067.03c ādityānām araṅkṛte //
+RV_8,067.04a mahi vo mahatām avo varuṇa mitrāryaman /
+RV_8,067.04c avāṃsy ā vṛṇīmahe //
+RV_8,067.05a jīvān no abhi dhetanādityāsaḥ purā hathāt /
+RV_8,067.05c kad dha stha havanaśrutaḥ //
+RV_8,067.06a yad vaḥ śrāntāya sunvate varūtham asti yac chardiḥ /
+RV_8,067.06c tenā no adhi vocata //
+RV_8,067.07a asti devā aṃhor urv asti ratnam anāgasaḥ /
+RV_8,067.07c ādityā adbhutainasaḥ //
+RV_8,067.08a mā naḥ setuḥ siṣed ayam mahe vṛṇaktu nas pari /
+RV_8,067.08c indra id dhi śruto vaśī //
+RV_8,067.09a mā no mṛcā ripūṇāṃ vṛjinānām aviṣyavaḥ /
+RV_8,067.09c devā abhi pra mṛkṣata //
+RV_8,067.10a uta tvām adite mahy ahaṃ devy upa bruve /
+RV_8,067.10c sumṛḷīkām abhiṣṭaye //
+RV_8,067.11a parṣi dīne gabhīra āṃ ugraputre jighāṃsataḥ /
+RV_8,067.11c mākis tokasya no riṣat //
+RV_8,067.12a aneho na uruvraja urūci vi prasartave /
+RV_8,067.12c kṛdhi tokāya jīvase //
+RV_8,067.13a ye mūrdhānaḥ kṣitīnām adabdhāsaḥ svayaśasaḥ /
+RV_8,067.13c vratā rakṣante adruhaḥ //
+RV_8,067.14a te na āsno vṛkāṇām ādityāso mumocata /
+RV_8,067.14c stenam baddham ivādite //
+RV_8,067.15a apo ṣu ṇa iyaṃ śarur ādityā apa durmatiḥ /
+RV_8,067.15c asmad etv ajaghnuṣī //
+RV_8,067.16a śaśvad dhi vaḥ sudānava ādityā ūtibhir vayam /
+RV_8,067.16c purā nūnam bubhujmahe //
+RV_8,067.17a śaśvantaṃ hi pracetasaḥ pratiyantaṃ cid enasaḥ /
+RV_8,067.17c devāḥ kṛṇutha jīvase //
+RV_8,067.18a tat su no navyaṃ sanyasa ādityā yan mumocati /
+RV_8,067.18c bandhād baddham ivādite //
+RV_8,067.19a nāsmākam asti tat tara ādityāso atiṣkade /
+RV_8,067.19c yūyam asmabhyam mṛḷata //
+RV_8,067.20a mā no hetir vivasvata ādityāḥ kṛtrimā śaruḥ /
+RV_8,067.20c purā nu jaraso vadhīt //
+RV_8,067.21a vi ṣu dveṣo vy aṃhatim ādityāso vi saṃhitam /
+RV_8,067.21c viṣvag vi vṛhatā rapaḥ //
+RV_8,068.01a ā tvā rathaṃ yathotaye sumnāya vartayāmasi /
+RV_8,068.01c tuvikūrmim ṛtīṣaham indra śaviṣṭha satpate //
+RV_8,068.02a tuviśuṣma tuvikrato śacīvo viśvayā mate /
+RV_8,068.02c ā paprātha mahitvanā //
+RV_8,068.03a yasya te mahinā mahaḥ pari jmāyantam īyatuḥ /
+RV_8,068.03c hastā vajraṃ hiraṇyayam //
+RV_8,068.04a viśvānarasya vas patim anānatasya śavasaḥ /
+RV_8,068.04c evaiś ca carṣaṇīnām ūtī huve rathānām //
+RV_8,068.05a abhiṣṭaye sadāvṛdhaṃ svarmīḷheṣu yaṃ naraḥ /
+RV_8,068.05c nānā havanta ūtaye //
+RV_8,068.06a paromātram ṛcīṣamam indram ugraṃ surādhasam /
+RV_8,068.06c īśānaṃ cid vasūnām //
+RV_8,068.07a taṃ-tam id rādhase maha indraṃ codāmi pītaye /
+RV_8,068.07c yaḥ pūrvyām anuṣṭutim īśe kṛṣṭīnāṃ nṛtuḥ //
+RV_8,068.08a na yasya te śavasāna sakhyam ānaṃśa martyaḥ /
+RV_8,068.08c nakiḥ śavāṃsi te naśat //
+RV_8,068.09a tvotāsas tvā yujāpsu sūrye mahad dhanam /
+RV_8,068.09c jayema pṛtsu vajrivaḥ //
+RV_8,068.10a taṃ tvā yajñebhir īmahe taṃ gīrbhir girvaṇastama /
+RV_8,068.10c indra yathā cid āvitha vājeṣu purumāyyam //
+RV_8,068.11a yasya te svādu sakhyaṃ svādvī praṇītir adrivaḥ /
+RV_8,068.11c yajño vitantasāyyaḥ //
+RV_8,068.12a uru ṇas tanve tana uru kṣayāya nas kṛdhi /
+RV_8,068.12c uru ṇo yandhi jīvase //
+RV_8,068.13a uruṃ nṛbhya uruṃ gava uruṃ rathāya panthām /
+RV_8,068.13c devavītim manāmahe //
+RV_8,068.14a upa mā ṣaḍ dvā-dvā naraḥ somasya harṣyā /
+RV_8,068.14c tiṣṭhanti svādurātayaḥ //
+RV_8,068.15a ṛjrāv indrota ā dade harī ṛkṣasya sūnavi /
+RV_8,068.15c āśvamedhasya rohitā //
+RV_8,068.16a surathāṃ ātithigve svabhīśūṃr ārkṣe /
+RV_8,068.16c āśvamedhe supeśasaḥ //
+RV_8,068.17a ṣaḷ aśvāṃ ātithigva indrote vadhūmataḥ /
+RV_8,068.17c sacā pūtakratau sanam //
+RV_8,068.18a aiṣu cetad vṛṣaṇvaty antar ṛjreṣv aruṣī /
+RV_8,068.18c svabhīśuḥ kaśāvatī //
+RV_8,068.19a na yuṣme vājabandhavo ninitsuś cana martyaḥ /
+RV_8,068.19c avadyam adhi dīdharat //
+RV_8,069.01a pra-pra vas triṣṭubham iṣam mandadvīrāyendave /
+RV_8,069.01c dhiyā vo medhasātaye purandhyā vivāsati //
+RV_8,069.02a nadaṃ va odatīnāṃ nadaṃ yoyuvatīnām /
+RV_8,069.02c patiṃ vo aghnyānāṃ dhenūnām iṣudhyasi //
+RV_8,069.03a tā asya sūdadohasaḥ somaṃ śrīṇanti pṛśnayaḥ /
+RV_8,069.03c janman devānāṃ viśas triṣv ā rocane divaḥ //
+RV_8,069.04a abhi pra gopatiṃ girendram arca yathā vide /
+RV_8,069.04c sūnuṃ satyasya satpatim //
+RV_8,069.05a ā harayaḥ sasṛjrire 'ruṣīr adhi barhiṣi /
+RV_8,069.05c yatrābhi saṃnavāmahe //
+RV_8,069.06a indrāya gāva āśiraṃ duduhre vajriṇe madhu /
+RV_8,069.06c yat sīm upahvare vidat //
+RV_8,069.07a ud yad bradhnasya viṣṭapaṃ gṛham indraś ca ganvahi /
+RV_8,069.07c madhvaḥ pītvā sacevahi triḥ sapta sakhyuḥ pade //
+RV_8,069.08a arcata prārcata priyamedhāso arcata /
+RV_8,069.08c arcantu putrakā uta puraṃ na dhṛṣṇv arcata //
+RV_8,069.09a ava svarāti gargaro godhā pari saniṣvaṇat /
+RV_8,069.09c piṅgā pari caniṣkadad indrāya brahmodyatam //
+RV_8,069.10a ā yat patanty enyaḥ sudughā anapasphuraḥ /
+RV_8,069.10c apasphuraṃ gṛbhāyata somam indrāya pātave //
+RV_8,069.11a apād indro apād agnir viśve devā amatsata /
+RV_8,069.11c varuṇa id iha kṣayat tam āpo abhy anūṣata vatsaṃ saṃśiśvarīr iva //
+RV_8,069.12a sudevo asi varuṇa yasya te sapta sindhavaḥ /
+RV_8,069.12c anukṣaranti kākudaṃ sūrmyaṃ suṣirām iva //
+RV_8,069.13a yo vyatīṃr aphāṇayat suyuktāṃ upa dāśuṣe /
+RV_8,069.13c takvo netā tad id vapur upamā yo amucyata //
+RV_8,069.14a atīd u śakra ohata indro viśvā ati dviṣaḥ /
+RV_8,069.14c bhinat kanīna odanam pacyamānam paro girā //
+RV_8,069.15a arbhako na kumārako 'dhi tiṣṭhan navaṃ ratham /
+RV_8,069.15c sa pakṣan mahiṣam mṛgam pitre mātre vibhukratum //
+RV_8,069.16a ā tū suśipra dampate rathaṃ tiṣṭhā hiraṇyayam /
+RV_8,069.16c adha dyukṣaṃ sacevahi sahasrapādam aruṣaṃ svastigām anehasam //
+RV_8,069.17a taṃ ghem itthā namasvina upa svarājam āsate /
+RV_8,069.17c arthaṃ cid asya sudhitaṃ yad etava āvartayanti dāvane //
+RV_8,069.18a anu pratnasyaukasaḥ priyamedhāsa eṣām /
+RV_8,069.18c pūrvām anu prayatiṃ vṛktabarhiṣo hitaprayasa āśata //
+RV_8,070.01a yo rājā carṣaṇīnāṃ yātā rathebhir adhriguḥ /
+RV_8,070.01c viśvāsāṃ tarutā pṛtanānāṃ jyeṣṭho yo vṛtrahā gṛṇe //
+RV_8,070.02a indraṃ taṃ śumbha puruhanmann avase yasya dvitā vidhartari /
+RV_8,070.02c hastāya vajraḥ prati dhāyi darśato maho dive na sūryaḥ //
+RV_8,070.03a nakiṣ ṭaṃ karmaṇā naśad yaś cakāra sadāvṛdham /
+RV_8,070.03c indraṃ na yajñair viśvagūrtam ṛbhvasam adhṛṣṭaṃ dhṛṣṇvojasam //
+RV_8,070.04a aṣāḷham ugram pṛtanāsu sāsahiṃ yasmin mahīr urujrayaḥ /
+RV_8,070.04c saṃ dhenavo jāyamāne anonavur dyāvaḥ kṣāmo anonavuḥ //
+RV_8,070.05a yad dyāva indra te śataṃ śatam bhūmīr uta syuḥ /
+RV_8,070.05c na tvā vajrin sahasraṃ sūryā anu na jātam aṣṭa rodasī //
+RV_8,070.06a ā paprātha mahinā vṛṣṇyā vṛṣan viśvā śaviṣṭha śavasā /
+RV_8,070.06c asmāṃ ava maghavan gomati vraje vajriñ citrābhir ūtibhiḥ //
+RV_8,070.07a na sīm adeva āpad iṣaṃ dīrghāyo martyaḥ /
+RV_8,070.07c etagvā cid ya etaśā yuyojate harī indro yuyojate //
+RV_8,070.08a taṃ vo maho mahāyyam indraṃ dānāya sakṣaṇim /
+RV_8,070.08c yo gādheṣu ya āraṇeṣu havyo vājeṣv asti havyaḥ //
+RV_8,070.09a ud ū ṣu ṇo vaso mahe mṛśasva śūra rādhase /
+RV_8,070.09c ud ū ṣu mahyai maghavan maghattaya ud indra śravase mahe //
+RV_8,070.10a tvaṃ na indra ṛtayus tvānido ni tṛmpasi /
+RV_8,070.10c madhye vasiṣva tuvinṛmṇorvor ni dāsaṃ śiśnatho hathaiḥ //
+RV_8,070.11a anyavratam amānuṣam ayajvānam adevayum /
+RV_8,070.11c ava svaḥ sakhā dudhuvīta parvataḥ sughnāya dasyum parvataḥ //
+RV_8,070.12a tvaṃ na indrāsāṃ haste śaviṣṭha dāvane /
+RV_8,070.12c dhānānāṃ na saṃ gṛbhāyāsmayur dviḥ saṃ gṛbhāyāsmayuḥ //
+RV_8,070.13a sakhāyaḥ kratum icchata kathā rādhāma śarasya /
+RV_8,070.13c upastutim bhojaḥ sūrir yo ahrayaḥ //
+RV_8,070.14a bhūribhiḥ samaha ṛṣibhir barhiṣmadbhi staviṣyase /
+RV_8,070.14c yad ittham ekam-ekam ic chara vatsān parādadaḥ //
+RV_8,070.15a karṇagṛhyā maghavā śauradevyo vatsaṃ nas tribhya ānayat /
+RV_8,070.15c ajāṃ sūrir na dhātave //
+RV_8,071.01a tvaṃ no agne mahobhiḥ pāhi viśvasyā arāteḥ /
+RV_8,071.01c uta dviṣo martyasya //
+RV_8,071.02a nahi manyuḥ pauruṣeya īśe hi vaḥ priyajāta /
+RV_8,071.02c tvam id asi kṣapāvān //
+RV_8,071.03a sa no viśvebhir devebhir ūrjo napād bhadraśoce /
+RV_8,071.03c rayiṃ dehi viśvavāram //
+RV_8,071.04a na tam agne arātayo martaṃ yuvanta rāyaḥ /
+RV_8,071.04c yaṃ trāyase dāśvāṃsam //
+RV_8,071.05a yaṃ tvaṃ vipra medhasātāv agne hinoṣi dhanāya /
+RV_8,071.05c sa tavotī goṣu gantā //
+RV_8,071.06a tvaṃ rayim puruvīram agne dāśuṣe martāya /
+RV_8,071.06c pra ṇo naya vasyo accha //
+RV_8,071.07a uruṣyā ṇo mā parā dā aghāyate jātavedaḥ /
+RV_8,071.07c durādhye martāya //
+RV_8,071.08a agne mākiṣ ṭe devasya rātim adevo yuyota /
+RV_8,071.08c tvam īśiṣe vasūnām //
+RV_8,071.09a sa no vasva upa māsy ūrjo napān māhinasya /
+RV_8,071.09c sakhe vaso jaritṛbhyaḥ //
+RV_8,071.10a acchā naḥ śīraśociṣaṃ giro yantu darśatam /
+RV_8,071.10c acchā yajñāso namasā purūvasum purupraśastam ūtaye //
+RV_8,071.11a agniṃ sūnuṃ sahaso jātavedasaṃ dānāya vāryāṇām /
+RV_8,071.11c dvitā yo bhūd amṛto martyeṣv ā hotā mandratamo viśi //
+RV_8,071.12a agniṃ vo devayajyayāgnim prayaty adhvare /
+RV_8,071.12c agniṃ dhīṣu prathamam agnim arvaty agniṃ kṣaitrāya sādhase //
+RV_8,071.13a agnir iṣāṃ sakhye dadātu na īśe yo vāryāṇām /
+RV_8,071.13c agniṃ toke tanaye śaśvad īmahe vasuṃ santaṃ tanūpām //
+RV_8,071.14a agnim īḷiṣvāvase gāthābhiḥ śīraśociṣam /
+RV_8,071.14c agniṃ rāye purumīḷha śrutaṃ naro 'gniṃ sudītaye chardiḥ //
+RV_8,071.15a agniṃ dveṣo yotavai no gṛṇīmasy agniṃ śaṃ yoś ca dātave /
+RV_8,071.15c viśvāsu vikṣv aviteva havyo bhuvad vastur ṛṣūṇām //
+RV_8,072.01a haviṣ kṛṇudhvam ā gamad adhvaryur vanate punaḥ /
+RV_8,072.01c vidvāṃ asya praśāsanam //
+RV_8,072.02a ni tigmam abhy aṃśuṃ sīdad dhotā manāv adhi /
+RV_8,072.02c juṣāṇo asya sakhyam //
+RV_8,072.03a antar icchanti taṃ jane rudram paro manīṣayā /
+RV_8,072.03c gṛbhṇanti jihvayā sasam //
+RV_8,072.04a jāmy atītape dhanur vayodhā aruhad vanam /
+RV_8,072.04c dṛṣadaṃ jihvayāvadhīt //
+RV_8,072.05a caran vatso ruśann iha nidātāraṃ na vindate /
+RV_8,072.05c veti stotava ambyam //
+RV_8,072.06a uto nv asya yan mahad aśvāvad yojanam bṛhad /
+RV_8,072.06c dāmā rathasya dadṛśe //
+RV_8,072.07a duhanti saptaikām upa dvā pañca sṛjataḥ /
+RV_8,072.07c tīrthe sindhor adhi svare //
+RV_8,072.08a ā daśabhir vivasvata indraḥ kośam acucyavīt /
+RV_8,072.08c khedayā trivṛtā divaḥ //
+RV_8,072.09a pari tridhātur adhvaraṃ jūrṇir eti navīyasī /
+RV_8,072.09c madhvā hotāro añjate //
+RV_8,072.10a siñcanti namasāvatam uccācakram parijmānam /
+RV_8,072.10c nīcīnabāram akṣitam //
+RV_8,072.11a abhyāram id adrayo niṣiktam puṣkare madhu /
+RV_8,072.11c avatasya visarjane //
+RV_8,072.12a gāva upāvatāvatam mahī yajñasya rapsudā /
+RV_8,072.12c ubhā karṇā hiraṇyayā //
+RV_8,072.13a ā sute siñcata śriyaṃ rodasyor abhiśriyam /
+RV_8,072.13c rasā dadhīta vṛṣabham //
+RV_8,072.14a te jānata svam okyaṃ saṃ vatsāso na mātṛbhiḥ /
+RV_8,072.14c mitho nasanta jāmibhiḥ //
+RV_8,072.15a upa srakveṣu bapsataḥ kṛṇvate dharuṇaṃ divi /
+RV_8,072.15c indre agnā namaḥ svaḥ //
+RV_8,072.16a adhukṣat pipyuṣīm iṣam ūrjaṃ saptapadīm ariḥ /
+RV_8,072.16c sūryasya sapta raśmibhiḥ //
+RV_8,072.17a somasya mitrāvaruṇoditā sūra ā dade /
+RV_8,072.17c tad āturasya bheṣajam //
+RV_8,072.18a uto nv asya yat padaṃ haryatasya nidhānyam /
+RV_8,072.18c pari dyāṃ jihvayātanat //
+RV_8,073.01a ud īrāthām ṛtāyate yuñjāthām aśvinā ratham /
+RV_8,073.01c anti ṣad bhūtu vām avaḥ //
+RV_8,073.02a nimiṣaś cij javīyasā rathenā yātam aśvinā /
+RV_8,073.02c anti ṣad bhūtu vām avaḥ //
+RV_8,073.03a upa stṛṇītam atraye himena gharmam aśvinā /
+RV_8,073.03c anti ṣad bhūtu vām avaḥ //
+RV_8,073.04a kuha sthaḥ kuha jagmathuḥ kuha śyeneva petathuḥ /
+RV_8,073.04c anti ṣad bhūtu vām avaḥ //
+RV_8,073.05a yad adya karhi karhi cic chuśrūyātam imaṃ havam /
+RV_8,073.05c anti ṣad bhūtu vām avaḥ //
+RV_8,073.06a aśvinā yāmahūtamā nediṣṭhaṃ yāmy āpyam /
+RV_8,073.06c anti ṣad bhūtu vām avaḥ //
+RV_8,073.07a avantam atraye gṛhaṃ kṛṇutaṃ yuvam aśvinā /
+RV_8,073.07c anti ṣad bhūtu vām avaḥ //
+RV_8,073.08a varethe agnim ātapo vadate valgv atraye /
+RV_8,073.08c anti ṣad bhūtu vām avaḥ //
+RV_8,073.09a pra saptavadhrir āśasā dhārām agner aśāyata /
+RV_8,073.09c anti ṣad bhūtu vām avaḥ //
+RV_8,073.10a ihā gataṃ vṛṣaṇvasū śṛṇutam ma imaṃ havam /
+RV_8,073.10c anti ṣad bhūtu vām avaḥ //
+RV_8,073.11a kim idaṃ vām purāṇavaj jarator iva śasyate /
+RV_8,073.11c anti ṣad bhūtu vām avaḥ //
+RV_8,073.12a samānaṃ vāṃ sajātyaṃ samāno bandhur aśvinā /
+RV_8,073.12c anti ṣad bhūtu vām avaḥ //
+RV_8,073.13a yo vāṃ rajāṃsy aśvinā ratho viyāti rodasī /
+RV_8,073.13c anti ṣad bhūtu vām avaḥ //
+RV_8,073.14a ā no gavyebhir aśvyaiḥ sahasrair upa gacchatam /
+RV_8,073.14c anti ṣad bhūtu vām avaḥ //
+RV_8,073.15a mā no gavyebhir aśvyaiḥ sahasrebhir ati khyatam /
+RV_8,073.15c anti ṣad bhūtu vām avaḥ //
+RV_8,073.16a aruṇapsur uṣā abhūd akar jyotir ṛtāvarī /
+RV_8,073.16c anti ṣad bhūtu vām avaḥ //
+RV_8,073.17a aśvinā su vicākaśad vṛkṣam paraśumāṃ iva /
+RV_8,073.17c anti ṣad bhūtu vām avaḥ //
+RV_8,073.18a puraṃ na dhṛṣṇav ā ruja kṛṣṇayā bādhito viśā /
+RV_8,073.18c anti ṣad bhūtu vām avaḥ //
+RV_8,074.01a viśo-viśo vo atithiṃ vājayantaḥ purupriyam /
+RV_8,074.01c agniṃ vo duryaṃ vaca stuṣe śūṣasya manmabhiḥ //
+RV_8,074.02a yaṃ janāso haviṣmanto mitraṃ na sarpirāsutim /
+RV_8,074.02c praśaṃsanti praśastibhiḥ //
+RV_8,074.03a panyāṃsaṃ jātavedasaṃ yo devatāty udyatā /
+RV_8,074.03c havyāny airayad divi //
+RV_8,074.04a āganma vṛtrahantamaṃ jyeṣṭham agnim ānavam /
+RV_8,074.04c yasya śrutarvā bṛhann ārkṣo anīka edhate //
+RV_8,074.05a amṛtaṃ jātavedasaṃ tiras tamāṃsi darśatam /
+RV_8,074.05c ghṛtāhavanam īḍyam //
+RV_8,074.06a sabādho yaṃ janā ime 'gniṃ havyebhir īḷate /
+RV_8,074.06c juhvānāso yatasrucaḥ //
+RV_8,074.07a iyaṃ te navyasī matir agne adhāyy asmad ā /
+RV_8,074.07c mandra sujāta sukrato 'mūra dasmātithe //
+RV_8,074.08a sā te agne śantamā caniṣṭhā bhavatu priyā /
+RV_8,074.08c tayā vardhasva suṣṭutaḥ //
+RV_8,074.09a sā dyumnair dyumninī bṛhad upopa śravasi śravaḥ /
+RV_8,074.09c dadhīta vṛtratūrye //
+RV_8,074.10a aśvam id gāṃ rathaprāṃ tveṣam indraṃ na satpatim /
+RV_8,074.10c yasya śravāṃsi tūrvatha panyam-panyaṃ ca kṛṣṭayaḥ //
+RV_8,074.11a yaṃ tvā gopavano girā caniṣṭhad agne aṅgiraḥ /
+RV_8,074.11c sa pāvaka śrudhī havam //
+RV_8,074.12a yaṃ tvā janāsa īḷate sabādho vājasātaye /
+RV_8,074.12c sa bodhi vṛtratūrye //
+RV_8,074.13a ahaṃ huvāna ārkṣe śrutarvaṇi madacyuti /
+RV_8,074.13c śardhāṃsīva stukāvinām mṛkṣā śīrṣā caturṇām //
+RV_8,074.14a māṃ catvāra āśavaḥ śaviṣṭhasya dravitnavaḥ /
+RV_8,074.14c surathāso abhi prayo vakṣan vayo na tugryam //
+RV_8,074.15a satyam it tvā mahenadi paruṣṇy ava dediśam /
+RV_8,074.15c nem āpo aśvadātaraḥ śaviṣṭhād asti martyaḥ //
+RV_8,075.01a yukṣvā hi devahūtamāṃ aśvāṃ agne rathīr iva /
+RV_8,075.01c ni hotā pūrvyaḥ sadaḥ //
+RV_8,075.02a uta no deva devāṃ acchā voco viduṣṭaraḥ /
+RV_8,075.02c śrad viśvā vāryā kṛdhi //
+RV_8,075.03a tvaṃ ha yad yaviṣṭhya sahasaḥ sūnav āhuta /
+RV_8,075.03c ṛtāvā yajñiyo bhuvaḥ //
+RV_8,075.04a ayam agniḥ sahasriṇo vājasya śatinas patiḥ /
+RV_8,075.04c mūrdhā kavī rayīṇām //
+RV_8,075.05a taṃ nemim ṛbhavo yathā namasva sahūtibhiḥ /
+RV_8,075.05c nedīyo yajñam aṅgiraḥ //
+RV_8,075.06a tasmai nūnam abhidyave vācā virūpa nityayā /
+RV_8,075.06c vṛṣṇe codasva suṣṭutim //
+RV_8,075.07a kam u ṣvid asya senayāgner apākacakṣasaḥ /
+RV_8,075.07c paṇiṃ goṣu starāmahe //
+RV_8,075.08a mā no devānāṃ viśaḥ prasnātīr ivosrāḥ /
+RV_8,075.08c kṛśaṃ na hāsur aghnyāḥ //
+RV_8,075.09a mā naḥ samasya dūḍhyaḥ paridveṣaso aṃhatiḥ /
+RV_8,075.09c ūrmir na nāvam ā vadhīt //
+RV_8,075.10a namas te agna ojase gṛṇanti deva kṛṣṭayaḥ /
+RV_8,075.10c amair amitram ardaya //
+RV_8,075.11a kuvit su no gaviṣṭaye 'gne saṃveṣiṣo rayim /
+RV_8,075.11c urukṛd uru ṇas kṛdhi //
+RV_8,075.12a mā no asmin mahādhane parā varg bhārabhṛd yathā /
+RV_8,075.12c saṃvargaṃ saṃ rayiṃ jaya //
+RV_8,075.13a anyam asmad bhiyā iyam agne siṣaktu ducchunā /
+RV_8,075.13c vardhā no amavac chavaḥ //
+RV_8,075.14a yasyājuṣan namasvinaḥ śamīm adurmakhasya vā /
+RV_8,075.14c taṃ ghed agnir vṛdhāvati //
+RV_8,075.15a parasyā adhi saṃvato 'varāṃ abhy ā tara /
+RV_8,075.15c yatrāham asmi tāṃ ava //
+RV_8,075.16a vidmā hi te purā vayam agne pitur yathāvasaḥ /
+RV_8,075.16c adhā te sumnam īmahe //
+RV_8,076.01a imaṃ nu māyinaṃ huva indram īśānam ojasā /
+RV_8,076.01c marutvantaṃ na vṛñjase //
+RV_8,076.02a ayam indro marutsakhā vi vṛtrasyābhinac chiraḥ /
+RV_8,076.02c vajreṇa śataparvaṇā //
+RV_8,076.03a vāvṛdhāno marutsakhendro vi vṛtram airayat /
+RV_8,076.03c sṛjan samudriyā apaḥ //
+RV_8,076.04a ayaṃ ha yena vā idaṃ svar marutvatā jitam /
+RV_8,076.04c indreṇa somapītaye //
+RV_8,076.05a marutvantam ṛjīṣiṇam ojasvantaṃ virapśinam /
+RV_8,076.05c indraṃ gīrbhir havāmahe //
+RV_8,076.06a indram pratnena manmanā marutvantaṃ havāmahe /
+RV_8,076.06c asya somasya pītaye //
+RV_8,076.07a marutvāṃ indra mīḍhvaḥ pibā somaṃ śatakrato /
+RV_8,076.07c asmin yajñe puruṣṭuta //
+RV_8,076.08a tubhyed indra marutvate sutāḥ somāso adrivaḥ /
+RV_8,076.08c hṛdā hūyanta ukthinaḥ //
+RV_8,076.09a pibed indra marutsakhā sutaṃ somaṃ diviṣṭiṣu /
+RV_8,076.09c vajraṃ śiśāna ojasā //
+RV_8,076.10a uttiṣṭhann ojasā saha pītvī śipre avepayaḥ /
+RV_8,076.10c somam indra camū sutam //
+RV_8,076.11a anu tvā rodasī ubhe krakṣamāṇam akṛpetām /
+RV_8,076.11c indra yad dasyuhābhavaḥ //
+RV_8,076.12a vācam aṣṭāpadīm ahaṃ navasraktim ṛtaspṛśam /
+RV_8,076.12c indrāt pari tanvam mame //
+RV_8,077.01a jajñāno nu śatakratur vi pṛcchad iti mātaram /
+RV_8,077.01c ka ugrāḥ ke ha śṛṇvire //
+RV_8,077.02a ād īṃ śavasy abravīd aurṇavābham ahīśuvam /
+RV_8,077.02c te putra santu niṣṭuraḥ //
+RV_8,077.03a sam it tān vṛtrahākhidat khe arāṃ iva khedayā /
+RV_8,077.03c pravṛddho dasyuhābhavat //
+RV_8,077.04a ekayā pratidhāpibat sākaṃ sarāṃsi triṃśatam /
+RV_8,077.04c indraḥ somasya kāṇukā //
+RV_8,077.05a abhi gandharvam atṛṇad abudhneṣu rajassv ā /
+RV_8,077.05c indro brahmabhya id vṛdhe //
+RV_8,077.06a nir āvidhyad giribhya ā dhārayat pakvam odanam /
+RV_8,077.06c indro bundaṃ svātatam //
+RV_8,077.07a śatabradhna iṣus tava sahasraparṇa eka it /
+RV_8,077.07c yam indra cakṛṣe yujam //
+RV_8,077.08a tena stotṛbhya ā bhara nṛbhyo nāribhyo attave /
+RV_8,077.08c sadyo jāta ṛbhuṣṭhira //
+RV_8,077.09a etā cyautnāni te kṛtā varṣiṣṭhāni parīṇasā /
+RV_8,077.09c hṛdā vīḍv adhārayaḥ //
+RV_8,077.10a viśvet tā viṣṇur ābharad urukramas tveṣitaḥ /
+RV_8,077.10c śatam mahiṣān kṣīrapākam odanaṃ varāham indra emuṣam //
+RV_8,077.11a tuvikṣaṃ te sukṛtaṃ sūmayaṃ dhanuḥ sādhur bundo hiraṇyayaḥ /
+RV_8,077.11c ubhā te bāhū raṇyā susaṃskṛta ṛdūpe cid ṛdūvṛdhā //
+RV_8,078.01a puroḷāśaṃ no andhasa indra sahasram ā bhara /
+RV_8,078.01c śatā ca śūra gonām //
+RV_8,078.02a ā no bhara vyañjanaṃ gām aśvam abhyañjanam /
+RV_8,078.02c sacā manā hiraṇyayā //
+RV_8,078.03a uta naḥ karṇaśobhanā purūṇi dhṛṣṇav ā bhara /
+RV_8,078.03c tvaṃ hi śṛṇviṣe vaso //
+RV_8,078.04a nakīṃ vṛdhīka indra te na suṣā na sudā uta /
+RV_8,078.04c nānyas tvac chūra vāghataḥ //
+RV_8,078.05a nakīm indro nikartave na śakraḥ pariśaktave /
+RV_8,078.05c viśvaṃ śṛṇoti paśyati //
+RV_8,078.06a sa manyum martyānām adabdho ni cikīṣate /
+RV_8,078.06c purā nidaś cikīṣate //
+RV_8,078.07a kratva it pūrṇam udaraṃ turasyāsti vidhataḥ /
+RV_8,078.07c vṛtraghnaḥ somapāvnaḥ //
+RV_8,078.08a tve vasūni saṃgatā viśvā ca soma saubhagā /
+RV_8,078.08c sudātv aparihvṛtā //
+RV_8,078.09a tvām id yavayur mama kāmo gavyur hiraṇyayuḥ /
+RV_8,078.09c tvām aśvayur eṣate //
+RV_8,078.10a taved indrāham āśasā haste dātraṃ canā dade /
+RV_8,078.10c dinasya vā maghavan sambhṛtasya vā pūrdhi yavasya kāśinā //
+RV_8,079.01a ayaṃ kṛtnur agṛbhīto viśvajid udbhid it somaḥ /
+RV_8,079.01c ṛṣir vipraḥ kāvyena //
+RV_8,079.02a abhy ūrṇoti yan nagnam bhiṣakti viśvaṃ yat turam /
+RV_8,079.02c prem andhaḥ khyan niḥ śroṇo bhūt //
+RV_8,079.03a tvaṃ soma tanūkṛdbhyo dveṣobhyo 'nyakṛtebhyaḥ /
+RV_8,079.03c uru yantāsi varūtham //
+RV_8,079.04a tvaṃ cittī tava dakṣair diva ā pṛthivyā ṛjīṣin /
+RV_8,079.04c yāvīr aghasya cid dveṣaḥ //
+RV_8,079.05a arthino yanti ced arthaṃ gacchān id daduṣo rātim /
+RV_8,079.05c vavṛjyus tṛṣyataḥ kāmam //
+RV_8,079.06a vidad yat pūrvyaṃ naṣṭam ud īm ṛtāyum īrayat /
+RV_8,079.06c prem āyus tārīd atīrṇam //
+RV_8,079.07a suśevo no mṛḷayākur adṛptakratur avātaḥ /
+RV_8,079.07c bhavā naḥ soma śaṃ hṛde //
+RV_8,079.08a mā naḥ soma saṃ vīvijo mā vi bībhiṣathā rājan /
+RV_8,079.08c mā no hārdi tviṣā vadhīḥ //
+RV_8,079.09a ava yat sve sadhasthe devānāṃ durmatīr īkṣe /
+RV_8,079.09c rājann apa dviṣaḥ sedha mīḍhvo apa sridhaḥ sedha //
+RV_8,080.01a nahy anyam baḷākaram marḍitāraṃ śatakrato /
+RV_8,080.01c tvaṃ na indra mṛḷaya //
+RV_8,080.02a yo naḥ śaśvat purāvithāmṛdhro vājasātaye /
+RV_8,080.02c sa tvaṃ na indra mṛḷaya //
+RV_8,080.03a kim aṅga radhracodanaḥ sunvānasyāvited asi /
+RV_8,080.03c kuvit sv indra ṇaḥ śakaḥ //
+RV_8,080.04a indra pra ṇo ratham ava paścāc cit santam adrivaḥ /
+RV_8,080.04c purastād enam me kṛdhi //
+RV_8,080.05a hanto nu kim āsase prathamaṃ no rathaṃ kṛdhi /
+RV_8,080.05c upamaṃ vājayu śravaḥ //
+RV_8,080.06a avā no vājayuṃ rathaṃ sukaraṃ te kim it pari /
+RV_8,080.06c asmān su jigyuṣas kṛdhi //
+RV_8,080.07a indra dṛhyasva pūr asi bhadrā ta eti niṣkṛtam /
+RV_8,080.07c iyaṃ dhīr ṛtviyāvatī //
+RV_8,080.08a mā sīm avadya ā bhāg urvī kāṣṭhā hitaṃ dhanam /
+RV_8,080.08c apāvṛktā aratnayaḥ //
+RV_8,080.09a turīyaṃ nāma yajñiyaṃ yadā karas tad uśmasi /
+RV_8,080.09c ād it patir na ohase //
+RV_8,080.10a avīvṛdhad vo amṛtā amandīd ekadyūr devā uta yāś ca devīḥ /
+RV_8,080.10c tasmā u rādhaḥ kṛṇuta praśastam prātar makṣū dhiyāvasur jagamyāt //
+RV_8,081.01a ā tū na indra kṣumantaṃ citraṃ grābhaṃ saṃ gṛbhāya /
+RV_8,081.01c mahāhastī dakṣiṇena //
+RV_8,081.02a vidmā hi tvā tuvikūrmiṃ tuvideṣṇaṃ tuvīmagham /
+RV_8,081.02c tuvimātram avobhiḥ //
+RV_8,081.03a nahi tvā śūra devā na martāso ditsantam /
+RV_8,081.03c bhīmaṃ na gāṃ vārayante //
+RV_8,081.04a eto nv indraṃ stavāmeśānaṃ vasvaḥ svarājam /
+RV_8,081.04c na rādhasā mardhiṣan naḥ //
+RV_8,081.05a pra stoṣad upa gāsiṣac chravat sāma gīyamānam /
+RV_8,081.05c abhi rādhasā jugurat //
+RV_8,081.06a ā no bhara dakṣiṇenābhi savyena pra mṛśa /
+RV_8,081.06c indra mā no vasor nir bhāk //
+RV_8,081.07a upa kramasvā bhara dhṛṣatā dhṛṣṇo janānām /
+RV_8,081.07c adāśūṣṭarasya vedaḥ //
+RV_8,081.08a indra ya u nu te asti vājo viprebhiḥ sanitvaḥ /
+RV_8,081.08c asmābhiḥ su taṃ sanuhi //
+RV_8,081.09a sadyojuvas te vājā asmabhyaṃ viśvaścandrāḥ /
+RV_8,081.09c vaśaiś ca makṣū jarante //
+RV_8,082.01a ā pra drava parāvato 'rvāvataś ca vṛtrahan /
+RV_8,082.01c madhvaḥ prati prabharmaṇi //
+RV_8,082.02a tīvrāḥ somāsa ā gahi sutāso mādayiṣṇavaḥ /
+RV_8,082.02c pibā dadhṛg yathociṣe //
+RV_8,082.03a iṣā mandasvād u te 'raṃ varāya manyave /
+RV_8,082.03c bhuvat ta indra śaṃ hṛde //
+RV_8,082.04a ā tv aśatrav ā gahi ny ukthāni ca hūyase /
+RV_8,082.04c upame rocane divaḥ //
+RV_8,082.05a tubhyāyam adribhiḥ suto gobhiḥ śrīto madāya kam /
+RV_8,082.05c pra soma indra hūyate //
+RV_8,082.06a indra śrudhi su me havam asme sutasya gomataḥ /
+RV_8,082.06c vi pītiṃ tṛptim aśnuhi //
+RV_8,082.07a ya indra camaseṣv ā somaś camūṣu te sutaḥ /
+RV_8,082.07c pibed asya tvam īśiṣe //
+RV_8,082.08a yo apsu candramā iva somaś camūṣu dadṛśe /
+RV_8,082.08c pibed asya tvam īśiṣe //
+RV_8,082.09a yaṃ te śyenaḥ padābharat tiro rajāṃsy aspṛtam /
+RV_8,082.09c pibed asya tvam īśiṣe //
+RV_8,083.01a devānām id avo mahat tad ā vṛṇīmahe vayam /
+RV_8,083.01c vṛṣṇām asmabhyam ūtaye //
+RV_8,083.02a te naḥ santu yujaḥ sadā varuṇo mitro aryamā /
+RV_8,083.02c vṛdhāsaś ca pracetasaḥ //
+RV_8,083.03a ati no viṣpitā puru naubhir apo na parṣatha /
+RV_8,083.03c yūyam ṛtasya rathyaḥ //
+RV_8,083.04a vāmaṃ no astv aryaman vāmaṃ varuṇa śaṃsyam /
+RV_8,083.04c vāmaṃ hy āvṛṇīmahe //
+RV_8,083.05a vāmasya hi pracetasa īśānāśo riśādasaḥ /
+RV_8,083.05c nem ādityā aghasya yat //
+RV_8,083.06a vayam id vaḥ sudānavaḥ kṣiyanto yānto adhvann ā /
+RV_8,083.06c devā vṛdhāya hūmahe //
+RV_8,083.07a adhi na indraiṣāṃ viṣṇo sajātyānām /
+RV_8,083.07c itā maruto aśvinā //
+RV_8,083.08a pra bhrātṛtvaṃ sudānavo 'dha dvitā samānyā /
+RV_8,083.08c mātur garbhe bharāmahe //
+RV_8,083.09a yūyaṃ hi ṣṭhā sudānava indrajyeṣṭhā abhidyavaḥ /
+RV_8,083.09c adhā cid va uta bruve //
+RV_8,084.01a preṣṭhaṃ vo atithiṃ stuṣe mitram iva priyam /
+RV_8,084.01c agniṃ rathaṃ na vedyam //
+RV_8,084.02a kavim iva pracetasaṃ yaṃ devāso adha dvitā /
+RV_8,084.02c ni martyeṣv ādadhuḥ //
+RV_8,084.03a tvaṃ yaviṣṭha dāśuṣo nṝṃḥ pāhi śṛṇudhī giraḥ /
+RV_8,084.03c rakṣā tokam uta tmanā //
+RV_8,084.04a kayā te agne aṅgira ūrjo napād upastutim /
+RV_8,084.04c varāya deva manyave //
+RV_8,084.05a dāśema kasya manasā yajñasya sahaso yaho /
+RV_8,084.05c kad u voca idaṃ namaḥ //
+RV_8,084.06a adhā tvaṃ hi nas karo viśvā asmabhyaṃ sukṣitīḥ /
+RV_8,084.06c vājadraviṇaso giraḥ //
+RV_8,084.07a kasya nūnam parīṇaso dhiyo jinvasi dampate /
+RV_8,084.07c goṣātā yasya te giraḥ //
+RV_8,084.08a tam marjayanta sukratum puroyāvānam ājiṣu /
+RV_8,084.08c sveṣu kṣayeṣu vājinam //
+RV_8,084.09a kṣeti kṣemebhiḥ sādhubhir nakir yaṃ ghnanti hanti yaḥ /
+RV_8,084.09c agne suvīra edhate //
+RV_8,085.01a ā me havaṃ nāsatyāśvinā gacchataṃ yuvam /
+RV_8,085.01c madhvaḥ somasya pītaye //
+RV_8,085.02a imam me stomam aśvinemam me śṛṇutaṃ havam /
+RV_8,085.02c madhvaḥ somasya pītaye //
+RV_8,085.03a ayaṃ vāṃ kṛṣṇo aśvinā havate vājinīvasū /
+RV_8,085.03c madhvaḥ somasya pītaye //
+RV_8,085.04a śṛṇutaṃ jaritur havaṃ kṛṣṇasya stuvato narā /
+RV_8,085.04c madhvaḥ somasya pītaye //
+RV_8,085.05a chardir yantam adābhyaṃ viprāya stuvate narā /
+RV_8,085.05c madhvaḥ somasya pītaye //
+RV_8,085.06a gacchataṃ dāśuṣo gṛham itthā stuvato aśvinā /
+RV_8,085.06c madhvaḥ somasya pītaye //
+RV_8,085.07a yuñjāthāṃ rāsabhaṃ rathe vīḍvaṅge vṛṣaṇvasū /
+RV_8,085.07c madhvaḥ somasya pītaye //
+RV_8,085.08a trivandhureṇa trivṛtā rathenā yātam aśvinā /
+RV_8,085.08c madhvaḥ somasya pītaye //
+RV_8,085.09a nū me giro nāsatyāśvinā prāvataṃ yuvam /
+RV_8,085.09c madhvaḥ somasya pītaye //
+RV_8,086.01a ubhā hi dasrā bhiṣajā mayobhuvobhā dakṣasya vacaso babhūvathuḥ /
+RV_8,086.01c tā vāṃ viśvako havate tanūkṛthe mā no vi yauṣṭaṃ sakhyā mumocatam //
+RV_8,086.02a kathā nūnaṃ vāṃ vimanā upa stavad yuvaṃ dhiyaṃ dadathur vasyaiṣṭaye /
+RV_8,086.02c tā vāṃ viśvako havate tanūkṛthe mā no vi yauṣṭaṃ sakhyā mumocatam //
+RV_8,086.03a yuvaṃ hi ṣmā purubhujemam edhatuṃ viṣṇāpve dadathur vasyaiṣṭaye /
+RV_8,086.03c tā vāṃ viśvako havate tanūkṛthe mā no vi yauṣṭaṃ sakhyā mumocatam //
+RV_8,086.04a uta tyaṃ vīraṃ dhanasām ṛjīṣiṇaṃ dūre cit santam avase havāmahe /
+RV_8,086.04c yasya svādiṣṭhā sumatiḥ pitur yathā mā no vi yauṣṭaṃ sakhyā mumocatam //
+RV_8,086.05a ṛtena devaḥ savitā śamāyata ṛtasya śṛṅgam urviyā vi paprathe /
+RV_8,086.05c ṛtaṃ sāsāha mahi cit pṛtanyato mā no vi yauṣṭaṃ sakhyā mumocatam //
+RV_8,087.01a dyumnī vāṃ stomo aśvinā krivir na seka ā gatam /
+RV_8,087.01c madhvaḥ sutasya sa divi priyo narā pātaṃ gaurāv iveriṇe //
+RV_8,087.02a pibataṃ gharmam madhumantam aśvinā barhiḥ sīdataṃ narā /
+RV_8,087.02c tā mandasānā manuṣo duroṇa ā ni pātaṃ vedasā vayaḥ //
+RV_8,087.03a ā vāṃ viśvābhir ūtibhiḥ priyamedhā ahūṣata /
+RV_8,087.03c tā vartir yātam upa vṛktabarhiṣo juṣṭaṃ yajñaṃ diviṣṭiṣu //
+RV_8,087.04a pibataṃ somam madhumantam aśvinā barhiḥ sīdataṃ sumat /
+RV_8,087.04c tā vāvṛdhānā upa suṣṭutiṃ divo gantaṃ gaurāv iveriṇam //
+RV_8,087.05a ā nūnaṃ yātam aśvināśvebhiḥ pruṣitapsubhiḥ /
+RV_8,087.05c dasrā hiraṇyavartanī śubhas patī pātaṃ somam ṛtāvṛdhā //
+RV_8,087.06a vayaṃ hi vāṃ havāmahe vipanyavo viprāso vājasātaye /
+RV_8,087.06c tā valgū dasrā purudaṃsasā dhiyāśvinā śruṣṭy ā gatam //
+RV_8,088.01a taṃ vo dasmam ṛtīṣahaṃ vasor mandānam andhasaḥ /
+RV_8,088.01c abhi vatsaṃ na svasareṣu dhenava indraṃ gīrbhir navāmahe //
+RV_8,088.02a dyukṣaṃ sudānuṃ taviṣībhir āvṛtaṃ giriṃ na purubhojasam /
+RV_8,088.02c kṣumantaṃ vājaṃ śatinaṃ sahasriṇam makṣū gomantam īmahe //
+RV_8,088.03a na tvā bṛhanto adrayo varanta indra vīḷavaḥ /
+RV_8,088.03c yad ditsasi stuvate māvate vasu nakiṣ ṭad ā mināti te //
+RV_8,088.04a yoddhāsi kratvā śavasota daṃsanā viśvā jātābhi majmanā /
+RV_8,088.04c ā tvāyam arka ūtaye vavartati yaṃ gotamā ajījanan //
+RV_8,088.05a pra hi ririkṣa ojasā divo antebhyas pari /
+RV_8,088.05c na tvā vivyāca raja indra pārthivam anu svadhāṃ vavakṣitha //
+RV_8,088.06a nakiḥ pariṣṭir maghavan maghasya te yad dāśuṣe daśasyasi /
+RV_8,088.06c asmākam bodhy ucathasya coditā maṃhiṣṭho vājasātaye //
+RV_8,089.01a bṛhad indrāya gāyata maruto vṛtrahantamam /
+RV_8,089.01c yena jyotir ajanayann ṛtāvṛdho devaṃ devāya jāgṛvi //
+RV_8,089.02a apādhamad abhiśastīr aśastihāthendro dyumny ābhavat /
+RV_8,089.02c devās ta indra sakhyāya yemire bṛhadbhāno marudgaṇa //
+RV_8,089.03a pra va indrāya bṛhate maruto brahmārcata /
+RV_8,089.03c vṛtraṃ hanati vṛtrahā śatakratur vajreṇa śataparvaṇā //
+RV_8,089.04a abhi pra bhara dhṛṣatā dhṛṣanmanaḥ śravaś cit te asad bṛhat /
+RV_8,089.04c arṣantv āpo javasā vi mātaro hano vṛtraṃ jayā svaḥ //
+RV_8,089.05a yaj jāyathā apūrvya maghavan vṛtrahatyāya /
+RV_8,089.05c tat pṛthivīm aprathayas tad astabhnā uta dyām //
+RV_8,089.06a tat te yajño ajāyata tad arka uta haskṛtiḥ /
+RV_8,089.06c tad viśvam abhibhūr asi yaj jātaṃ yac ca jantvam //
+RV_8,089.07a āmāsu pakvam airaya ā sūryaṃ rohayo divi /
+RV_8,089.07c gharmaṃ na sāman tapatā suvṛktibhir juṣṭaṃ girvaṇase bṛhat //
+RV_8,090.01a ā no viśvāsu havya indraḥ samatsu bhūṣatu /
+RV_8,090.01c upa brahmāṇi savanāni vṛtrahā paramajyā ṛcīṣamaḥ //
+RV_8,090.02a tvaṃ dātā prathamo rādhasām asy asi satya īśānakṛt /
+RV_8,090.02c tuvidyumnasya yujyā vṛṇīmahe putrasya śavaso mahaḥ //
+RV_8,090.03a brahmā ta indra girvaṇaḥ kriyante anatidbhutā /
+RV_8,090.03c imā juṣasva haryaśva yojanendra yā te amanmahi //
+RV_8,090.04a tvaṃ hi satyo maghavann anānato vṛtrā bhūri nyṛñjase /
+RV_8,090.04c sa tvaṃ śaviṣṭha vajrahasta dāśuṣe 'rvāñcaṃ rayim ā kṛdhi //
+RV_8,090.05a tvam indra yaśā asy ṛjīṣī śavasas pate /
+RV_8,090.05c tvaṃ vṛtrāṇi haṃsy apratīny eka id anuttā carṣaṇīdhṛtā //
+RV_8,090.06a tam u tvā nūnam asura pracetasaṃ rādho bhāgam ivemahe /
+RV_8,090.06c mahīva kṛttiḥ śaraṇā ta indra pra te sumnā no aśnavan //
+RV_8,091.01a kanyā vār avāyatī somam api srutāvidat /
+RV_8,091.01c astam bharanty abravīd indrāya sunavai tvā śakrāya sunavai tvā //
+RV_8,091.02a asau ya eṣi vīrako gṛhaṃ-gṛhaṃ vicākaśad /
+RV_8,091.02c imaṃ jambhasutam piba dhānāvantaṃ karambhiṇam apūpavantam ukthinam //
+RV_8,091.03a ā cana tvā cikitsāmo 'dhi cana tvā nemasi /
+RV_8,091.03c śanair iva śanakair ivendrāyendo pari srava //
+RV_8,091.04a kuvic chakat kuvit karat kuvin no vasyasas karat /
+RV_8,091.04c kuvit patidviṣo yatīr indreṇa saṃgamāmahai //
+RV_8,091.05a imāni trīṇi viṣṭapā tānīndra vi rohaya /
+RV_8,091.05c śiras tatasyorvarām ād idam ma upodare //
+RV_8,091.06a asau ca yā na urvarād imāṃ tanvam mama /
+RV_8,091.06c atho tatasya yac chiraḥ sarvā tā romaśā kṛdhi //
+RV_8,091.07a khe rathasya khe 'nasaḥ khe yugasya śatakrato /
+RV_8,091.07c apālām indra triṣ pūtvy akṛṇoḥ sūryatvacam //
+RV_8,092.01a pāntam ā vo andhasa indram abhi pra gāyata /
+RV_8,092.01c viśvāsāhaṃ śatakratum maṃhiṣṭhaṃ carṣaṇīnām //
+RV_8,092.02a puruhūtam puruṣṭutaṃ gāthānyaṃ sanaśrutam /
+RV_8,092.02c indra iti bravītana //
+RV_8,092.03a indra in no mahānāṃ dātā vājānāṃ nṛtuḥ /
+RV_8,092.03c mahāṃ abhijñv ā yamat //
+RV_8,092.04a apād u śipry andhasaḥ sudakṣasya prahoṣiṇaḥ /
+RV_8,092.04c indor indro yavāśiraḥ //
+RV_8,092.05a tam v abhi prārcatendraṃ somasya pītaye /
+RV_8,092.05c tad id dhy asya vardhanam //
+RV_8,092.06a asya pītvā madānāṃ devo devasyaujasā /
+RV_8,092.06c viśvābhi bhuvanā bhuvat //
+RV_8,092.07a tyam u vaḥ satrāsāhaṃ viśvāsu gīrṣv āyatam /
+RV_8,092.07c ā cyāvayasy ūtaye //
+RV_8,092.08a yudhmaṃ santam anarvāṇaṃ somapām anapacyutam /
+RV_8,092.08c naram avāryakratum //
+RV_8,092.09a śikṣā ṇa indra rāya ā puru vidvāṃ ṛcīṣama /
+RV_8,092.09c avā naḥ pārye dhane //
+RV_8,092.10a ataś cid indra ṇa upā yāhi śatavājayā /
+RV_8,092.10c iṣā sahasravājayā //
+RV_8,092.11a ayāma dhīvato dhiyo 'rvadbhiḥ śakra godare /
+RV_8,092.11c jayema pṛtsu vajrivaḥ //
+RV_8,092.12a vayam u tvā śatakrato gāvo na yavaseṣv ā /
+RV_8,092.12c uktheṣu raṇayāmasi //
+RV_8,092.13a viśvā hi martyatvanānukāmā śatakrato /
+RV_8,092.13c aganma vajrinn āśasaḥ //
+RV_8,092.14a tve su putra śavaso 'vṛtran kāmakātayaḥ /
+RV_8,092.14c na tvām indrāti ricyate //
+RV_8,092.15a sa no vṛṣan saniṣṭhayā saṃ ghorayā dravitnvā /
+RV_8,092.15c dhiyāviḍḍhi purandhyā //
+RV_8,092.16a yas te nūnaṃ śatakratav indra dyumnitamo madaḥ /
+RV_8,092.16c tena nūnam made madeḥ //
+RV_8,092.17a yas te citraśravastamo ya indra vṛtrahantamaḥ /
+RV_8,092.17c ya ojodātamo madaḥ //
+RV_8,092.18a vidmā hi yas te adrivas tvādattaḥ satya somapāḥ /
+RV_8,092.18c viśvāsu dasma kṛṣṭiṣu //
+RV_8,092.19a indrāya madvane sutam pari ṣṭobhantu no giraḥ /
+RV_8,092.19c arkam arcantu kāravaḥ //
+RV_8,092.20a yasmin viśvā adhi śriyo raṇanti sapta saṃsadaḥ /
+RV_8,092.20c indraṃ sute havāmahe //
+RV_8,092.21a trikadrukeṣu cetanaṃ devāso yajñam atnata /
+RV_8,092.21c tam id vardhantu no giraḥ //
+RV_8,092.22a ā tvā viśantv indavaḥ samudram iva sindhavaḥ /
+RV_8,092.22c na tvām indrāti ricyate //
+RV_8,092.23a vivyaktha mahinā vṛṣan bhakṣaṃ somasya jāgṛve /
+RV_8,092.23c ya indra jaṭhareṣu te //
+RV_8,092.24a araṃ ta indra kukṣaye somo bhavatu vṛtrahan /
+RV_8,092.24c araṃ dhāmabhya indavaḥ //
+RV_8,092.25a aram aśvāya gāyati śrutakakṣo araṃ gave /
+RV_8,092.25c aram indrasya dhāmne //
+RV_8,092.26a araṃ hi ṣma suteṣu ṇaḥ someṣv indra bhūṣasi /
+RV_8,092.26c araṃ te śakra dāvane //
+RV_8,092.27a parākāttāc cid adrivas tvāṃ nakṣanta no giraḥ /
+RV_8,092.27c araṃ gamāma te vayam //
+RV_8,092.28a evā hy asi vīrayur evā śūra uta sthiraḥ /
+RV_8,092.28c evā te rādhyam manaḥ //
+RV_8,092.29a evā rātis tuvīmagha viśvebhir dhāyi dhātṛbhiḥ /
+RV_8,092.29c adhā cid indra me sacā //
+RV_8,092.30a mo ṣu brahmeva tandrayur bhuvo vājānām pate /
+RV_8,092.30c matsvā sutasya gomataḥ //
+RV_8,092.31a mā na indrābhy ādiśaḥ sūro aktuṣv ā yaman /
+RV_8,092.31c tvā yujā vanema tat //
+RV_8,092.32a tvayed indra yujā vayam prati bruvīmahi spṛdhaḥ /
+RV_8,092.32c tvam asmākaṃ tava smasi //
+RV_8,092.33a tvām id dhi tvāyavo 'nunonuvataś carān /
+RV_8,092.33c sakhāya indra kāravaḥ //
+RV_8,093.01a ud ghed abhi śrutāmaghaṃ vṛṣabhaṃ naryāpasam /
+RV_8,093.01c astāram eṣi sūrya //
+RV_8,093.02a nava yo navatim puro bibheda bāhvojasā /
+RV_8,093.02c ahiṃ ca vṛtrahāvadhīt //
+RV_8,093.03a sa na indraḥ śivaḥ sakhāśvāvad gomad yavamat /
+RV_8,093.03c urudhāreva dohate //
+RV_8,093.04a yad adya kac ca vṛtrahann udagā abhi sūrya /
+RV_8,093.04c sarvaṃ tad indra te vaśe //
+RV_8,093.05a yad vā pravṛddha satpate na marā iti manyase /
+RV_8,093.05c uto tat satyam it tava //
+RV_8,093.06a ye somāsaḥ parāvati ye arvāvati sunvire /
+RV_8,093.06c sarvāṃs tāṃ indra gacchasi //
+RV_8,093.07a tam indraṃ vājayāmasi mahe vṛtrāya hantave /
+RV_8,093.07c sa vṛṣā vṛṣabho bhuvat //
+RV_8,093.08a indraḥ sa dāmane kṛta ojiṣṭhaḥ sa made hitaḥ /
+RV_8,093.08c dyumnī ślokī sa somyaḥ //
+RV_8,093.09a girā vajro na sambhṛtaḥ sabalo anapacyutaḥ /
+RV_8,093.09c vavakṣa ṛṣvo astṛtaḥ //
+RV_8,093.10a durge cin naḥ sugaṃ kṛdhi gṛṇāna indra girvaṇaḥ /
+RV_8,093.10c tvaṃ ca maghavan vaśaḥ //
+RV_8,093.11a yasya te nū cid ādiśaṃ na minanti svarājyam /
+RV_8,093.11c na devo nādhrigur janaḥ //
+RV_8,093.12a adhā te apratiṣkutaṃ devī śuṣmaṃ saparyataḥ /
+RV_8,093.12c ubhe suśipra rodasī //
+RV_8,093.13a tvam etad adhārayaḥ kṛṣṇāsu rohiṇīṣu ca /
+RV_8,093.13c paruṣṇīṣu ruśat payaḥ //
+RV_8,093.14a vi yad aher adha tviṣo viśve devāso akramuḥ /
+RV_8,093.14c vidan mṛgasya tāṃ amaḥ //
+RV_8,093.15a ād u me nivaro bhuvad vṛtrahādiṣṭa pauṃsyam /
+RV_8,093.15c ajātaśatrur astṛtaḥ //
+RV_8,093.16a śrutaṃ vo vṛtrahantamam pra śardhaṃ carṣaṇīnām /
+RV_8,093.16c ā śuṣe rādhase mahe //
+RV_8,093.17a ayā dhiyā ca gavyayā puruṇāman puruṣṭuta /
+RV_8,093.17c yat some-soma ābhavaḥ //
+RV_8,093.18a bodhinmanā id astu no vṛtrahā bhūryāsutiḥ /
+RV_8,093.18c śṛṇotu śakra āśiṣam //
+RV_8,093.19a kayā tvaṃ na ūtyābhi pra mandase vṛṣan /
+RV_8,093.19c kayā stotṛbhya ā bhara //
+RV_8,093.20a kasya vṛṣā sute sacā niyutvān vṛṣabho raṇat /
+RV_8,093.20c vṛtrahā somapītaye //
+RV_8,093.21a abhī ṣu ṇas tvaṃ rayim mandasānaḥ sahasriṇam /
+RV_8,093.21c prayantā bodhi dāśuṣe //
+RV_8,093.22a patnīvantaḥ sutā ima uśanto yanti vītaye /
+RV_8,093.22c apāṃ jagmir nicumpuṇaḥ //
+RV_8,093.23a iṣṭā hotrā asṛkṣatendraṃ vṛdhāso adhvare /
+RV_8,093.23c acchāvabhṛtham ojasā //
+RV_8,093.24a iha tyā sadhamādyā harī hiraṇyakeśyā /
+RV_8,093.24c voḷhām abhi prayo hitam //
+RV_8,093.25a tubhyaṃ somāḥ sutā ime stīrṇam barhir vibhāvaso /
+RV_8,093.25c stotṛbhya indram ā vaha //
+RV_8,093.26a ā te dakṣaṃ vi rocanā dadhad ratnā vi dāśuṣe /
+RV_8,093.26c stotṛbhya indram arcata //
+RV_8,093.27a ā te dadhāmīndriyam ukthā viśvā śatakrato /
+RV_8,093.27c stotṛbhya indra mṛḷaya //
+RV_8,093.28a bhadram-bhadraṃ na ā bhareṣam ūrjaṃ śatakrato /
+RV_8,093.28c yad indra mṛḷayāsi naḥ //
+RV_8,093.29a sa no viśvāny ā bhara suvitāni śatakrato /
+RV_8,093.29c yad indra mṛḷayāsi naḥ //
+RV_8,093.30a tvām id vṛtrahantama sutāvanto havāmahe /
+RV_8,093.30c yad indra mṛḷayāsi naḥ //
+RV_8,093.31a upa no haribhiḥ sutaṃ yāhi madānām pate /
+RV_8,093.31c upa no haribhiḥ sutam //
+RV_8,093.32a dvitā yo vṛtrahantamo vida indraḥ śatakratuḥ /
+RV_8,093.32c upa no haribhiḥ sutam //
+RV_8,093.33a tvaṃ hi vṛtrahann eṣām pātā somānām asi /
+RV_8,093.33c upa no haribhiḥ sutam //
+RV_8,093.34a indra iṣe dadātu na ṛbhukṣaṇam ṛbhuṃ rayim /
+RV_8,093.34c vājī dadātu vājinam //
+RV_8,094.01a gaur dhayati marutāṃ śravasyur mātā maghonām /
+RV_8,094.01c yuktā vahnī rathānām //
+RV_8,094.02a yasyā devā upasthe vratā viśve dhārayante /
+RV_8,094.02c sūryāmāsā dṛśe kam //
+RV_8,094.03a tat su no viśve arya ā sadā gṛṇanti kāravaḥ /
+RV_8,094.03c marutaḥ somapītaye //
+RV_8,094.04a asti somo ayaṃ sutaḥ pibanty asya marutaḥ /
+RV_8,094.04c uta svarājo aśvinā //
+RV_8,094.05a pibanti mitro aryamā tanā pūtasya varuṇaḥ /
+RV_8,094.05c triṣadhasthasya jāvataḥ //
+RV_8,094.06a uto nv asya joṣam āṃ indraḥ sutasya gomataḥ /
+RV_8,094.06c prātar hoteva matsati //
+RV_8,094.07a kad atviṣanta sūrayas tira āpa iva sridhaḥ /
+RV_8,094.07c arṣanti pūtadakṣasaḥ //
+RV_8,094.08a kad vo adya mahānāṃ devānām avo vṛṇe /
+RV_8,094.08c tmanā ca dasmavarcasām //
+RV_8,094.09a ā ye viśvā pārthivāni paprathan rocanā divaḥ /
+RV_8,094.09c marutaḥ somapītaye //
+RV_8,094.10a tyān nu pūtadakṣaso divo vo maruto huve /
+RV_8,094.10c asya somasya pītaye //
+RV_8,094.11a tyān nu ye vi rodasī tastabhur maruto huve /
+RV_8,094.11c asya somasya pītaye //
+RV_8,094.12a tyaṃ nu mārutaṃ gaṇaṃ giriṣṭhāṃ vṛṣaṇaṃ huve /
+RV_8,094.12c asya somasya pītaye //
+RV_8,095.01a ā tvā giro rathīr ivāsthuḥ suteṣu girvaṇaḥ /
+RV_8,095.01c abhi tvā sam anūṣatendra vatsaṃ na mātaraḥ //
+RV_8,095.02a ā tvā śukrā acucyavuḥ sutāsa indra girvaṇaḥ /
+RV_8,095.02c pibā tv asyāndhasa indra viśvāsu te hitam //
+RV_8,095.03a pibā somam madāya kam indra śyenābhṛtaṃ sutam /
+RV_8,095.03c tvaṃ hi śaśvatīnām patī rājā viśām asi //
+RV_8,095.04a śrudhī havaṃ tiraścyā indra yas tvā saparyati /
+RV_8,095.04c suvīryasya gomato rāyas pūrdhi mahāṃ asi //
+RV_8,095.05a indra yas te navīyasīṃ giram mandrām ajījanat /
+RV_8,095.05c cikitvinmanasaṃ dhiyam pratnām ṛtasya pipyuṣīm //
+RV_8,095.06a tam u ṣṭavāma yaṃ gira indram ukthāni vāvṛdhuḥ /
+RV_8,095.06c purūṇy asya pauṃsyā siṣāsanto vanāmahe //
+RV_8,095.07a eto nv indraṃ stavāma śuddhaṃ śuddhena sāmnā /
+RV_8,095.07c śuddhair ukthair vāvṛdhvāṃsaṃ śuddha āśīrvān mamattu //
+RV_8,095.08a indra śuddho na ā gahi śuddhaḥ śuddhābhir ūtibhiḥ /
+RV_8,095.08c śuddho rayiṃ ni dhāraya śuddho mamaddhi somyaḥ //
+RV_8,095.09a indra śuddho hi no rayiṃ śuddho ratnāni dāśuṣe /
+RV_8,095.09c śuddho vṛtrāṇi jighnase śuddho vājaṃ siṣāsasi //
+RV_8,096.01a asmā uṣāsa ātiranta yāmam indrāya naktam ūrmyāḥ suvācaḥ /
+RV_8,096.01c asmā āpo mātaraḥ sapta tasthur nṛbhyas tarāya sindhavaḥ supārāḥ //
+RV_8,096.02a atividdhā vithureṇā cid astrā triḥ sapta sānu saṃhitā girīṇām /
+RV_8,096.02c na tad devo na martyas tuturyād yāni pravṛddho vṛṣabhaś cakāra //
+RV_8,096.03a indrasya vajra āyaso nimiśla indrasya bāhvor bhūyiṣṭham ojaḥ /
+RV_8,096.03c śīrṣann indrasya kratavo nireka āsann eṣanta śrutyā upāke //
+RV_8,096.04a manye tvā yajñiyaṃ yajñiyānām manye tvā cyavanam acyutānām /
+RV_8,096.04c manye tvā satvanām indra ketum manye tvā vṛṣabhaṃ carṣaṇīnām //
+RV_8,096.05a ā yad vajram bāhvor indra dhatse madacyutam ahaye hantavā u /
+RV_8,096.05c pra parvatā anavanta pra gāvaḥ pra brahmāṇo abhinakṣanta indram //
+RV_8,096.06a tam u ṣṭavāma ya imā jajāna viśvā jātāny avarāṇy asmāt /
+RV_8,096.06c indreṇa mitraṃ didhiṣema gīrbhir upo namobhir vṛṣabhaṃ viśema //
+RV_8,096.07a vṛtrasya tvā śvasathād īṣamāṇā viśve devā ajahur ye sakhāyaḥ /
+RV_8,096.07c marudbhir indra sakhyaṃ te astv athemā viśvāḥ pṛtanā jayāsi //
+RV_8,096.08a triḥ ṣaṣṭis tvā maruto vāvṛdhānā usrā iva rāśayo yajñiyāsaḥ /
+RV_8,096.08c upa tvemaḥ kṛdhi no bhāgadheyaṃ śuṣmaṃ ta enā haviṣā vidhema //
+RV_8,096.09a tigmam āyudham marutām anīkaṃ kas ta indra prati vajraṃ dadharṣa /
+RV_8,096.09c anāyudhāso asurā adevāś cakreṇa tāṃ apa vapa ṛjīṣin //
+RV_8,096.10a maha ugrāya tavase suvṛktim preraya śivatamāya paśvaḥ /
+RV_8,096.10c girvāhase gira indrāya pūrvīr dhehi tanve kuvid aṅga vedat //
+RV_8,096.11a ukthavāhase vibhve manīṣāṃ druṇā na pāram īrayā nadīnām /
+RV_8,096.11c ni spṛśa dhiyā tanvi śrutasya juṣṭatarasya kuvid aṅga vedat //
+RV_8,096.12a tad viviḍḍhi yat ta indro jujoṣat stuhi suṣṭutiṃ namasā vivāsa /
+RV_8,096.12c upa bhūṣa jaritar mā ruvaṇyaḥ śrāvayā vācaṃ kuvid aṅga vedat //
+RV_8,096.13a ava drapso aṃśumatīm atiṣṭhad iyānaḥ kṛṣṇo daśabhiḥ sahasraiḥ /
+RV_8,096.13c āvat tam indraḥ śacyā dhamantam apa snehitīr nṛmaṇā adhatta //
+RV_8,096.14a drapsam apaśyaṃ viṣuṇe carantam upahvare nadyo aṃśumatyāḥ /
+RV_8,096.14c nabho na kṛṣṇam avatasthivāṃsam iṣyāmi vo vṛṣaṇo yudhyatājau //
+RV_8,096.15a adha drapso aṃśumatyā upasthe 'dhārayat tanvaṃ titviṣāṇaḥ /
+RV_8,096.15c viśo adevīr abhy ācarantīr bṛhaspatinā yujendraḥ sasāhe //
+RV_8,096.16a tvaṃ ha tyat saptabhyo jāyamāno 'śatrubhyo abhavaḥ śatrur indra /
+RV_8,096.16c gūḷhe dyāvāpṛthivī anv avindo vibhumadbhyo bhuvanebhyo raṇaṃ dhāḥ //
+RV_8,096.17a tvaṃ ha tyad apratimānam ojo vajreṇa vajrin dhṛṣito jaghantha /
+RV_8,096.17c tvaṃ śuṣṇasyāvātiro vadhatrais tvaṃ gā indra śacyed avindaḥ //
+RV_8,096.18a tvaṃ ha tyad vṛṣabha carṣaṇīnāṃ ghano vṛtrāṇāṃ taviṣo babhūtha /
+RV_8,096.18c tvaṃ sindhūṃr asṛjas tastabhānān tvam apo ajayo dāsapatnīḥ //
+RV_8,096.19a sa sukratū raṇitā yaḥ suteṣv anuttamanyur yo aheva revān /
+RV_8,096.19c ya eka in nary apāṃsi kartā sa vṛtrahā pratīd anyam āhuḥ //
+RV_8,096.20a sa vṛtrahendraś carṣaṇīdhṛt taṃ suṣṭutyā havyaṃ huvema /
+RV_8,096.20c sa prāvitā maghavā no 'dhivaktā sa vājasya śravasyasya dātā //
+RV_8,096.21a sa vṛtrahendra ṛbhukṣāḥ sadyo jajñāno havyo babhūva /
+RV_8,096.21c kṛṇvann apāṃsi naryā purūṇi somo na pīto havyaḥ sakhibhyaḥ //
+RV_8,097.01a yā indra bhuja ābharaḥ svarvāṃ asurebhyaḥ /
+RV_8,097.01c stotāram in maghavann asya vardhaya ye ca tve vṛktabarhiṣaḥ //
+RV_8,097.02a yam indra dadhiṣe tvam aśvaṃ gām bhāgam avyayam /
+RV_8,097.02c yajamāne sunvati dakṣiṇāvati tasmin taṃ dhehi mā paṇau //
+RV_8,097.03a ya indra sasty avrato 'nuṣvāpam adevayuḥ /
+RV_8,097.03c svaiḥ ṣa evair mumurat poṣyaṃ rayiṃ sanutar dhehi taṃ tataḥ //
+RV_8,097.04a yac chakrāsi parāvati yad arvāvati vṛtrahan /
+RV_8,097.04c atas tvā gīrbhir dyugad indra keśibhiḥ sutāvāṃ ā vivāsati //
+RV_8,097.05a yad vāsi rocane divaḥ samudrasyādhi viṣṭapi /
+RV_8,097.05c yat pārthive sadane vṛtrahantama yad antarikṣa ā gahi //
+RV_8,097.06a sa naḥ someṣu somapāḥ suteṣu śavasas pate /
+RV_8,097.06c mādayasva rādhasā sūnṛtāvatendra rāyā parīṇasā //
+RV_8,097.07a mā na indra parā vṛṇag bhavā naḥ sadhamādyaḥ /
+RV_8,097.07c tvaṃ na ūtī tvam in na āpyam mā na indra parā vṛṇak //
+RV_8,097.08a asme indra sacā sute ni ṣadā pītaye madhu /
+RV_8,097.08c kṛdhī jaritre maghavann avo mahad asme indra sacā sute //
+RV_8,097.09a na tvā devāsa āśata na martyāso adrivaḥ /
+RV_8,097.09c viśvā jātāni śavasābhibhūr asi na tvā devāsa āśata //
+RV_8,097.10a viśvāḥ pṛtanā abhibhūtaraṃ naraṃ sajūs tatakṣur indraṃ jajanuś ca rājase /
+RV_8,097.10c kratvā variṣṭhaṃ vara āmurim utogram ojiṣṭhaṃ tavasaṃ tarasvinam //
+RV_8,097.11a sam īṃ rebhāso asvarann indraṃ somasya pītaye /
+RV_8,097.11c svarpatiṃ yad īṃ vṛdhe dhṛtavrato hy ojasā sam ūtibhiḥ //
+RV_8,097.12a nemiṃ namanti cakṣasā meṣaṃ viprā abhisvarā /
+RV_8,097.12c sudītayo vo adruho 'pi karṇe tarasvinaḥ sam ṛkvabhiḥ //
+RV_8,097.13a tam indraṃ johavīmi maghavānam ugraṃ satrā dadhānam apratiṣkutaṃ śavāṃsi /
+RV_8,097.13c maṃhiṣṭho gīrbhir ā ca yajñiyo vavartad rāye no viśvā supathā kṛṇotu vajrī //
+RV_8,097.14a tvam pura indra cikid enā vy ojasā śaviṣṭha śakra nāśayadhyai /
+RV_8,097.14c tvad viśvāni bhuvanāni vajrin dyāvā rejete pṛthivī ca bhīṣā //
+RV_8,097.15a tan ma ṛtam indra śūra citra pātv apo na vajrin duritāti parṣi bhūri /
+RV_8,097.15c kadā na indra rāya ā daśasyer viśvapsnyasya spṛhayāyyasya rājan //
+RV_8,098.01a indrāya sāma gāyata viprāya bṛhate bṛhat /
+RV_8,098.01c dharmakṛte vipaścite panasyave //
+RV_8,098.02a tvam indrābhibhūr asi tvaṃ sūryam arocayaḥ /
+RV_8,098.02c viśvakarmā viśvadevo mahāṃ asi //
+RV_8,098.03a vibhrājañ jyotiṣā svar agaccho rocanaṃ divaḥ /
+RV_8,098.03c devās ta indra sakhyāya yemire //
+RV_8,098.04a endra no gadhi priyaḥ satrājid agohyaḥ /
+RV_8,098.04c girir na viśvatas pṛthuḥ patir divaḥ //
+RV_8,098.05a abhi hi satya somapā ubhe babhūtha rodasī /
+RV_8,098.05c indrāsi sunvato vṛdhaḥ patir divaḥ //
+RV_8,098.06a tvaṃ hi śaśvatīnām indra dartā purām asi /
+RV_8,098.06c hantā dasyor manor vṛdhaḥ patir divaḥ //
+RV_8,098.07a adhā hīndra girvaṇa upa tvā kāmān mahaḥ sasṛjmahe /
+RV_8,098.07c udeva yanta udabhiḥ //
+RV_8,098.08a vār ṇa tvā yavyābhir vardhanti śūra brahmāṇi /
+RV_8,098.08c vāvṛdhvāṃsaṃ cid adrivo dive-dive //
+RV_8,098.09a yuñjanti harī iṣirasya gāthayorau ratha uruyuge /
+RV_8,098.09c indravāhā vacoyujā //
+RV_8,098.10a tvaṃ na indrā bharaṃ ojo nṛmṇaṃ śatakrato vicarṣaṇe /
+RV_8,098.10c ā vīram pṛtanāṣaham //
+RV_8,098.11a tvaṃ hi naḥ pitā vaso tvam mātā śatakrato babhūvitha /
+RV_8,098.11c adhā te sumnam īmahe //
+RV_8,098.12a tvāṃ śuṣmin puruhūta vājayantam upa bruve śatakrato /
+RV_8,098.12c sa no rāsva suvīryam //
+RV_8,099.01a tvām idā hyo naro 'pīpyan vajrin bhūrṇayaḥ /
+RV_8,099.01c sa indra stomavāhasām iha śrudhy upa svasaram ā gahi //
+RV_8,099.02a matsvā suśipra harivas tad īmahe tve ā bhūṣanti vedhasaḥ /
+RV_8,099.02c tava śravāṃsy upamāny ukthyā suteṣv indra girvaṇaḥ //
+RV_8,099.03a śrāyanta iva sūryaṃ viśved indrasya bhakṣata /
+RV_8,099.03c vasūni jāte janamāna ojasā prati bhāgaṃ na dīdhima //
+RV_8,099.04a anarśarātiṃ vasudām upa stuhi bhadrā indrasya rātayaḥ /
+RV_8,099.04c so asya kāmaṃ vidhato na roṣati mano dānāya codayan //
+RV_8,099.05a tvam indra pratūrtiṣv abhi viśvā asi spṛdhaḥ /
+RV_8,099.05c aśastihā janitā viśvatūr asi tvaṃ tūrya taruṣyataḥ //
+RV_8,099.06a anu te śuṣmaṃ turayantam īyatuḥ kṣoṇī śiśuṃ na mātarā /
+RV_8,099.06c viśvās te spṛdhaḥ śnathayanta manyave vṛtraṃ yad indra tūrvasi //
+RV_8,099.07a ita ūtī vo ajaram prahetāram aprahitam /
+RV_8,099.07c āśuṃ jetāraṃ hetāraṃ rathītamam atūrtaṃ tugryāvṛdham //
+RV_8,099.08a iṣkartāram aniṣkṛtaṃ sahaskṛtaṃ śatamūtiṃ śatakratum /
+RV_8,099.08c samānam indram avase havāmahe vasavānaṃ vasūjuvam //
+RV_8,100.01a ayaṃ ta emi tanvā purastād viśve devā abhi mā yanti paścāt /
+RV_8,100.01c yadā mahyaṃ dīdharo bhāgam indrād in mayā kṛṇavo vīryāṇi //
+RV_8,100.02a dadhāmi te madhuno bhakṣam agre hitas te bhāgaḥ suto astu somaḥ /
+RV_8,100.02c asaś ca tvaṃ dakṣiṇataḥ sakhā me 'dhā vṛtrāṇi jaṅghanāva bhūri //
+RV_8,100.03a pra su stomam bharata vājayanta indrāya satyaṃ yadi satyam asti /
+RV_8,100.03c nendro astīti nema u tva āha ka īṃ dadarśa kam abhi ṣṭavāma //
+RV_8,100.04a ayam asmi jaritaḥ paśya meha viśvā jātāny abhy asmi mahnā /
+RV_8,100.04c ṛtasya mā pradiśo vardhayanty ādardiro bhuvanā dardarīmi //
+RV_8,100.05a ā yan mā venā aruhann ṛtasyaṃ ekam āsīnaṃ haryatasya pṛṣṭhe /
+RV_8,100.05c manaś cin me hṛda ā praty avocad acikradañ chiśumantaḥ sakhāyaḥ //
+RV_8,100.06a viśvet tā te savaneṣu pravācyā yā cakartha maghavann indra sunvate /
+RV_8,100.06c pārāvataṃ yat purusambhṛtaṃ vasv apāvṛṇoḥ śarabhāya ṛṣibandhave //
+RV_8,100.07a pra nūnaṃ dhāvatā pṛthaṅ neha yo vo avāvarīt /
+RV_8,100.07c ni ṣīṃ vṛtrasya marmaṇi vajram indro apīpatat //
+RV_8,100.08a manojavā ayamāna āyasīm atarat puram /
+RV_8,100.08c divaṃ suparṇo gatvāya somaṃ vajriṇa ābharat //
+RV_8,100.09a samudre antaḥ śayata udnā vajro abhīvṛtaḥ /
+RV_8,100.09c bharanty asmai saṃyataḥ puraḥprasravaṇā balim //
+RV_8,100.10a yad vāg vadanty avicetanāni rāṣṭrī devānāṃ niṣasāda mandrā /
+RV_8,100.10c catasra ūrjaṃ duduhe payāṃsi kva svid asyāḥ paramaṃ jagāma //
+RV_8,100.11a devīṃ vācam ajanayanta devās tāṃ viśvarūpāḥ paśavo vadanti /
+RV_8,100.11c sā no mandreṣam ūrjaṃ duhānā dhenur vāg asmān upa suṣṭutaitu //
+RV_8,100.12a sakhe viṣṇo vitaraṃ vi kramasva dyaur dehi lokaṃ vajrāya viṣkabhe /
+RV_8,100.12c hanāva vṛtraṃ riṇacāva sindhūn indrasya yantu prasave visṛṣṭāḥ //
+RV_8,101.01a ṛdhag itthā sa martyaḥ śaśame devatātaye /
+RV_8,101.01c yo nūnam mitrāvaruṇāv abhiṣṭaya ācakre havyadātaye //
+RV_8,101.02a varṣiṣṭhakṣatrā urucakṣasā narā rājānā dīrghaśruttamā /
+RV_8,101.02c tā bāhutā na daṃsanā ratharyataḥ sākaṃ sūryasya raśmibhiḥ //
+RV_8,101.03a pra yo vām mitrāvaruṇājiro dūto adravat /
+RV_8,101.03c ayaḥśīrṣā maderaghuḥ //
+RV_8,101.04a na yaḥ sampṛcche na punar havītave na saṃvādāya ramate /
+RV_8,101.04c tasmān no adya samṛter uruṣyatam bāhubhyāṃ na uruṣyatam //
+RV_8,101.05a pra mitrāya prāryamṇe sacathyam ṛtāvaso /
+RV_8,101.05c varūthyaṃ varuṇe chandyaṃ vaca stotraṃ rājasu gāyata //
+RV_8,101.06a te hinvire aruṇaṃ jenyaṃ vasv ekam putraṃ tisṝṇām /
+RV_8,101.06c te dhāmāny amṛtā martyānām adabdhā abhi cakṣate //
+RV_8,101.07a ā me vacāṃsy udyatā dyumattamāni kartvā /
+RV_8,101.07c ubhā yātaṃ nāsatyā sajoṣasā prati havyāni vītaye //
+RV_8,101.08a rātiṃ yad vām arakṣasaṃ havāmahe yuvābhyāṃ vājinīvasū /
+RV_8,101.08c prācīṃ hotrām pratirantāv itaṃ narā gṛṇānā jamadagninā //
+RV_8,101.09a ā no yajñaṃ divispṛśaṃ vāyo yāhi sumanmabhiḥ /
+RV_8,101.09c antaḥ pavitra upari śrīṇāno 'yaṃ śukro ayāmi te //
+RV_8,101.10a vety adhvaryuḥ pathibhī rajiṣṭhaiḥ prati havyāni vītaye /
+RV_8,101.10c adhā niyutva ubhayasya naḥ piba śuciṃ somaṃ gavāśiram //
+RV_8,101.11a baṇ mahāṃ asi sūrya baḷ āditya mahāṃ asi /
+RV_8,101.11c mahas te sato mahimā panasyate 'ddhā deva mahāṃ asi //
+RV_8,101.12a baṭ sūrya śravasā mahāṃ asi satrā deva mahāṃ asi /
+RV_8,101.12c mahnā devānām asuryaḥ purohito vibhu jyotir adābhyam //
+RV_8,101.13a iyaṃ yā nīcy arkiṇī rūpā rohiṇyā kṛtā /
+RV_8,101.13c citreva praty adarśy āyaty antar daśasu bāhuṣu //
+RV_8,101.14a prajā ha tisro atyāyam īyur ny anyā arkam abhito viviśre /
+RV_8,101.14c bṛhad dha tasthau bhuvaneṣv antaḥ pavamāno harita ā viveśa //
+RV_8,101.15a mātā rudrāṇāṃ duhitā vasūnāṃ svasādityānām amṛtasya nābhiḥ /
+RV_8,101.15c pra nu vocaṃ cikituṣe janāya mā gām anāgām aditiṃ vadhiṣṭa //
+RV_8,101.16a vacovidaṃ vācam udīrayantīṃ viśvābhir dhībhir upatiṣṭhamānām /
+RV_8,101.16c devīṃ devebhyaḥ pary eyuṣīṃ gām ā māvṛkta martyo dabhracetāḥ //
+RV_8,102.01a tvam agne bṛhad vayo dadhāsi deva dāśuṣe /
+RV_8,102.01c kavir gṛhapatir yuvā //
+RV_8,102.02a sa na īḷānayā saha devāṃ agne duvasyuvā /
+RV_8,102.02c cikid vibhānav ā vaha //
+RV_8,102.03a tvayā ha svid yujā vayaṃ codiṣṭhena yaviṣṭhya /
+RV_8,102.03c abhi ṣmo vājasātaye //
+RV_8,102.04a aurvabhṛguvac chucim apnavānavad ā huve /
+RV_8,102.04c agniṃ samudravāsasam //
+RV_8,102.05a huve vātasvanaṃ kavim parjanyakrandyaṃ sahaḥ /
+RV_8,102.05c agniṃ samudravāsasam //
+RV_8,102.06a ā savaṃ savitur yathā bhagasyeva bhujiṃ huve /
+RV_8,102.06c agniṃ samudravāsasam //
+RV_8,102.07a agniṃ vo vṛdhantam adhvarāṇām purūtamam /
+RV_8,102.07c acchā naptre sahasvate //
+RV_8,102.08a ayaṃ yathā na ābhuvat tvaṣṭā rūpeva takṣyā /
+RV_8,102.08c asya kratvā yaśasvataḥ //
+RV_8,102.09a ayaṃ viśvā abhi śriyo 'gnir deveṣu patyate /
+RV_8,102.09c ā vājair upa no gamat //
+RV_8,102.10a viśveṣām iha stuhi hotṝṇāṃ yaśastamam /
+RV_8,102.10c agniṃ yajñeṣu pūrvyam //
+RV_8,102.11a śīram pāvakaśociṣaṃ jyeṣṭho yo dameṣv ā /
+RV_8,102.11c dīdāya dīrghaśruttamaḥ //
+RV_8,102.12a tam arvantaṃ na sānasiṃ gṛṇīhi vipra śuṣmiṇam /
+RV_8,102.12c mitraṃ na yātayajjanam //
+RV_8,102.13a upa tvā jāmayo giro dediśatīr haviṣkṛtaḥ /
+RV_8,102.13c vāyor anīke asthiran //
+RV_8,102.14a yasya tridhātv avṛtam barhis tasthāv asaṃdinam /
+RV_8,102.14c āpaś cin ni dadhā padam //
+RV_8,102.15a padaṃ devasya mīḷhuṣo 'nādhṛṣṭābhir ūtibhiḥ /
+RV_8,102.15c bhadrā sūrya ivopadṛk //
+RV_8,102.16a agne ghṛtasya dhītibhis tepāno deva śociṣā /
+RV_8,102.16c ā devān vakṣi yakṣi ca //
+RV_8,102.17a taṃ tvājananta mātaraḥ kaviṃ devāso aṅgiraḥ /
+RV_8,102.17c havyavāham amartyam //
+RV_8,102.18a pracetasaṃ tvā kave 'gne dūtaṃ vareṇyam /
+RV_8,102.18c havyavāhaṃ ni ṣedire //
+RV_8,102.19a nahi me asty aghnyā na svadhitir vananvati /
+RV_8,102.19c athaitādṛg bharāmi te //
+RV_8,102.20a yad agne kāni kāni cid ā te dārūṇi dadhmasi /
+RV_8,102.20c tā juṣasva yaviṣṭhya //
+RV_8,102.21a yad atty upajihvikā yad vamro atisarpati /
+RV_8,102.21c sarvaṃ tad astu te ghṛtam //
+RV_8,102.22a agnim indhāno manasā dhiyaṃ saceta martyaḥ /
+RV_8,102.22c agnim īdhe vivasvabhiḥ //
+RV_8,103.01a adarśi gātuvittamo yasmin vratāny ādadhuḥ /
+RV_8,103.01c upo ṣu jātam āryasya vardhanam agniṃ nakṣanta no giraḥ //
+RV_8,103.02a pra daivodāso agnir devāṃ acchā na majmanā /
+RV_8,103.02c anu mātaram pṛthivīṃ vi vāvṛte tasthau nākasya sānavi //
+RV_8,103.03a yasmād rejanta kṛṣṭayaś carkṛtyāni kṛṇvataḥ /
+RV_8,103.03c sahasrasām medhasātāv iva tmanāgniṃ dhībhiḥ saparyata //
+RV_8,103.04a pra yaṃ rāye ninīṣasi marto yas te vaso dāśat /
+RV_8,103.04c sa vīraṃ dhatte agna ukthaśaṃsinaṃ tmanā sahasrapoṣiṇam //
+RV_8,103.05a sa dṛḷhe cid abhi tṛṇatti vājam arvatā sa dhatte akṣiti śravaḥ /
+RV_8,103.05c tve devatrā sadā purūvaso viśvā vāmāni dhīmahi //
+RV_8,103.06a yo viśvā dayate vasu hotā mandro janānām /
+RV_8,103.06c madhor na pātrā prathamāny asmai pra stomā yanty agnaye //
+RV_8,103.07a aśvaṃ na gīrbhī rathyaṃ sudānavo marmṛjyante devayavaḥ /
+RV_8,103.07c ubhe toke tanaye dasma viśpate parṣi rādho maghonām //
+RV_8,103.08a pra maṃhiṣṭhāya gāyata ṛtāvne bṛhate śukraśociṣe /
+RV_8,103.08c upastutāso agnaye //
+RV_8,103.09a ā vaṃsate maghavā vīravad yaśaḥ samiddho dyumny āhutaḥ /
+RV_8,103.09c kuvin no asya sumatir navīyasy acchā vājebhir āgamat //
+RV_8,103.10a preṣṭham u priyāṇāṃ stuhy āsāvātithim /
+RV_8,103.10c agniṃ rathānāṃ yamam //
+RV_8,103.11a uditā yo niditā veditā vasv ā yajñiyo vavartati /
+RV_8,103.11c duṣṭarā yasya pravaṇe normayo dhiyā vājaṃ siṣāsataḥ //
+RV_8,103.12a mā no hṛṇītām atithir vasur agniḥ purupraśasta eṣaḥ /
+RV_8,103.12c yaḥ suhotā svadhvaraḥ //
+RV_8,103.13a mo te riṣan ye acchoktibhir vaso 'gne kebhiś cid evaiḥ /
+RV_8,103.13c kīriś cid dhi tvām īṭṭe dūtyāya rātahavyaḥ svadhvaraḥ //
+RV_8,103.14a āgne yāhi marutsakhā rudrebhiḥ somapītaye /
+RV_8,103.14c sobharyā upa suṣṭutim mādayasva svarṇare //
