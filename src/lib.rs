@@ -1,6 +1,6 @@
 use std::{error::Error, result::Result};
 use std::{fs, path::{Path, PathBuf}};
-use clap::Parser;
+use clap::{ArgAction, Parser};
 use fasttext::{Args, ModelName, FastText};
 
 pub fn get_files_in_folder(path: &str) -> Result<Vec<PathBuf>, Box<dyn Error>> {
@@ -11,7 +11,7 @@ pub fn get_files_in_folder(path: &str) -> Result<Vec<PathBuf>, Box<dyn Error>> {
     Ok(all)
 }
 
-pub fn gen_ftt_word_vectors(paths: &Vec<PathBuf>, new_directory: &str) -> Result<(), Box<dyn Error>> {
+pub async fn gen_ftt_word_vectors(paths: &Vec<PathBuf>, new_directory: &str) -> Result<(), Box<dyn Error>> {
     let output_folder = Path::new(new_directory);
     fs::create_dir_all(output_folder.to_str().expect("Expected valid directory"))?;
 
@@ -45,8 +45,12 @@ pub fn gen_ftt_word_vectors(paths: &Vec<PathBuf>, new_directory: &str) -> Result
 #[derive(Parser, Default, Debug)]
 #[clap(author="Aarnav Srivastava", version, about="Generates word vectors given input data and trains models on classifying languages (specifically Sanskrit/English) for the MITRA Team")]
 pub struct CLIArgs {
-    #[clap(short, long, value_parser = clap::builder::NonEmptyStringValueParser::new())]
+    #[clap(long, short, action=ArgAction::SetTrue)]
     pub train: bool,
+    #[clap(short, long, action=ArgAction::SetTrue)]
+    pub local: bool,
     #[clap(short, long, value_parser = clap::builder::NonEmptyStringValueParser::new())]
     pub input_directory: Option<String>,
+    #[clap(short, long, value_parser = clap::builder::NonEmptyStringValueParser::new())]
+    pub output_directory: Option<String>,
 }

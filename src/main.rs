@@ -4,7 +4,8 @@ use std::time::{SystemTime, Duration};
 use clap::Parser;
 use sanskrit_english_identification::CLIArgs;
 
-fn main() -> Result<(), Box<dyn Error>> {
+#[tokio::main]
+async fn main() -> Result<(), Box<dyn Error>> {
     let t: SystemTime = SystemTime::now();
 
     let args = CLIArgs::parse();
@@ -13,8 +14,11 @@ fn main() -> Result<(), Box<dyn Error>> {
         let path = args.input_directory.expect("Expected input directory");
 
         let paths: Vec<PathBuf> = sanskrit_english_identification::get_files_in_folder(&path)?;
-        
-        sanskrit_english_identification::gen_ftt_word_vectors(&paths, &new_path)?;
+
+        if args.local {
+            let new_path = args.output_directory.expect("Expected input directory");
+            sanskrit_english_identification::gen_ftt_word_vectors(&paths, &new_path).await?;
+        }
     }
 
     let elapsed: Duration = t.elapsed().expect("Error with elapsed time");
