@@ -9,6 +9,16 @@ edition = "2021"
 aws-config = "1.1.7"
 aws-sdk-dynamodb = "1.16.0"
 aws-sdk-s3 = "1.17.0"
+aws-smithy-types = "1.1.7"
 clap = {version = "4.5.1", features = ["derive"]}
 fasttext = "0.7.8"
 tokio = { version = "1.36.0", features = ["full"] }
+zip = "0.6.6"
+
+[dependencies.uuid]
+version = "1.7.0"
+features = [
+    "v4",                # Lets you generate random UUIDs
+    "fast-rng",          # Use a faster (but still sufficiently random) RNG
+    "macro-diagnostics", # Enable better diagnostics for compile-time UUIDs
+]
