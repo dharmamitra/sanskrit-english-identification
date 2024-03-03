@@ -6,12 +6,15 @@ use std::{error::Error, result::Result};
 use crate::services::s3_service::upload_object;
 
 pub async fn gen_ftt_word_vectors_local(paths: &Vec<PathBuf>, new_directory: &str) -> Result<(), Box<dyn Error>> {
+    let t: SystemTime = SystemTime::now();
+    
     let output_folder = Path::new(new_directory);
     fs::create_dir_all(output_folder.to_str().expect("Expected valid directory"))?;
 
     for path in paths {
         let mut output_path = PathBuf::new();
         output_path.set_file_name(&format!("{}_word_vector.bin", output_folder.join(path.file_stem().expect("Expected file name to be unwrapped")).to_str().expect("Expected output path").trim()));
+        let file_name = output_path.file_name().unwrap().to_str().unwrap();
         
         if output_path.exists() {
             continue;
@@ -27,13 +30,15 @@ pub async fn gen_ftt_word_vectors_local(paths: &Vec<PathBuf>, new_directory: &st
         args_ftt.set_model(ModelName::CBOW);
         args_ftt.set_input(&path.to_string_lossy()).expect("Expected valid input");
 
-        args_ftt.print_quantization_help();
-
         ftt.train(&args_ftt)?;
 
         let output_path_str = output_path.to_str().expect("Expected valid path");
 
         ftt.save_model(output_path_str)?;
+
+        let elapsed = t.elapsed().expect("Error with elapsed time");
+
+        println!("Time elapsed for {}: {}\n", file_name, elapsed.as_secs_f64());
     }
 
     Ok(())

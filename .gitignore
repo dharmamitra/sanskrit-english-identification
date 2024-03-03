@@ -2,3 +2,5 @@
 .env
 /english_temp
 /sanskrit_temp
+/english_wordvectors
+/sanskrit_wordvectors

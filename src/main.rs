@@ -28,7 +28,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
         let paths: Vec<PathBuf> = get_files_in_folder(&path)?;
 
-        if args.local {
+        if args.output_directory.is_some() {
             let new_path = args.output_directory.expect("Expected output directory");
             gen_ftt_word_vectors_local(&paths, &new_path).await?;
         } else {
