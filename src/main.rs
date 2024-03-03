@@ -23,7 +23,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
     let args = CLIArgs::parse();
 
-    if args.train {
+    if args.train_vectors {
         let path = args.input_directory.expect("Expected input directory");
 
         let paths: Vec<PathBuf> = get_files_in_folder(&path)?;
