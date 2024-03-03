@@ -3,11 +3,14 @@ use std::{error::Error, result::Result};
 use std::time::{SystemTime, Duration};
 use aws_sdk_s3::Client;
 use clap::Parser;
-use sanskrit_english_identification::CLIArgs;
+use sanskrit_english_identification::{CLIArgs, get_files_in_folder};
 use aws_config::meta::region::RegionProviderChain;
 use aws_config::{BehaviorVersion, Region};
 
 pub mod services;
+
+use services::fasttext_service::{gen_ftt_word_vectors_cloud, gen_ftt_word_vectors_local};
+use services::s3_service::get_list_objects;
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
@@ -23,16 +26,16 @@ async fn main() -> Result<(), Box<dyn Error>> {
     if args.train {
         let path = args.input_directory.expect("Expected input directory");
 
-        let paths: Vec<PathBuf> = sanskrit_english_identification::get_files_in_folder(&path)?;
+        let paths: Vec<PathBuf> = get_files_in_folder(&path)?;
 
         if args.local {
             let new_path = args.output_directory.expect("Expected output directory");
-            sanskrit_english_identification::gen_ftt_word_vectors_local(&paths, &new_path).await?;
+            gen_ftt_word_vectors_local(&paths, &new_path).await?;
         } else {
             let bucket_name = args.bucket_name.expect("Expected bucket name");
 
-            let objs_list = services::s3_service::get_list_objects(&client, &bucket_name).await?;
-            sanskrit_english_identification::gen_ftt_word_vectors_cloud(&paths, &client, &bucket_name, &objs_list).await?;
+            let objs_list = get_list_objects(&client, &bucket_name).await?;
+            gen_ftt_word_vectors_cloud(&paths, &client, &bucket_name, &objs_list).await?;
         }
     }
 
