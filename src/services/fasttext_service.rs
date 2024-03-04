@@ -4,6 +4,17 @@ use std::time::SystemTime;
 use std::{fs, path::{Path, PathBuf}};
 use std::{error::Error, result::Result};
 use crate::services::s3_service::upload_object;
+use std::fs::File;
+use std::io::Read;
+
+pub fn get_file_as_byte_vec(filename: &str) -> Vec<u8> {
+    let mut f = File::open(&filename).expect("no file found");
+    let metadata = fs::metadata(&filename).expect("unable to read metadata");
+    let mut buffer = vec![0; metadata.len() as usize];
+    f.read(&mut buffer).expect("buffer overflow");
+
+    buffer
+}
 
 pub async fn gen_ftt_word_vectors_local(paths: &Vec<PathBuf>, new_directory: &str) -> Result<(), Box<dyn Error>> {
     let t: SystemTime = SystemTime::now();
@@ -17,6 +28,7 @@ pub async fn gen_ftt_word_vectors_local(paths: &Vec<PathBuf>, new_directory: &st
         let file_name = output_path.file_name().unwrap().to_str().unwrap();
         
         if output_path.exists() {
+            println!("File {} exists\n", file_name);
             continue;
         }
 

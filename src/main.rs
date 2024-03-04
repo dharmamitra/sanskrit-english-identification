@@ -3,7 +3,7 @@ use std::{error::Error, result::Result};
 use std::time::{SystemTime, Duration};
 use aws_sdk_s3::Client;
 use clap::Parser;
-use sanskrit_english_identification::{CLIArgs, get_files_in_folder};
+use sanskrit_english_identification::{get_files_in_folder, CLIArgs, RunType, TrainSubcommand};
 use aws_config::meta::region::RegionProviderChain;
 use aws_config::{BehaviorVersion, Region};
 
@@ -16,26 +16,39 @@ use services::s3_service::get_list_objects;
 async fn main() -> Result<(), Box<dyn Error>> {
     let t: SystemTime = SystemTime::now();
 
-    let region_provider = RegionProviderChain::first_try(Region::new("us-east-1"));
+    let args: CLIArgs = CLIArgs::parse();
 
-    let shared_config = aws_config::defaults(BehaviorVersion::latest()).region(region_provider).load().await;
-    let client = Client::new(&shared_config);
-
-    let args = CLIArgs::parse();
-
-    if args.train_vectors {
-        let path = args.input_directory.expect("Expected input directory");
-
-        let paths: Vec<PathBuf> = get_files_in_folder(&path)?;
-
-        if args.output_directory.is_some() {
-            let new_path = args.output_directory.expect("Expected output directory");
-            gen_ftt_word_vectors_local(&paths, &new_path).await?;
-        } else {
-            let bucket_name = args.bucket_name.expect("Expected bucket name");
-
-            let objs_list = get_list_objects(&client, &bucket_name).await?;
-            gen_ftt_word_vectors_cloud(&paths, &client, &bucket_name, &objs_list).await?;
+    match args.run_type {
+        RunType::Train(train_command) => {
+            match train_command.command {
+                TrainSubcommand::Vectors(vectors_command) => {
+                    let input_directory = vectors_command.input_directory;
+                    let output_directory = vectors_command.output_directory;
+                    let bucket_name = vectors_command.bucket_name;
+                
+                    let paths: Vec<PathBuf> = get_files_in_folder(&input_directory)?;
+            
+                    if output_directory.is_some() {
+                        let new_path = output_directory.expect("Expected output directory");
+                        gen_ftt_word_vectors_local(&paths, &new_path).await?;
+                    } else {
+                        let region_provider = RegionProviderChain::first_try(Region::new("us-east-1"));
+                        let shared_config = aws_config::defaults(BehaviorVersion::latest()).region(region_provider).load().await;
+                        let client = Client::new(&shared_config);
+                        let bucket_name = bucket_name.expect("Expected bucket name");
+            
+                        let objs_list = get_list_objects(&client, &bucket_name).await?;
+                        gen_ftt_word_vectors_cloud(&paths, &client, &bucket_name, &objs_list).await?;
+                    }
+                }
+                TrainSubcommand::Model(_models_command) => {
+                    panic!("Model commands not implemented");
+                }
+            }
+        }
+        RunType::Run(_run_command) => {
+            // Handle other run types if needed
+            panic!("Running not implemented");
         }
     }
 
