@@ -1,0 +1,1096 @@
+amarakośa evaṃ nāmaliṅgānuśāsanaṃ kāṇḍa 3
+tṛtīyaṃ sāmānyakāṇḍam /
+atha viśeṣyanighnavargaḥ /
+(3.0.1) viśeṣya nighnaiḥ saṃkīrṇair nānārthairavyayairapi
+(3.0.2) liṅgādi saṃgrahair vargāḥ sāmānye vargasaṃśrayāḥ
+paribhāṣā /
+(3.0.3) strīdārādyair yad viśeṣyaṃ yādṛśaiḥ prastutaṃ padaiḥ
+(3.0.4) guṇadravyakriyāśabdās tathā syus tasya bhedakāḥ
+(3.1.5) viśeṣyanighnavargaḥ
+(3.1.6) kṣemaṅkaro 'riṣṭatātiśśivatātiśśivaṅkaraḥ
+(3.1.7) sukṛtī puṇyavān dhanyo mahecchas tu mahāśayaḥ
+(3.1.8) hṛdayāluḥ suhṛdayo mahotsāho mahodyamaḥ
+(3.1.9) pravīṇe nipuṇābhijñavijñaniṣṇātaśikṣitāḥ
+(3.1.10) vaijñānikaḥ kṛtamukhaḥ kṛtī kuśala ityapi
+(3.1.11) pūjyaḥ pratīkṣyaḥ sāṃśayikaḥ saṃśayāpannamānasaḥ
+(3.1.12) dakṣiṇīyo dakṣiṇārhas tatra dakṣiṇya ityapi
+(3.1.13) syur vadānyasthūlalakṣyadānaśauṇḍā bahuprade
+(3.1.14) jaivātṛkaḥ syādāyuṣmānantarvāṇis tu śāstravit
+(3.1.15) parīkṣakaḥ kāraṇiko varadas tu samarddhakaḥ
+(3.1.16) harṣamāṇo vikurvāṇaḥ pramanā hṛṣṭamānasaḥ
+(3.1.17) durmanā vimanā antarmanāḥ syādutka unmanāḥ
+(3.1.18) dakṣiṇe saralodārau sukalo dātṛbhoktari
+(3.1.19) tatpare prasitāsaktāviṣṭārthodyukta utsukaḥ
+(3.1.20) pratīte prathitakhyātavitta vijñātaviśrutāḥ
+(3.1.21) guṇaiḥ pratīte tu kṛtalakṣaṇāhatalakṣaṇau
+(3.1.22) ibhya āḍhyo dhanī svāmī tvīśvaraḥ patirīśitā
+(3.1.23) adhibhūr nāyako netā prabhuḥ parivṛḍho 'dhipaḥ
+(3.1.24) adhikardhiḥ samṛddhaḥ syāt kuṭumbavyāpṛtas tu yaḥ
+(3.1.25) syādabhyāgārikas tasminnupādhiś ca pumānayam
+(3.1.26) varāṅgarūpopeto yassiṃhasaṃhanano hi saḥ
+(3.1.27) nirvāryaḥ kāryakartā yaḥ saṃpannaḥ satvasaṃpadā
+(3.1.28) avāci mūko 'tha manojavasaḥ pitṛsaṃnibhaḥ
+(3.1.29) satkṛtyālaṅkṛtāṃ kanyāṃ yo dadāti sa kūkudaḥ
+(3.1.30) lakṣmīvān lakṣmaṇaḥ śrīlaḥ śrīmān snigdhastu vatsalaḥ
+(3.1.31) syād dayāluḥ kāruṇikaḥ kṛpāluḥ sūratassamāḥ
+(3.1.32) svatantro 'pāvṛtaḥ svairī svacchando niravagrahaḥ
+(3.1.33) paratantraḥ parādhīnaḥ paravān nāthavānapi
+(3.1.34) adhīno nighna āyatto 'svacchando gṛhyako 'pyasau
+(3.1.35) khalapūḥ syād bahukaro dīrghasūtraś cirakriyaḥ
+(3.1.36) jālmo 'samīkṣyakārī syāt kuṇṭho mandaḥ kriyāsu yaḥ
+(3.1.37) karmakṣamo 'laṅkarmāṇaḥ kriyāvān karmasūdyataḥ
+(3.1.38) sa kārmaḥ karmaśīlo yaḥ karmaśūras tu karmaṭhaḥ
+(3.1.39) bharaṇyabhuk karmakaraḥ karmakāras tu tat kriyaḥ
+(3.1.40) apasnāto mṛtasnāta āmiṣaśī tu śauṣkulaḥ
+(3.1.41) bubhukṣitaḥ syāt kṣudhito jighatsuraśanāyitaḥ
+(3.1.42) parānnaḥ parapiṇḍādo bhakṣako ghasmaro 'dbharaḥ
+(3.1.43) ādyūnaḥ syādaudariko vijigīṣāvivarjite
+(3.1.44) ubhau tvātmambhariḥ kukṣimbhariḥ svodarapūrake
+(3.1.45) sarvānnīnas tu sarvānnabhojī gṛdhnustu gardhanaḥ
+(3.1.46) lubdho 'bhilāpukas tṛṣṇak samau lolupalolubhau
+(3.1.47) sonmādas tūnmadiṣṇuḥ syādavinītaḥ samuddhataḥ
+(3.1.48) matte śauṇḍotkaṭakṣībāḥ kāmuke kamitānukaḥ
+(3.1.49) kamraḥ kāmayitābhīkaḥ kamanaḥ kāmano 'bhikaḥ
+(3.1.50) vidheyo vinayagrāhī vacanesthita āśravaḥ
+(3.1.51) vaśyaḥ praṇeyo nibhṛtavinītapraśritāḥ samāḥ
+(3.1.52) dhṛṣṭe dhṛṣṇag viyātaś ca pragalbhaḥ pratibhānvite
+(3.1.53) syādadhṛṣṭe tu śālīno vilakṣo vismayānvite
+(3.1.54) adhīre kātaras traste bhīrubhīrukabhīlukāḥ
+(3.1.55) āśaṃsurāśaṃsitari gṛhayālur grahītari
+(3.1.56) śraddhāluḥ śraddhayā yukte patayālus tu pātuke
+(3.1.57) lajjāśīle 'patrapiṣṇur vandārurabhivādake
+(3.1.58) śarārur ghātuko hiṃsraḥ syād varddhiṣṇus tu varddhanaḥ
+(3.1.59) utpatiṣṇus tūtpatitālaṅkariṣṇus tu maṇḍanaḥ
+(3.1.60) bhūṣṇur śvaviṣṇur bhavitā vartiṣṇur vartanaḥ samau
+(3.1.61) nirākariṣṇuḥ kṣipnuḥ syāt sāndrasnigdhas tu meduraḥ
+(3.1.62) jñātā tu viduro vindur vikāsī tu vikasvaraḥ
+(3.1.63) visṛtvaro visṛmaraḥ prasārī ca visāriṇi
+(3.1.64) sahiṣṇuḥ sahanaḥ kṣantā titikṣuḥ kṣamitā kṣamī
+(3.1.65) krodhano 'marṣaṇaḥ kopī caṇḍas tvatyantakopanaḥ
+(3.1.66) jāgarūko jāgaritā ghūrṇitaḥ pracalāyitaḥ
+(3.1.67) svapnak śayālur nidrālur nidrāṇaśayitau samau
+(3.1.68) parāṅmukhaḥ parācīnaḥ syādavāṅpyadhomukhaḥ
+(3.1.69) devānañcati devadryaṅ viśvadryaṅ viśvagañcati
+(3.1.70) yassahāñcati sadhryaṅ sa sa tiryaṅ yastiro 'ñcati
+(3.1.71) vado vadāvado vaktā vāgīśo vākpatissamau
+(3.1.72) vācoyuktipaṭurvāgmī vāvadūko 'tivaktari
+(3.1.73) syāj jalpākas tu vācālo vācāṭo bahugarhyavāk
+(3.1.74) durmukhe mukharābaddhamukhau śaklaḥ priyamvade
+(3.1.75) lohalaḥ syādasphuṭavāg garhyavādī tu kadvadaḥ
+(3.1.76) samau kuvādakucarau syādasaumyasvaro 'svaraḥ
+(3.1.77) ravaṇaḥ śabdano nāndīvādī nāndīkaraḥ samau
+(3.1.78) jaḍo 'jña eḍamūkastu vaktuṃ śrotumaśikṣite
+(3.1.79) tūṣṇīṃśīlas tu tūṣṇīko nagno 'vāsā digambare
+(3.1.80) niṣkāsito 'vakṛṣṭaḥ syādapadhvastas tu dhikkṛtaḥ
+(3.1.81) āttagarvo 'bhibhūtaḥ syād dāpitaḥ sādhitaḥ samau
+(3.1.82) pratyādiṣṭo nirastaḥ syāt pratyākhyāto nirākṛtaḥ
+(3.1.83) nikṛtaḥ syād viprakṛto vipralabdhas tu vañcitaḥ
+(3.1.84) manohataḥ pratihataḥ pratibaddho hataś ca saḥ
+(3.1.85) adhikṣiptaḥ pratikṣipto baddhe kīlitasaṃyatau
+(3.1.86) āpanna āpatprāptaḥ syāt kāndiśīko bhayadrutaḥ
+(3.1.87) ākṣāritaḥ kṣārito 'bhiśaste saṃkasuko 'sthire
+(3.1.88) vyasanārtoparaktau dvau vihastavyākulau samau
+(3.1.89) viklavo vihvalaḥ syāt tu vivaśo 'riṣṭaduṣṭadhīḥ
+(3.1.90) kaśyaḥ kaśyārhe sannaddhe tvātatāyī vadhodyate
+(3.1.91) dveṣye tvakṣigato vadhyaḥ śīrṣacchedya imau samau
+(3.1.92) viṣyo viṣeṇa yo vadhyo musalyo musalena yaḥ
+(3.1.93) śiśvidāno 'kṛṣṇakarmā capalaś cikuraḥ samau
+(3.1.94) doṣaikadṛk purobhāgī nikṛtas tvanṛjuḥ śaṭhaḥ
+(3.1.95) karṇejapaḥ sūcakaḥ syāt piśuno durjanaḥ khalaḥ
+(3.1.96) nṛśaṃso ghātukaḥ krūraḥ pāpo dhūrtas tu vañcakaḥ
+(3.1.97) ajñe mūḍhayathājātamūrkhavaidheyabāliśāḥ
+(3.1.98) kadarye kṛpaṇakṣudrakimpacānamitampacāḥ
+(3.1.99) niḥsvas tu durvidho dīno daridro durgato 'pi saḥ
+(3.1.100) vanīyako yācanako mārgaṇo yācakārthinau
+(3.1.101) ahaṅkāravānahaṃyuḥ śubhaṃyus tu śubhānvitaḥ
+(3.1.102) divyopapādukā devā nṛgavādyā jarāyujāḥ
+(3.1.103) svedajāḥ kṛmidaṃśādyāḥ pakṣisarpādayo 'ṇḍajāḥ /
+iti prāṇivargaḥ atra mūlaślokāḥ 50 //
+(3.1.104) udbhidas tarugulmādyā udbhidudbhijjamudbhidam
+(3.1.105) sundaraṃ ruciraṃ cāru suṣamaṃ sādhu śobhanam
+(3.1.106) kāntaṃ manoramaṃ rucyaṃ manojñaṃ mañju mañjulam
+(3.1.107) ramyaṃ manoharaṃ saumyaṃ bhadrakaṃ ramaṇīyakam
+(3.1.108) tadāsecanakaṃ tṛpter nāstyanto yasya darśanāt
+(3.1.109) abhīṣṭe 'bhīpsitaṃ hṛdyaṃ dayitaṃ vallabhaṃ priyam
+(3.1.110) nikṛṣṭapratikṛṣṭārvarephayāpyāvamādhamāḥ
+(3.1.111) kupūyakutsitāvadyakheṭagarhyāṇakāḥ samāḥ
+(3.1.112) malīmasaṃ tu malinaṃ kaccaraṃ maladūṣitam
+(3.1.113) pūtaṃ pavitraṃ medhyaṃ ca vīdhraṃ tu vimalārthakam
+(3.1.114) nirṇiktaṃ śodhitaṃ mṛṣṭaṃ niḥśodhyamanavaskaram
+(3.1.115) asāraṃ phalgu śūnyaṃ tu vaśikaṃ tucchariktake
+(3.1.116) klībe pradhānaṃ pramukhapravekānuttamottamāḥ
+(3.1.117) mukhyavaryavareṇyāś ca pravarho 'navarārdhyavat
+(3.1.118) parārdhyāgraprāgraharaprāgrayāgrayāgrīyamagriyam
+(3.1.119) śreyān śreṣṭhaḥ puṣkalaḥ syāt sattamaś cātiśobhane
+(3.1.120) syuruttarapade vyāghrapuṅgavarṣabhakuñjarāḥ
+(3.1.121) siṃhaśārdūlanāgādyāḥ puṃsi śreṣṭhārthagocarāḥ
+(3.1.122) aprāgrayaṃ dvayahīne dve apradhānopasarjane
+(3.1.123) viśaṃkaṭaṃ pṛthu bṛhad viśālaṃ pṛthulaṃ mahat
+(3.1.124) vaḍroruvipulaṃ pīnapīvnī tu sthūlapīvare
+(3.1.125) stokālpakṣullakāḥ sūkṣmaṃ ślakṣṇaṃ dabhraṃ kṛśaṃ tanu
+(3.1.126) striyāṃ mātrā truṭiḥ puṃsi lavaleśakaṇāṇavaḥ
+(3.1.127) atyalpe 'lpiṣṭhamalpīyaḥ kanīyo 'ṇīya ityapi
+(3.1.128) prabhūtaṃ pracuraṃ prājyamadabhraṃ bahulaṃ bahu
+(3.1.129) puruhūḥ puru bhūyiṣṭhaṃ sphāraṃ bhūyaśa ca bhūri ca
+(3.1.130) paraḥ śatādyās te yeṣāṃ parā saṃkhyā śatādikāt
+(3.1.131) gaṇanīye tu gaṇeyaṃ saṃkhyāte gaṇitamatha samaṃ sarvam
+(3.1.132) viśvamaśeṣaṃ kṛtsnaṃ samastanikhilākhilāni niḥśeṣam
+(3.1.133) samagraṃ sakalaṃ pūrṇamakhaṇḍaṃ syādanūnake
+(3.1.134) ghanaṃ nirantaraṃ sāndraṃ pelavaṃ viralaṃ tanu
+(3.1.135) samīpe nikaṭāsannasaṃnikṛṣṭasanīḍavat
+(3.1.136) sadeśābhyāśasavidhasamaryādasaveśavat
+(3.1.137) upakaṇṭhāntikābhyarṇābhyagrā apyabhito 'vyayam
+(3.1.138) saṃsakte tvavyavahitamapadāntaramityapi
+(3.1.139) nediṣṭhamantikatamaṃ syād dūraṃ viprakṛṣṭakam
+(3.1.140) davīyaś ca daviṣṭhaṃ ca sudūraṃ dīrghamāyatam
+(3.1.141) vartulaṃ nistalaṃ vṛttaṃ bandhuraṃ tūnnatānatam
+(3.1.142) uccaprāṃśūnnatodagrocchritāstuṅge 'tha vāmane
+(3.1.143) nyaṅnīcakharvahrasvāḥ syuravāgre 'vanatānatam
+(3.1.144) arālaṃ vṛjinaṃ jihmamūrmimat kuñcitaṃ natam
+(3.1.145) āviddhaṃ kuṭilaṃ bhugnaṃ vellitaṃ vakramityapi
+(3.1.146) ṛjāvajihmapraguṇau vyaste tvapraguṇākulau
+(3.1.147) śāśvatas tu dhruvo nityasadātanasanātanāḥ
+(3.1.148) sthāsnuḥ sthirataraḥ stheyānekarūpatayā tu yaḥ
+(3.1.149) kālavyāpī sa kūṭasthaḥ sthāvaro jaṅgametaraḥ
+(3.1.150) cariṣṇu jaṅgamacaraṃ trasamiṅgaṃ carācaram
+(3.1.151) calanaṃ kampanaṃ kampraṃ calam lolaṃ calācalam
+(3.1.152) cañcalaṃ taralaṃ caiva pāriplavapariplave
+(3.1.153) atiriktaḥ samadhiko dhṛḍhasandhis tu saṃhataḥ
+(3.1.154) khakkhaṭaṃ kaṭhinaṃ krūraṃ kaṭhoraṃ niṣṭhuraṃ dhṛḍham
+(3.1.155) jaraṭhaṃ mūrtiman mūrtaṃ pravṛddhaṃ prauḍhamedhitam
+(3.1.156) purāṇe pratanapratnapurātanacirantanāḥ
+(3.1.157) pratyagro 'bhinavo navyo navīno nūtano navaḥ
+(3.1.158) nūtnaś ca sukumāraṃ tu komalaṃ mṛdulam mṛdu
+(3.1.159) anvaganvakṣamanuge 'nupadaṃ klībamavyayam
+(3.1.160) pratyakṣaṃ syādaindriyakamapratyakṣamatīndriyam
+(3.1.161) ekatāno 'nanyavṛttiraikāgraikāyanāvapi
+(3.1.162) apyekasarga ekāgryo 'pyekāyanagato 'pi saḥ
+(3.1.163) puṃsyādiḥ pūrvapaurastyaprathamādyā athāstriyām
+(3.1.164) anto jaghanyaṃ caramamantyapāścātyapaścimāḥ
+(3.1.165) moghaṃ nirarthakaṃ spaṣṭaṃ sphuṭaṃ pravyaktamulbaṇam
+(3.1.166) sādhāraṇaṃ tu sāmānyamekākī tveka ekakaḥ
+(3.1.167) bhinnārthakā anyatara ekaṃ tvo 'nyetarāvapi
+(3.1.168) uccāvacaṃ naikabhedamuccaṇḍamavilambitam
+(3.1.169) aruntudas tu marmaspṛgabādhaṃ tu nirargalam
+(3.1.170) prasavyaṃ pratikūlaṃ syādapasavyamapaṣṭhu ca
+(3.1.171) vāmaṃ śarīre savyaṃ syādapasavyaṃ tu dakṣiṇam
+(3.1.172) saṅkaṭam nā tu saṃbādhaḥ kalilaṃ gahanaṃ same
+(3.1.173) saṃkīrṇe saṃkulākīrṇe muṇḍitaṃ parivāpitam
+(3.1.174) granthitaṃ sanditaṃ dṛbdhaṃ visṛtaṃ vistṛtaṃ tatam
+(3.1.175) antargataṃ vismṛtaṃ syāt praāptapraṇihite same
+(3.1.176) vellitapreṅkhitādhūtacalitākampitā dhute
+(3.1.177) nuttanunnāstaniṣṭhayūtāviddhakṣipteritāḥ samāḥ
+(3.1.178) parikṣiptaṃ tu nivṛttaṃ mūṣitaṃ muṣitārthakam
+(3.1.179) pravṛddhaprasṛte nyastanisṛṣṭe guṇitāhate
+(3.1.180) nidigdhopacite gūḍhagupte guṇṭhitarūṣite
+(3.1.181) drutāvadīrṇe udgūrṇodyate kācitaśikyite
+(3.1.182) ghrāṇaghrāte digdhalipte samudaktoddhṛte same
+(3.1.183) veṣṭitaṃ syād valayitaṃ saṃvītaṃ ruddhamāvṛtam
+(3.1.184) rugṇaṃ bhugne 'tha niśitakṣṇutaśātānitejite
+(3.1.185) syād vināśonmukhaṃ pakvaṃ hrīṇahrītau tu lajjite
+(3.1.186) vṛtte tu vṛtavyāvṛttau saṃyojita upāhitaḥ
+(3.1.187) prāpyaṃ gamyaṃ samāsādyaṃ syannaṃ rīṇaṃ snutaṃ srutam
+(3.1.188) saṃgūḍhaḥ syāt saṃkalito 'vagītaḥ khyātagarhaṇaḥ
+(3.1.189) vividhaḥ syād bahuvidho nānārūpaḥ pṛthagvidhaḥ
+(3.1.190) avarīṇo dhikkṛtaś cāpyavadhvasto 'vacūrṇitaḥ
+(3.1.191) anāyāsakṛtaṃ phāṇṭaṃ svanitaṃ dhvanitam same
+(3.1.192) baddhe sandānitaṃ mūtamudditaṃ sanditaṃ sitam
+(3.1.193) niṣpakve kvathitaṃ pāke kṣīrājya haviṣāṃ śṛtam
+(3.1.194) nirvāṇo munivahnyādau nirvātas tu gate 'nile
+(3.1.195) pakvam pariṇate gūnaṃ hanne mīḍhaṃ tu mūtrite
+(3.1.196) puṣṭe tu puṣitaṃ soḍhe kṣāntamudvāntamudgate
+(3.1.197) dāntas tu damite śāntaḥ śamite prārthite 'rditaḥ
+(3.1.198) jñaptas tu Gyapite channaś chādite pūjite 'ñcitaḥ
+(3.1.199) pūrṇas tu pūrite kliṣṭaḥ kliśite 'vasite sitaḥ
+(3.1.200) pruṣṭapluṣṭoṣitā dagdhe taṣṭatvaṣṭau tanūkṛte
+(3.1.201) vedhitacchidritau viddhe vinnavittau vicārite
+(3.1.202) niṣprabhe vigatārokau vilīne vidrutadrutau
+(3.1.203) siddhe nirvṛttaniṣpannau dārite bhinnabheditau
+(3.1.204) ūtaṃ syūtamutaṃ ceti tritayaṃ tantu santate
+(3.1.205) syādarhite namasyitanamasitamapacāyitārcitāpacitam
+(3.1.206) varivasite varivasyitamupāsitaṃ copacaritaṃ ca
+(3.1.207) saṃtāpitasaṃtaptau dhūpita dhūpāyitau ca dūnaś ca
+(3.1.208) hṛṣṭo mattas tṛptaḥ prahlannaḥ pramuditaḥ prītaḥ
+(3.1.209) chinnaṃ chātaṃ lūnaṃ kṛttaṃ dātaṃ ditaṃ chitaṃ vṛkṇam
+(3.1.210) srastaṃ dhvastaṃ bhraṣṭaṃ skannaṃ pannaṃ cyutaṃ galitam
+(3.1.211) labdhaṃ prāptaṃ vinnaṃ bhāvitamāsāditaṃ ca bhūtam ca
+(3.1.212) anveṣitaṃ gaveṣitamanviṣṭaṃ mārgitaṃ mṛgitam
+(3.1.213) ārdraṃ sārdraṃ klinnaṃ timitaṃ smititaṃ samunnamuttaṃ ca
+(3.1.214) trātaṃ trāṇaṃ rakṣitamavitaṃ gopāyitaṃ ca guptaṃ ca
+(3.1.215) avagaṇitamavamatāvajñāte avamānitaṃ ca paribhūte
+(3.1.216) tyaktaṃ hīnaṃ vidhutaṃ samujjhitaṃ dhūtamutsṛṣṭe
+(3.1.217) uktaṃ bhāṣitamuditaṃ jalpitamākhyātamabhihitaṃ lapitam
+(3.1.218) buddhaṃ budhitaṃ manitaṃ viditaṃ pratipannamavasitāvagate
+(3.1.219) urīkṛtamurarīkṛtamaṅgīkṛtamāśrutaṃ pratijñātam
+(3.1.220) saṃgīrṇaviditasaṃśrutasamāhitopaśrutopagatam
+(3.1.221) īlitaśastapaṇāyitapanāyitapraṇutapaṇitapanitāni
+(3.1.222) api gīrṇavarṇitābhiṣṭuteḍitāni stutārthāni
+(3.1.223) bhakṣitacarvitaliptapratyavasitagilitakhāditapsātam
+(3.1.224) abhyavahṛtānnajagdhagrastaglastāśitaṃ bhukte
+(3.1.225) kṣepiṣṭhakṣodiṣṭhapreṣṭhavariṣṭhasthaviṣṭhabaṃhiṣṭhāḥ
+(3.1.226) kṣiprakṣudrābhīpsitapṛthupīvarabahulaprakarṣārthāḥ
+(3.1.227) sādhiṣṭhadrāghiṣṭhaspheṣṭhagariṣṭhahrasiṣṭhavṛndiṣṭhāḥ
+(3.1.228) bāḍhavyāyatabahuguruvāmanavṛndārakātiśaye
+% iti viśeṣyanighnavargaḥ 1 atra mū ślo 112
+saṃkīrṇavargaḥ /
+(3.2.229) prakṛtipratyayārthādyaiḥ saṃkīrṇe liṅgamunnayet
+/ atha saṃkīrṇavargaḥ
+(3.2.230) karma kriyā tatsātatye gamye syuraparasparāḥ
+(3.2.231) sākalyāsaṃgavacane pārāyaṇaparāyaṇe
+(3.2.232) yadṛcchā svairitā hetuśūnyā tvāsthā vilakṣaṇam
+(3.2.233) śamathas tu śamaḥ śāntir dāntis tu damatho damaḥ
+(3.2.234) avadānaṃ karma vṛttaṃ kāmyadānaṃ pravāraṇam
+(3.2.235) vaśakriyā saṃvananaṃ mūlakarma tu kārmaṇam
+(3.2.236) vidhūnanaṃ vidhuvanaṃ tarpaṇaṃ prīṇanāvanam
+(3.2.237) paryāptiḥ syāt paritrāṇaṃ hastadhāraṇamityapi
+(3.2.238) sevanaṃ sīvanaṃ syūtir vidaraḥ sphuṭanaṃ bhidā
+(3.2.239) ākrośanamabhīṣaṅgaḥ saṃvedo vedanā na nā
+(3.2.240) saṃmūrcchanamabhivyāptir yāñcā bhikṣārthanārdanā
+(3.2.241) vardhanaṃ chedane 'tha dve ānandanasabhājane
+(3.2.242) āpracchannamathāmnāyaḥ saṃpradāyaḥ kṣaye kṣiyā
+(3.2.243) grahe grāho vaśaḥ kāntau rakṣṇas trāṇe raṇaḥ kaṇe
+(3.2.244) vyadho vedhe pacā pāke havo hūtau varo vṛttau
+(3.2.245) oṣaḥ ploṣe nayo nāye jyānir jīrṇau bhramo bhramau
+(3.2.246) sphātir vṛddhau prathā khyātau spṛṣṭiḥ pṛktau snavaḥ srave
+(3.2.247) edhā samṛddhau sphuraṇe sphuraṇā pramitau pramā
+(3.2.248) prasūtiḥ prasave ścyote prādhāraḥ klamathaḥ klame
+(3.2.249) utkarṣo 'tiśaye sandhiḥ śleṣe viṣaya āśraye
+(3.2.250) kṣipāyāṃ kṣepaṇaṃ gīrṇir girau guraṇamudyame
+(3.2.251) unnāya unnaye śrāyaḥ śrayaṇe jayane jayaḥ
+(3.2.252) nigādo nigade mādo mada udvega udbhrame
+(3.2.253) vimardanaṃ parimalo 'bhyupapattiranugrahaḥ
+(3.2.254) nigrahas tadviruddhaḥ syādabhiyogas tvabhigrahaḥ
+(3.2.255) muṣṭibandhas tu saṃgrāho ḍimbe ḍamaraviplavau
+(3.2.256) bandhanaṃ prasitiś cāraḥ sparśaḥ spraṣṭopataptari
+(3.2.257) nikāro viprakāraḥ syādākāras tviṅga iṅgitam
+(3.2.258) pariṇāmo vikāre dve same vikṛtivikriye
+(3.2.259) apahāras tvapacayaḥ samāhāraḥ samuccayaḥ
+(3.2.260) pratyāhāra upādānaṃ vihāras tu parikramaḥ
+(3.2.261) abhihāro 'bhigrahaṇaṃ nihāro 'bhyavakarṣaṇam
+(3.2.262) anuhāro 'nukāraḥ syādarthasyāpagame vyayaḥ
+(3.2.263) pravāhas tu pravṛttiḥ syāt pravaho gamanaṃ bahiḥ
+(3.2.264) viyāmo viyamo yāmo yamaḥ saṃyāmasaṃyamau
+(3.2.265) himsākarmābhicāraḥ syāj jāgaryā jāṃgarā dvayoḥ
+(3.2.266) vighno 'ntarāyaḥ pratyūhaḥ syādupaghno 'ntikāśraye
+(3.2.267) nirveśa upabhogaḥ syāt parisarpaḥ parikriyā
+(3.2.268) vidhuraṃ tu praviśleṣe 'bhiprāyaś chanda āśayaḥ
+(3.2.269) saṃkṣepaṇaṃ samasanaṃ paryavasthā virodhanam
+(3.2.270) parisaryā parīsāraḥ syādāsyā tvāsanā sthitiḥ
+(3.2.271) vistāro vigraho vyāsaḥ sa ca śabdasya vistaraḥ
+(3.2.272) saṃvāhanaṃ mardanaṃ syād vināśaḥ syādadarśanam
+(3.2.273) saṃstavaḥ syāt paricayaḥ prasaras tu visarpaṇam
+(3.2.274) nīvākas tu prayāmaḥ syāt saṃnidhiḥ saṃnikarṣaṇam
+(3.2.275) lavo 'bhilāṣo lavane niṣpāvaḥ pavane pavaḥ
+(3.2.276) prastāvaḥ syādapasaras trasaraḥ sūtraveṣṭanam
+(3.2.277) prajanaḥ syādupasaraḥ praśrayapraṇayau samau
+(3.2.278) dhīśaktir niṣkramo 'strī tu saṃkramo durgasaṃcaraḥ
+(3.2.279) pratyutkramaḥ prayogārthaḥ prakramaḥ syādupakramaḥ
+(3.2.280) syādabhyādānamuddhāta ārambhaḥ saṃbhramas tvarā
+(3.2.281) pratibandhaḥ praviṣṭambho 'vanāyas tu nipātanam
+(3.2.282) upalambhas tvanubhavaḥ samālambho vilepanam
+(3.2.283) vipralambho viprayogo vilambhas tvatisarjanam
+(3.2.284) viśrāvas tu pratikhyātiravekṣā pratijāgaraḥ
+(3.2.285) nipāṭhanipaṭhau pāṭhe temastemau samundane
+(3.2.286) ādīnavāsravau kleśe melake saṃgasaṃgamau
+(3.2.287) saṃvīkṣanaṃ vicayanaṃ mārgaṇaṃ mṛgaṇā mṛgaḥ
+(3.2.288) parirambhaḥ pariṣvaṅgaḥ saṃśleṣa upagūhanam
+(3.2.289) nirvarṇanaṃ tu nidhyānaṃ darśanālokanekṣaṇam
+(3.2.290) pratyākhyānaṃ nirasanaṃ pratyādeśo nirākṛtiḥ
+(3.2.291) upaśāyo viśāyaś ca paryāyaśayanārthakau
+(3.2.292) artanaṃ ca ṛtīyā ca hṛṇīyā ca ghṛṇārthakāḥ
+(3.2.293) syād vyatyāso viparyāso vyatyayaś ca viparyaye
+(3.2.294) paryayo 'tikramas tasminnatipāta upātyayaḥ
+(3.2.295) preṣaṇaṃ yat samāhūya tatra syāt pratiśāsanam
+(3.2.296) sa saṃstāvaḥ kratuṣu yā stutibhūmir dvijanmanām
+(3.2.297) nidhāya takṣyate yatra kāṣṭhe kāṣṭhaṃ sa uddhanaḥ
+(3.2.298) stambaghnas tu stambaghanaḥ stambo yena nihanyate
+(3.2.299) āvidho vidhyate yena tatra viṣvaksame nighaḥ
+(3.2.300) utKāraś ca nikāraś ca dvau dhānyotkṣepaṇārthakau
+(3.2.301) nigārodgāravikṣāvodgrāhās tu garaṇādiṣu
+(3.2.302) āratyavarativirataya uparāme 'thāstriyāṃ tu niṣṭhevaḥ
+(3.2.303) niṣṭhayūtir niṣṭhevananiṣṭhīvanamityabhinnāni
+(3.2.304) javane jūtiḥ sātis tvavasāne syādatha jvare jūrtiḥ
+(3.2.305) udajas tu paśu preraṇamakaraṇirityādayaḥ śāpe
+(3.2.306) gotrāntebhyas tasya vṛndamityaupagavakādikam
+(3.2.307) āpūpikaṃ śāṣkulikamevamādyamacetasām
+(3.2.308) māṇavānāṃ tu māṇavyaṃ sahāyānāṃ sahāyatā
+(3.2.309) halyā halānāṃ brāhmaṇyavāḍavye tu dvijanmanām
+(3.2.310) dve parśukānāṃ pṛṣṭhānāṃ pārśvaṃ pṛṣṭhyamanukramāt
+(3.2.311) khalānāṃ khalinī khalyāpyatha mānuṣyakaṃ nṛṇām
+(3.2.312) grāmatā janatā dhūmyā pāśyā galyā pṛthakpṛthak
+(3.2.313) api sāhasrakārīṣavārmaṇātharvaṇādikam /
+iti saṃkīrṇavargaḥ 2 atra mūlaślokāḥ 42
+nānārthavargaḥ
+(3.3.314) nānārthāḥ ke 'pi kāntādi vargeṣvevātra kīrtitāḥ
+/ atha nānārthavargaḥ
+(3.3.315) bhūriprayogā ye yeṣu paryāyeṣvapi teṣu te
+(3.3.316) ākāśe tridive nāko lokas tu bhuvane jane
+(3.3.317) padye yaśasi ca ślokaḥ śare khaḍge ca sāyakaḥ
+(3.3.318) jambukau kroṣṭuvaruṇau pṛthukau cipiṭārbhakau
+(3.3.319) ālokau darśanadyotau bherīpaṭakamānakau
+(3.3.320) utsaṅgacihnayoraṅkaḥ kalaṅko 'ṅkāpavādayoḥ
+(3.3.321) takṣako nāgavarddhakyorarkaḥ sphaṭikasūryayoḥ
+(3.3.322) marute vedhasi braghne puṃsi kaḥ kaṃ śiro 'mbunoḥ
+(3.3.323) syāt pulākas tucchadhānye saṃkṣepe bhaktasikthake
+(3.3.324) ulūke kariṇaḥ pucchamūlopānte ca pecakaḥ
+(3.3.325) kamaṇḍalau ca karakaḥ sugate ca vināyakaḥ
+(3.3.326) kiṣkur haste vitastau ca śūkakīṭe ca vṛścikaḥ
+(3.3.327) pratikūle pratīkas triṣvekadeśe tu puṃsyayam
+(3.3.328) syād bhūtikaṃ tu bhūnimbe kattṛṇe bhūstṛṇe 'pi ca
+(3.3.329) jyotsnikāyāṃ ca ghoṣe ca kośātakyatha kaṭphale
+(3.3.330) site ca khadire somavalkaḥ syādatha sihvake
+(3.3.331) tilakalke ca piṇyāko bāhlīkaṃ rāmaṭhe 'pi ca
+(3.3.332) mahendra guggulūlūkavyālagrāhiṣu kauśikaḥ
+(3.3.333) ruktāpaśaṅkāsvātaṅkaḥ svalpe 'pi kṣullakas triṣu
+(3.3.334) jaivātṛkaḥ śaśāṅke 'pi khure 'pyaśvasya vartakaḥ
+(3.3.335) vyāghre 'pi puṇḍarīko nā yavānyāmapi dīpakaḥ
+(3.3.336) śālāvṛkāḥ kapikroṣṭuśvānaḥ svarṇe 'pi gairikam
+(3.3.337) pīḍārthe 'pi vyalīkaṃ syādalīkaṃ tvapriye 'nṛte
+(3.3.338) śīlānvayāvanūke dve śalke śakalavalkale
+(3.3.339) sāṣṭe śate suvarṇānāṃ hemnyurobhūṣaṇe pale
+(3.3.340) dīnāre 'pi ca niṣko 'strī kalko 'strī śamalainasoḥ
+(3.3.341) dambhe 'pyatha pināko 'strī śūlaśaṅkaradhanvanoḥ
+(3.3.342) dhenukā tu kareṇvāṃ ca meghajāle ca kālikā
+(3.3.343) kārikā yātanāvṛttyoḥ karṇikā karṇabhūṣaṇe
+(3.3.344) karihaste 'ṅgulau padmabījakośyāṃ triṣūttare
+(3.3.345) vṛndārakau rūpimukhyāveke mukhyānyakevalāḥ
+(3.3.346) syād dāmbhikaḥ kaukkuṭiko yaś cādūreritekṣaṇaḥ
+(3.3.347) lalāṭikaḥ prabhor bhāladarśī kāryākṣamaś
+(3.3.348) ca yaḥ
+(3.3.349) bhūbhṛnnitambavalayacakreṣu kaṭako 'striyām
+(3.3.350) sūcyagre kṣudraśatrau ca romaharṣe ca kaṇṭakaḥ
+(3.3.351) pākau paktiśiśū madhyaratne netari nāyakaḥ
+(3.3.352) paryaṅkaḥ syāt parikare syād vyāgre 'pi ca lubdhakaḥ
+(3.3.353) peṭakas triṣu vṛnde 'pi gurau deśye ca deśikaḥ
+(3.3.354) kheṭakau grāmaphalakau dhīvare 'pica jālikaḥ
+(3.3.355) puṣpareṇau ca kiñjalkaḥ śulko 'strī strīdhane 'pi ca
+(3.3.356) syāt kallole 'pyutkalikā vārdhakaṃ bhāvavṛndayoḥ
+(3.3.357) kariṇyāṃ cāpi gaṇikā dārakau bālabhedakau
+(3.3.358) andhe 'pyaneḍamūkaḥ syāt ṭaṅkau darpāśmadāraṇau
+(3.3.359) mṛdbhāṇḍe 'pyuṣṭrikā manthe khajakaṃ rasadarvake
+(3.3.360) iti kāntāḥ
+(3.3.361) mayūkhas tviṭkarajvālāsvalibāṇau śilīmukhau
+(3.3.362) śaṅkho nidhau lalaṭāsthnikambau na strīndriye 'pi kham
+(3.3.363) dhṛṇijvāle api śikhe śailavṛkṣau nagāvagau
+(3.3.364) iti khāntāḥ
+(3.3.365) āśugau vāyuviśikhau śarārkavihagāḥ khagāḥ
+(3.3.366) pataṅgau pakṣisūryau ca pūgaḥ kramukavṛndayoḥ
+(3.3.367) paśavo 'pi mṛgā vegaḥ pravāhajavayorapi
+(3.3.368) parāgaḥ kausume reṇau snānīyādau rajasyapi
+(3.3.369) gaje 'pi nāgamātaṅgāvapāṅgas tilake 'pi ca
+(3.3.370) sargaḥ svabhāvanirmokṣaniścayādhyāyasṛṣṭiṣu
+(3.3.371) yogaḥ saṃnahanopāyadhyānasaṃgatiyuktiṣu
+(3.3.372) bhogaḥ sukhe stryādibhṛtāvaheś ca phaṇakāyayoḥ
+(3.3.373) cātake hariṇe puṃsi sāraṅgaḥ śavale triṣu
+(3.3.374) kapau ca plavagaḥ śāpe tvabhiṣaṅgaḥ parābhave
+(3.3.375) yānādyaṅge yugaḥ puṃsi yugaṃ yugme kṛtādiṣu
+(3.3.376) svargeṣupaśuvāgvajra diṅnetradhṛṇibhūjale
+(3.3.377) lakṣyadṛṣṭyā striyāṃ puṃsi gaur liṅgaṃ cihna śephasoḥ
+(3.3.378) śṛṅgaṃ prādhānyasānvoś ca varāṅgaṃ mūrdhaguhyayoḥ
+(3.3.379) bhagaṃ śrīkāmamāhātmyavīryayatnārkakīrtiṣu
+(3.3.380) iti gāntāḥ
+(3.3.381) parighaḥ parighāte 'stre 'pyogho vṛnde 'mbhasāṃ raye
+(3.3.382) mūlye pūjāvidhāvargho 'hoduḥkhavyasaneṣvagham
+(3.3.383) triṣviṣṭe 'lpe laghuḥ kācāḥ śikyamṛdbhedadṛgrujaḥ
+(3.3.384) iti ghāntāḥ
+(3.3.385) viparyāse vistare ca prapañcaḥ pāvake śuciḥ
+(3.3.386) māsyamātye cāpyupadhe puṃsi medhye site triṣu
+(3.3.387) abhiṣvaṅge spṛhāyāṃ ca gabhastau ca ruciḥ striyām
+(3.3.388) iti cāntāḥ
+(3.3.389) prasanne bhalluke 'pyaccho gucchaḥ stabaka hārayoḥ
+(3.3.390) paridhānāñcale kaccho jalaprānte tri liṅgakaḥ
+(3.3.391) iti kṣepakacchāntāḥ
+(3.3.392) keki tārkṣyāvahibhujau dantaviprāṇḍajā dvijāḥ
+(3.3.393) ajā viṣṇuharacchāgā goṣṭhādhvanivahā vrajāḥ
+(3.3.394) dharmarājau jinayamau kuñjo dante 'pi na striyām
+(3.3.395) valaje kṣetrapūrdvāre valajā valgudarśanā
+(3.3.396) same kṣmāṃśe raṇe 'pyājiḥ prajā syāt saṃtatau jane
+(3.3.397) abjau śaṅkhaśaśāṅkau ca svake nitye nijaṃ triṣu
+(3.3.398) iti jāntāḥ
+(3.3.399) puṃsyātmani pravīṇeca kṣetrajño vācyaliṅgakaḥ
+(3.3.400) saṃjñā syāc cetanā nāma hastādyaiś cārthasūcanā
+(3.3.401) doṣajñau vaidyavidvāṃsau jño vidvān somajo 'pi ca
+(3.3.402) iti ñāntāḥ
+(3.3.403) kākebhagaṇḍau karaṭau gajagaṇḍakaṭī kaṭau
+(3.3.404) śipiviṣṭas tu khalatau duścarmaṇi maheśvare
+(3.3.405) devaśilpinyapi tvaṣṭā diṣṭaṃ daive 'pi na dvayoḥ
+(3.3.406) rase kaṭuḥ kaṭvakārye triṣu matsaratīkṣṇayoḥ
+(3.3.407) riṣṭaṃ kṣemāśubhābhāveṣvariṣṭe tu śubhāśubhe
+(3.3.408) māyāniścalayantreṣu kaitavānṛtarāśiṣu
+(3.3.409) ayoghane śailaśṛṅge sīrāṅge kūṭamastriyām
+(3.3.410) sūkṣmailāyāṃ truṭiḥ strī syāt kāle 'lpe saṃśaye 'pi sā
+(3.3.411) atyutkarṣāśrayaḥ koṭyo mūle lagnakace jaṭā
+(3.3.412) vyuṣṭiḥ phale samṛddhau ca dṛṣṭir jñāne 'kṣṇi darśane
+(3.3.413) iṣṭir yogecchayoḥ sṛṣṭaṃ niścite bahuni triṣu ('bahūni'?)
+(3.3.414) kaṣṭe tu kṛcchragahane dakṣāmandāgadeṣu tu
+(3.3.415) paṭur dvau vācyaliṅgau ca nīlakaṇṭhaḥ śive 'pi ca
+(3.3.416) poṭā dāsī dviliṃgā ca ghṛṣṭī gharṣaṇasūkarau
+(3.3.417) ghaṭā ghoṣṭhyāṃ hastipaṅktau kṛpīṭamudare jale
+(3.3.418) iti ṭāntāḥ
+(3.3.419) puṃsi koṣṭho 'ntarjaṭharaṃ kusūlo 'ntargṛhaṃ tathā
+(3.3.420) niṣṭhā niṣpattināśāntāḥ kāṣṭhotkarṣe sthitau diśi
+(3.3.421) triṣu jyeṣṭho 'tiśaste 'pi kaniṣṭho 'tiyuvālpayoḥ
+(3.3.422) iti ṭhāntāḥ
+(3.3.423) daṇḍo 'strī laguḍe 'pi syād guḍo golekṣupākayoḥ
+(3.3.424) sarpa māṃsātpaśū vyāḍau gobhūvācas tviḍā ilāḥ
+(3.3.425) kṣveḍavaṃśaśalākāpi nāḍī kāle 'pi ṣaṭkṣaṇe
+(3.3.426) kāṇḍo 'strī daṇḍabāṇārvavargāvasaravāriṣu
+(3.3.427) syād bhāṇḍamaśvābharaṇe 'matre mūlavaṇigdhane
+(3.3.428) iti ḍāntāḥ
+(3.3.429) bhṛśapratijñayor bāḍhaṃ pragāḍhaṃ bhṛśakṛcchrayoḥ
+(3.3.430) saṃghātagrāsayoḥ piṇḍī dvayoḥ puṃsi kalevare
+(3.3.431) gaṇḍau kapolavisphoṭau muṇḍakas triṣu muṇḍite
+(3.3.432) ikṣubhede 'pi khaṇḍo 'strī śikhaṇḍo barhacūḍayoḥ
+(3.3.433) śaktasthūlau triṣu dṛḍhau vyūḍhau vinyastasaṃhatau
+(3.3.434) iti ḍhāntāḥ
+(3.3.435) bhrūṇo 'rbhake straiṇagarbhe bāṇo balisute śare
+(3.3.436) kaṇo 'tisūkṣme dhānyāṃśe saṃghāte pramathe gaṇaḥ
+(3.3.437) paṇo dyūtādiṣūtsṛṣṭe bhṛtau mūlye dhane 'pi ca
+(3.3.438) maurvyāṃ dravyāśrite satvaśauryasandhyādike guṇaḥ
+(3.3.439) nirvyāpārasthitau kālaviśeṣotsavayoḥ kṣaṇaḥ
+(3.3.440) varṇo dvijādau śuklādau stutau varṇaṃ tu vākṣare
+(3.3.441) aruṇo bhāskare 'pi syād varṇabhede 'pi ca triṣu
+(3.3.442) sthāṇuḥ śarvo 'pyatha droṇaḥ kāke 'pyājau rave raṇaḥ
+(3.3.443) grāmaṇīr nāpite puṃsi śreṣṭhe grāmādhipe triṣu
+(3.3.444) ūrṇā meṣādilomni syādāvarte cāntarā bhruvoḥ
+(3.3.445) hariṇī syān mṛgī hemapratimā haritā ca yā
+(3.3.446) triṣu pāṇḍau ca hariṇaḥ sthūṇā stambhe 'pi veśmanaḥ
+(3.3.447) triṣṇe spṛhāpipāse dve jugupsākaruṇe ghṛṇe
+(3.3.448) vaṇikpathe ca vipaṇiḥ surā pratyak ca vāruṇī
+(3.3.449) kareṇuribhyāṃ strī nebhe draviṇaṃ tu balaṃ dhanam
+(3.3.450) śaraṇaṃ gṛharakṣitroḥ śrīparṇaṃ kamale 'pi ca
+(3.3.451) viṣābhimaraloheṣu tīkṣṇaṃ klībe khare triṣu
+(3.3.452) pramāṇaṃ hetumaryādāśāstreyattāpramātṛṣu
+(3.3.453) karaṇaṃ sādhakatamaṃ kṣetragātrendriyeṣvapi
+(3.3.454) prāṇyutpāde saṃsaraṇamasaṃbādhacamūgatau
+(3.3.455) ghaṇṭāpathe 'tha vāntānne samudgiraṇamunnaye
+(3.3.456) atas triṣu viṣāṇaṃ syāt paśuśṛṅgebhadantayoḥ
+(3.3.457) pravaṇe kramanimnorvyāṃ prahve nā tu catuṣpathe
+(3.3.458) saṃkīrṇau nicitāśuddhā viriṇaṃ śūnyamūṣaram
+(3.3.459) setau ca caraṇo veṇī nadībhede kacoccaye
+(3.3.460) iti ṇāntāḥ
+(3.3.461) devasūryau vivasvantau sarasvantaunadārṇavau
+(3.3.462) pakṣitārkṣyau garutmantau śakuntau bhāsapakṣiṇau
+(3.3.463) agnyutpātau dhūmaketū jīmūtau meghaparvatau
+(3.3.464) hastau tu pāṇinakṣatre marutau pavanāmarau
+(3.3.465) yantā hastipake sūte bhartā dhātari poṣṭari
+(3.3.466) yānapātre śiśau potaḥ pretaḥ prāṇyantare mṛte
+(3.3.467) grahabhede dhvaje ketuḥ pārthive tanaye sutaḥ
+(3.3.468) sthapatiḥ kārubhede 'pi bhūbhṛd bhūmidhare nṛpe
+(3.3.469) mūrdhābhiṣikto bhūpe 'pi ṛtuḥ strī kusume 'pi ca
+(3.3.470) viṣṇāvapyajitāvyaktau sūtas tvaṣṭari sārathau
+(3.3.471) vyaktaḥ prājñe 'pi dṛṣṭāntāvubhau śāstranidarśane
+(3.3.472) kṣattā syāt sārathau dvāḥsthe kṣatriyāyāṃ ca śūdraje
+(3.3.473) vṛttāntaḥ syāt prakaraṇe prakāre kārtsnyavārtayoḥ
+(3.3.474) ānartaḥ samare nṛtyasthāna nīvṛdviśeṣayoḥ
+(3.3.475) kṛtānto yama siddhānta daivākuśalakarmasu
+(3.3.476) śleṣmādi rasa raktādi mahā bhūtāni tad guṇāḥ
+(3.3.477) indriyāṇyaśma vikṛtiḥ śabdayoniś ca dhātavaḥ
+(3.3.478) kakṣāntare 'pi śuddhānto bhūpasyāsarva gocare
+(3.3.479) kāsū sāmarthyayoḥ śaktir mūrtiḥ kāṭhinyakāyayoḥ //
+(3.3.480) vistāra vallayor vratatir vasatī rātriveśmanoḥ
+(3.3.481) kṣayārcayorapacitiḥ sātir dānāvasānayoḥ //
+(3.3.482) ārtiḥ pīḍā dhanuṣkoṭyor jātiḥ sāmānyajanmanoḥ
+(3.3.483) pracāra syandayo rītirītir ḍimba pravāsayoḥ
+(3.3.484) udaye 'dhigame prāptistretā tvagnitraye yuge
+(3.3.485) vīṇābhede 'pi mahatī bhūtir bhasmani sampadi
+(3.3.486) nadī nagaryor nāgānāṃ bhogavatyatha saṃgare
+(3.3.487) saṃge sabhāyāṃ samitiḥ kṣayavāsāvapi kṣitī
+(3.3.488) raverarciś ca śastraṃ ca vahnijvālā ca hetayaḥ
+(3.3.489) jagatī jagati chandoviśeṣo 'pi kṣitāvapi
+(3.3.490) paṅktiś chando 'pi daśamaṃ syāt prabhāve 'pi cāyatiḥ
+(3.3.491) pattir gatau ca mūle tu pakṣatiḥ pakṣabhedayoḥ
+(3.3.492) prakṛtir yoniliṅge ca kaiśikyādyāś ca vṛttayaḥ
+(3.3.493) sikatāḥ syur vālukāpi vede śravasi ca śrutiḥ
+(3.3.494) vanitā janitātyarthānurāgāyāṃ ca yoṣiti
+(3.3.495) guptiḥ kṣitivyudāse 'pi dhṛtir dhāraṇadhairyayoḥ
+(3.3.496) bṛhatī kṣudra vārtākī chandobhede mahatyapi
+(3.3.497) vāsitā strī kariṇyoś ca vārtā vṛttau janaśrutau
+(3.3.498) vārtaṃ phalgunyaroge ca triṣvapsu ca ghṛtāmṛte
+(3.3.499) kaladhautaṃ rūpyahemnor nimittam hetulakṣmaṇoḥ
+(3.3.500) śrutaṃ śāstrāvadhṛtayor yugaparyāptayoḥ kṛtam
+(3.3.501) atyāhitaṃ mahābhītiḥ karma jīvānapekṣi ca
+(3.3.502) yukte kṣmādāvṛte bhūtaṃ prāṇyatīte same triṣu
+(3.3.503) vṛttaṃ padye caritre triṣvatīte dṛḍhanistale
+(3.3.504) mahad rājyaṃ cāvagītaṃ janye syād garhite triṣu
+(3.3.505) śvetaṃ rūpye 'pi rajataṃ hemni rūpye site triṣu
+(3.3.506) triṣvito jagadiṅge 'pi raktaṃ nīlyādi rāgi ca
+(3.3.507) avadātaḥ site pīte śuddhe baddhārjunau sitau
+(3.3.508) yukte 'ti saṃskṛte 'marṣiṇyabhinīto 'tha saṃskṛtam
+(3.3.509) kṛtrime lakṣaṇopete 'pyananto 'navadhāvapi
+(3.3.510) khyāte hṛṣṭe pratīto 'bhijātas tu kulaje budhe
+(3.3.511) viviktau pūtavijanau mūrchitau mūḍhasocchrayau
+(3.3.512) dvau cāmla paruṣau śuktau śitī dhavalamecakau
+(3.3.513) satye sādhau vidyamāne praśaste 'bhyarhite ca sat
+(3.3.514) puraskṛtaḥ pūjite 'rātyabhiyukte 'grataḥ kṛte
+(3.3.515) nivātāvāśrayāvātau śastrābhedyaṃ ca varma yat
+(3.3.516) jātonnaddhapravṛddhāḥ syurucchritā utthitās tvamī
+(3.3.517) vṛddhimat prodyatotpannā ādṛtau sādarārcitau
+(3.3.518) samūhotpannayor jātamahijic chrīpatīndrayoḥ
+(3.3.519) sauptike 'pi prapāto 'thāvapātāvataṭāvaṭau
+(3.3.520) samit saṅge raṇe 'pi strī vyavasthāyāmapi sthitiḥ
+(3.3.521) artho 'bhidheya rai vastu prayojana nivṛttiṣu
+(3.3.522) nipānāgamayos tīrthamṛṣi juṣṭe jale gurau
+(3.3.523) samarthas triṣu śaktisthe saṃbaddhārthe hite 'pi ca
+(3.3.524) daśamīsthau kṣīṇarāga vṛddhau vīthī padavyapi
+(3.3.525) āsthānī yatnayorāsthā prastho 'strī sānu mānayoḥ
+(3.3.526) śāstra draviṇayor granthaḥ saṃsthādhāre sthitau mṛtau
+(3.3.527) iti thāntāḥ
+(3.3.528) abhiprāya vaśau chandāvabdau jīmūta vatsarau
+(3.3.529) apavādau tu nindājñe dāyādau suta bāndhavau
+(3.3.530) pādā raśmyaṅghri turyāṃśāś candrāgnyarkās tamonudaḥ
+(3.3.531) nirvādo janavāde 'pi śādo jambāla śaṣpayoḥ
+(3.3.532) ārāve rudite trātaryākrando dāruṇe raṇe
+(3.3.533) syāt prasādo 'nurage 'pi sūdaḥ syād vyañjane 'pi ca
+(3.3.534) goṣṭhādhyakṣe 'pi govindo harṣe 'pyāmodavan madaḥ
+(3.3.535) prādhānye rājaliṅge ca vṛṣāṅge kakudo 'striyām
+(3.3.536) strī saṃvijjñāna saṃbhāṣā kriyākārāji nāmasu
+(3.3.537) dharme rahasyupaniṣat syādṛtau vatsare śarat
+(3.3.538) padaṃ vyavasiti trāṇa sthāna lakṣmāṅghri vastuṣu
+(3.3.539) goṣpadaṃ sevite māne pratiṣṭhā kṛtyamāspadam
+(3.3.540) triṣviṣṭa madhurau svādū mṛdū cātīkṣṇa komalau
+(3.3.541) mūḍhālpāpaṭu nirbhāgyā mandāḥ syur dvau tu śāradau
+(3.3.542) pratyagrāpratibhau vidvat supragalbhau viśāradau
+(3.3.543) iti dāntāḥ
+(3.3.544) vyāmo vaṭaś ca nyagrodhāvutsedhaḥ kāya unnatiḥ
+(3.3.545) paryāhāraś ca mārgaś,
+h ca vivadhau vīvadhau ca tau
+(3.3.546) paridhir yajñiya taroḥ śākhāyāmupasūryake
+(3.3.547) bandhakaṃ vyasanaṃ cetaḥ pīḍādhiṣṭhānamādhayaḥ
+(3.3.548) syuḥ samarthana nīvāka niyamāś ca samādhayaḥ
+(3.3.549) doṣotpāde 'nubandhaḥ syāt prakṛtasyādi vinaśvare
+(3.3.550) mukhyānuyāyini śiśau prakṛtyānuvartane
+(3.3.551) vidhur viṣṇau candramasi paricchede bile 'vadhiḥ
+(3.3.552) vidhir vidhāne daive 'pi praṇidhiḥ prārthane care
+(3.3.553) budha vṛddhau paṇḍite 'pi skandhaḥ samudaye 'pi ca
+(3.3.554) deśe nada viśeṣe 'bdhau sindhur nā sariti striyām
+(3.3.555) vidhā vidhau prakāre ca sādhū ramye 'pi ca triṣu
+(3.3.556) vadhūr jāyā snuṣā strī ca sudhā lepo 'mṛtaṃ snuhī
+(3.3.557) sandhā pratijñā maryādā śraddhā saṃpratyayaḥ spṛhā
+(3.3.558) madhu madye puṣparase kṣaudre 'pyandhaṃ tamasyapi
+(3.3.559) atas triṣu samunnaddhau paṇḍitaṃmanya garvitau
+(3.3.560) brahmabandhuradhikṣepe nirdeśe 'thāvalambitaḥ
+(3.3.561) avidūro 'pyavaṣṭabdhaḥ prasiddhau khyāta bhūṣitau
+(3.3.562) leśe 'pi gandhaḥ saṃbādho guhyasaṃkulayorapi
+(3.3.563) bādhā niṣedhe duḥkhe ca jñātṛcāndrisurā budhāḥ
+/ iti dhāntāḥ
+(3.3.564) sūrya vahnī citrabhānū bhānū raśmi divākarau
+(3.3.565) bhūtātmānau dhātṛ dehau mūrkha nīcau pṛthagjanau
+(3.3.566) grāvāṇau śailapāṣāṇau patriṇau śarapakṣiṇau
+(3.3.567) taruśailau śikhariṇau śikhinau vahni barhiṇau
+(3.3.568) pratiyatnāvubhau lipsopagrahāvatha sādinau
+(3.3.569) dvau sārathi hayārohau vājino 'śveṣu pakṣiṇaḥ
+(3.3.570) kule 'pyabhijano janma bhūmyāmapyatha hāyanāḥ
+(3.3.571) varṣārcir vrīhibhedāś ca candrāgnyarkā virocanāḥ
+(3.3.572) keśe 'pi vṛjino viśvakarmārka suraśilpinoḥ
+(3.3.573) ātmā yatno dhṛtir buddhiḥ svabhāvo brahma varṣma ca
+(3.3.574) śakro ghātuka mattebho varṣukābdo ghanāghanaḥ
+(3.3.575) abhimāno 'rthādi darpe jñāne praṇaya hiṃsayoḥ
+(3.3.576) ghano meghe mūrtiguṇe triṣu mūrte nirantare
+(3.3.577) inaḥ sūrye prabhau rājā mṛgāṅke kṣatriye nṛpe
+(3.3.578) vāṇinyau nartakī dūtyau sravantyāmapi vāhinī
+(3.3.579) hlādinyau vajrataḍitau vandāyāmapi kāminī
+(3.3.580) tvag dehayorapi tanuḥ sūnādho jihvikāpi ca
+(3.3.581) kratu vistārayorastrī vitānaṃ triṣu tucchake
+(3.3.582) mande 'tha ketanaṃ kṛtye ketāvupanimantraṇe
+(3.3.583) vedas tattvaṃ tapo brahma brahmā vipraḥ prajāpatiḥ
+(3.3.584) utsāhane ca hiṃsāyāṃ sūcane cāpi gandhanam
+(3.3.585) ātañcanaṃ pratīvāpa javanāpyāyanārthakam
+(3.3.586) vyañjanaṃ lāñchanaṃ śmaśru niṣṭhānāvayaveṣvapi
+(3.3.587) syāt kaulīnaṃ lokavāde yuddhe paśvahi pakṣiṇām
+(3.3.588) syādudyānaṃ niḥsaraṇe vanabhede prayojane
+(3.3.589) avakāśe sthitau sthānaṃ krīḍādāvapi devanam
+(3.3.590) vyutthānaṃ pratirodhe ca virodhācaraṇe 'pi ca
+(3.3.591) utthānaṃ pauruṣe tantre saṃniviṣṭodgame 'pi ca
+(3.3.592) māraṇe mṛtasaṃskāre gatau dravye 'rtha dāpane
+(3.3.593) nirvartanopakaraṇānuvrajyāsu ca sādhanam
+(3.3.594) niryātanaṃ vaira śuddhau dāne nyāsārpaṇe 'pi ca
+(3.3.595) vyasanaṃ vipadi bhraṃśe doṣe kāmajakopaje
+(3.3.596) pakṣmākṣilomni kiñjalke tantvādyamśe 'pyaṇīyasi
+(3.3.597) tithibhede kṣaṇe parva vartma netracchade 'dhvani
+(3.3.598) akāryaguhye kaupīnaṃ maithunaṃ saṃgatau rate
+(3.3.599) pradhānaṃ paramātmā dhīḥ prajñānaṃ buddhicihnayoḥ
+(3.3.600) prasūnaṃ puṣpaphalayor nidhanaṃ kulanāśayoḥ
+(3.3.601) krandane rodanāhvāne varṣma dehapramāṇayoḥ
+(3.3.602) gṛhadehatviṭprabhāvā dhāmānyatha catuṣpathe
+(3.3.603) saṃniveśe ca saṃsthānaṃ lakṣma cihnapradhānayoḥ
+(3.3.604) ācchādane saṃvidhānamapavāraṇamityubhe
+(3.3.605) ārādhanaṃ sādhane syādavāptau toṣaṇe 'pi ca
+(3.3.606) adhiṣṭhānaṃ cakrapuraprabhāvādhyāsaneṣvapi
+(3.3.607) ratnaṃ svajātiśreṣṭhe 'pi vane salilakānane
+(3.3.608) talinaṃ virale stoke vācyaliṅgaṃ tathottare
+(3.3.609) samānāḥ satsamaike syuḥ piśunau khalasūcakau
+(3.3.610) hīnanyūnāvūnagarhyau vegiśūrau tarasvinau
+(3.3.611) abhipanno 'parāddho 'bhigrastavyāpadgatāvapi
+/ iti nāntāḥ
+(3.3.612) kalāpo bhūṣaṇe barhe tūṇīre saṃhatāvapi
+(3.3.613) paricchade parīvāpaḥ paryuptau salilasthitau
+(3.3.614) godhuggoṣṭhapatī gopau haraviṣṇū vṛṣākapī
+(3.3.615) bāṣpamūṣmāśru kaśipu tvannamācchādanaṃ dvayam
+(3.3.616) talpaṃ śayyāṭṭadāreṣu stambe 'pi viṭapo 'striyām
+(3.3.617) prāptarūpasvarūpābhirūpā budhamanojñayoḥ
+(3.3.618) bhedyaliṅgā amī kūrmī vīṇābhedaśca kacchapī
+(3.3.619) kutapo mṛgaromotthapaṭe cāhno.ṣṭameṃ 'śake
+/ iti pāntāḥ
+(3.3.620) śiphā śikhāyāṃ sariti māṃsikāyāṃ ca mātari
+(3.3.621) śaphaṃ mūle tarūṇāṃ syādgavādīnāṃ khure 'pi ca
+(3.3.622) gulphaḥ syādguṃphane bāhoralaṃkāre ca kīrtitaḥ
+(3.3.623) ravarṇe puṃsi rephaḥ syātkutsite vācyaliṅgakaḥ
+/ iti phāntāḥ
+(3.3.624) antarābhavasatve 'śve gandharvo divyagāyane
+(3.3.625) kambur nā valaye śaṅkhe dvijihvau sarpasūcakau
+(3.3.626) pūrvo 'nyaliṅgaḥ prāgāha pumūbahutve 'pi pūrvajān
+(3.3.627) citrapuṅkhe 'pi kādambo nitambo 'dritaṭe kaṭau
+(3.3.628) darvī phaṇāpi bimbo 'strī maṇḍale 'pi ca
+/ iti bāntāḥ
+(3.3.629) kumbhau ghaṭebhamūrdhāṃśau ḍimbhau tu śiśubāliśau
+(3.3.630) stambhau sthūṇājaḍībhāvau śambhū brahmatrilocanau
+(3.3.631) kukṣibhrūṇārbhakā garbhā visrambhaḥ praṇaye 'pi ca
+(3.3.632) syādbheryāṃ dundubhiḥ puṃsi syādakṣe dundubhiḥ striyām
+(3.3.633) syānmahārajate klībaṃ kusumbhaṃ karake pumān
+(3.3.634) kṣatriye 'pi ca nābhir nā surabhir gavi ca striyām
+(3.3.635) sabhā saṃsadi sabhye ca triṣvadhyakṣe 'pi vallabhaḥ
+/ iti bhāntāḥ
+(3.3.636) kiraṇa pragrahau raśmī kapibhekau plavaṅgamau
+(3.3.637) icchāmanobhavau kāmau śaktyudyogau parākramau
+(3.3.638) dharmāḥ puṇyayamanyāyasvabhāvācārasomapāḥ
+(3.3.639) upāyapūrva ārambha upadhā cāpyupakramaḥ
+(3.3.640) vaṇikpathaḥ puraṃ vedo nigamā nāgaro vaṇik
+(3.3.641) naigamau dvau bale rāmo nīlacārusite triṣu
+(3.3.642) śabdādipūrvo vṛnde 'pi grāmaḥ krāntau ca vikramaḥ
+(3.3.643) stomaḥ stotre 'dhvare vṛnde jihvāstu kutile 'lase
+(3.3.644) uṣṇe 'pi gharmaś ceṣṭālaṅkāre bhrāntau ca vibhramaḥ
+(3.3.645) gulmā rukstambasenāśca jāmiḥ svasṛkulastriyoḥ
+(3.3.646) kṣitikṣāntyoḥ kṣamā yukte kṣamaṃ śakte hite triṣu
+(3.3.647) triṣu śyāmau haritkṛṣṇau śyāmā syācchārivā niśā
+(3.3.648) lalāmaṃ pucchapuṇḍrāśvabhūṣāprādhānyaketuṣu
+(3.3.649) sūkṣmamadhyātmamapyādye pradhāne prathamastriṣu
+(3.3.650) vāmau valgupratīpau dvāvadhamau nyūnakutsitau
+(3.3.651) jīrṇaṃ ca paribhuktaṃ ca yātayāmamidaṃ dvayam
+/ iti gāntāḥ
+(3.3.652) turaṅgagaruḍau tārkṣyau nilayāpacayau kṣayau
+(3.3.653) śvaśuryau devaraśyālau bhrātṛvyau bhrātṛjadviṣau
+(3.3.654) parjanyau rasadabdendrau syādaryaḥ svāmivaiśyayoḥ
+(3.3.655) tiṣyaḥ puṣye kaliyuge paryāyo 'vasare krame
+(3.3.656) pratyayo 'dhīna śapathajñānaviśvāsahetuṣu
+(3.3.657) randhre śabde 'thānuśayo dīrghadveṣānutāpayoḥ
+(3.3.658) sthūloccayas tvasākalye nāgānāṃ madhyame gate
+(3.3.659) samayāḥ śapathācārakālasiddhāntasaṃvidaḥ
+(3.3.660) vyasanānyaśubhaṃ daivaṃ vipadityanayāstrayaḥ
+(3.3.661) atyayo 'tikrame kṛcchre doṣe daṇḍe 'pyathāpadi
+(3.3.662) yuddhāyatyoḥ saṃparāyaḥ pūjyastu śvaśure 'pi ca
+(3.3.663) pascādavasthāyi balaṃ samavāyaśca sannayau
+(3.3.664) saṃghāte saṃniveśe ca saṃstyāyaḥ praṇayāstvamī
+(3.3.665) visrambhayāñcāpremāṇo virodhe 'pi samucchrayaḥ
+(3.3.666) viṣayo yasya yo jñātas tatra śabdādikeṣvapi
+(3.3.667) niryāse 'pi kaṣāyo strī sabhāyāṃ ca pratiśrayaḥ
+(3.3.668) prāyo bhūmnyantagamane manyur dainye kratau krudhi
+(3.3.669) rahasyopasthayor guhyaṃ satyaṃ śapathatathyayoḥ
+(3.3.670) vīryaṃ bale prabhāve ca dravyaṃ bhavye guṇāśraye
+(3.3.671) dhiṣṇyaṃ sthāne gṛhe bhe 'gnau bhāgyaṃ karma śubhāśubham
+(3.3.672) kaśeru hemnor gāṅgeyaṃ viśalyā dantikāpi ca
+(3.3.673) vṛṣākapāyī śrīgauryorabhijñā nāmaśobhayoḥ
+(3.3.674) ārambho niṣkṛtiḥ śikṣā pūjanaṃ saṃpradhāraṇam
+(3.3.675) upāyaḥ karma ceṣṭā ca cikitsā ca nava kriyāḥ
+(3.3.676) chāyā sūryapriyā kāntiḥ pratibimbamanātapaḥ
+(3.3.677) kakṣyā prakoṣṭhe harmyādeḥ kāñcyāṃ madhyebhabandhane
+(3.3.678) kṛtyā kriyādevatayos triṣu bhedye dhanādibhiḥ
+(3.3.679) janyaḥ syājjanavāde 'pi jaghanyo 'ntye 'dhame 'pi ca
+(3.3.680) garhyādhīnau ca vaktavyau kalyau sajjanirāmayau
+(3.3.681) ātmavānanapeto 'rthādarthyau puṇyaṃ tu cārvapi
+(3.3.682) rūpyaṃ praśastarūpe 'pi vadānyo valguvāgapi
+(3.3.683) nyāyye 'pi madhyaṃ saumyaṃ tu sundare somadaivate
+/ iti yāntāḥ
+(3.3.684) nivahāvasarau vārau saṃstarau prastarādhvarau
+(3.3.685) gurū goṣpatipitrādyau dvāparau yugasaṃśayau
+(3.3.686) prakārau bhedasādṛśye ākārāviṅgitākṛtī
+(3.3.687) kiṃśārū dhānyaśūkeṣu marū dhanvadharādharau
+(3.3.688) adrayo drumaśailārkāḥ strīstanābdau payodharau
+(3.3.689) dhvāntāridānavā vṛtrā balihastāṃśavaḥ karāḥ
+(3.3.690) pradarā bhaṅganārīrukbāṇā asrāḥ kacā api
+(3.3.691) ajātaśṛṅgo gauḥ kāle 'pyaśmaśrurnā ca tūbarau
+(3.3.692) svarṇe 'pi rāḥ parikaraḥ paryaṅkaparivārayoḥ
+(3.3.693) muktāśuddhau ca tāraḥ syācchāro vāyau sa tu triṣu
+(3.3.694) karbure 'tha pratijñājisaṃvidāpatsu saṃgaraḥ
+(3.3.695) vedabhede guptavāde mantro mitro ravāvapi
+(3.3.696) makheṣu yūpakhaṇḍe 'pi svarurguhye 'pyavaskaraḥ
+(3.3.697) āḍambaras tūryarave gajendrāṇāṃ ca garjite
+(3.3.698) abhihāro 'bhiyoge ca caurye saṃnahane 'pi ca
+(3.3.699) syājjaṅgame parīvāraḥ khaḍgakośe paricchade
+(3.3.700) viṣṭaro viṭapī darbhamuṣṭiḥ pīṭhādyamāsanam
+(3.3.701) dvāri dvāḥ sthe pratīhāraḥ pratīhāryapyanantare
+(3.3.702) vipule nakule viṣṇau babhrurnā piṅgale triṣu
+(3.3.703) sāro bale sthirāṃśe ca nyāyye klībaṃ vare triṣu
+(3.3.704) durodaro dyūtakāre paṇe dyūte durodaram
+(3.3.705) mahāraṇye durgapathe kāntāraṃ punnapuṃsakam
+(3.3.706) matsaro 'nyaśubhadveṣe tadvatkṛpaṇayostriṣu
+(3.3.707) devādvṛte varaḥ śreṣṭhe triṣu klībaṃ manākpriye
+(3.3.708) vaṃśāṅkure karīro 'strī tarubhede ghaṭe ca nā
+(3.3.709) nā camūjaghane hastasūtre pratisaro 'striyām
+(3.3.710) yamānilendracandrārkaviṣṇusiṃhāṃśuvājiṣu
+(3.3.711) śukāhikapibhekeṣu harirnā kapile triṣu
+(3.3.712) śarkarā karparāṃśe 'pi yātrā syādyāpane gatau
+(3.3.713) irā bhūvāksurāpsusyāt tandrī nidrāpramīlayoḥ
+(3.3.714) dhātrī syādupamātāpi kṣitirapyāmalakyapi
+(3.3.715) kṣudrā vyaṅgā naṭī veśyā saraghā kaṇṭakārikā
+(3.3.716) triṣu krūre 'dhame 'lpe 'pi kṣudraṃ mātrā paricchade
+(3.3.717) alpe ca parimāṇe sā mātraṃ kārtsnye 'vadhāraṇe
+(3.3.718) ālekhyāścaryayościtraṃ kalatraṃ śroṇibhāryayoḥ
+(3.3.719) yogyabhājanayoḥ pātraṃ patraṃ vāhanapakṣayoḥ
+(3.3.720) nideśagranthayoḥ śāstraṃ śastramāyudhalohayoḥ
+(3.3.721) syājjaṭāṃśukayornetraṃ kṣetraṃ patnīśarīrayoḥ
+(3.3.722) mukhāgre kroḍahalayoḥ potraṃ gotraṃ tu nāmni ca
+(3.3.723) satramācchādane yajñe sadādāne vane 'pi ca
+(3.3.724) ajiraṃ viṣaye kāye 'pyaṃbaraṃ vyomni vāsasi
+(3.3.725) cakraṃ rāṣṭre 'pyakṣaraṃ tu mokṣe 'pi kṣīramapsu ca
+(3.3.726) svarṇe 'pi bhūricandrau dvau dvāramātre 'pi gopuram
+(3.3.727) guhādambhau gahvare dve raho 'ntikamupahvare
+(3.3.728) puro 'dhikamuparyagrāṇyagāre nagare puram
+(3.3.729) mandiraṃ cātha rāṣṭro 'strī viṣaye syādupadrave
+(3.3.730) daro 'striyāṃ bhaye śvabhre vajro 'strī hīrake pavau
+(3.3.731) tantraṃ pradhāne siddhānte sūtravāye paricchade
+(3.3.732) auśīraścāmare daṇḍe 'pyauśīraṃ śayanāsane
+(3.3.733) puṣkaraṃ karihastāgre vādyabhāṇḍamukhe jale
+(3.3.734) vyomni khaḍgaphale padme tīrthauṣadhiviśeṣayoḥ
+(3.3.735) antaramavakāśāvadhiparidhānāntardhibhedatādarthye
+(3.3.736) chidrātmīyavinābahiravasaramadhye 'ntarātmani ca
+(3.3.737) muste 'pi piṭharaṃ rājakaśeruṇyapi nāgaram
+(3.3.738) śārvaraṃ tvandhatamase ghātuke bhedyaliṅgakam
+(3.3.739) gauro 'ruṇe site pīte vraṇakāryapyaruṣkaraḥ
+(3.3.740) jaṭharaḥ kaṭhine 'pi syādadhastādapi cādharaḥ
+(3.3.741) anākule 'pi caikāgro vyagro vyāsakta ākule
+(3.3.742) uparudīcyaśreṣṭheṣvapyuttaraḥ syādanuttaraḥ
+(3.3.743) eṣāṃ viparyaye śreṣṭhe dūrānātmottamāḥ parāḥ
+(3.3.744) svādupriyau ca madhurau krūrau kaṭhinanirdayau
+(3.3.745) udārau dātṛmahatoritarastvanyanīcayoḥ
+(3.3.746) mandasvacchandayoḥ svairaḥ śubhramuddīptaśuklayoḥ
+(3.3.747) āsāro vegavadvarṣe sainyaprasaraṇaṃ tathā
+(3.3.748) dhārāmbupāte cotkarṣe 'strau kaṭāhe tu karparaḥ
+(3.3.749) bandhuraṃ sundare namre girirgendukaśailayoḥ
+(3.3.750) caruḥ sthālyāṃ haviḥ paktāvadhīraḥ kātare cale
+/ iti rāntāḥ
+(3.3.751) cūḍā kirīṭam keśāśca saṃyatā maulayastrayaḥ
+(3.3.752) drumaprabhedamātaṅgakāṇḍapuṣpāṇi pīlavaḥ
+(3.3.753) kṛtāntānehasoḥ kālaścaturthe 'pi yuge kaliḥ
+(3.3.754) syātkuraṅge 'pi kamalaḥ prāvāre 'pi ca kambalaḥ
+(3.3.755) karopahārayoḥ puṃsi baliḥ prāṇyaṅgaje striyām
+(3.3.756) sthaulyasāmarthyasainyeṣu balaṃ nā kākasīriṇoḥ
+(3.3.757) vātūlaḥ puṃsi vātyāyāmapi vātāsahe triṣu
+(3.3.758) bhedyaliṅgaḥ śaṭhe vyālaḥ puṃsi śvāpadasarpayoḥ
+(3.3.759) malo 'strī pāpaviṭkiṭṭānyastrī śūlaṃ rugāyudham
+(3.3.760) śaṅkāvapi dvayoḥ kīlaḥ pāliḥ stryaśryaṅkapaṅktiṣu
+(3.3.761) kalā śilpe kālabhede cālī sakhyāvalī api
+(3.3.762) abdhyambuvikṛtau velā kālamaryādayorapi
+(3.3.763) bahulāḥ kṛttikā gāvo bahulo 'gnau śitau triṣu
+(3.3.764) līlā vilāsakriyayorupalā śarkarāpi ca
+(3.3.765) śoṇite 'mbhasi kīlālaṃ mūlamādye śiphābhayoḥ
+(3.3.766) jālaṃ samūha ānāyagavākṣakṣārakeṣvapi
+(3.3.767) śīlaṃ svabhāve sadvṛtte sasye hetukṛte phalam
+(3.3.768) chadirnetrarujoḥ klībaṃ samūhe paṭalaṃ na nā
+(3.3.769) adhassvarūpayorastrī talaṃ syāccāmiṣe palam
+(3.3.770) aurvānale 'pi pātālaṃ cailaṃ vastre 'dhame triṣu
+(3.3.771) kukūlaṃ śaṅkubhiḥ kīrṇe śvabhre nā tu tuṣānale
+(3.3.772) nirṇīte kevalamiti triliṅgaṃ tvekakṛtsnayoḥ
+(3.3.773) paryāptikṣemapuṇyeṣu kuśalaṃ śikṣite triṣu
+(3.3.774) pravālamaṅkure 'pyastrī triṣu sthūlaṃ jaḍe 'pi ca
+(3.3.775) karālo danture tuṅge cārau dakṣe ca peśalaḥ
+(3.3.776) mūrkhe 'rbhake 'pi bālaḥ syāllolaścalasatṛṣṇayoḥ
+(3.3.777) kulaṃ gṛhe 'pi tālāṅke kubere caikakuṇḍalaḥ
+(3.3.778) strībhāvāvajñayorhelā heliḥ sūrye raṇe hiliḥ
+(3.3.779) hālaḥ syānnṛpatau madye śakalacchadayordalam
+(3.3.780) tūliścitropakaraṇaśalākātūlaśayyayoḥ
+(3.3.781) tumulaṃ vyākule śabde śaṣkulī karṇapālyapi
+/ iti lāntāḥ
+(3.3.782) davadāvau vanāraṇyavahnī janmaharau bhavau
+(3.3.783) mantrī sahāyaḥ sacivau patiśākhinarā dhavāḥ
+(3.3.784) avayaḥ śailameṣārkā ājñāhvānādhvarā havāḥ
+(3.3.785) bhāvaḥ sattāsvabhāvābhiprāyaceṣṭātmajanmasu
+(3.3.786) syādutpāde phale puṣpe prasavo garbhamocane
+(3.3.787) aviśvāse 'pahnave 'pi nikṛtāvapi nihnavaḥ
+(3.3.788) utsekāmarṣayoricchāprasare maha utsavaḥ
+(3.3.789) anubhāvaḥ prabhāve ca satāṃ ca matiniścaye
+(3.3.790) syājjanmahetuḥ prabhavaḥ sthānaṃ cādyopalabdhaye
+(3.3.791) śūdrāyāṃ vipratanaye śastre pāraśavo mataḥ
+(3.3.792) dhruvo bhabhede klībe tu niścite śāśvate triṣu
+(3.3.793) svo jñātāvātmani svaṃ triṣvātmīye svo 'striyāṃ dhane
+(3.3.794) strīkaṭīvastrabandhe 'pi nīvī paripaṇe 'pi ca
+(3.3.795) śivā gaurīpheravayordvandvaṃ kalahayugmayoḥ
+(3.3.796) dravyāsu vyavasāye 'pi sattvamastrī tu jantuṣu
+(3.3.797) klībaṃ napuṃsakaṃ ṣaṇḍe vācyaliṅgamavikrame
+/ iti vāntāḥ
+(3.3.798) dvau viśau vaiśyamanujau dvau cārābhimarau spaśau
+(3.3.799) dvau rāśī puñjameṣādyau dvau vaṃśau kulamaskarau
+(3.3.800) rahaḥ prakāśau vīkāśau nirveśo bhṛtibhogayoḥ
+(3.3.801) kṛtānte puṃsi kīnāśaḥ kṣudrakarṣakayostriṣu
+(3.3.802) pade lakṣye nimitte 'padeśaḥ syātkuśamapsu ca
+(3.3.803) daśāvasthānekavidhāpyāśā tṛṣṇāpi cāyatā
+(3.3.804) vaśā strī kariṇī ca syāt dṛgjñāne jñātari triṣu
+(3.3.805) syātkarkaśaḥ sāhasikaḥ kaṭhorāmasṛṇāvapi
+(3.3.806) prakāśo 'tiprasiddhe 'pi śiśāvajñe ca bāliśaḥ
+(3.3.807) nāśaḥ kṣaye tirodhāne jīviteśaḥ priye yame
+(3.3.808) nṛśaṃsakhaḍgau nistriṃśāvaṃśuḥ sūrye 'ṃśavaḥ karāḥ
+(3.3.809) āśvākhyā śāliśīghrārthe pāśo bandhanaśastrayoḥ
+/ iti śāntāḥ
+(3.3.810) suramatsyāvanimiṣau puruṣāvātmamānavau
+(3.3.811) kākamatsyātkhagau dhvāṅkṣau kakṣau ca tṛṇavīrudhau
+(3.3.812) abhīpuḥ pragrahe raśmau praiṣaḥ preṣaṇamardane
+(3.3.813) pakṣaḥ sahāye 'pyuṣṇīṣaḥ śiroveṣṭakirīṭayoḥ
+(3.3.814) śukrale mūṣike śreṣṭhe sukṛte vṛṣabhe vṛṣaḥ
+(3.3.815) koṣo 'strī kuḍmale khaḍgapidhāne 'rthaughadivyayoḥ
+(3.3.816) dyūte 'kṣe śāriphalake 'pyākarṣo 'thākṣamindriye
+(3.3.817) nā dyūtāṅge karṣacakre vyavahāre kalidrume
+(3.3.818) karṣūrvārttā karīṣāgniḥ karṣaḥ kulyābhidhāyinī
+(3.3.819) pumbhāve tatkriyāyāṃ ca pauruṣaṃ viṣamapsu ca
+(3.3.820) upādāne 'pyāmiṣaṃ syādaparādhe 'pi kilbiṣam
+(3.3.821) syādvṛṣṭau lokadhātvaṃśe vatsare varṣamastriyām
+(3.3.822) prekṣā nṛttekṣaṇaṃ prajñā bhikṣā sevārthanā bhṛtiḥ
+(3.3.823) tviṭ śobhāpi triṣu pare nyakṣaṃ kārtsnyanikṛṣṭayoḥ
+(3.3.824) pratyakṣe 'dhikṛte 'dhyakṣo rūkṣastvapremṇyacikkaṇe
+(3.3.825) vyājasaṃkhyāśaravyeṣu lakṣaṃ ghoṣau ravavrajau
+(3.3.826) kapiśīrṣaṃ bhittiśṛṅge 'nutarṣaś caṣakaḥ surā
+(3.3.827) doṣo vātādike doṣā rātrau dakṣo 'pi kukkuṭe
+(3.3.828) śuṇḍāgrabhāge gaṇḍūṣo dvayośca mukhapūraṇe
+/ iti ṣāntāḥ
+(3.3.829) raviśvetacchadau haṃsau sūryavahnī vibhāvasū
+(3.3.830) vatsau tarṇakavarṣau dvau sāraṅgāśca divaukasaḥ
+(3.3.831) śṛṅgārādau viṣe vīrye guṇe rāge drave rasaḥ
+(3.3.832) puṃsyuttaṃsāvataṃsau dvau karṇapūre 'pi śekhare
+(3.3.833) devabhede 'nale raśmau vasū ratne dhane vasu
+(3.3.834) viṣṇau ca vedhāḥ strī tvāśīrhitāśaṃsāhidaṃṣṭrayoḥ
+(3.3.835) lālase prārthanautsukye hiṃsā cauryādikarma ca
+(3.3.836) prasūraśvāpi bhūdyāvau rodasyau rodasī ca te
+(3.3.837) jvālābhāsau na puṃsyarcirjyotirbhadyotadṛṣṭiṣu
+(3.3.838) pāpāparādhayorāgaḥ khagabālyādinorvayaḥ
+(3.3.839) tejaḥ purīṣayorvarco mahaścotsavatejasoḥ
+(3.3.840) rajo guṇe ca strīpuṣpe rāhau dhvānte guṇe tamaḥ
+(3.3.841) chandaḥ padye 'bhilāṣe ca tapaḥ kṛcchrādikarma ca
+(3.3.842) saho balaṃ sahā mārgo nabhaḥ khaṃ śrāvaṇo nabhāḥ
+(3.3.843) okaḥ sadmāśrayaścaukāḥ paya:
+kṣīraṃ payo 'ṃbu ca
+(3.3.844) ojo dīptau bale srota indriye nimnagāraye
+(3.3.845) tejaḥ prabhāve dīptau ca bale śukre 'pyatastriṣu
+(3.3.846) vidvān vidaṃśca bībhatso hiṃsro 'pyatiśayetvamī
+(3.3.847) vṛddhapraśaṃsayorjyāyān kanīyāṃstu yuvālpayoḥ
+(3.3.848) varīyāṃstūruvarayoḥ sādhīyān sādhubāḍhayoḥ
+/ iti sāntāḥ
+(3.3.849) dale 'pi barhaṃ nirbandhoparāgārkādayo grahāḥ
+(3.3.850) dvāryāpīḍe kvātharase niryūho nāgadantake
+(3.3.851) tulāsūtre 'śvādiraśmau pragrāhaḥ pragraho 'pi ca
+(3.3.852) patnīparijanādānamūlaśāpāḥ parigrahāḥ
+(3.3.853) dāreṣu ca gṛhāḥ śroṇyāmapyāroho varastriyāḥ
+(3.3.854) vyūho vṛnde 'pyahirvṛtre 'pyagnīndvarkāstamopahāḥ
+(3.3.855) paricchade nṛpārhe 'rthe paribarho 'vyayāḥ pare
+/ iti hāntāḥ
+(3.3.856) āṅīṣadarthe 'bhivyāptau sīmārthe dhātuyogaje
+(3.3.857) āpragṛhyassmṛtau vākye 'pyāstu syātkopapīḍayoḥ
+(3.3.858) pāpakutseṣadarthe ku dhiṅ nirbhartsananindayoḥ
+(3.3.859) cānvācayasamāhāretaretarasamuccaye
+(3.3.860) svastyāśīḥ kṣemapuṇyādau prakarṣe laṅghane 'pyati
+(3.3.861) svitpraśne ca vitarke ca tu syādbhede 'vadhāraṇe
+(3.3.862) sakṛt sahaikavāre cāpyārāddūrasamīpayoḥ
+(3.3.863) pratīcyāṃ carame paścādutāpyarthavikalpayoḥ
+(3.3.864) punassahārthayoḥ śaśvat sākṣātpratyakṣatulyayoḥ
+(3.3.865) khedānukampāsaṃtoṣavismayāmantraṇe bata
+(3.3.866) hanta harṣenukampāyāṃ vākyārambhaviṣādayoḥ
+(3.3.867) prati pratinidhau vīpsālakṣaṇādau prayogataḥ
+(3.3.868) iti hetuprakaraṇaprakarṣādisamāptiṣu
+(3.3.869) prācyāṃ purastātprathame purārthe 'grata ityapi
+(3.3.870) yāvattāvacca sākalye 'vadhau māne 'vadhāraṇe
+(3.3.871) maṅgalānantarārambhapraśnakārtsnyeṣvatho atha
+(3.3.872) vṛthā nirarthakāvidhyor nānānekobhayārthayoḥ
+(3.3.873) nu pṛcchāyāṃ vikalpe ca paścātsādṛśyayoranu
+(3.3.874) praśnāvadhāraṇānujñānunayāmantraṇe nanu
+(3.3.875) garhāsamuccayapraśnaśaṅkāsaṃbhāvanāsvapi
+(3.3.876) upamāyāṃ vikalpe vā sāmi tvardhe jugupsite
+(3.3.877) amā saha samīpe ca kaṃ vāriṇi ca mūrdhani
+(3.3.878) ivetthamarthayorevaṃ nūnaṃ tarke 'rthaniścaye
+(3.3.879) tūṣṇīmarthe sukhe joṣaṃ kiṃ pṛcchāyāṃ jugupsane
+(3.3.880) nāma prākāśyasaṃbhāvyakrodhopagamakutsane
+(3.3.881) alaṃ bhūṣaṇaparyāptiśaktivāraṇavācakam
+(3.3.882) huṃ vitarke paripraśne samayāntikamadhyayoḥ
+(3.3.883) punaraprathame bhede nir niścayaniṣedhayoḥ
+(3.3.884) syātprabandhe cirātīte nikaṭāgāmike purā
+(3.3.885) ūraryūrī corarī ca vistāre 'ṅgīkṛtau trayam
+(3.3.886) svarge pare ca loke svar vārtāsaṃbhāvyayoḥ kila
+(3.3.887) niṣedhavākyālaṅkārajijñāsānunaye khalu
+(3.3.888) samīpobhayataśśīghrasākalyābhimukhe 'bhitaḥ
+(3.3.889) nāmaprākāśyayoḥ pradur mitho 'nyonyaṃ rahasyapi
+(3.3.890) tiro 'ntardhau tiryagarthe hā viṣādaśugartiṣu
+(3.3.891) ahahetyadbhute khede hi hetāvavadhāraṇe
+/ iti nānārthavargaḥ 3,
+atra mūlaślokāḥ 256//
+kṣe.ślo. 24 //
+avyayavargaḥ/
+(3.4.892) cirāya cirarātrāya cirasyādyāścirārthakāḥ
+(3.4.893) muhuḥ punaḥ punaḥ śaśvadabhīkṣṇamasakṛt samāḥ
+(3.4.894) srāg jhaṭityañjasāhnāya drāṅ maṅkṣu sapadi drute
+(3.4.895) balavatsuṣṭhu kimuta svatyatīva ca nirbhare
+(3.4.896) pṛthag vināntareṇarte hiruṅ nānā ca varjane
+(3.4.897) yat tad yatas tato hetāvasākalye tu cic cana
+(3.4.898) kadācijjātu sārdhaṃ tu sākaṃ satrā samaṃ saha
+(3.4.899) ānukūlyārthakaṃ prādhvaṃ vyarthake tu vṛthā mudhā
+(3.4.900) āho utāho kimuta vikalpe kiṃ kimūta ca
+(3.4.901) tu hi ca sma ha vai pādapūraṇe pūjane svati
+(3.4.902) divāhnītyatha doṣā ca naktaṃ ca rajanāviti
+(3.4.903) tiryagarthe sāci tiro 'pyatha saṃbodhanārthakāḥ
+(3.4.904) syuḥ pyāṭ pāḍaṅga he hai bhoḥ samayā nikaṣā hiruk
+(3.4.905) atarkite tu sahasā syāt puraḥ purato 'grataḥ
+(3.4.906) svāhā devahavirdāne śrauṣaṭ vauṣaṭ vaṣaṭ svadhā
+(3.4.907) kiñcidīṣan manāgalpe pretyāmutra bhavāntare
+(3.4.908) va vā yathā tathevaivaṃ sāmye 'ho hīti vismaye
+(3.4.909) maune tu tūṣṇīṃ tūṣṇīkāṃ sadyaḥ sapadi tatkṣaṇe
+(3.4.910) diṣṭyā samupajoṣaṃ cetyānande 'thāntare 'ntarā
+(3.4.911) antareṇa ca madhye syuḥ prasahya tu haṭhārthakam
+(3.4.912) yukte dve sāṃprataṃ sthāne 'bhīkṣṇaṃ śaśvadanārate
+(3.4.913) abhāve nahya no nāpi mā sma mālaṃ ca vāraṇe
+(3.4.914) pakṣāntare cedyadi ca tattve tvaddhāñjasā dvayam
+(3.4.915) prākāśye prādurāviḥ syādomevaṃ paramaṃ mate
+(3.4.916) samantatastu paritaḥ sarvato viṣvagityapi
+(3.4.917) akāmānumatau kāmamasūyopagamestu ca
+(3.4.918) nanu ca syādvirodhoktau kaścit kāmapravedane
+(3.4.919) niṣṣamaṃ duṣṣamaṃ garhye yathāsvaṃ tu yathāyatham
+(3.4.920) mṛṣā mithyā ca vitathe yathārthaṃ tu yathātatham
+(3.4.921) syurevaṃ tu punarvai vetyavadhāraṇavācakāḥ
+(3.4.922) prāgatītārthakaṃ nūnamavaśyaṃ niścaye dvayam
+(3.4.923) saṃvad varṣe 'vare tvarvāgāmevaṃ svayamātmanā
+(3.4.924) alpe nīcairmahatyuccaiḥ prāyo bhūmnyadrute śanaiḥ
+(3.4.925) sanā nitye bahirbāhye smātīte 'stamadarśane
+(3.4.926) asti satve ruṣoktāvu ūṃ praśne 'nunaye tvayi
+(3.4.927) huṃ tarke syāduṣā rātreravasānenamo natau
+(3.4.928) punararthe 'ṅga nindāyāṃ duṣṭhu suṣṭhu praśaṃsane
+(3.4.929) sāyaṃ sāye prage prātaḥ prabhāte nikaṣāntike
+(3.4.930) amānuguṇye smaraṇe huṃ phaḍ vighnanirākṛtau
+(3.4.931) aṅgīkṛtau syādarthe hūṃ hīnasaṃbodhate tvare
+(3.4.932) parut parārthaiṣamo 'bde pūrve pūrvatare yati
+(3.4.933) adya 'trāhnyatha pūrve 'hnītyādau pūrvottarāparāt
+(3.4.934) tathādharānyānyataretarātpūrvedyurādayaḥ
+(3.4.935) ubhayadyuścobhayedyuḥ paretvahni paredyavi
+(3.4.936) hyo gate 'nāgate 'hni śvaḥ paraśvastu pare 'hani
+(3.4.937) tadā tadānīṃ yugapadekadā sarvadā sadā
+(3.4.938) etarhi saṃpratī 'dānīmadhunā sāmprataṃ tathā
+(3.4.939) digdeśakāle pūrvādau prāgudakpratyagādayaḥ
+% ityavyayavargaḥ 4,
+atra mūlaślokāḥ 23
+liṅgādisaṃgrahavargaḥ/
+/ atha liṅgādisaṃgrahavargaḥ 5
+(3.5.940) saliṅgaśāstraiḥ sannādi kṛt taddhita samāsajaiḥ
+(3.5.941) anuktaiḥ saṃgrahe liṅgaṃ saṃkīrṇavadihonnayet
+(3.5.942) liṅgaśeṣavidhir vyāpī viśeṣair yadyabādhitaḥ
+(3.5.943) striyāmīdūdvirāmaikāc sayoniprāṇināma ca
+(3.5.944) nāma vidyunniśāvallīvīṇādigbhūnadīhriyām
+(3.5.945) adantair dvigurekārtho na sa pātrayugādibhiḥ
+(3.5.946) talvṛnde yenikaṭyatrā vairamaithunikādivun
+(3.5.947) strībhāvādāvani ktiṇ ṇvul ṇac ṇvuc kyab yujiñṅ ni śāḥ
+(3.5.948) uṇādiṣu nirūrīśca ṅyāṣūḍantaṃ calaṃ sthiram
+(3.5.949) tatkrīḍāyāṃ praharaṇaṃ cen mauṣṭā pāllavā ṇa dik
+(3.5.950) ghaño ñaḥ sā kriyāsyāṃ ced dāṇḍapātā hi phālgunī
+(3.5.951) śyainampātā ca mṛgayā tailampātā svadheti dik
+(3.5.952) strī syātkācin mṛṇālyādir vivakṣāpacaye yadi
+(3.5.953) laṅkā śephālikā ṭīkā dhātakīpañcikāḍhakī
+(3.5.954) sidhrakā sārikā hikkā prācikolkā pipīlikā
+(3.5.955) tindukī kaṇikā bhaṅgiḥ suraṅgāsūcimāḍhayaḥ
+(3.5.956) picchā vitaṇḍā kākiṇyaścūrṇiḥ śāṇī druṇī darat
+(3.5.957) sātiḥ kanthā tathāsandī nābhī rājasabhāpi ca
+(3.5.958) jhallarī carcarī pārī horā laṭvā ca sidhmalā
+(3.5.959) lākṣā likṣā ca gaṇḍūṣā gṛdhrasī camasī masī
+/ iti strīliṅga saṃgrahaḥ
+(3.5.960) puṃstve sabhedānucarāḥ saparyāyāḥ surāsurāḥ
+(3.5.961) svargayāgādrimeghābdhi dru kālāsiśarārayaḥ
+(3.5.962) karagaṇḍoṣṭhadordantakanṭhakeśanakhastanāḥ
+(3.5.963) ahnāhāntāḥ kṣveḍabhedā rātrāntāḥ prāgasaṃkhyakāḥ
+(3.5.964) śrīveṣṭādyāśca niryāsā asannantā abādhitāḥ
+(3.5.965) kaśerujatuvastūni hitvā turuvirāmakāḥ
+(3.5.966) kaṣaṇabhamaropāntā yadyadantā amī atha
+(3.5.967) pathanayasaṭopāntā gotrākhyāścaraṇāhvayāḥ
+(3.5.968) nāmnyakartari bhāve ca ghañ jab naṅ ṇa ghāthucaḥ
+(3.5.969) lyuḥ kartarīmanic bhāve ko ghoḥ kiḥ prāditonyataḥ
+(3.5.970) dvandve 'śvavaḍavāvaśvavaḍavā na samāhṛte
+(3.5.971) kāntaḥ sūryenduparyāyapūrvo 'yaḥ pūrvako.pi ca
+(3.5.972) vaṭakaścānuvākaśca rallakaśca kuḍaṅgakaḥ
+(3.5.973) puṅkho nyūṅkhaḥ samudraśca viṭapaṭṭadhaṭāḥ khaṭāḥ
+(3.5.974) koṭṭāraghaṭṭahaṭṭāśca piṇḍagoṇḍapicaṇḍavat
+(3.5.975) gaḍuḥ karaṇḍo laguḍo karaṇḍaśca kiṇo ghuṇaḥ
+(3.5.976) dṛtisīmantaharito romanthodgīthabudbudāḥ
+(3.5.977) kāsamardo 'rbudaḥ kundaḥ phenastūpau sayūpakau
+(3.5.978) ātapaḥ kṣatriye nābhiḥ kuṇapakṣurakedarāḥ
+(3.5.979) pūrakṣurapracukrāśca golahiṅgulapudgalāḥ
+(3.5.980) vetālabhallamallāśca purāḍāśo 'pi paṭṭiśaḥ
+(3.5.981) kulmāṣo rabhasaścaiva sakaṭāhaḥ patadrahaḥ
+/ iti puṃliṅgaśeṣasaṃgrahaḥ
+(3.5.982) dvihīne 'nyacca khāraṇyaparṇaśvabhrahimodakam
+(3.5.983) śītoṣṇamāṃsarudhiramukhākṣidraviṇaṃ balam
+(3.5.984) phalahemaśulbalohasukhaduhkhaśubhāśubham
+(3.5.985) jalapuṣpāṇi lavaṇaṃ vyañjanānyanulepanam
+(3.5.986) koṭyāḥ śatādisaṃkhyānyā vā lakṣā niyutaṃ ca tat
+(3.5.987) dvayaṣkamasisusannantaṃ yadanāntamakartari
+(3.5.988) trāntaṃ salopadhaṃ śiṣṭaṃ rātraṃ prāksaṃkhyayānvitam
+(3.5.989) pātrādyadantairekārtho dvigurlakṣyānusārataḥ
+(3.5.990) dvandvaiktvāvyayībhāvau pathaḥ saṃkhyāvyayātparaḥ
+(3.5.991) śaḍyāśchāyā bahūnāṃ cedvicchāyaṃ saṃhatau sabhā
+(3.5.992) śālārthāpi parā rājāmanuṣyārthādarājakāt
+(3.5.993) dāsīsabhaṃ nṛpasabhaṃ rakṣassabhamimā diśaḥ
+(3.5.994) upajñopakramāntaśca tadāditvaprakāśane
+(3.5.995) kopajñakopakramādi kanthośīnaranāmasu
+(3.5.996) bhāve na ṇakacidbhyo 'nye samūhe bhāvakarmaṇoḥ
+(3.5.997) adantapratyayāḥ puṇyasudinābhyāṃ tvahaḥ paraḥ
+(3.5.998) kriyāvyayānāṃ bhedakānyekatve 'pyukthatoṭake
+(3.5.999) cocaṃ picchaṃ gṛhasthūṇaṃ tirīṭaṃ marma yojanam
+(3.5.1000) rājasūyaṃ vājapeyaṃ gadyapadye kṛtau kaveḥ
+(3.5.1001) māṇikyabhāṣyasindūracīracīvarapiñjaram
+(3.5.1002) lokāyataṃ haritālaṃ vidalasthālabāhlikam
+/ iti napuṃsakaśeṣasaṃgrahaḥ
+(3.5.1003) punnapuṃsakayoḥ śeṣo 'rdharcapiṇyākakaṇṭakāḥ
+(3.5.1004) modakastaṇḍakaṣṭaṅkaḥ śāṭakaḥ karpaṭo 'rbudaḥ
+(3.5.1005) pātakodyogacarakatamālāmalakā naḍaḥ
+(3.5.1006) kuṣṭhaṃ muṇḍaṃ śīdhu bustaṃ kṣveḍitaṃ kṣemakuṭṭimam
+(3.5.1007) saṃgamaṃ śatamānārmaśambalāvyayatāṇḍavam
+(3.5.1008) kaviyaṃ kandakārpāsaṃ pārāvāraṃ yugandharam
+(3.5.1009) yūpaṃ pragrīvapātrīve yūṣaṃ camasacikkasau
+(3.5.1010) ardharcādau ghṛtādīnāṃ puṃstvādyaṃ vaidikaṃ dhruvam
+(3.5.1011) tan noktamiha loke 'pi tac cedastyastu śeṣavat
+/ iti punnapuṃsakaśeṣasaṃgrahaḥ
+(3.5.1012) strīpuṃsayorapatyāntā dvicatuṣṣaṭpadoragāḥ
+(3.5.1013) jātibhedāḥ pumākhyāśca strīyogaiḥ saha mallakaḥ
+(3.5.1014) ūrmirvarāṭakaḥ svātirvarṇako jhāṭalirmanuḥ
+(3.5.1015) mūṣā sṛpāṭī karkandhūryaṣṭiḥ śāṭī kaṭī kuṭī
+/ iti strīpuṃsaśeṣasaṃgrahaḥ
+(3.5.1016) strīnapuṃsakayorbhāvakriyayoḥ vyañ kvacicca vuñ
+(3.5.1017) aucityamaucitī maitrī maitryaṃ vuñ prāgudāhṛtaḥ
+(3.5.1018) ṣaṣṭhyantaprākpadāḥ senāchāyāśālāsurāniśāḥ
+(3.5.1019) syādvā nṛsenaṃ śvaniśaṃ gośālamitare ca dik
+(3.5.1020) ābannantottarapado dviguścāpuṃsi naśca lup
+(3.5.1021) trikhaṭvaṃ ca trikhaṭvī ca tritakṣaṃ ca tritakṣyapi
+/ iti strīnapuṃsakaśeṣasaṃgrahaḥ
+(3.5.1022) triṣu pātrī puṭī vāṭī peṭī kuvaladāḍimau
+(3.5.1023) iti triliṅgaśeṣasaṃgrahaḥ
+(3.5.1024) paraṃ liṅgaṃ svapradhāne dvandve tatpuruṣe 'pi tat
+(3.5.1025) arthāntāḥ prādyalamprāptāpannapūrvāḥ paropagāḥ
+(3.5.1026) taddhitārtho dviguḥ saṃkhyāsarvanāmatadantakāḥ
+(3.5.1027) bahurvrīhiradiṅnāmnāmunneyaṃ tadudāhṛtam
+(3.5.1028) guṇadravyakriyāyogopādhayaḥ paragāminaḥ
+(3.5.1029) kṛtahkartaryasaṃjñāyāṃ kṛtyāḥ kartari karmaṇi
+(3.5.1030) aṇādyantāstena raktādyarthe nānārthabhedakāḥ
+(3.5.1031) ṣaṭsaṃjñakāstriṣu samā yuṣmadasmattiṅvyayam
+(3.5.1032) paraṃ virodhe śeṣaṃ tu jñeyaṃ śiṣṭaprayogataḥ
+iti liṅgādisaṃgrahavargaḥ: 5,
+atra mūlaślokāḥ 46
+ityamarasiṃhakṛtau nāmaliṅgānuśāsane
+sāmānyakāṇḍastṛtīyaḥ sāṅga eva samarthitaḥ
+iti tṛtīyaḥ sāmānyakāṇḍaḥ samāptaḥ
+ityamarasiṃhakṛtaṃ nāmaliṅgānuśāsanam
+kāṇḍatrayātmakaṃ sāṅgopāṅgaṃ saṃpūrṇatāmagāt /
+atra mūlaślokāḥ: 480,
+kṣe. ślokāḥ:25 sarve ca militvā:513
+amarakośasthaślokānāṃ koṣṭakam
+pra. kāṇḍe mū. ślo. 281\,
+kṣe. ślo. 18\,
+sarve ca militvā 299
+dvi. kāṇḍe mū. ślo. 735\,
+kṣe. ślo. 14\,
+sarve ca militvā 750
+tri. kāṇḍe mū. ślo. 480\,
+kṣe. ślo. 25\,
+sarve ca militvā 513
+evaṃ sarveṣāṃ kāṇḍānāṃ yogaḥ mū. ślo. 1497\,
+kṣe.ślo. 58\, sarve ca
+militvā 1563

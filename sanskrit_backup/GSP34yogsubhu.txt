@@ -1,0 +1,860 @@
+maṅgala S,1: yas..tyaj-tvā..rūpam..ādyam..(prabhavati..jagat6..+anekadhā-anugrahāya...[tyaj,..pra-bhū]
+maṅgala S,1: prakṣīṇa-kleśa-rāśir..viṣam..aviṣadhara1..+anekavaktraḥ..subhogī...[pra-kṣi2,
+..aviṣadhara,..subhoga],..
+maṅgala S,1: sarva-jñāna-prasūtir..bhujaga-parikaraḥ..prīti4..yasya..nityam...
+maṅgala S,1: deva1..+ahi-īśaḥ..sa..vaḥ..+..avyāt..sita-vimala-tanur..yogada1..yoga-yuktaḥ...
+YS_1.1(1): atha..yoga-anuśāsanam.....
+YBh_1.1(1): atha..+..iti..+....ayam..adhikāra-arthaḥ...
+YBh_1.1(2): yogaḥ..samādhiḥ...
+YBh_1.1(2): sa..ca..sārva-bhaumaś..cittasya..dharmaḥ...
+..kleśān..karma-bandhanāni..(ślathayati;
+..asmitānugata,..ni-vid]
+YS_1.2(4): yogaś..citta-vṛtti-nirodhaḥ.
+YBh_1.2(4): cittam..hi..prakhyāpravṛttisthitiśīlatvāt..triguṇam...
+YBh_1.2(5): tad..eva..tamasā..+..anuviddham..adharmājñānāvairāgyānaiśvarya-upagam..bhavati...[anu-vyadh]
+..pra-dyut,..anu-vyadh]
+ YBh_1.2(5): tad..eva..rajas-leśamalāpetam..svarūpapratiṣṭham..sattvapuruṣānyatākhyātimātram..dharmameghadhyāna-upagam..bhavati...[prati-sthā] 
+YBh_1.2(5-6): tat..param..prasaṃkhyānam..ity..ācakṣate..dhyāyinaḥ...[ā-cakṣ]
+ YBh_1.2(6): citiśaktir..apariṇāminī+..apratisaṃkramā..darśitaviṣayā..śuddhā..ca..+..anantā..ca..sattvaguṇātmikā..ca..+..iyam..ataḥ+..viparītā..vivekakhyātir..iti...[pariṇāma, 
+..pari-nam,..vipari-i]
+YBh_1.2(6): atas..tasyām..viraktam..cittam..tām..api..khyātim..niruṇaddhi...[vi-rañj,..ni-rudh]
+YBh_1.2(6): tadavastham..saṃskāra-upagam..bhavati.
+YBh_1.2(6): sa..nirbījaḥ..samādhiḥ.
+YBh_1.2(6): na..tatra..kiṃcit..samprajñāyata..iti+..asamprajñātaḥ...
+YBh_1.2(6): dvividhaḥ..sa..yogaś..cittavṛttinirodha..iti.
+YBh_1.4(7): katham..tarhi,
+..darśitaviṣayatvāt..
+YS_1.4(7): vṛttisārūpyam..itaratra....
+YBh_1.4(8): tathā..ca..sūtram..--..“ekam..eva..darśanam..khyātir..eva..darśanam“..iti...
+YBh_1.4(4-9): cittam..ayaskāntamaṇikalpam..samnidhimātra-upakāri..dṛśyatvena..svam..bhavati..puruṣasya..svāminaḥ...
+YS_1.5(9): vṛtti1P..pañcatayī1P..kliṣṭākliṣṭāḥ.: [ni-rudh]
+YBh_1.5(10): kliṣṭapravāhapatitā..api+..akliṣṭāḥ.
+YBh_1.5(10): tathājātīyakāḥ..saṃskārā..vṛttibhir..eva..kriyante...
+YBh_1.5(10): evam..vṛttisaṃskāracakram..aniśam..āvartate...[ā-vṛt]
+YBh_1.5(10): tad..evambhūtam..cittam..avasitādhikāram..ātmakalpena..vyavatiṣṭhate..pralayam..vā..gacchatīti...[ava-so,..vyava-sthā]
+YS_1.7(10): pratyakṣānumānāgamāḥ..pramāṇāni.
+YBh_1.7(11): phalam..aviśiṣṭaḥ..pauruṣeyaś..cittavṛttibodhaḥ...[vi-śiṣ]
+YBh_1.7(11): pratisaṃvedī..puruṣa..iti+..upariṣṭād..upapādayiṣyāmaḥ...[pratisaṃveda,..upa-pad]
+..vindhyaś..ca..+..aprāptir..agatiḥ...
+YBh_1.8(13): sa..kasmād..na..pramāṇam...
+YBh_1.8(13): bhūtārthaviṣayatvāt..pramāṇasya...
+]..bhavaty..avidyā,
+..avidyāsmitārāgadveṣābhiniveśāḥ..kleśā..iti...
+YBh_1.8(13): eta..eva..svasaṃjñābhis..tamas..+..mohaḥ..+..mahāmohas..tāmisraḥ..+..andhatāmisra..iti...
+YS_1.9(13): śabdajñānānupātī..vastuśūnyo..vikalpaḥ...[anupāta]
+YBh_1.9(13): sa..na..pramāṇa-upārohī...[upāroha]
+YBh_1.9(13): na..viparyaya-upārohī...[upāroha]..
+YBh_1.9(14): tadyathā..--caitanyam..puruṣasya..svarūpam..iti.
+YBh_1.9(14): yadā..citir..eva..puruṣas..tadā..kim..atra..kena..vyapadiśyate.[vyapa-diś]
+YBh_1.9(14): yathā..caitrasya..gaur..iti.
+..tiṣṭhati..bāṇaḥ..sthāsyati..sthita..iti...[prati-sidh]
+YBh_1.9(14): tathā..anutpattidharmā..puruṣa..iti,
+..utpattidharmasya..+..abhāvamātram..avagamyate..na..puruṣānvayī..dharmaḥ...[ava-gam,..anvaya]
+YS_1.10(15): abhāvapratyayālambanā..vṛttir..nidrā...
+YBh_1.10(15): katham,..sukham..aham..asvāpsam...[svap]
+YBh_1.10(15): prasannam..me..manas+..prajñām..me..viśāradīkaroti...
+YBh_1.10(15): duhkham..aham..asvāpsam..styānam..me..manas+..bhramaty..anavasthitam...
+YBh_1.10(15): gāḍham..mūḍhaḥ..+..aham..asvāpsam...[svap]
+YBh_1.10(15): gurūṇi..me..gātrāṇi...
+YBh_1.10(15): klāntam..me..cittam...[klam]
+YBh_1.10(15): alasam..muṣitam..iva..tiṣṭhatīti...[sthā]
+YS_1.11(16): anubhūtaviṣayāsampramoṣaḥ..smṛtiḥ...[anu-bhū]
+YBh_1.11(16): kim..pratyayasya..cittam..smarati+..āhosvid..viṣayasya..+..iti...[smṛ]
+YBh_1.11(16): sa..saṃskāraḥ..svavyañjakāñjanas..tadākārām..eva..grāhyagrahaṇa-ubhayātmikām..smṛtim..janayati...[jan]
+YBh_1.11(16): tatra..grahaṇākārapūrvā..buddhiḥ.
+YBh_1.11(16): grāhyākārapūrvā..smṛtiḥ.
+YBh_1.11(16): sā..ca..dvayī..--..bhāvitasmartavyā..ca..+..abhāvitasmartavyā..ca...
+YBh_1.11(17): sukhānuśayī..rāgaḥ...[anuśaya]
+YBh_1.11(17): duhkhānuśayī..dveṣaḥ...[anuśaya]
+YBh_1.11(17): mohaḥ..punar..avidyā..+..iti.
+YS_1.12(17): abhyāsavairāgyābhyām..tannirodhaḥ....
+YBh_1.12(17): cittanadī..nāma..+..ubhayatovāhinī..vahati..kalyāṇāya..vahati..pāpāya..ca...
+YBh_1.12(17): yā..tu..kaivalyaprāgbhārā..vivekaviṣayanimnā..sā..kalyāṇavahā.
+YBh_1.12(17): saṃsāraprāgbhāra..+..avivekaviṣayanimnā..pāpavahā.
+YBh_1.13(17): cittasya..+..avṛttikasya..praśāntavāhitā..sthitiḥ...[pra-śam]
+YS_1.15(18): dṛṣṭānuśravikaviṣayavitṛṣṇasya..vaśīkārasaṃjñā..vairāgyam.
+YBh_1.16(20): tad..dvayam..vairāgyam.
+YBh_1.16(20): tatra..yad..uttaram..tat+..jñānaprasādamātram.
+..kṣīṇāḥ..kṣetavyāḥ..kleśāh,
+..yasya..+..avicchedāt+..janitvā..ṃriyate..mṛtvā..ca..jāyata..iti...
+YBh_1.16(20): jñānasya..+..eva..parā..kāṣṭhā..vairāgyam.
+YBh_1.16(20): etasya..+..eva..hi..na..+..antarīyakam..kaivalyam..iti.
+YS_1.17(20): vitarkavicārānandāsmitārūpānugamāt..samprajñātaḥ...
+YBh_1.17(21): ekātmikā..saṃvid..asmitā.
+YBh_1.17(21): tatra..prathamaś..catuṣṭayānugataḥ..samādhiḥ..savitarkaḥ...[anu-gam]
+YBh_1.17(21): caturthas..tadvikalaḥ..+..asmitāmātra..iti...
+YBh_1.17(21): sarva..ete..sālambanāḥ..samādhayaḥ.
+YBh_1.18(21): atha..+..asamprajñātaḥ..samādhiḥ..kimupāyaḥ..kiṃsvabhāvo..vā..+..iti..
+YBh_1.18(21): tasya..param..vairāgyam..upāyaḥ.
+YBh_1.18(22): sa..ca..+..arthaśūnyaḥ.
+YBh_1.18(22): tadabhyāsapūrvakam..hi..cittam..nirālambanam..abhāvaprāptam..iva..bhavatīty..eṣa..nirbījaḥ..samādhir..asamprajñātaḥ.
+YBh_1.19(22): videhānām..devānām..bhavapratyayaḥ.
+..yāvan..na..punar..āvartate..+adhikāravaśāc..cittam..iti...[ā-vṛt]
+YS_1.20(23): śraddhāvīryasmṛtisamādhiprajñāpūrvaka..itareṣām.
+YBh_1.20(23): śraddhā..cetasaḥ..samprasādaḥ.
+YBh_1.20(24): sā..hi..jananīva..kalyāṇī..yoginam..pāti...
+YBh_1.20(24): tasya..hi..śraddadhānasya..vivekārthino..vīryam..upajāyate...[śrad-dhā]
+YBh_1.20(24): samupajātavīryasya..smṛtir..upatiṣṭhate...[upa-sthā]
+YBh_1.20(24): samāhitacittasya..prajñāviveka..upāvartate...[samā-dhā,..upā-vṛt]
+YBh_1.20(24): yena..yathārtham..vastu..jānāti...[jñā]
+YBh_1.20(24): tadabhyāsāt..tattadviṣayāc..ca..vairāgyād..asamprajñātaḥ..samādhir..bhavati.
+YBh_1.21(24): te..khalu..nava..yogino..mṛdumadhyādhimātra-upāyā..bhavanti.
+YBh_1.21(24): tathā..madhya-upāyas..tathā..+..adhimātra-upāya..iti...
+YBh_1.21(24): tatra..+..adhimātra-upāyānām..
+YS_1.21(24): tīvrasaṃvegānām..āsannaḥ...[ā-sad]
+YBh_1.21(24): samādhilābhaḥ..samādhiphalam..ca..bhavatīti.
+YS_1.22(25): mṛdumadhyādhimātratvāt..tataḥ..+..api..viśeṣaḥ.
+YBh_1.22(25): tataḥ..+..api..viśeṣaḥ.
+YBh_1.22(25): tadviśeṣād..api..mṛdutīvrasaṃvegasya..+..āsannaḥ...tataḥ+..madhyatīvrasaṃvegasya..+..āsannatarah,
+..tasmād..adhimātratīvrasaṃvegasya..+..adhimātra-upāyasya..+..apy..āsannatamaḥ..samādhilābhaḥ..samādhiphalam..ca..+..iti...[ā-sad]
+YBh_1.23(25): kim..etasmād..eva..+..āsannatamaḥ..samādhir..bhavati.
+YS_1.23(25) īśvara-praṇidhānād..vā..
+YBh_1.23(25): praṇidhānād..bhaktiviśeṣād..āvarjita..īśvaras..tam..anugṛhṇāty..abhidhyānamātreṇa...[ā-vṛj,..anu-grah]
+YBh_1.23(25): tadabhidhyānamātrād..api..yogina..āsannatamaḥ..samādhilābhaḥ..samādhiphalam..ca..bhavatīti.
+YS_1.24(25): kleśakarmavipākāśayair..aparāmṛṣṭaḥ..puruṣaviśesa..īśvaraḥ..[vyati-ric,..parā-mṛś]
+YBh_1.24(26): avidyādayaḥ..kleśāḥ.
+YBh_1.24(26): kuśalākuśalāni..karmāṇi.
+YBh_1.24.26): tatphalam..vipākaḥ.
+YBh_1.24(26): tadanuguṇā..vāsanā..āśayāḥ.
+YBh_1.24(26): yathā..muktasya..pūrvā..bandhakoṭiḥ..prajñāyate..na..+..evam..īśvarasya.
+YBh_1.24(26): yathā..vā..prakṛtilīnasya..+..uttarā..bandhakoṭiḥ..sambhāvyate..naivam..īśravasya.
+YBh_1.24(26): sa..tu..sadā..+..eva..muktaḥ..sadā..+..eva..+..īśvara..iti...
+YBh_1.24(27): yo..+asau..prakṛṣṭasattva-upādānād..īśvarasya..śāśvatika..utkarṣaḥ..sa..kim..sanimitta..āhosvin..nirnimitta..iti.
+YBh_1.24(27): tasya..śāstram..nimittam.
+YBh_1.24(27): śāstram..punaḥ..kimnimittam,
+..prakṛṣṭasattvanimittam.
+YBh_1.24(28): etasmād..etad..bhavati..sadā..+..eva..īśvaraḥ..sadā..+..eva..mukta..iti...
+YBh_1.24(28): tac..ca..tasya..+..aiśvaryam..sāmyātiśayavinirmuktam.
+YBh_1.24(28): yad..eva..+..atiśayi..syāt..tad..eva..tat..syāt...[atiśaya]
+YBh_1.24(28): tasmād..yatra..kāṣṭhāprāptir..aiśvaryasya..sa..īśvara..iti.
+YBh_1.24(29): na..ca..tat..samānam..aiśvaryam..asti.
+YBh_1.24(29): dvayoś..ca..tulyayor..yugapatkāmitārthaprāptir..nāsti.
+YBh_1.24(29): arthasya..viruddhatvāt.
+YBh_1.24(29): tasmād..yasya..sāmyātiśayair..vinirmuktam..aiśvaryam..sa..eva..+īśvaraḥ...
+YBh_1.24(29): sa..ca..puruṣaviśeṣa..iti.
+YBh_1.25(29): kiṃca..
+YS_1.25(29): tatra..niratiśayam..sarvajñabījam....
+ YBh_1.25(29): yad..idam..atītānāgatapratyutpannapratyekasamuccayātīndriyagrahaṇam..alpam..bahu+..iti..sarvajñabījam..etad..vivardhamānam..yatra..niratiśayam..sa..sarvajñaḥ. 
+YBh_1.25(29): asti..kāṣṭhāprāptiḥ..sarvajñabījasya..sātiśayatvāt..parimāṇavad..iti.
+YBh_1.25(30): yatra..kāṣṭhāprāptir..jñānasya..sa..sarvajñaḥ.
+YBh_1.25(30): sa..ca..puruṣaviśeṣa..iti.
+YBh_1.25(30): tasya..saṃjñādiviśeṣapratipattir..āgamataḥ..paryanveṣyā...[paryanu-iṣ]
+YBh_1.26(31): sa..eṣaḥ..
+YS_1.27(32): tasya..vācakaḥ..praṇavaḥ.
+YBh_1.27(32): vācya..īśvaraḥ..praṇavasya.
+YBh_1.27(32): kim..asya..saṃketakṛtam..vācyavācakatvam..atha..pradīpaprakāśavad..avasthitam..iti...[ava-sthā]
+YBh_1.27(32): saṃketas..tu+..īśravasya..sthitam..evārtham..abhinayati...[abhi-nī]
+..ayam..asya..putra..iti...[ava-dyut]
+YBh_1.28(33): vijñātavācyavācakatvasya..yoginaḥ..
+YS_1.28(33): tajjapas..tadarthabhāvanam.
+YBh_1.28(33): praṇavasya..japaḥ..praṇavābhidheyasya..ca..+..īśvarasya..bhāvanam...[abhi-dhā]
+YBh_1.28(33): tad..asya..yoginaḥ..praṇavam..japataḥ..praṇavārtham..ca..bhāvayataś..cittam..ekāgram..sampadyate.
+YBh_1.28(33): tathā..ca..+..uktam..“svādhyāyād..yogam..āsīta..yogāt..svādhyāyam..óāsateú;
+YBh_1.29(33): kiṃca..+..asya..bhavati..
+YS_1.29(33): tataḥ..pratyakcetanādhigama1..apy..antarāyābhāvaś..ca.. [prati-añc]
+YBh_1.29(33): svarūpadarśanam..api+..asya..bhavati.
+YBh_1.30(34): atha..ke..+antarāyā..ye..cittasya..vikṣepāḥ.
+YBh_1.30(34): ke..punas..te..kiyanto..vā..+..iti..
+YS_1.30(34): vyādhistyānasaṃśayapramādālasyāviratibhrāntidarśanālabdhabhūmikatvānavasthitatvāni..cittavikṣepās..te..+antarāyāḥ..
+YBh_1.30(34): navāntarāyāś..cittasya..vikṣepāḥ.
+YBh_1.30(34): saha..+..ete..cittavṛttibhir..bhavanti.
+YBh_1.30(34): vyādhir..dhāturasakaraṇavaiṣamyam.
+YBh_1.30(34): styānam..akarmaṇyatā..cittasya.
+YBh_1.30(34): saṃśaya..ubhayakoṭispṛgvijñānam..syād..idam..evam..naivam..syād..iti...[spṛś]
+YBh_1.30(34): pramādaḥ..samādhisādhanānām..abhāvanam.
+YBh_1.30(34): ālasyam..kāyasya..cittasya..ca..gurutvād..apravṛttiḥ.
+YBh_1.30(34): bhrāntidarśanam..viparyayajñānam.
+YBh_1.30(34): ete..cittavikṣepā..nava..yogamalā..yogapratipakṣā..yogāntarāyā..iti+..abhidhīyante...[abhi-dhā]
+YBh_1.31(35): duhkham..ādhyātmikam..ādhibhautikam..ādhidaivikam..ca...[adhyātman,
+..adhibhūta,..adhidaiva]
+YBh_1.31(35): yenābhihatāḥ..prāṇinas..tadapaghātāya..prayatante..tad..duhkham.(?)..
+YBh_1.31(35): daurmanasyam..icchāvighātāc..cetasaḥ..kṣobhaḥ...
+YBh_1.31(35): yad..aṅgāni+..ejayati..kampayati..tad..aṅgamejayatvam.
+YBh_1.31(35): yat..kauṣṭhyam..vāyum..nihsārayati..sa..praśvāsaḥ...[koṣṭhā]
+YBh_1.31(35): samāhitacittasya..+..ete..na..bhavanti...[samā-dhā]
+YBh_1.32(35): atha..+..ete..vikṣepāḥ..samādhipratipakṣās..tābhyām..eva..+..abhyāsavairāgyābhyām..niroddhavyāḥ...[ni-rudh]
+YBh_1.32(35): tatra..+..abhyāsasya..viṣayam..upasaṃharann..idam..āha..
+YS_1.32(35): tatpratiṣedhārtham..ekatattvābhyāsaḥ..
+YBh_1.32(36): vikṣepapratiṣedhārtham..ekatattvāvalambanam..cittam..abhyaset...[abhi-as]
+ YBh_1.32(36): yasya..tu..pratyarthaniyatam..pratyayamātram..kṣaṇikam..ca..cittam..tasya..sarvam..eva..cittam..ekāgram..nāsty..eva..vikṣiptam. 
+YBh_1.32(36): atha..pravāhāṃśasya..+..eva..pratyayasya..dharmah,
+YBh_1.32(36): tasmād..ekam..anekārtham..avasthitam..cittam..iti...[ava-sthā]
+YBh_1.32(37): kathaṃcit..samādhīyamānam..api+..etad..gomayapāyasīyanyāyam..ākṣipati...[ā-kṣip]
+YBh_1.32(38): tasmād..ekam..anekārtham..avasthitam..ca..cittam.
+YS_1.33(38): maitrīkaruṇāmudita.upekṣāṇām..sukhaduhkhapuṇyāpuṇyaviṣayāṇām..bhāvanātaś..cittaprasādanam..
+YBh_1.33(39): tataś..ca..cittam..prasīdati...[pra-sad]
+YBh_1.33(39): prasannam..ekāgram..sthitipadam..labhate.
+YS_1.34(39): pracchardanavidhāraṇābhyām..vā..prāṇasya.
+..vidhāraṇam..prāṇāyāmas..tābhyām..vā..manasaḥ..sthitim..sampādayet.
+YS_1.35(39): viṣayavatī..vā..pravṛttir..utpannā..manasaḥ..sthitinibandhanī...[nibandhana]
+YBh_1.35(39): tāluni..rūpasaṃvit.
+..saṃśayam..vidhamanti,
+..samādhiprajñāyām..ca..dvārībhavantīti...[ni-bandh,
+..vi-dham,..dvāra]..
+ YBh_1.35(40): etena..candrādityagrahamaṇipradīparaśmi-ādiṣu..pravṛttir..utpannā..viṣayavaty..eva..veditavyā...yady..api..hi..tattat-śāstrānumānācārya-upadeśair..avagatam..arthatattvam..sadbhūtam..eva..bhavati... 
+YBh_1.35(40): eteṣām..yathābhūtārthapratipādanasāmarthyāt,
+YBh_1.35(40): tasmāc..+śāstrānumānācārya-upadeśa-upodbalanārtham..evāvaśyam..kaścid..arthaviśeṣaḥ..pratyakṣīkartavyaḥ...
+YBh_1.35(40): etadartham..eva..+..idam..cittaparikarma..nirdiśyate.
+ YBh_1.35(40): aniyatāsu..vṛttiṣu..tadviṣayāyām..vaśīkārasaṃjñāyām..upajātāyām..samartham..syāt..tasya..tasyārthasya..pratyakṣīkaraṇāya..+..iti...[pratyakṣa] 
+YS_1.36(40): viśokā..vā..jyotiṣmatī.
+YBh_1.36(40): pravṛttir..utpannā..manasaḥ..sthitinibandhanīti+..anuvartate...[nibandhana,..anu-vṛt]
+..buddhisattvam..hi..bhāsvaram..ākāśakalpam,
+YBh_1.36(41): tathāsmitāyām..samāpannam..cittam..nistaraṅgamahodadhikalpam..śāntam..anantam..asmitāmātram..bhavati...[udadhi]
+YBh_1.36(41): yatra..idam..uktam..--..“tam..aṇumātram..ātmānam..anuvidyāsmīti+..evam..tāvat..samprajānīte“..iti...[anu-vid,..sampra-jñā]
+YBh_1.36(41): eṣā..dvayī..viśokā..viṣayavatī,
+..asmitāmātrā..ca..pravṛttir..jyotiṣmatīti+..ucyate.
+YBh_1.36(41): yayā..yoginaś..cittam..sthitipadam..labhata..iti.
+YS_1.37(41): vītarāgaviṣayam..vā..cittam.
+YBh_1.37(41): vītarāgacittālambana-uparaktam..vā..yoginaś..cittam..sthitipadam..labhata..iti...[upa-rañj]
+YS_1.38(41): svapnanidrājñānālambanam..vā.
+YBh_1.38(41): svapnajñānālambanam..vā..nidrājñānālambanam..vā..tadākāram..yoginaś..cittam..sthitipadam..labhata..iti.
+YS_1.39(42): yathābhimatadhyānād..vā.
+YBh_1.39(42): yad..evābhimatam..tad..eva..dhyāyet.
+YBh_1.39(42): tatra..labdhasthitikam..anyatrāpi..sthitipadam..labhata..iti.
+YBh_1.40(42): tadvaśīkārāt..paripūrṇam..yoginaś..cittam..na..punar..abhyāsakṛtam..parikarma..+..apekṣata..iti...
+YBh_1.41(42): atha..labdhasthitikasya..cetasaḥ..kiṃsvarūpā..kiṃviṣayā..vā..samāpattir..iti,..tad..ucyate..--...
+YBh_1.41(43): bhūtasūkṣma-uparaktam..bhūtasūkṣmasamāpannam..bhūtasūkṣmasvarūpābhāsam..bhavati...
+YBh_1.41(43): tathā..sthūlālambana-uparaktam..sthūlarūpasamāpannam..sthūlarūpābhāsam..bhavati...
+YBh_1.41(43): tathā..viśvabheda-uparaktam..viśvabhedasamāpannam..viśvarūpābhāsam..bhavati...
+YS_1.42(44): tatra..śabdārthajñānavikalpaiḥ..saṃkīrṇā..savitarkā..samāpattiḥ...[sam-kṛ]
+YBh_1.42(44-45): vibhajyamānāś..cānye..śabdadharmā..anye..+arthadharmā..anye..vijñānadharmā..iti+..eteṣām..vibhaktaḥ..panthāḥ...[path]
+ YBh_1.42(45): tatra..samāpannasya..yogino..yo..gavādyarthaḥ..[gauh]..samādhiprajñāyām..samārūḍhaḥ..sa..cet..+..śabdārthajñānavikalpānuviddha..upāvartate..sā..saṃkīrṇā..samāpattiḥ..savitarkā..+..ity..ucyate...[anu-vyadh, 
+..upā-vṛt,..sam-kṛ]
+YBh_1.43(45): sā..ca..nirvitarkā..samāpattiḥ.....
+YBh_1.43(45): tatparam..pratyakṣam.
+YBh_1.43(45): tac..ca..śrutānumānayor..bījam...[śruti]
+YBh_1.43(45): na..ca..śrutānumānajñānasahabhūtam..taddarśanam...[śruti]
+YBh_1.43(47): yasya..punar..avastukaḥ..sa..pracayaviśeṣaḥ.
+YBh_1.43(48): tadā..ca..samyagjñānam..api..kim..syād..viṣayābhāvāt.
+YS_1.44(48): ..etayaiva..savicārā..nirvicārā..ca..sūkṣmaviṣayā..vyākhyātā.
+ YBh_1.44(49): tatrāpi+..ekabuddhinirgrāhyam..eva..+..uditadharmaviśiṣṭam..bhūtasūkṣmālambanībhūtam..samādhiprajñāyām..upatiṣṭhate...[vi-śiṣ, 
+..ālambana,..upa-sthā]
+YBh_1.44(49): prajñā..ca..svarūpaśūnyā..+..iva..+..arthamātrā..yadā..bhavati..tadā..nirvicārā..+..ity..ucyate...
+YBh_1.44(49): tatra..mahadvastuviṣayā..savitarkā..nirvitarkā..ca,
+..sūkṣmavastuviṣayā..savicārā..nirvicārā..ca.
+YBh_1.44(49): evam..ubhayor..etayā..+..eva..nirvitarkayā..vikalpahānir..vyākhyātā..+..iti.
+YS_1.45(50): sūkṣmaviṣayatvam..ca..+..aliṅgaparyavasānam.
+YBh_1.45(50): āpyasya..rasatanmātram.
+YBh_1.45(50): taijasasya..rūpatanmātram.
+YBh_1.45(50): vāyuvīyasya..sparśatanmātram.
+YBh_1.45(50): ākāśasya..śabdatanmātram..iti.
+YBh_1.45(50): teṣām..ahaṃkāraḥ.
+YBh_1.45(50): na..cāliṅgāt..param..sūkṣmam..asti.
+YBh_1.45(50): nanu+..asti..puruṣaḥ..sūkṣma..iti...satyam.
+YBh_1.45(50): yathā..liṅgāt..paramaliṅgasya..saukṣmyam..na..ca..+..evam..puruṣasya.
+..hetus..tu..bhavatīti.
+YS_1.46(50): tā..eva..sabījaḥ..samādhiḥ.
+YBh_1.47(51): tathā..ca..+..uktam..--..“prajñāprasādam..āruhya..aśocyaḥ..śocato..[śuc]..janān../
+YS_1.48(51): ṛtambharā..tatra..prajñā.
+YBh_1.48(51): tasmin..samāhitacittasya..yā..prajñā..jāyate..tasyā..ṛtambharā..+..iti..saṃjñā..bhavati...[samā-dhā,..jan]
+YBh_1.48(51): anvarthā..ca..sā,
+..tridhā..prakalpayan..prajñām..labhate..yogam..uttamam“..iti...[pra-klp]
+YBh_1.49(52): sā..punaḥ..
+YS_1.49(52) śrutānumānaprajñābhyām..anyaviṣayā..viśeṣārthatvāt.. [śruti]
+YBh_1.49(52): śrutam..āgamavijñānam..tatsāmānyaviṣayam.
+..kasmāt,
+YBh_1.49(52): tathānumānam..sāmānyaviṣayam..eva.
+YBh_1.49(52): yatra..prāptis..tatra..gatir..yatrāprāptis..tatra..na..bhavati..gatir..iti+..uktam.
+YBh_1.49(53): ..tasmāt..+..śrutānumānaprajñābhyām..anyaviṣayā..sā..prajñā..viśeṣārthatvād..iti...
+YBh_1.50(53): vyutthānasaṃskārābhibhavāt..tatprabhavāḥ..pratyayā..na..bhavanti.
+YBh_1.50(53): tataḥ..samādhijā..prajñā,
+YBh_1.50(53-54): tataś..ca..prajñā,
+..tataś..ca..saṃskārā..iti.
+YBh_1.50(54): katham..asau..saṃskārātiśayaś..cittam..sādhikāram..na..kariṣyatīti.
+YBh_1.50(54): na..te..prajñākṛtāḥ..saṃskārāḥ..kleśakṣayahetutvāc..cittam..adhikāraviśiṣṭam..kurvanti.
+YBh_1.50(54): cittam..hi..te..svakāryād..avasādayanti...[ava-sad]
+YBh_1.50(54): khyātiparyavasānam..hi..cittaceṣṭitam..iti.
+..pratibandha]
+YBh_1.end(55): kasmāt,
+..nirodhajaḥ..saṃskāraḥ..samādhijān..saṃskārān..bādhata..iti.
+YBh_1.end(56): yasmād..avasitādhikāram..[ava-so]..saha..kaivalyabhāgīyaiḥ..saṃskāraiś..cittam..nivartate..[ni-vṛt],
+YBh_2.1(57): uddiṣṭhaḥ..samāhitacittasya..yogaḥ...[samā-dhā]
+YS_2.1(57): tapas-svādhyāya-īśvarapraṇidhānāni..kriyāyogaḥ.
+YBh_2.1(57): na..+..atapasvino..yogaḥ..sidhyati.
+YBh_2.1(57): tac..ca..cittaprasādanam..abādhamānam..anenāsevyam..iti..manyate.
+YBh_2.1(58): svādhyāyaḥ..praṇavādipavitrāṇām..japaḥ+..mokṣaśāstrādhyayana..vā.
+YBh_2.2(58): sa..hi..kriyāyogaḥ..
+YS_2.2(58): samādhibhāvanārthaḥ..kleśatanūkaraṇārthaś..ca....
+YBh_2.2(58): sa..hi+..āsevyamānaḥ..samādhim..bhāvayati..kleśāṃś..ca..pratanūkaroti.
+YBh_2.2(58): pratanūkṛtān..kleśān..prasaṃkhyānāgninā..dagdhabījakalpān..aprasavadharmiṇaḥ..kariṣyatīti...[dah]
+ YBh_2.2(58): teṣām..tanūkaraṇāt..punaḥ..kleśair..aparāmṛṣṭā..sattvapuruṣānyatāmātrakhyātiḥ..sūkṣmā..prajñā..samāptādhikārā..pratiprasavāya..kalpiṣyata..iti...[klp] 
+YBh_2.3(59): atha..ke..kleśāḥ..kiyanto..vā..+..iti..
+YS_2.3(59): avidyāsmitārāgadveṣābhiniveśāḥ..kleśāḥ....
+YBh_2.3(59): kleśā..iti..pañca..viparyayā..ity..arthaḥ.
+YBh_2.3(59): te..spandamānā..guṇādhikāram..draḍhayanti,
+..pariṇāmam..avasthāpayanti,
+YBh_2.4(59): tatra..kā..prasuptiḥ.
+YBh_2.4(59): cetasi..śaktimātrapratiṣṭhānām..bījabhāva-upagamaḥ...
+..dagdhabījasya..kutaḥ..praroha..iti...[dah]
+YBh_2.4(60): ataḥ..kṣīṇakleśaḥ..kuśalaś..caramadeha..ity..ucyate.
+YBh_2.4(60): tatra..+..eva..sā..dagdhabījabhāvā..pañcamī..kleśāvasthā..nānyatra..+..iti...[dah]
+YBh_2.4(60): tathā..vicchidya..vicchidya..tena..tenātmanā..punaḥ..punaḥ..samudācarantīti..vicchinnāḥ...[vi-chid]
+YBh_2.4(61): sarva..eva..+..ete..kleśaviṣayatvam..nātikrāmanti...
+..ucyate..--..satyam..eva..+..etat,
+..kiṃtu..viśiṣṭānām..eva..+..eteṣām..vicchinnāditvam...[vi-chid,..vi-śiṣ]
+YBh_2.4(61): sarva..evāmī..kleśā..avidyābhedāḥ.
+ YBh_2.4(61): yad..avidyayā..vastu+..ākāryate..tad..evānuśerate..kleśā..viparyāsapratyayakāla..upalabhyante..kṣīyamāṇām..cāvidyām..anukṣīyanta..iti...[ā-kṛ,..anu-śī]............ 
+YBh_2.5(61): tatrāvidyāsvarūpam..ucyate..
+YBh_2.5(61-62): tadyathā..--..dhruvā..pṛthivī,
+..dhruvā..sacandratārakā..dyauh,
+..amṛtā..divaukasa..iti.
+YBh_2.5(62): “sthānād..bījād..upaṣṭambhān..nihsyandān..nidhanād..api../
+..kāyam..ādheyaśaucatvāt..paṇḍitā..hi+..aśucim..viduh“...[ā-dhā]
+ YBh_2.5(62): navā..+..iva..śaśāṅkalekhā..kamanīyā..+..iyam..kanyā..madhu-amṛtāvayavanirmitā..+..iva..candram..bhittvā..nihsṛtā..+..iva..jñāyate, 
+..nīla-utpalapattrāyatākṣī..hāvagarbhābhyām..locanābhyām..jīvalokam..āśvāsayantīva..+..iti..kasya..kenābhisambandhaḥ...
+YBh_2.5(62): tatra..sukhakhyātir..avidyā.
+YBh_2.5(63): eṣā..catuṣpadā..bhavaty..avidyā..mūlam..asya..kleśasaṃtānasya..karmāśayasya..ca..savipākasya..+..iti.
+YBh_2.5(63): tasyāś..cāmitrāgoṣpadavad..vastusatattvam..vijñeyam.
+YBh_2.5(63): evam..avidyā..na..pramāṇam..na..pramāṇābhāvaḥ..kiṃtu..vidyāviparītam..jñānāntaram..avidyā..+..iti...
+YBh_2.9(65): sarvasya..prāṇina..iyam..ātmāśīr..nityā..bhavati..mā..na..bhūvam..bhūyāsam..iti...
+YBh_2.9(65): na..cānanubhūtamaraṇadharmakasya..+..eṣā..bhavaty..ātmāśīḥ.
+YBh_2.9(65): etayā..ca..pūrvajanmānubhavaḥ..pratīyate.
+YBh_2.9(66): kasmāt...samānā..hi..tayoḥ..kuśalākuśalayor..maraṇaduhkhānubhavād..iyam..vāsanā..+..iti.
+YS_2.10(66): te..pratiprasavaheyāḥ..sūkṣmāḥ.
+YBh_2.11(66-67): sthitānām..tu..bījabhāva-upagatānām..
+..sūkṣmās..tu..mahāpratipakṣā..iti...
+YBh_2.12(67): tatra..puṇyāpuṇyakarmāśayaḥ..kāmalobhamohakrodhabhavaḥ.
+YBh_2.12(68): sa..dṛṣṭajanmavedanīyaś..cādṛṣṭajanmavedanīyaś..ca.
+YBh_2.12(68): tatra..nārakāṇām..nāsti..dṛṣṭajanmavedanīyaḥ..karmāśayaḥ.
+YBh_2.12(68): kṣīṇakleśānām..api..nāsty..adṛṣṭajanmavedanīyaḥ..karmāśaya..iti.
+YBh_2.13(69): yathā..tuṣāvanaddhāḥ..śālitaṇḍulā..adagdhabījabhāvāḥ..prarohasamarthā..bhavanti,
+YBh_2.13(69): tatra..+idam..vicāryate..--..kim..ekam..karma..+..ekasya..janmanaḥ..kāraṇam..atha..+..ekam..karmānekam..janmākṣipatīti.
+YBh_2.13(69): dvitīyā..vicāraṇā..--..kim..anekam..karmānekam..janma..nirvartayati..athānekam..karmaikam..janma..nirvartayatīti...[nir-vṛt]
+YBh_2.13(69): na..tāvad..ekam..karma..+..ekasya..janmanaḥ..kāraṇam.
+..sa..cāniṣṭa..iti...[pra-ci,ava-śiṣ]
+YBh_2.13(69): na..ca..+..ekam..karmānekasya..janmanaḥ..kāraṇam.
+..sa..cāpy..aniṣṭa..iti...
+YBh_2.13(70): na..cānekam..karmānekasya..janmanaḥ..kāraṇam.
+YBh_2.13(70): tathā..ca..pūrvadoṣānuṣaṅgaḥ.
+YBh_2.13(70): tac..ca..janma..tena..+..eva..karmaṇā..labdhāyuṣkam..bhavati.
+YBh_2.13(70): tasminn..āyuṣi..tena..+..eva..karmaṇā..bhogaḥ..sampadyata..iti.
+YBh_2.13(70): ata..ekabhavikaḥ..karmāśaya..ukta..iti.
+ YBh_2.13(71): kleśakarmavipākānubhavanirvartitābhis..tu..vāsanābhir..anādikālasammūrcchitam..idam..cittam..vicitrīkṛtam..iva..sarvato..matsyajālam..granthibhir..ivātatam..ity..etā..anekabhavapūrvikā..vāsanāḥ... 
+YBh_2.13(71): yas..tu+..ayam..karmāśaya..eṣa..eva..+..ekabhavika..ukta..iti...
+YBh_2.13(71): yas..tv..asāv..ekabhavikaḥ..karmāśayaḥ..sa..niyatavipākaś..cāniyatavipākaś..ca.
+YBh_2.13(71): kṛtasyāvipakvasya..nāśah,
+YBh_2.13(72): yatra..+..idam..uktam..--..“syāt..svalpaḥ..saṃkaraḥ..saparihāraḥ..sapratyavamarṣaḥ..kuśalasya..na..+..apakarṣāya..+..alam.
+YBh_2.13(73): katham..iti,
+YBh_2.13(73): na..tv..adṛṣṭajanmavedanīyasya..+..aniyatavipākasya.
+YBh_2.13(73): yat..tv..adṛṣṭajanmavedanīyam..karmāniyatavipākam..tan..naśyed..āvāpam..vā..gacched..abhibhūtam..vā..ciram..apy..upāsīta,
+..yāvat..samānam..karmābhivyañjakam..nimittam..asya..na..vipākābhimukham..karotīti...
+YBh_2.13(73): tadvipākasyaiva..deśakālanimittānavadhāraṇād..iyam..karmagatiś..citrā..durvijñānā..ca..+..iti.
+YS_2.14(73): te..hlādaparitāpaphalāḥ..puṇyāpuṇyahetutvāt.
+YBh_2.14.73-74): te..janmāyuṣ-bhogāḥ..puṇyahetukāḥ..sukhaphalā..apuṇyahetukā..duhkhaphalā..iti...
+YBh_2.15(74): katham,..tad..upapādyate..
+YS_2.15(74): pariṇāmatāpasaṃskāraduhkhair..guṇavṛttivirodhāc..ca..duhkham..eva..sarvam..vivekinaḥ.. [upa-pad]
+YBh_2.15(74): sarvasyāyam..rāgānuviddhaś..cetanācetanasādhanādhīnaḥ..sukhānubhava..iti..tatrāsti..rāgajaḥ..karmāśayaḥ...[anu-vyadh]
+YBh_2.15(75): viṣayasukham..cāvidyā..+..ity..uktam.
+YBh_2.15(75): yā..laulyād..anupaśāntis..tad..duhkham.
+YBh_2.15(75): kasmāt,..yato..bhogābhyāsam..anuvivardhante..rāgāḥ..kauśalāni..ca..+..indriyāṇām..iti.
+YBh_2.15(75): tasmād..anupāyaḥ..sukhasya..bhogābhyāsa..iti.
+YBh_2.15(75): eṣā..pariṇāmaduhkhatā..nāma..pratikūlā..sukhāvasthāyām..api..yoginam..eva..kliśnāti.
+YBh_2.15(76): atha..kā..tāpaduhkhatā,
+..sarvasya..dvesānuviddhaś..cetanācetanasādhanādhīnas..tāpānubhava..iti..tatrāsti..dveṣajaḥ..karmāśayaḥ.
+YBh_2.15(76): kā..punaḥ..saṃskāraduhkhatā,
+..anupāta,..anu-plu]
+YBh_2.15(77): guṇavṛttivirodhāc..ca..duhkham..eva..sarvam..vivekinaḥ.
+..sāmānyāni..tv..atiśayaiḥ..saha..pravartante...[pra-vṛt]
+..guṇapradhānabhāvakṛtas..tv..eṣām..viśeṣa..iti.
+YBh_2.15(77): tasmād..duhkham..eva..sarvam..vivekina..iti.
+YBh_2.15(77): tad..asya..mahato..duhkhasamudāyasya..prabhavabījam..avidyā.
+YBh_2.15(77-78): tasyāś..ca..samyagdarśanam..abhāvahetuḥ.
+YBh_2.15(78): hāna-upāyaḥ..samyagdarśanam.
+YBh_2.16(78): tad..etat-śāstram..caturvyūham..ity..abhidhīyate..
+YS_2.16(78): heyam..duhkham..anāgatam..
+YBh_2.16(79): tad..eva..heyatām..āpadyate.
+YBh_2.17(79): tasmād..yad..eva..heyam..ity..ucyate..tasyaiva..kāraṇam..pratinirdiśyate..
+YBh_2.17(79): dṛśyā..buddhisattva-upārūḍhāḥ..sarve..dharmāḥ.
+..anubhavakarmaviṣayatām..āpannam..yataḥ...[upakāra]
+YBh_2.17(80): tadyathā..--..pādatalasya..bhedyatā,
+..kaṇṭakasya..bhettṛtvam,
+YBh_2.17(80-81): kasmāt,..tritva-upalabdhisāmarthyād..iti.
+YBh_2.17(81): atrāpi..tāpakasya..rajasaḥ..sattvam..eva..tapyam.
+YBh_2.17(81): kasmāt,..tapikriyāyāḥ..karmasthatvāt,
+..darśitaviṣayatvāt...[pari-nam]
+YBh_2.18(81): dṛśyasvarūpam..ucyate..
+YS_2.18(81): prakāśakriyāsthitiśīlam..bhūteindriyātmakam..bhogāpavargārtham..dṛśyam..
+YBh_2.18(81): prakāśaśīlam..sattvam.
+YBh_2.18(81): kriyāśīlam..rajas+.
+YBh_2.18(81): śitiśīlam..tamas+..iti.
+YBh_2.18(83): etad..dṛśyam..ity..ucyate.
+ YBh_2.18(83): tat..tu..nāprayojanam..api..tu..prayojanam..urarīkṛtya..pravartata..iti..bhogāpavargārtham..hi..tad..dṛśyam..puruṣasya..+..iti...[pra-vṛt] 
+YBh_2.18(83): dvayor..atiriktam..anyad..darśanam..nāsti.
+YBh_2(19(84): dṛśyānām..guṇānām..svarūpabhedāvadhāraṇārtham..idam..ārabhyate..
+YBh_2.19(84): tathā..śrotratvac-cakṣurjihvāghrāṇāni..buddhhīndriyāṇi,
+..vāc-pāṇipādapāyūpasthāḥ..karmendriyāṇi,
+..ekādaśam..manas+..sarvārtham,
+..ity..etāny..asmitālakṣaṇasyāviśeṣasya..viśeṣāḥ...
+..nirasad..avyaktam..aliṅgam..pradhānam..tat..pratiyanti...[prati-i]
+YBh_2.19(86): na..tasyāḥ..puruṣārthatā..kāraṇam..bhavatīti.
+YBh_2.19(86): nāsau..puruṣārthakṛtā..+..iti..nityākhyāyate.
+YBh_2.19(86): guṇās..tu..sarvadharmānupātino..na..pratyastam..ayante..na..+..upajāyante...[anupāta,..anupātin]
+YBh_2.19(86): vyaktibhir..evātītānāgatavyayāgamavatībhir..guṇānvayinībhir..upajananāpāyadharmakā..iva..pratyavabhāsante...[anvaya]
+YBh_2.19(86): liṅgamātram..aliṅgasya..pratyāsannam,
+YBh_2.19(87): tathā..ca..+..uktam..purastāt.
+YBh_2.19(87): na..viśeṣa-bhyaḥ..param..tattvāntaram..astīti..viśeṣāṇām..nāsti..tattvāntarapariṇāmaḥ.
+YBh_2.19(87): teṣām..tu..dharmalakṣaṇāvasthāpariṇāmā..vyākhyāyiṣyante.
+YBh_2.20(87): dṛśimātra..iti..dṛkśaktir..eva..viśeṣaṇāparāmṛṣṭā..+..ity..arthaḥ...
+YBh_2.20(87): na..tāvat..sarūpaḥ...kasmāt.
+YBh_2.20(87-88): jñātājñātaviṣayatvāt..pariṇāminī..hi..buddhiḥ...
+YBh_2.20(88): sadājñātaviṣayatvam..tu..puruṣasyāpariṇāmitvam..paridīpayati...kasmāt.
+ YBh_2.20(88): na..hi..buddhiś..ca..nāma..puruṣaviṣayaś..ca..syād..agṛhītā..gṛhītā..ca..+..iti..siddham..puruṣasya..sadājñātaviṣayatvam...tataś..cāpariṇāmitvam..iti. 
+YBh_2.20(88): kim..ca..parārthā..buddhiḥ..saṃhatyakāritvāt..[saṃhati?
+],..svārthaḥ..puruṣa..iti.
+YBh_2.20(88): astu..tarhi..virūpa..iti.
+YBh_2.20(88): nātyantam..virūpaḥ...kasmāt.
+YBh_2.20(89): pratyayam..bauddham..anupaśyati,
+YBh_2.21(89): svarūpam..bhavatīty..arthaḥ.
+YS_2.22(90): kṛtārtham..prati..naṣṭam..apy..anaṣṭam..tadanyasādhāraṇatvāt.
+YBh_2.22(90): kṛtārtham..ekam..puruṣam..prati..dṛśyam..naṣṭam..api..nāśam..prāptam..apy..anaṣṭam..tadanyapuruṣasādhāraṇatvāt.
+YBh_2.22(91): tathā..ca..+..uktam..--..dharmiṇām..anādisamyogād..dharmamātrāṇām..apy..anādiḥ..samyoga..iti.
+YBh_2.23(91): samyogasvarūpābhidhitsayā..+..idam..sūtram..pravavṛte..
+YBh_2.23(91): tasmāt..samyogād..dṛśyasya..+..upalabdhir..yā..sa..bhogaḥ.
+YBh_2.23(91-92): darśanakāryāvasānaḥ..samyoga..iti..darśanam..viyogasya..kāraṇam..uktam.
+YBh_2.23(92): darśanam..adharśanasya..pratidvandvī..[dvandra]..+..ity..adarśanam..samyoganimittam..uktam.
+YBh_2.23(92): nātra..darśanam..mokṣakāraṇam..adarśanābhāvād..eva..bandhābhāvaḥ..sa..mokṣa..iti.
+YBh_2.23(92): kiṃca..+..idam..adarśanam..nāma,
+..kim..guṇānām..adhikāra..āhosvid..dṛśirūpasya..svāmino..darśitaviṣayasya..pradhānacittasyānutpādaḥ.
+YBh_2.23(92): kim..arthavattā..guṇānām.
+YBh_2.23(93): ubhayathā..cāsya..vṛttiḥ..pradhānavyavahāram..labhate..nānyathā.
+YBh_2.23(93): darśanaśaktir..evādarśanam..ity..eke,
+YBh_2.23(93): ubhayasyāpy..adarśanam..dharma..ity..eke.
+YBh_2.23(94): darśanam..jñānam..evādarśanam..iti..kecid..abhidadhati...[abhi-dhā]
+YBh_2.23(94): ity..ete..śāstragatā..vikalpāḥ.
+YBh_2.24(94): yas..tu..pratyakcetanasya..svabuddhisamyogaḥ..
+YS_2.24(94): tasya..hetur..avidyā..
+YBh_2.24(95): *viparyayajñānavāsanā..+..ity..arthaḥ...
+ YBh_2.24(95): viparyayajñānavāsanāvāsitā..ca..na..kāryaniṣṭhām..puruṣakhyātim..buddhiḥ..prāpnoti..sādhikārā..punar..āvartate...[ava-so,..ā-vṛt] 
+YBh_2.24(95): sā..tu..puruṣakhyātiparyavasānām..kāryaniṣṭhām..prāpnoti,
+..caritādhikārā..nivṛttādarśanā..bandhakāraṇābhāvān..na..punar..āvartate...[ā-vṛt]
+..apatyavatī..me..bhaginī..kimartham..nāma..nāham..iti,
+..sa..tām..āha..--..mṛtas..te..+aham..apatyam..utpādayiṣyāmīti.
+YBh_2.24(95): tathā..+..idam..vidyamānam..jñānam..cittanivṛttim..na..karoti,
+..vinaṣṭam..kariṣyatīti..kā..pratyāśā.
+YBh_2.24(95-96): tac..cādarśanam..bandhakāraṇam..darśanān..nivartate...[ni-vṛt]
+YBh_2.24(96): tatra..cittanivṛttir..eva..mokṣah,
+..kimartham..asthāna..evāsya..mativibhramaḥ.
+YBh_2.25(96): heyam..duhkham..heyakāranam..ca..samyogākhyam..sanimittam..uktam...ataḥ..param..hānam..vaktavyam..
+YBh_2.25(96): etadd..hānam.
+..tadā..svarūpapratiṣṭhaḥ..puruṣa..ity..uktam.
+YBh_2.26(96): atha..hānasya..kaḥ..prāpti-upāya..iti..
+YS_2.26(96): vivekakhyātir..aviplavā..hāna-upāyaḥ..
+YBh_2.26(97): sā..tv..anivṛttamithyājñānā..plavate...[plu]
+YBh_2.26(97): sā..vivekakhyātir..aviplavā..hāna-upāyaḥ.
+YS_2.27(97): tasya..saptadhā..prāntabhūmiḥ..prajñā.
+YBh_2.27(97): tadyathā..--..parijñātam..heyam..nāsya..punaḥ..parijñeyam..asti.
+YBh_2.27(97-98): sākṣātkṛtam..nirodhasamādhinā..hānam.
+YBh_2.27(98): eṣā..catuṣṭayī..kāryā..vimuktiḥ..prajñāyāḥ.
+YBh_2.27(98): cittavimuktis..tu..trayī..caritādhikārā..buddhiḥ.
+YBh_2.27(98): na..caiṣām..pravilīnānām..punar..asty..utpādaḥ..prayojanābhāvād..iti.
+YBh_2.27(98): etasyām..avasthāyām..guṇasambandhātītaḥ..svarūpamātrajyotir..amalaḥ..kevalī..puruṣa..iti.
+YBh_2.27(98): etām..saptadhām..prāntabhūmiprajñānam..anupaśyan..puruṣaḥ..kuśala..ity..ākhyāyate.
+YBh_2.28(98): siddhā..bhavati..vivekakhyātir..hāna-upāya..iti,
+YBh_2.28(99): yogāṅgāny..aṣṭāv..abhidhāyiṣyamāṇāni.
+YBh_2.28(99): yathā..yathā..ca..sādhanāny..anuṣṭhīyante..tathā..tathā..tanutvam..aśuddhir..āṣadyate...[anu-sthā,..ā-sad]
+YBh_2.28(99): yathā..yathā..ca..kṣīyate..tathā..tathā..kṣayakramānurodhinī..jñānasyāpi..dīptir..vivardhate...[anurodha,..vi-vṛdh]
+..ā..guṇapuruṣasvarūpavijñānād..ity..arthaḥ.
+YBh_2.28(99): yathā..paraśuś..chedyasya.
+YBh_2.28(99): nava..+..eva..+..ity..āha.
+YBh_2.28(99): tadyathā..
+YBh_2.28(99): tatra..+..utpattikāraṇam..manas+..bhavati..vijñānasya,
+..sthitikāraṇam..manasaḥ..puruṣārthatā,
+..śarīrasya..+..ivāhāra..iti.
+YBh_2.28(99-100): abhivyaktikāraṇam..yathā..rūpasyālokas..tathā..rūpajñānam,
+..vikārakāraṇam..manaso..viṣayāntaram.
+YBh_2.28(100): yathāgniḥ..pākyasya.
+YBh_2.28(100): pratyayakāraṇam..dhūmajñānam..agnijñānasya.
+YBh_2.28(100): anyatvakāraṇam..yathā..suvarṇasya..suvarṇakāraḥ.
+YBh_2.28(101): dhṛtikāraṇam..śarīram..indriyāṇām.
+YBh_2.28(101): tāni..ca..tasya.
+YBh_2.28(101): mahābhūtāni..śarīrāṇām,
+..tāni..ca..parasparam..sarveṣām..tairyagyaunamānuṣadaivatāni..ca..parasparārthatvād..ity..evam..nava..kāraṇāni.
+YBh_2.28(101): yogāṅgānuṣṭhānam..tu..dvidhā..+..eva..kāraṇatvam..labhata..iti.
+YBh_2.29(101): tatra..yogāṅgāyavadhāryante..
+YBh_2.29(102): yathākramam..eṣām..anuṣṭhānam..svarūpam..ca..vakṣyāmaḥ.
+YBh_2.30(102): tatra..
+YS_2.30(102): ahiṃsāsatyāsteyabrahmacaryāparigrahā..yamāḥ..
+YBh_2.30(102): tatrāhiṃsā..sarvathā..sarvadā..sarvabhūtānām..anabhidrohaḥ.
+YBh_2.30(102): tadavadātarūpakaraṇāya..+..eva..+..upādīyante.
+ YBh_2.30(102): tathā..ca..+..uktam..--..sa..khalv..ayam..brāhmaṇo..yathā..yathā..vratāni..bahūni..samāditsate..tathā..tathā..pramādakṛta-bhyo..hiṃsānidāna-bhyo..nivartamānas..tām..evāvadātarūpām..ahiṃsām..karoti...[samā-dhā] 
+YBh_2.30(102): yathā..dṛṣṭam..yathānumitam..tathā..vāc+..manaś..ca..+..iti.
+..sā..yadi..na..vañcitā..bhrāntā..vā..pratipattivandhyā..vā..bhaved..iti.
+YBh_2.30(103): eṣā..sarvabhūta-upakārārtham..pravṛtta..na..bhūta-upaghātāya.
+YBh_2.30(103): tasmāt..parīkṣya..sarvabhūtahitam..satyam..brūyāt.
+YBh_2.30(103): steyam..aśāstrapūrvakam..dravyāṇām..parataḥ..svīkaraṇam,
+..tatpratiṣedhaḥ..punar..aspṛhārūpam..asteyam..iti.
+YBh_2.30(103): brahmacaryam..gupta-indriyasya..+..upasthasya..samyamaḥ.
+YBh_2.30(103): viṣayāṇām..arjanarakṣaṇakṣayasaṅgahiṃsādoṣadarśanād..asvīkaraṇam..aparigraha..ity..ete..yamāḥ.
+YBh_2.31(104): te..tu..
+YS_2.31(104): jātideśakālasamayānavacchinnāḥ..sārvabhaumā..mahāvratam..
+YBh_2.31(104): yathā..kṣatriyāṇām..yuddha..eva..hiṃsā..nānyatra..+..iti.
+YS_2.32(104): śaucasaṃtoṣatapas-svādhyāya-īśvarapraṇidhānāni..niyamāḥ.
+YBh_2.32(104): tatra..śaucam..mṛd-jalādijanitam..medhyābhyavaharaṇādi..ca..bāhyam.
+YBh_2.32(104): ābhyantaram..cittamalānām..ākṣālanam...
+YBh_2.32(104): saṃtoṣaḥ..samnihitasādhanād..adhikasyānupāditsā.
+YBh_2.32(104): tapas+..dvandvasahanam.
+YBh_2.32(105): vratāni..ca..+..eṣām..yathāyogam..kṛcchracāndrāyaṇasāṃtapanādīni.
+YBh_2.34(106): tatra..hiṃsā..tāvat..--..kṛtā..kāritānumoditā..+..iti..tridhā.
+YBh_2.34(106): lobhakrodhamohāḥ..punas..trividhā..mṛdumadhyādhimātrā..iti.
+YBh_2.34(106): evam..saptaviṃśatir..bhedā..bhavanti..hiṃsāyāḥ.
+YBh_2.34(106): mṛdumadhyādhimātrāḥ..punas..tridhā..--..mṛdumṛdur..madhyamṛdus..tīvramṛdur..iti.
+YBh_2.34(106): evam..ekāśītibhedā..hiṃsā..bhavati.
+YBh_2.34(106): sā..punar..niyamavikalpasamuccyabhedād..asaṃkhyeyā,
+..prāṇabhṛdbhedasyāparisaṃkhyeyatvād..iti.
+YBh_2.34(106): evam..anṛtādiṣv..api..yojyam.
+YBh_2.34(106): te..khalv..amī..vitarkā..duhkhājñānānantaphalā..iti..pratipakṣabhāvanam.
+YBh_2.34(106): duhkham..ajñānam..cānantam..phalam..yeṣām..iti..pratipakṣabhāvanam.
+YBh_2.34(106): tathā..ca..hiṃsakas..tāvat..prathamam..vadhyasya..vīryam..ākṣipati.
+YBh_2.34(106): tato..jīvitād..api..mocayati.
+YBh_2.34.106): tato..vīryākṣepād..asya..cetanācetanam..upakaraṇam..kṣīṇavīryam..bhavati.
+YBh_2.34(106-107): duhkha-utpādanān..narakatiryakpretādiṣu..duhkham..anubhavati..[anu-bhū],
+YBh_2.34(107): evam..anṛtādiṣv..api..yojyam..yathāsambhavam.
+YBh_2.35(107): tadyathā..
+YBh_2.35(107): sarvaprāṇināṃ..bhavati..
+YS_2.36(107): satyapratiṣṭhāyām..kriyāphalāśrayatvam.
+..svargam..prapnuhīti..svargam..prāpnoti...amoghāsya..vāc+..bhavati.
+YS_2.37(108): asteyapratiṣṭhāyām..sarvaratna-upasthānam.
+YBh_2.37(108): sarvadiś-sthāny..asya-upatiṣṭhante..ratnāni...[diś]
+YS_2.38.108): brahmacaryapratiṣṭhāyām..vīryalābhaḥ.
+YBh_2.38(108): yasya..lābhād..apratighān..guṇān..utkarṣayati...[ut-kṛś]
+YS_2.39(108): aparigrahasthair..ye..janmakathaṃtāsambodhaḥ.
+YS_2.40(109): śaucāt..svāṅgajugupsā..parair..asaṃsargaḥ..
+ YBh_2.40(109): kiṃca..parair..asaṃsargaḥ..kāyasvabhāvāvalokī..svam..api..kāyam..jihāsur..[hā]..mṛd-jalādibhir..ākṣālayann..[ā-kṣal]..api..kāyaśudhim..apaśyan..katham..parakāyair..atyantam..evāprayataiḥ..saṃsṛjyeta... 
+YBh_2.41.109): kiṃca..
+YS_2.41(109): sattvaśuddhisaumanasya-aikāgṛya-indriyajayātmadarśanayogyatvāni..ca.
+YBh_2.41(109): bhavatīti..vākyaśeṣaḥ.
+YS_2.42(109): saṃtoṣād..anuttamaḥ..sukhalābhaḥ.
+..tṛṣṇākṣayasukhasya..+..ete..nārhataḥ..ṣoḍaśīm..kalām“..iti.
+YS_2.43(109): kāya-indriyasiddhir..aśuddhikṣayāt..tapasaḥ.
+YS_2.44(109): svādhyāyādiṣṭadevatāsamprayogaḥ.
+YS_2.45(110): samādhisiddhir..īśvarapraṇidhānāt.
+YBh_2.45(110): tato..+..asya..prajñā..yathābhūtam..prajānātīti.
+YBh_2.46(110): uktāḥ..saha..siddhibhir..yamaniyamāḥ...āsanādīni..vakṣyāmaḥ...tatra..
+YS_2.46(110): sthirasukham..āsanam....
+ YBh_2.46(111): tadyathā..padmāsanam..bhadrāsanam..svastikam..daṇḍāsanam..sa-upāśrayam..paryaṅkam..krauñcaniṣadanam..hastiniṣadanam..uṣṭraniṣadanam..samasaṃsthānam..sthirasukham..yathāsukham..ca..+..iti+..evamādīni. 
+YS_2.47(111): prayatnaśaithilyānantasamāpattibhyām.
+YS_2.48(111): tataḥ+..dvandvānabhighātaḥ.
+YBh_2.48(111): śīta-uṣṇādibhir..dvandvair..āsanajayāt+..nābhibhūyate.
+YS_2.49(111): tasmin..sati..śvāsapraśvāsayor..gativicchedaḥ..prāṇāyāmaḥ.
+..tayor..gativiccheda..ubhayābhāvaḥ..prāṇāyāmaḥ...
+YBh_2.50(112): sa..tu..
+YBh_2.50(112): tṛtīyaḥ..stambhavṛttir..yatra..+..ubhayābhāvaḥ..sakṛṭ..prayatnād..bhavati.
+ YBh_2.50(113): saṃkhyābhiḥ..paridṛṣṭā..etāvadbhiḥ..śvāsapraśvāsaiḥ..prathama..udghātas..tadvat+..nigṛhītasya..+..etāvadbhir..dvitīya..udghāta..evam..tṛtīyaḥ. 
+YBh_2.50(113): evam..mṛdur..evam..madhya..evam..tīvra..iti..saṃkhyāparidṛṣṭaḥ.
+YBh_2.51(113): deśakālasaṃkhyābhir..bāhyaviṣayaparidṛṣṭa..ākṣiptaḥ.
+YBh_2.51(113): tathābhyantaraviṣayaparidṛṣṭa..ākṣiptaḥ...
+YBh_2.51(113): ubhayathā..dīrghasūkṣmaḥ.
+YS_2.52(114): tataḥ..kṣīyate..prakāśāvaraṇam.
+YBh_2.52(114): prāṇāyāmānabhyasyato..+asya..yoginaḥ..kṣīyate..vivekajñānāvaraṇīyam..karma.
+YBh_2.52(114): yat..tad..ācakṣate..
+YBh_2.52(114): tad..asya..prakāśāvaraṇam..karma..saṃsāranibandhanam..prāṇāyāmābhyāsād..durbalam..bhavati..pratikṣaṇam..ca..kṣīyate.
+YBh_2.52(114): tathā..ca..+..uktam..
+YBh_2.52(114): “tapas+..na..param..prāṇāyāmāt..tato..viśuddhir..malānām..dīptiś..ca..jñānasya“..iti.
+YBh_2.53(115): kiṃca..
+YS_2.53(115): dhāraṇāsu..ca..yogyatā..manasaḥ....
+YBh_2.53(115): prāṇāyāmābhyāsād..eva...“pracchardanavidhāraṇābhyām..vā..prāṇasya“..iti..vacanāt.
+YBh_2.54(115): atha..kaḥ..pratyāhāraḥ..
+YS_2.55(116): tataḥ..paramā..vaśyatā..+..indriyāṇām.
+YBh_2.55(116): śabdādiṣv..avyasanam..indriyajaya..iti..kecit.
+YBh_2.55(116): saktir..vyasanam..vyasyaty..enam..śreyasa..iti.
+YBh_2.55(116): aviruddhā..sukhaduhkhaśūnyam..śabdādijñānam..indriyajaya..iti..kecit.
+YBh_2.55(116): citta-aikāgṛyād..apratipattir..eva..+..iti..jaigīṣavyaḥ.
+YBh_3.1(118): uktāni..pañca..bahiraṅgāni(ṇi):sādhanāni.
+YBh_3.1(118): dhāraṇā..vaktavyā..
+YS_3.1(119): deśabandhaś..cittasya..dhāraṇā..
+YS_3.2(119): tatra..pratyaya-ekatānatā..dhyānam.
+YS_3.3(119): tad..evārthamātranirbhāsam..svarūpaśūnyam..iva..samādhiḥ.
+YS_3.4(120): trayam..ekatra..samyamaḥ.
+YBh_3.4(120): tad..etad..dhāraṇādhyānasamādhitrayam..ekatra..samyamaḥ.
+YBh_3.4(120): ekaviṣayāṇi..trīṇi..sādhanāni..samyayama..iti+..ucyate.
+YBh_3.4(120): tad..asya..trayasya..tāntrikī..paribhāṣā..samyama..iti.
+YS_3.5(120): tat-jayāt..prajñālokaḥ.
+YS_3.6(120): tasya..bhūmiṣu..viniyogaḥ.
+YBh_3.6(121): na..hi+..ajitādharabhūmir..anantarabhūmim..vilaṅghya..prāntabhūmiṣu..samyamam..labhate.
+YBh_3.6(121): tadabhāvāc..ca..kutas..tasya..prajñālokaḥ...
+YBh_3.6(121): kasmāt,..tadarthasyānyata..evāvagatatvāt.
+YBh_3.6(121): katham...evam..hi+..uktam..
+YS_3.7(121): trayam..antaraṅgam..pūrva-bhyaḥ.
+YS_3.8(122): tad..api..bahiraṅgam..nirbījasya.
+YBh_3.8(122): tad..apy..antaraṅgam..sādhanatrayam..nirbījasya..yogasya..bahiraṅgam..bhavati...kasmāt,
+YBh_3.9(123): nirodhakṣaṇam..cittam..anveti..[anu-i]..tad..ekasya..cittasya..pratikṣaṇam..idam..saṃskārānyathātvam..nirodhapariṇāmaḥ.
+YS_3.10(123): tasya..praśāntavāhitā..saṃskārāt.
+YBh_3.10(123): nirodhasaṃskārābhyāsapāṭavāpekṣā..praśāntavāhitā..cittasya..bhavati.
+YBh_3.11(123): sarvārthatā..cittadharmaḥ.
+YBh_3.11(123): ekāgratāpi..cittadharmaḥ.
+YBh_3.11(123): sarvārthatāyāḥ..kṣayas..tirobhāva..iti+..arthaḥ.
+YBh_3.11(123-124): ekāgratāyā..udaya..ābhirbhāva..iti+..arthaḥ...
+..tad..idam..cittam..apāya-upajanayoḥ..svātmabhūtayor..dharmayor..anugatam..samādhīyate..sa..cittasya..smādhipariṇāmaḥ.
+YS_3.12(124): tataḥ..punaḥ..śānta-uditau..tulyapratyayau..cittasya..+..ekāgratāpariṇāmaḥ.
+YBh_3.12(124): samāhitacittasya..pūrvapratyayaḥ..śānta..uttaras..tatsadṛśa..uditah,
+samādhicittam..ubhayor..anugatam..punas..tathā..+..evāsamādhibhreṣād..iti.
+YBh_3.12(124): sa..khalv..ayam..dharmiṇaś..cittasya..+..ekāgratāpariṇāmaḥ.
+YBh_3.13(124-125): tatra..vyutthānanirodhayor..abhibhavaprādurbhāvau..dharmiṇi..dharmapariṇāmaḥ.
+YBh_3.13(125): lakṣaṇapariṇāmaś..ca...nirodhas..trilakṣaṇas..tribhir..adhvan-bhir..yuktaḥ.
+YBh_3.13(125): na..cātītānāgatābhyām..lakṣaṇābhyām..viyuktaḥ.
+ YBh_3.13(125): tathā..vyutthānam..trilakṣaṇam..tribhir..adhvan-bhir..yuktam..vartamānalakṣaṇam..hitvā..dharmatvam..anatikrāntam..atītalakṣaṇam..pratipannam. 
+YBh_3.13(125): na..cānāgatavartamānābhyām..lakṣaṇābhyām..viyuktam.
+YBh_3.13(125): evam..punar..vyutthānam..upasampadyamānam..anāgatalakṣaṇam..hitvā..dharmatvam..anatikrāntam..vartamānalakṣaṇam..pratipannam.
+YBh_3.13(125): na..cātītānāgatābhyām..lakṣaṇābhyām..viyuktam..iti.
+YBh_3.13(125): evam..punar..nirodha..evam..punar..vyutthānam..iti.
+YBh_3.13(126): eṣa..dharmāṇām..avasthāpariṇāmaḥ.
+YBh_3.13(126): evam..dharmalakṣaṇāvasthāpariṇāmaiḥ..śūnyam..na..kṣaṇam..api..guṇavṛttam..avatiṣṭhate.
+YBh_3.13(126): calam..ca..guṇavṛttam.
+YBh_3.13(126): guṇasvābhāvyam..tu..pravṛttikāraṇam..uktam..guṇānām..iti.
+YBh_3.13(126): paramārthatas..tv..eka..eva..pariṇāmaḥ.
+YBh_3.13(127): yathā..suvarṇabhājanasya..bhittvānyathākriyamāṇasya..bhāvānyathātvam..bhavati..na..suvarṇānyathātvam..iti.
+YBh_3.13(127): ayam..doṣaḥ...kasmāt...ekāntatānabhyupagamāt.
+YBh_3.13(128): apetam..api+..asti..vināśapratiṣedhāt.
+YBh_3.13(128): saṃsargāc..cāsya..saukṣmyam,
+..saukṣmyāc..cānupalabdhir..iti.
+YBh_3.13(129): tasya..parihāraḥ..--dharmāṇām..dharmatvam..aprasādhyam.
+YBh_3.13(129): uktam..ca..rūpātiśayā..vṛtti-atiśayāś..ca..virudhyante,
+..sāmānyāni..tv..atiśayaiḥ..saha..pravartante...[pra-vṛt]
+YBh_3.13(129): tasmād..asaṃkaraḥ...yathā..rāgasya..+..eva..kvacit..samudācāra..iti..na..tadānīm..anyatrābhāvah,
+ YBh_3.13(131): yathā..saṃsthānam..ādimat+..dharmamātram..śabdādīnām..guṇānām..vināśyavināśinām..evam..liṅgam..ādimat+..dharmamātram..sattvādīnām..guṇānām..vināśyavināśinā..tasmin..vikārasaṃjñā..+..iti. 
+ YBh_3.13(132): ta..ete..dharmalakṣaṇāvasthāpariṇāmā..dharmisvarūpam..anatikrāntā..ity..eka..eva..pariṇāmaḥ..sarvān..amūn..viśeṣān..abhiplavate...[abhi-plu] 
+YBh_3.14(132): tatra..
+YS_3.14(132): śānta-uditāvyapadeśyadharmānupātī..dharmī...[anupāpa]...
+YBh_3.14(132): yogyatāvacchinnā..dharmiṇaḥ..śaktir..eva..dharmaḥ.
+YBh_3.14(132): tatra..vartamānaḥ..svavyāpāram..anubhavan..dharmī..dharmāntara-bhyaḥ..śānta-bhyaś..cāvyapadeśya-bhyaś..ca..bhidyate.
+YBh_3.14(133): tatra..ye..khalu..dharmiṇo..dharmāḥ..śāntā..uditā..avyapadeśyāś..ca..+..iti,
+ ..tatra..śāntā..ye..kṛtvā..vyāpārānuparatāḥ..savyāpārā..uditās..te..cānāgatasya..lakṣaṇasya..samanantarā..vartamānasyānantarā..atītāḥ..kimartham..atītasyānantarā..na..bhavanti..vartamānāh, 
+..pūrvapaścimatā..na..+..evam..atītasya.
+YBh_3.14(133): athāvyapadeśyāḥ..ke...sarvam..sarvātmakam..iti.
+YBh_3.14(133): yatra..+..uktam..--..jalabhūmi-oḥ..pāriṇāmikam..rasādivaiśvarūpyam..sthāvara-ṣu..dṛṣṭam.
+YBh_3.14(134): deśakālākāranimitāpabandhān..na..khalu..samānakālam..ātmanām..abhivyaktir..iti.
+YBh_3.14(134): yasya..tu..dharmamātram..eva..+..idam..niranvayam..tasya..bhogābhāvaḥ.
+YBh_3.14(134): tatsmṛti-abhāvaś..ca..nānyadṛṣṭasya..smaraṇam..anyasyāstīti.
+YBh_3.15(135): tadyathā..cūrṇamṛd-piṇḍamṛdghaṭamṛd-kapālamṛd-kaṇamṛd..iti..ca..kramaḥ.
+YBh_3.15(135): piṇḍaḥ..pracyavate..ghaṭa..upajāyata..iti..dharmapariṇāmakramaḥ...[pra-cyu,..upa-jan]
+YBh_3.15(135): kasmāt...pūrvaparatāyām..satyām..samanantaratvam,
+..sā..tu..nāsti+..atītasya...tasmād..dvayor..eva..lakṣaṇayoḥ..kramaḥ.
+YBh_3.15(135): cittasya..dvaye..dharmā..paridṛṣṭāś..cāparidṛṣṭāś..ca.
+YBh_3.15(135): tatra..pratyayātmakāḥ..paridṛṣṭā..vastumātrātmakā..aparidṛṣṭāḥ.
+..ceṣṭā..śaktiś..ca..cittasya..dharmā..dharśanavarjitāh“..iti.
+YS_3.16(137): pariṇāmatrayasamyamād..atītānāgatajñānam.
+YBh_3.16(137): dharmalakṣaṇāvasthāpariṇāma-ṣu..samyamād..yoginām..bhavaty..atītānāgatajñānam.
+YBh_3.16(137): dhāraṇādhyānasamādhitrayam..ekatra..samyama..uktaḥ.
+YBh_3.16(137): tena..pariṇāmatrayam..sākṣātkriyamāṇam..atītānāgatajñānam..teṣu..sampādayati...
+YS_3.17(137): śabdārthapratyayānām..itaretarādhyāsāt..saṃkaras..tatpravibhāgasamyamāt..sarvabhūtarutajñānam.
+YBh_3.17(137-138): śrotram..ca..dhvanipariṇāmamātraviṣayam.
+YBh_3.17(138): padam..punar..nādānusaṃhārabuddhinirgrāhyam..iti.
+ YBh_3.17(138): varṇā..ekasamayāsambhavitvāt..parasparaniranugrahātmānas..te..padam..asaṃspṛśyānupasthāpyāvirbhūtās..tirobhūtāś..ca..+..iti..pratyekam..apadasvarūpā..ucyante. 
+YBh_3.17(142): ya..eṣām..pravibhāgajñaḥ..sa..sarvavit.
+YBh_3.17(142): tathā..na..hy..asādhanā..kriyāstīti.
+..jīvati..prāṇān..dhārayati...
+YBh_3.17(143): teṣām..śabdārthapratyayānām..pravibhāgaḥ.
+YBh_3.17(143-144): tadyathā..śvetate..prāsāda..iti..kriyārthah,
+..śvetaḥ..prāsāda..iti..kārakārthaḥ..śabdah,
+..kriyākarakātmā..tadarthaḥ..pratyayaś..ca.
+YBh_4.17(144): kasmāt...so..+ayam..ity..abhisambandhād..ekākāra..eva..pratyayaḥ..saṃketa..iti.
+YBh_3.17(144): evam..tatpravibhāgasamyamād..yoginaḥ..sarvabhūtarutajñānam..sampadyata..iti.
+YS_3.18(144): saṃskārasākṣātkaraṇāt..pūrvajātijñānam.
+YBh_3.18(144): te..pūrvabhavābhisaṃskṛtāḥ..pariṇāmaceṣṭānirodhaśaktijīvanadharmavad..aparidṛṣṭāś..cittadharmāḥ.
+YBh_3.18(144-145): teṣu..samyamaḥ..saṃskārasākṣātkriyāyai..samarthaḥ.
+YBh_3.18(145): na..ca..deśakālanimittanubhavair..vinā..teṣām..asti..sākṣātkaraṇam.
+YBh_3.18(145): tad..ittham..saṃskārasākṣātkaraṇāt..pūrvajātijñānam..utpadyate..yoginaḥ.
+YBh_3.18(145): paratrāpi+..evam..eva..saṃskārasākṣātkaraṇāt..parajātisaṃvedanam.
+YBh_3.18(145): atra..+..idam..ākhyānam..śrūyate..
+YBh_3.18(145): yad..idam..āyus-mataḥ..pradhānavaśitvam..anuttamam..ca..saṃtoṣasukham..kim..idam..api..duhkhapakṣa..nikṣiptam..iti.
+YBh_3.18(145): tṛṣṇāduhkhasaṃtāpāpagamāt..tu..prasannam..abādham..sarvānukūlam..sukham..idam..uktam..iti.
+YS_3.19(146): pratyayasya..paracittajñānam.
+YS_3.20(146): na..ca..tatsālambanam..tasyāviṣayībhūtatvāt.
+YBh_3.19(146): etena..śabdādi-antardhānam..uktam..veditavyam.
+YS_3.22(147): sa-upakramam..nirupakramam..ca..karma..tatsamyamād..aparāntajñānam..ariṣṭa-bhyo..vā.
+YBh_3.22(147): āyus-vipākam..karma..dvividham..sa-upakramam..nirupakramam..ca.
+YBh_3.22(147): yathā..ca..tad..eva..sampiṇḍitam..cireṇa..saṃśuṣyed..evam..nirupakramam.
+YBh_3.22(147): tadā..+..ekabhavikam..āyus-karam..karma..dvividham..sa-upakramam..nirupakramam..ca.
+YBh_3.22(147): tatsamyamād..aparāntasya..prāyaṇasya..jñānam.
+YBh_3.22(147): ariṣṭa-bhyo..vā..+..iti...trividham..ariṣṭam..ādhyātmikam..ādhibhautikam..ādhidaivikam..ca..+..iti...[adhyātman,
+..adhibhūta,..adhidaiva.]
+YBh_3.22(147): tathā..+..ādhibautikam..yamapuruṣān..paśyati,
+..pitṝn..atītān..akasmāt..paśyati.
+YBh_3.22(147): tathā..+..ādhidaivikam..svargam..akasmāt..siddhān..vā..paśyati.
+YBh_3.22(147): viparītam..vā..sarvam..iti...anena..vā..jānāty..aparāntam..upasthitam..iti.
+YS_3.23(147): maitrī-ādiṣu..balāni.
+YBh_3.23(148): bhāvanātaḥ..samādhir..yaḥ..sa..samyamas..tato..balāny..avandhyavīryāṇi..jāyante.
+YBh_3.23(148): tataś..ca..tasyām..nāsti..samādhir..ity..ato..na..balam..upekṣātas..tatra..samyamābhāvād..iti.
+YS_3.25(148): pravṛtti-ālokanyāsāt..sūkṣmavyavahitaviprakṛṣṭajñānam.
+YBh_3.26(149): tatprastāraḥ..[prastṛ?
+]..sapta..lokāḥ.
+YBh_3.26(149): iti..saṃgrahaślokaḥ.
+YBh_3.26(149): yatra..svakarma-upārjitaduhkhavedanāḥ..prāṇinaḥ..kaṣṭam..āyus+..dīrgham..ākṣipya..jāyante.
+YBh_3.26(149): tato..mahātalarasātalātalasutalavitalatalātalapātālākhyāni..sapta..pātālāni.
+YBh_3.26(149): bhūmir..iyam..aṣṭamī..saptadvīpā..vasumatī,
+YBh_3.26(146): tasya..rājatavaidūryasphaṭikahemamaṇimayāni..śṛṅgāṇi.
+..śvetaḥ..pūrvah,
+..svacchaḥ..paścimah,
+..kuraṇṭakābha..uttaraḥ.
+YBh_3.26(146): tasya..sūryapracārād..rātriṃdivam..lagnam..iva..vartate.
+YBh_3.26(146): tasya..nīlaśvetaśṛṅgavanta..udīcīnās..trayaḥ..parvatā..dvisāhasrāyāmāḥ.
+YBh_3.26(146): niṣedhahemakūṭahimaśailā..dakṣiṇato..dvisāhasrāyāmāḥ.
+YBh_3.26(147): tataś..ca..dviguṇā..dviguṇāḥ..śākakuśakrauñcaśālmalagomedha(plakṣa)
+..puṣkaradvīpāh,
+..samudrāś..ca..sarṣaparāśikalpāḥ..savicitraśailāvataṃsā..ikṣurasasurāsarpis-dadhimaṇḍakṣīrasvādūdakāḥ.
+YBh_3.26(147): sumerus..tridaśānām..udyānabhūmiḥ...tatra..miśravanam..nandanam..caitraratham..sumānasam..ity..udyānāni.
+YBh_3.26(147): sudharmā..devasabhā...sudarśanam..puram...vaijayantaḥ..prāsādaḥ.
+ YBh_3.26(148): māhendranivāsinaḥ..ṣaḍdevanikāyāḥ..--..tridaśā..agniṣvāttā..yāmyās..tuṣitā..aparinirmitavaśavartinaḥ..parinirmitavaśavartinaś..ca..+..iti. 
+YBh_3.26(152): tatra..+..acyutāḥ..savitarkadhyānasukhāh,
+..śuddhanivāsāḥ..savicāradhyānasukhāh,
+..satyābhā..ānandamātradhyānasukhāh,
+..saṃjñāsaṃjñinaś..cāsmitāmātradhyānasukhāḥ.
+YBh_3.26(152): ta..ete..sapta..lokāḥ..sarva..eva..brahmalokāḥ.
+..tato..+..anyatrāpi..evam..tāvad..abhyased..yāvad..idam..sarvam..dṛṣṭam..iti.....
+YBh_3.31(153): kūpād..adha..urasi..kūrmākārā..nāḍī,
+YS_3.33(154): prātibhād..vā..sarvam.
+YS_3.36(156): tataḥ..prātibhaśrāvaṇavedanādarśāsvādavārtā..jāyante.
+YBh_3.36(156): prātibhāt..sūkṣmavyavahitaviprakṛṣṭātītānāgatajñānam.
+YBh_3.36(156): śrāvaṇād..divyaśabdaśravaṇam...vedanād..divyasparśādhigamaḥ.
+YBh_3.36(156): ādarśād..divyarūpasaṃvit...āsvādād..divyarasasaṃvit...vārtāto..divyagandhavijñānam..ity..etāni..nityam..jāyante.
+YS_3.38(156): bandhakāraṇaśaithilyāt..pracārasaṃvedanāc..ca..cittasya..paraśarīrāveśaḥ.
+YBh_3.38(157): nikṣiptam..cittam..ca..+..indriyāṇy..anupatanti.
+YS_3.39(157): uddānajayāj..jalapaṅkakaṇṭakādiṣv..asaṅga..utkrāntiś..ca.
+YBh_3.39(157): samasta-indriyavṛttiḥ..prāṇādilakṣaṇā..jīvanam,
+..tasya..kriyā..pañcatayī..prāṇo..mukhanāsikāgatir..āhṛdayavṛttiḥ.
+YBh_3.39(157): samam..nayanāt..samānaś..cānābhivṛttiḥ.
+ YBh_3.39(158): eṣām..pradhānam..prāṇaḥ...udānajayāj..jalapaṅkakaṇṭakādiṣv..asaṅga..utkrāntiś..ca..prāyaṇakāle..bhavati...tām..vaśitvena..pratipadyate. 
+YS_3.40(158): samānajayāj..javalanam.
+YBh_3.40(158): jitasamānas..tejasa..upadhmānam..kṛtvā..jvalayati.
+YS_3.41(158): śrotrākāśayoḥ..sambandhasamyamād..divyam..śrotram.
+ YBh_3.41(158-159): sarvaśrotrāṇām..ākāśam..pratiṣṭhā..sarvaśabdānām..ca...yathā..+..uktam..--..tulyadeśaśravaṇānām..ekakdeśaśrutitvam..sarveṣām..bhavatīti...tac..caitad..ākāśasya..liṅgam. 
+YBh_3.41(159): anāvaraṇam..ca..+..uktam...tathāmūrtasyānāvaraṇadarśanād..vibhutvam..api..prakhyātam..ākāśasya.
+YBh_3.41(159): śabdagrahaṇānumitam..śrotram...[anu-mā]
+YS_3.43(160): bahirakalpitā..vṛttir..mahāvidehā..tataḥ..prakāśāvaraṇakṣayaḥ.
+ YBh_3.43(160): yā..tu..śarīranirapekṣā..bahirbhūtasyaiva..manaso..bahirvṛttiḥ..sā..khalv..akalpitā...tatra..kalpitayā..sādhayanty..akalpitām..mahāvidehām..iti. 
+YBh_3.43(160): yayā..paraśarīrāṇy..āviśanti..yoginah,
+YS_3.44(161): sthūlasvarūpasūkṣmānvayārthavattvasamyamād..bhūtajayaḥ.
+YBh_3.44(162): asya..sāmānyasya..śabdādayo..viśeṣāḥ...tathā..ca..+..uktam..--..ekajātisamanvitānām..eṣām..dharmamātravyāvṛttir..iti.
+YBh_3.44(163): sa..ca..bhedābhedavivakṣitaḥ...āṃrāṇām..vanam..brāhmaṇānām..saṃgha..āṃravaṇam..brāhmaṇasaṃgha..iti.
+YBh_3.44(163-164): atha..kim..eṣām..sūkṣmarūpam,
+..tanmātram..bhūtakāranam,
+YBh_3.44(164): atha..+..eṣām..pañcamam..rūpam..arthavattvam,
+YS_3.45(164): tato..+..aṇimādiprādurbhāvaḥ..kāyasampat..taddharmānabhighātaś..ca.
+YBh_3.45(164): tatrāṇimā..bhavaty..aṇuḥ...laghimā..laghur..bhavati...mahimā..mahān..bhavati.
+..śilām..apy..anuviśatīti.
+YS_3.46(165): rūpalāvaṇyabalavajrasaṃhananatvāni..kāyasampat.
+YS_3.47(166): grahaṇasvarūpāsmitānvayārthavattvasamyamād..indriyajayaḥ.
+ YBh_3.47(166): tasya..sāmānyasya..+..indriyāṇi..viśeṣāḥ...caturtham..rūpam..vyavasāyātmakāḥ..prakāśakriyāsthitiśīlā..guṇā..yeṣām..indriyāṇi..sāhaṃkārāṇi..pariṇāmaḥ. 
+ YBh_3.47(166): pañcasv..eteṣv..indriyarūpeṣu..yathākramam..samyamas..tatra..tatra..jayam..kṛtvā..pañcarūpajayād..indriyajayaḥ..prādurbhavati..yoginaḥ. 
+YS_3.48(167): tato..manojavitvam..vikaraṇabhāvaḥ..pradhānajayaś..ca.
+YS_3.49(167): sattvapuruṣānyatākhyātimātrasya..sarvabhāvādhiṣṭhātṛtvam..sarvajñātṛtvam..ca.
+ YBh_3.50(168): evam..asya..tato..virajyamānasya..yāni..kleśabījāni..dagdhaśālibījakalpāny..aprasavasamarthāni..tāni..saha..manasā..pratyastam..gacchanti. 
+YS_3.52(170): kṣaṇatatkramayoḥ..samyamād..vivekajam..jñānam.
+ YBh_3.52(171): tatkṣaṇa-upārūḍhāḥ..khalv..amī..sarve..dharmāḥ...tayoḥ..kṣaṇatatkramayoḥ..samyamāt..tayoḥ..sākṣātkaraṇam...tataś..ca..vivekajam..jñānam..prādurbhavati. 
+YBh_3.53(171): tasya..viṣayaviśeṣa..upakṣipyate..
+ YBh_3.53(173): kṣaṇabhedas..tu..yogibuddhigamya..eva..+..iti...ata..uktam..mūrtivyavadhijātibhedābhāvān..nāsti..mūlapṛthaktvam..iti..vārṣagaṇyaḥ. 
+YS_3.54(174): tārakam..sarvaviṣayam..sarvathāviṣayam..akramam..ca..+..iti..vivekajam..jñānam.
+YBh_3.54(174): tārakam..iti..svapratibhā-uttham..anaupadeśikam..ity..arthaḥ...sarvaviṣayam..nāsya..kiṃcid..aviṣayībhūtam..ity..arthaḥ.
+YBh_3.54(174): sarvathāviṣayam..atītānāgatapratyutpannam..sarvam..paryāyaiḥ..sarvathā..jānātīty..arthaḥ.
+YBh_3.55(174): prāptavivekajajñānasyāprāptavivekajajñānasya..vā..
+ YBh_3.55(175): yadā..nirdhūtarajastamas-malam..buddhisattvam..puruṣasyānyatāpratītimātrādhikāram..dagdhakleśabījam..bhavati..tadā..puruṣasya..buddhisārūpyam..ivāpannam..bhavati, 
+..tadā..puruṣasya..+..upacaritabhogābhāvaḥ..śuddhiḥ.
+YBh_3.55(175): etasyām..avasthāyām..kaivalyam..bhavatīśvarasyānīśvarasya..vā..vivekajajñānabhāgina..itarasya..vā.
+YBh_3.55(175): tatpuruṣasya..kaivalyam,
+YBh_4.1(176): tapasā..saṃkalpasiddhih,
+YBh_4.2(177): tatra..kāya-indriyāṇām..anyajātīyapariṇatānām..
+YS_4.2(177): jāti-antarapariṇāmaḥ..prakṛti-āpūrāt..
+YBh_4.2(177): pūrvapariṇāmāpāya..uttarapariṇāma-upajanas..teṣām..apūrvāvayavānupraveśād..bhavati.
+YS_4.3(177): nimittam..aprayojakam..prakṛtīnām..varaṇabhedas..tu..tatāḥ..kṣetrikavat.
+..varaṇabhedas..tutataḥ..kṣetrikavat.
+ YBh_4.3(178): yathā..vā..sa..eva..kṣetrikas..tasminn..eva..kedāre..na..prabhavati+..audakān..bhaumān..vā..rasān..dhānyamūlāni+..anupraveśayitum, 
+..kim..tarhi..mudgagavedhukaśyāmākādīṃs..tato..+apakarṣati.
+YBh_4.3(178): apakṛṣṭeṣu..teṣu..svayam..eva..rasā..dhānyamūlāni+..anupraviśanti,
+..śuddhi-aśuddi-yor..atyantavirodhāt,
+YS_4.4(178): nirmāṇacittāny..asmitāmātrāt..
+YBh_4.4(178): asmitāmātram..cittakāraṇam..upādāya..nirmāṇacittāni..karoti,
+..tataḥ..sacittāni..bhavantīti.
+YS_4.5(179): pravṛttibhede..prayojakaṃ..cittam..ekam..anekeṣām
+YBh_4.5(179): bahūnām..cittānām..katham..ekacittābhiprāyapurahsarā..pravṛttir..iti..sarvacittānām..prayojakam..cittam..ekam..nirmimīte,
+..tataḥ..pravṛttibhedaḥ.
+YS_4.6(179): tatra..dhyānajam..anāśayam.
+YBh_4.7(180): yataḥ..
+YS_4.7(180): karmāśuklākṛṣṇam..yoginas..trividham..itareṣām..
+YBh_4.7(180): catuṣpadī..khalv..iyam..karmajātiḥ...kṛṣṇā..śuklakṛṣṇā..śuklāśuklākṛṣṇā..ca..+..iti.
+YBh_4.7(180): tatra..kṛṣṇā..durātmanām,
+..śuklakṛṣṇā..bahihsādhanasādhyā.
+YBh_4.7(180): tatra..parapīḍānugrahadvārenaiva..karmāśayapracayaḥ...śuklā..tapas-svādhyāyadhyānavatām.
+ YBh_4.7(180): aśuklākṛṣṇā..samnyāsinām..kṣīṇakleśānām..carmadehānām..iti...tatrāśuklam..yogina..eva..phalasamnyāsad..akṛṣṇam..cānupādānāt...itareṣām..tu..bhūtānām..pūrvam..eva..trividham..iti. 
+YS_4.8(180): tatas..tadvipākānuguṇānām..evābhivyaktir..vāsanānām.
+YBh_4.8(181): tata..iti..trividhāt..karmanah,
+..tadvipākānuguṇānām..eveti..yajjātīyasya..karmaṇo..yo..vipākas..tasyānuguṇā..yā..vāsanāḥ..karmavipākam..anuśerate..tāsām..evābhivyaktiḥ.
+YS_4.9(181): jātideśakālavyavahitānām..apy..ānantaryam..smṛtisaṃskārayor..ekarūpatvāt.
+YBh_4.9(181): vṛṣadaṃśavipākodayaḥ..svavyañjakāñjanābhivyaktaḥ.
+YBh_4.9(181): kasmāt,..yato..vyavahitānām..apy..āsām..sadṛśam..karmābhivyajñakam..nimittībhūtam..[nimitta]..ity..ānantaryam..eva...
+YBh_4.9(181): kutaś..ca,..smṛtisaṃskārayor..ekarūpatvāt...yathānubhavās..tathā..saṃskārāḥ.
+YBh_4.9(182): te..ca..karmavāsanānurūpāḥ...yathā..ca..vāsanās..tathā..smṛtir..iti..jātideśakālavyavahita-bhyaḥ..saṃskāra-bhyaḥ..smṛtiḥ.
+YS_4.10(182): tāsām..anāditvam..cāśiṣo..nityatvāt.
+ YBh_4.10(182): tāsām..vbāsanānām..āśiṣo..nityatvād..anāditvam...yeyam..ātmāśīr..mā..na..bhūvam..bhūyāsam..iti....sarvasya..dṛśyate..sā..na..svābhāvikī. 
+ YBh_4.10(183): tasmād..anādivāsanānuviddham..idam..cittam..nimittavaśāt..kāścid..eva..vāsanāḥ..pratilabhya..puruṣasya..bhogāya..+..upāvartata..iti. 
+ YBh_4.10(183): ghaṭaprāsādapradīpakalpam..saṃkocavikāsi..cittam..śarīraparimāṇākāramātram..ity..apare..pratipannāḥ...tathā..cāntarābhāvaḥ..saṃsāraś..ca..yukta..iti. 
+YBh_4.10(184): vṛttir..evāsya..vibhunaś..cittasya..saṃkocavikāsinīty..ācāryaḥ.
+YBh_4.10(184): tac..ca..dharmādinimittāpekṣam...nimittam..ca..dvividham..--..bāhyam..ādhyātmikam..ca.
+YBh_4.10(184): śarīrādisādhanāpekṣam..bāhyam..stutidānābhivādanādi,
+..cittamātrādhīnam..śraddhādi+..adhyātmikam.
+YBh_4.10(185): tayor..mānasam..balīyas+...
+YBh_4.11(185): phalam..tu..yam..āśritya..yasya..pratyutpannatā..dharmādeh,
+..na..hy..apūrva-upajanaḥ.
+YBh_4.11(185): yad..abhimukhībhūtam..vastu..yām..vāsanām..vyanakti..tasyās..tadālambanam.
+YBh_4.11(185): evam..hetuphalāśrayālambanair..etaiḥ..saṃgṛhītāḥ..sarvā..vāsanāḥ...eṣām..abhāve..tatsaṃśrayāṇām..api..vāsanānām..abhāvaḥ.
+YBh_4.12(186): nāsty..asataḥ..sambhavah,
+..na..cāsti..sato..vināśa..iti..dravyatvena..sambhavantyaḥ..katham..nivartiṣyante..vāsanā..iti..
+YS_4.12(186): atītānāgatam..svarūpatas+..asti+..adhvabhedād..dharmāṇām..
+YBh_4.12(186): bhaviṣyat-vyaktikam..anāgatam..anubhūtavyaktikam..atītam..svavyāpāra-upārūḍham..vartamānam,
+..trayam..caitad..vastu..jñānasya..jñeyam.
+YBh_4.12(186): yadi..caitat..svarūpatas+..nābhaviṣyat+..na..+..idam..nirviṣayam..jñānam..udapatsyata.
+YBh_4.12(186): tasmād..atītānāgatam..svarūpatas+..astīti.....
+..yat..tu..dṛṣṭipatham..prāptam..tan..māyā..+..iva..sutucchakam“..iti.
+YBh_4.14(188): yadā..tu..sarve..guṇāḥ..katham..ekaḥ..śabda..ekam..indriyam..iti..
+YS_4.14(188): pariṇāma-ekatvād..vastutattvam..
+YBh_4.15(190): kutaś..caitad..anyāyyam..
+YBh_4.15(191): bahucaittālambanībhūtam..[ālambana]..ekam..vastu..sādhāranam,
+..tat..khalu..naikacittaparikalpitam..nāpy..anekacittaparikalpitam..kiṃtu..svapratiṣṭham.
+YBh_4.15(191): nimitānurūpasya..ca..pratyayasya..+..utpadyamānasya..tena..tenātmanā..hetur..bhavati.
+YBh_4.15(191): kecid..āhuḥ..
+YS_4.16(192): na..ca..+..ekacittatantram..vastu..tadapramāṇakam..tadā..kim..syāt..
+YS_4.17(193): taduparāgāpekṣitvāc..cittasya..vastu..jñātājñātam.
+YBh_4.17(193): ayaskāntamaṇikalpā..viṣayā..ayas..+..sadharmakam..cittam..abhisambandhya(?)
+:+..uparañjanti.
+YBh_4.18(193): yasya..tu..tad..eva..cittam..viṣayas..tasya..
+YBh_4.19(194): syād..āśaṅkā..cittam..eva..svābhāsam..viṣayābhāsam..ca..bhaviṣyatīty..agnivat..--..
+YS_4.19(194): na..tat..svābhāsam..dṛśyatvāt...
+YBh_4.19(194): yathā..+..itarāṇīndriyāṇi..śabdādayaś..ca..dṛśyatvān..na..svābhāsāni..tathā..manas..+..api..pratyetavyam.
+YS_4.20(195): ekasamaya'..ca..+..ubhayānavadhāraṇam.
+..kṣaṇikavādino..yad..bhavanam..saiva..kriyā..tad..eva..ca..kārakam..ity..abhyupagamaḥ.
+YBh_4.21(196): smṛtisaṃkaraś..ca,
+..yāvantaḥ+..buddhibuddhīnām..anubhavās..tāvatyaḥ..smṛtayaḥ..prāpnuvanti.
+ YBh_4.21(196): tatsaṃkarāc..ca..+..ekasmṛti-anavadhāraṇam..ca..syād..ity..evam..buddhipratisaṃvedinam..[pratisaṃvedana]..puruṣam..apalapadbhir..vaināśikaiḥ..sarvam..evākulītṛtam. 
+YBh_4.22(197): katham..
+YBh_4.22(197): tathā..ca..+..uktam..
+YBh_4.23(197): ataś..caitad..abhyupagamyate..
+YS_4.23(197): dṛṣṭṛdṛśya-uparaktam..cittam..sarvārtham....
+ ..tad..etac..cittam..eva..draṣṭṛdṛśya-uparaktam..viṣayaviṣayinirbhāsam..cetanācetanasvarūpāpannam..viṣayātmakam..apy..aviṣayātmakam..ivācetanam..cetanam..iva..sphaṭikamaṇikalpam..sarvārtham..ity..ucyate. 
+YBh_4.23(198): anupampanīyās..te...kasmāt,
+..asti..hi..teṣām..bhrāntibījam..sarvarūpākāranirbhāsam..cittam..iti.
+ YBh_4.23(199): evam..grahītṛgrahaṇagrāhyasvarūpacittabhedāt..trayam..apy..etaj..jātitaḥ..pravibhajante..te..samyagdarśinas..tair..adhigataḥ..puruṣaḥ. 
+YBh_4.24(199): kutaś..ca..
+YS_4.24(199): tadasaṃkhyeyavāsanābhiś..citram..api..parārtham..saṃhati-kāritvāt....
+:na..svārtham..saṃhati-akāritvād..gṛhavat.
+..na..sukhacittam..sukhārtham..na..jñānam..jñānārtham..ubhayam..apy..etat..parārtham.
+YS_4.25(200): viśeṣadharśina..ātmabhāvabhāvanānivṛttiḥ...(-vinivṛttih?): (ḥ4.25,200)..
+YBh_4.25(200-201): sā..tu..viśeṣadarśino..nivartate...kutaḥ...cittasya..+..eva..+..eṣa..vicitraḥ..pariṇāmah,
+..puruṣas..tv..asatyām..avidyāyām..śuddhaś..cittadharmair..aparāmṛṣṭa..iti.
+YBh_4.25(201): tato..+..asyātmabhāvabhāvanā..kuśalasya..nivartata..iti.
+YS_4.26(201): tadā..vivekanimnam..kaivalyaprāgbhāram..cittam...
+ YBh_4.26(201): tadānīm..yad..asya..cittam..viṣayaprāgbhāram..ajñānanimnam..āsīt..tad..asyānyathā..bhavati..kaivalyaprāgbhāram..vivekajajñānanimnam..iti. 
+YS_4.28(201): hānam..eṣām..kleśavad..uktam.
+YBh_4.28(202): jñānasaṃskārās..tu..cittādhikārasamāptim..anuśerate..[anu-śī]..iti..an..cintyante.
+YS_4.30(202): tataḥ..kleśakarmanivṛttiḥ.
+YBh_4.30(202): tallābhād..avidyādayaḥ..kleśāḥ..samūlakāṣam..kaṣitā..bhavanti...kuśalākuśalāś..ca..karmāśayāḥ..samūlaghātam..hatā..bhavanti.
+YS_4.31(203): tadā..sarvāvaraṇamalāpetasya..jñānasyānantyāt+..jñeyam..alpam.
+YBh_4.31(203): sarvaiḥ..kleśakarmāvaraṇair..vimuktasya..jñānasyānantyam..bhavati.
+YBh_4.31(203): tatra..yadā..sarvair..āvaraṇamalair..apagatam..bhavati..tadā..bhavati+..asyānantyam.
+YBh_4.31(203-204): yatra..+..idam..uktam..
+YS_4.32(204): tataḥ..kṛtārthānām..pariṇāmakramasamāptir..guṇānām.
+ YBh_4.32(204): tasya..dharmameghasya..+..udayāt..kṛtārthānām..guṇānām..pariṇāmakramaḥ..parisamāpyate...na..hi..kṛtabhogāpavargāḥ..parisamāptakramāḥ..kṣaṇam..apy..avasthātum..utsahante. 
+YBh_4.33(204): dvayī..ca..+..iyam..nityatā..kūṭasthanityatā..pariṇāminityatā..ca.
+YBh_4.33(204): tatra..kūṭasthanityatā..puruṣasya...pariṇāminityatā..guṇānām.
+YS_4.34(207): puruṣārthaśūnyānām..guṇānām..pratiprasavaḥ..kaivalyam..svarūpapratiṣṭhā..vā..citiśaktir..iti.
+YBh_4.34(207): kṛtabhogāpavargāṇām..puruṣārthaśūnyānām..yaḥ..pratiprasavaḥ..kāryakāraṇātmakānām..guṇānām..tat..kaivalyam,
+..svarūpapratiṣṭhā..punar..buddhisattvānabhisambandhāt..puruṣasya..citiśaktir..eva..kevalā,
+..tasyāḥ..sadā..tathā..+..eva..+..avasthānam..kaivalyam..iti.
