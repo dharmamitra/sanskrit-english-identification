@@ -70,7 +70,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
                         let predictions = ftt.predict(&text, 3, 0.0).unwrap();
 
-                        if predictions.len() != 0 /* && &predictions[0].label != "__label__english" */ {
+                        if predictions.len() != 0 && &predictions[0].label == "__label__english" {
                             println!("{}: {:?}", path.file_name().unwrap().to_str().unwrap(), predictions);
                         }
                     }
