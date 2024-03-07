@@ -1,4 +1,3 @@
-use fasttext::{Args, ModelName, FastText};
 use aws_sdk_s3::Client;
 use std::collections::HashMap;
 use std::fs::OpenOptions;
@@ -8,6 +7,7 @@ use std::{fs::{self, File}, path::{Path, PathBuf}, io::BufReader};
 use std::{error::Error, result::Result};
 use crate::services::s3_service::upload_object;
 use fast_text::supervised;
+use chrono::prelude::*;
 
 use regex::Regex;
 
@@ -45,11 +45,10 @@ pub fn label_data(paths: &Vec<PathBuf>, new_directory: &str, label: &str, min: i
     preprocess_data(paths)?;
     let t: SystemTime = SystemTime::now();
     
-    let output_folder = Path::new(new_directory);
-    fs::create_dir_all(output_folder.to_str().expect("Expected valid directory"))?;
+    fs::create_dir_all(Path::new(new_directory).to_str().expect("Expected valid directory"))?;
 
     let mut output_path = PathBuf::new();
-    output_path.set_file_name(&format!("{}_processed.txt", label));
+    output_path.set_file_name(&format!("{}{}_processed.txt", new_directory, label));
     let file_name = &output_path.file_name().unwrap().to_str().unwrap();
 
     if output_path.exists() {
@@ -118,7 +117,7 @@ pub fn gen_ftt_word_vectors_local(paths_one: &Vec<PathBuf>, paths_two: &Vec<Path
 
     io::copy(&mut txt2, &mut txt1)?;
 
-    let model_path = &format!("model_{}-{}", label_one, label_two).to_string();
+    let model_path = &format!("{}model_{}-{}", new_directory, label_one, label_two).to_string();
 
     let mut args: HashMap<&str, &str> = HashMap::new();
     args.insert("input", text_file_path_one); // Path to the training file
@@ -131,53 +130,56 @@ pub fn gen_ftt_word_vectors_local(paths_one: &Vec<PathBuf>, paths_two: &Vec<Path
     Ok(())
 }
 
-pub async fn gen_ftt_word_vectors_cloud(paths: &Vec<PathBuf>, client: &Client, bucket_name: &str, objs_list: &Vec<String>, label: &str) -> Result<(), Box<dyn Error>> {
+pub async fn gen_ftt_word_vectors_cloud(paths_one: &Vec<PathBuf>, paths_two: &Vec<PathBuf>, client: &Client, bucket_name: &str, label_one: &str, label_two: &str, min: i64) -> Result<(), Box<dyn Error>> {
+    let binding_one = label_data(paths_one, "", &label_one, min)?;
+    let binding_two = label_data(paths_two, "", &label_two, min)?;
+
+    let text_file_path_one = binding_one.to_str().expect("Expected Value");
+    let text_file_path_two = binding_two.to_str().expect("Expected Value");
+
+    let mut txt1 = fs::OpenOptions::new()
+        .append(true)
+        .open(text_file_path_one)
+        .unwrap();
+    
+    let mut txt2 = fs::OpenOptions::new()
+        .read(true)
+        .open(text_file_path_two)
+        .unwrap();
+
+    io::copy(&mut txt2, &mut txt1)?;
+    
+    let time_formatted = Utc::now().to_rfc3339();
+
+    let model_path = format!("model_{}-{}-{}", label_one, label_two, time_formatted).to_string();
+
+    let mut args: HashMap<&str, &str> = HashMap::new();
+    args.insert("input", text_file_path_one); // Path to the training file
+    args.insert("output", &model_path); // Path to save the trained model
+    args.insert("epoch", "25"); // Number of training epochs
+    args.insert("lr", "0.1"); // Learning rate
+
+    supervised(&args);
+
+    println!("\nUploading file\n");
     let t: SystemTime = SystemTime::now();
 
-    let output_folder = Path::new("src/");
-    fs::create_dir_all(output_folder.to_str().expect("Expected valid directory"))?;
+    let mut path_bin = model_path.clone();
+    path_bin.push_str(".bin");
+    let mut path_vec = model_path.clone();
+    path_vec.push_str(".vec");
 
-    for path in paths {
-        let mut output_path = PathBuf::new();
-        output_path.set_file_name(&format!("{}_word_vector.bin", output_folder.join(path.file_stem().expect("Expected file name to be unwrapped")).to_str().expect("Expected output path").trim())); 
-        let file_name = output_path.file_name().unwrap().to_str().unwrap();
+    upload_object(&client, &bucket_name, &path_bin, &model_path).await;
 
-        if objs_list.contains(&file_name.to_string()) {
-            println!("File {} exists\n", file_name);
-            continue;
-        }
+    fs::remove_file(path_bin).expect("Panicked at output removal");
+    fs::remove_file(path_vec).expect("Panicked at output removal");
 
-        if fs::metadata(&path)?.len() < 10 {
-            continue;
-        }
+    fs::remove_file(text_file_path_one).expect("Panicked at output removal");
+    fs::remove_file(text_file_path_two).expect("Panicked at output removal");
 
-        let mut ftt = FastText::new();
-        let mut args_ftt = Args::new();
+    let elapsed = t.elapsed().expect("Expected time");
 
-        args_ftt.set_model(ModelName::CBOW);
-        args_ftt.set_input(&path.to_string_lossy()).expect("Expected valid input");
-        args_ftt.set_label(label)?;
-        args_ftt.set_qnorm(true);
-        args_ftt.set_cutoff(10000);
-        args_ftt.set_lr(0.1);
-        args_ftt.set_retrain(true);
-
-        ftt.train(&args_ftt)?;
-
-        let output_path_str = output_path.to_str().expect("Expected valid path");
-
-        ftt.save_model(output_path_str)?;
-
-        println!("\nUploading file\n");
-
-        upload_object(&client, &bucket_name, output_path_str, file_name).await;
-
-        fs::remove_file(&output_path).expect("Panicked at output removal");
-
-        let elapsed = t.elapsed().expect("Error with elapsed time");
-
-        println!("Time elapsed for {}: {}\n", file_name, elapsed.as_secs_f64());
-    }
+    println!("File uploaded after {} seconds at {} UTC", elapsed.as_secs_f64(), time_formatted);
 
     Ok(())
 }

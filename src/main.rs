@@ -12,8 +12,7 @@ use std::cmp;
 
 pub mod services;
 
-use services::fasttext_service::gen_ftt_word_vectors_local;
-use services::s3_service::get_list_objects;
+use services::fasttext_service::{gen_ftt_word_vectors_local, gen_ftt_word_vectors_cloud};
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
@@ -44,10 +43,8 @@ async fn main() -> Result<(), Box<dyn Error>> {
                         let shared_config = aws_config::defaults(BehaviorVersion::latest()).region(region_provider).load().await;
                         let client = Client::new(&shared_config);
                         let bucket_name = bucket_name.expect("Expected bucket name");
-            
-                        let _objs_list = get_list_objects(&client, &bucket_name).await?;
-                        todo!("Implement uploading word vectors to cloud");
-                        // gen_ftt_word_vectors_cloud(&paths, &client, &bucket_name, &objs_list, &vectors_command.label).await?;
+
+                        gen_ftt_word_vectors_cloud(&paths_one, &paths_two, &client, &bucket_name, &vectors_command.label_one, &vectors_command.label_two, min).await?;
                     }
                 }
                 TrainType::Model(_models_command) => {
