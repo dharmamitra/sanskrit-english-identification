@@ -4,7 +4,7 @@ use std::time::{SystemTime, Duration};
 use aws_sdk_s3::Client;
 use clap::Parser;
 use fasttext::FastText;
-use sanskrit_english_identification::{get_files_in_folder, CLIArgs, RunType, TrainType, RunSubcommand};
+use sanskrit_english_identification::{get_files_in_folder, CLIArgs, RunType, TrainType};
 use aws_config::meta::region::RegionProviderChain;
 use aws_config::{BehaviorVersion, Region};
 use std::fs;
@@ -13,6 +13,7 @@ use std::cmp;
 pub mod services;
 
 use services::fasttext_service::{gen_ftt_word_vectors_local, gen_ftt_word_vectors_cloud};
+use services::s3_service::get_model_cloud;
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
@@ -52,28 +53,54 @@ async fn main() -> Result<(), Box<dyn Error>> {
                 }
             }
         }
-        RunType::Run(run_command) => {
-            match run_command.command {
-                RunSubcommand::PredictVectors(vectors_command) => {
-                    let model_path = vectors_command.input_model;
-                    let input_files = vectors_command.input_files;
-                    let paths_files = get_files_in_folder(&input_files).unwrap();
-                    
-                    let mut ftt = FastText::new();
-                    ftt.load_model(&model_path)?;
-                    
-                    for path in paths_files {
-                        let text = fs::read_to_string(&path).unwrap();
+        RunType::PredictOnVectors(vectors_command) => {
+            let input_files = vectors_command.input_files;
+            let paths_files = get_files_in_folder(&input_files).unwrap();
+            let bucket_name = vectors_command.bucket_name;
+            
+            if vectors_command.input_model.is_some() {
+                let model_path = vectors_command.input_model.expect("Expected input model");
 
-                        let predictions = ftt.predict(&text, 3, 0.0).unwrap();
+                let mut ftt = FastText::new();
+                ftt.load_model(&model_path)?;
+                
+                for path in paths_files {
+                    let text = fs::read_to_string(&path).unwrap();
 
-                        if predictions.len() != 0 && &predictions[0].label == "__label__english" {
-                            println!("{}: {:?}", path.file_name().unwrap().to_str().unwrap(), predictions);
-                        }
+                    let predictions = ftt.predict(&text, 3, 0.0).unwrap();
+
+                    if predictions.len() != 0 && &predictions[0].label == "__label__english" {
+                        println!("{}: {:?}", path.file_name().unwrap().to_str().unwrap(), predictions);
                     }
-                },
+                }
+            } else if vectors_command.model_key.is_some() {
+                let model_key = vectors_command.model_key.expect("Expected input model");
+
+                let region_provider = RegionProviderChain::first_try(Region::new("us-east-1"));
+                let shared_config = aws_config::defaults(BehaviorVersion::latest()).region(region_provider).load().await;
+                let client = Client::new(&shared_config);
+                let bucket_name = bucket_name.expect("Expected bucket name");
+
+                get_model_cloud(&client, &bucket_name, &model_key).await?;
+
+                let mut ftt = FastText::new();
+                ftt.load_model(&model_key)?;
+                
+                for path in paths_files {
+                    let text = fs::read_to_string(&path).unwrap();
+
+                    let predictions = ftt.predict(&text, 3, 0.0).unwrap();
+
+                    if predictions.len() != 0 && &predictions[0].label == "__label__english" {
+                        println!("{}: {:?}", path.file_name().unwrap().to_str().unwrap(), predictions);
+                    }
+                }
+
+                fs::remove_file(model_key)?;
+            } else {
+                panic!("Neither bucket nor input file given - exiting");
             }
-        }
+        },
     }
 
     let elapsed: Duration = t.elapsed().expect("Error with elapsed time");

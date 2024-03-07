@@ -3,8 +3,10 @@ use aws_sdk_s3::types::{CompletedMultipartUpload, CompletedPart};
 use aws_sdk_s3::Client;
 use aws_smithy_types::byte_stream::{ByteStream, Length};
 use std::error::Error;
+use std::io::Write;
 use std::path::Path;
 use std::str;
+use std::fs::{self, File};
 
 const CHUNK_SIZE: u64 = 1024 * 1024 * 30;
 const MAX_CHUNKS: u64 = 10000;
@@ -117,4 +119,29 @@ pub async fn get_list_objects(client: &Client, bucket: &str) -> Result<Vec<Strin
     }
 
     Ok(list_names)
+}
+
+pub async fn get_model_cloud(client: &Client, bucket_name: &str, model_key: &str) -> Result<(), Box<dyn Error>> {
+    let paths = fs::read_dir("./").unwrap();
+
+    for path in paths {
+        if path.unwrap().file_name() == model_key {
+            return Ok(());
+        }
+    }
+
+    let mut file = File::create(model_key)?;
+
+    let mut object = client
+        .get_object()
+        .bucket(bucket_name)
+        .key(model_key)
+        .send()
+        .await?;
+
+    while let Some(bytes) = object.body.try_next().await? {
+        file.write_all(&bytes)?;
+    }
+
+    Ok(())
 }

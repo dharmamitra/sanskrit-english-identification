@@ -23,7 +23,7 @@ pub struct CLIArgs {
 #[derive(Debug, Subcommand)]
 pub enum RunType {
     Train(TrainCommand),
-    Run(RunCommand)
+    PredictOnVectors(VectorsPredictCommand)
 }
 
 #[derive(Debug, Args)]
@@ -65,20 +65,13 @@ pub struct VectorsCommand {
 }
 
 #[derive(Debug, Args)]
-pub struct RunCommand {
-    #[clap(subcommand)]
-    pub command: RunSubcommand
-}
-
-#[derive(Debug, Subcommand)]
-pub enum RunSubcommand {
-    PredictVectors(VectorsPredictCommand)
-}
-
-#[derive(Debug, Args)]
 pub struct VectorsPredictCommand {
     #[clap(short, long, value_parser = clap::builder::NonEmptyStringValueParser::new())]
-    pub input_model: String,
+    pub input_model: Option<String>,
+    #[clap(short, long, value_parser = clap::builder::NonEmptyStringValueParser::new())]
+    pub model_key: Option<String>,
+    #[clap(short, long, value_parser = clap::builder::NonEmptyStringValueParser::new())]
+    pub bucket_name: Option<String>,
     #[clap(short='l', long="local-directory", value_parser = clap::builder::NonEmptyStringValueParser::new())]
     pub input_files: String,
 }
