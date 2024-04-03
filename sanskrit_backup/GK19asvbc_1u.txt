@@ -1,0 +1,2589 @@
+The four padas are marked: 1: $ 2: & 3: %
+4: // n.n // **************************************************************************
+{author} [A/svagho.sa]
+{editor} Johnston, E. H.
+{title} The Buddhacarita: Or,
+Acts of the Buddha. Part I -- Sanskrit Text
+{imprint}
+{publ.city} Calcutta
+{publisher} Baptist Mission Press
+{publ.date} 1935
+{citn.detail} 21, 165 pp.
+{series} Panjab University Oriental Publications No. 31
+{\imprint}
+{\source.description}
+{source.description}
+{author} [A/svagho.sa]
+{editor} Cowell, Edward B.
+{title} The Buddha--Karita or Live of Buddha by Asvaghosha,
+Indian poet of the early second century after Christ. Sanskrit
+text, edited from a Devanagari and two Nepalese manuscripts with
+variant readings,
+a preface,
+notes and in index of names.
+{imprint}
+{publ.city} Amsterdam (orig. Oxford)
+{publisher} Oriental Press NV (orig. Oxford University Press)
+{publ.date} 1970 (orig. 1893)
+{citn.detail} 16, 175 pp.
+{series} Anecdota Oxoniensia,
+Aryan Series,Part VII
+{editorial.notes}
+Annotations,
+remarks etc. by the editor of the transliteration
+are enclosed in square brackets.
+Annotations by the editor(s)
+of the edition which served as
+source of the transliteration (e..g. conjectures,
+markers for
+lacunae etc.)
+which are part of the printed edition are enclosed
+in pointed parentheses.
+{\editorial.notes}
+{colophons}
+Colophons which are part of the printed edition are enclosed by
+double square brackets.
+{\colophons}
+{variae.lectiones}
+{variants}
+The beginning of the passage for which a variant exists is marked
+by opening parenthesis. In deciding about the extension of the
+text thus marked,
+the changes generated for the text format had
+to be taken into consideration. This meant that occasionally
+words which are identical in the base text and in the variant are
+included in the parentheses,
+since in the text format (sa.mhita)
+the beginning of a variant could not be printed if that word is
+joined to the preceding word in vowel sandhi. Thus we write “...
+(mah-a+-atm-a Xmah-a+puru.sa.h)
+...“, even though the “mah-a+” is
+identical in both versions.
+The beginning of the variant is marked by a siglum, viz. by a
+single capital letter (capital letters are used exclusively for
+that purpose in the transliteration)
+. Several sigla are separated
+by a comma (no blank)
+-- which does not occur in this file of
+course. There is no blank between the siglum and the variant.
+If there are several variants for the same passage of the base
+text, they are listed sequentially. The variant (or the last
+variant if there is more than one)
+is closed by the closing
+parenthesis. The blank before the next word is considered to
+belong to the variant and is put inside the parentheses. The
+continuation of the base text follows without intermediate blank.
+Schematic pattern:
+(... A... )...
+(... A,B... )...
+(... A... B... )...
+{\variants}
+{interpolations}
+Interpolations are treated as “variants without base text“, i..e.
+siglum follows immediately upon the opening parenthesis. The
+siglum is repeated before the closing parenthesis which marks the
+end of the interpolation. This allows for the input of variants
+within interpolations which are attested in more than one source.
+Long interpolations may be entered as a sequence of separate
+interpolations (e..g. verse by verse)
+. Interpolated lines are
+(may be) marked by “X” at the beginning of the line (which is
+meant to mark “star“--passages as e..g. in the criticial edition
+of the MBh).
+{\interpolations}
+{omissions}
+Passages from the base text which are omitted in any of the
+variant texts are marked by double parentheses plus siglum
+enclosing the omitted passage (which may also be individual
+words).
+Schematic patterns:
+((S... S))
+... ((S... S))...
+{\omissions}
+{\variae.lectiones}
+{\analysis}
+{reference.system}
+The full reference (chapter and verse)
+is given at the end of the
+verse to which it refers. (While transliterating the full
+reference needs to be typed only for the first verse of each
+chapter.) The reference consists of two figures separated by a
+(single) dot. The first number refers to the chapter, the second
+number refers to the verse--number within the chapter.
+The beginning of references is marked by double exclamation mark
+(i..e. da.n.da) and the end is marked by a single exclamation
+mark. Always after a reference a new line begins.
+{revision.history}
+{who} Peter Schreiner
+{\who}
+{date} October 1989 to February 1990
+{\date}
+{what} transliteration,
+entry of variants;
+cursory proof--reading
+{\what}
+{\revision.history}
+{\TEI.header}
+{text}
+{\text}
+X(C śriyaṃ parārdhyāṃ vidadhad vidhātṛjit $ tamo nirasyann abhibhūtabhānubhṛt &
+Xnudan nidāghaṃ jitacārucandramāḥ % sa vandyate 'rhann iha yasya nopamā C) // 1.1 //
+X(Cāsīd viśālonnatasānulakṣmyā $ payodapaṅktyeva parītapārśvaṃ &
+Xudagradhiṣṇyāṃ gagane 'vagāḍhaṃ % puraṃ maharṣeḥ kapilasya vastu C) // 1.2 //
+X(Csitonnateneva nayena hṛtvā $ kailāsaśailasya yad abhraśobhām &
+Xbhramād upetān vahadambuvāhān % saṃbhāvanāṃ vā saphalīcakāra C) // 1.3 //
+X(Cratnaprabhodbhāsini yatra lebhe $ tamo na dāridryam ivāvakāśam &
+Xparārdhyapauraiḥ sahavāsatoṣāt % kṛtasmitevātirarāja lakṣmīḥ C) // 1.4 //
+tasmin vane śrīmati rājapatnī $ prasūtikālaṃ samavekṣamāṇā &
+śayyāṃ vitānopahitāṃ prapede % nārīsahasrair abhinandyamānā // 1.8 //
+tataḥ prasannaś ca babhūva puṣyas $ tasyāś ca devyā vratasaṃskṛtāyāḥ &
+pārśvāt suto lokahitāya jajñe % nirvedanaṃ caiva nirāmayaṃ ca // 1.9 //
+X[Verse 1.9 corresponds to 1.25 in ed. Cowell.]
+ūror yathaurvasya pṛthoś ca hastān $ māndhātur indrapratimasya mūrdhnaḥ &
+kakṣīvataś caiva bhujāṃsadeśāt % tathāvidhaṃ tasya babhūva janma // 1.10 //
+X(Cprātaḥ payodād iva tigmabhānuḥ $ samudbhavan so 'pi ca ma-tṛkukṣeḥ &
+Xsphuran mayūkhair vihatāndhakāraiś % cakāra lokaṃ kanakāvadātam C) // 1.26 //
+X(Ctaṃ jātamātram atha kāñcanayūpagauraṃ $ prītaḥ sahasranayaṇaḥ śanakair gṛhṇāt &
+Xmandārapuṣpanikaraiḥ saha tasya mūrdhni % khān nirmale ca vinipetatur ambudhāre C) // 1.27 //
+X(Csurapradhānaiḥ paridhāryamāṇo $ dehāṃśujālair anurañjayaṃs tān &
+Xsaṃdhyābhrajāloparisaṃniviṣṭaṃ % navoḍurājaṃ vijigāya lakṣmyā C) // 1.28 //
+krameṇa garbhād abhiniḥsṛtaḥ san $ babhau (cyutaḥ Cgataḥ )
+khād iva yonyajātaḥ &
+kalpeṣv an(ekeṣu ca Cekeṣv iva )
+bhāvitātmā % yaḥ saṃprajānan suṣuve na mūḍhaḥ // 1.11 //
+dīptyā ca dhairyeṇa (ca yo Cśriyā )
+rarāja $ bālo ravir bhūmim ivāvatīrṇaḥ &
+tathātidīpto 'pi nirīkṣyamāṇo % jahāra cakṣūṃṣi yathā śaśāṅkaḥ // 1.12 //
+sa hi svagātraprabhayojjvalantyā $ dīpaprabhāṃ bhāskaravan mumoṣa &
+mahārhajāmbūnadacāruvarṇo % vidyotayām āsa diśaś ca sarvāḥ // 1.13 //
+(anākulānyubjaCanākulāny abja)
+samudgatāni $ (niṣpeṣavadvyāyataCniṣpeṣavanty āyata)vikramāṇi &
+tathaiva dhīrāṇi padāni sapta % saptarṣitārāsadṛśo jagāma // 1.14 //
+bodhāya jāto 'smi jagaddhitārtham $ antyā (bhavotpattir Ctathotpattir )
+iyaṃ mameti &
+caturdiśaṃ siṃhagatir vilokya % vāṇīṃ ca bhavyārthakarīm uvāca // 1.15 //
+khāt prasrute candramarīciśubhre $ dve vāridhāre śiśiroṣṇavīrye &
+(śarīrasaṃsparśasukhāntarāya Cśarīrasaukhyārtham anuttarasya % nipetatur mūrdhani tasya saumye // 1.16 //
+śrīmadvitāne kanakojjvalāṅge $ vaiḍūryapāde śayane śayānam &
+yadgauravāt kāñcanapadmahastā % yakṣādhipāḥ saṃparivārya tasthuḥ // 1.17 //
+( ca Cmāyātanūjasya )
+divaukasaḥ khe $ yasya prabhāvāt praṇataiḥ śirobhiḥ &
+ādhārayan pāṇdaram ātapatraṃ % bodhāya jepuḥ paramāśiṣaś ca // 1.18 //
+mahoragā dharmaviśeṣatarṣād $ buddheṣv atīteṣu kṛtādhikārāḥ &
+yam avyajan bhaktiviśiṣṭanetrā % mandārapuṣpaiḥ samavākiraṃś ca // 1.19 //
+tathāgatotpādaguṇena tuṣṭāḥ $ śuddhādhivāsāś ca viśuddhasattvāḥ &
+devā nanandur vigate 'pi rāge % magnasya duḥkhe jagato hitāya // 1.20 //
+(yasya prasūtau Cyasmin prasūte )
+girirājakīlā $ vātāhatā naur iva bhūś cacāla &
+sacandanā cotpalapadmagarbhā % papāta vṛṣṭir (gaganād Cgagaṇād )anabhrāt // 1.21 //
+vātā vavuḥ sparśasukhā manojñā $ divyāni vāsāṃsy avapātayantaḥ &
+sūryaḥ sa evābhyadhikaṃ cakāśe % jajvāla saumyārcir anīrito 'gniḥ // 1.22 //
+prāguttare cāvasathapradeśe $ kūpaḥ svayaṃ prādur abhūt sitāmbuḥ &
+antaḥpurāṇy āgatavismayāni % yasmin kriyās tīrthae iva pracakruḥ // 1.23 //
+dharmārthibhir bhūtagaṇaiś ca divyais $ taddarśanārthaṃ (vanam āpupūre Cbalam āpa pūraḥ ) &
+kautūhalenaiva ca pāda(pebhyaḥ Cpaiś ca )
+% (puṣpāṇy akāle 'pi Cprapūjayām āsa sagandhapuṣ.paiḥ ) // 1.24 // &
+nidarśanāny atra ca no nibodha // 1.40 //
+yad rājaśāstraṃ bhṛgur aṅgirā vā $ na cakratur vaṃśakarāv ṛṣī tau &
+tayoḥ sutau saumya sasarjatus tat % kālena śukraś ca bṛhaspatiś ca // 1.41 //
+sārasvataś cāpi jagāda naṣṭaṃ $ vedaṃ punar yaṃ dadṛśur na pūrve &
+vyāsas tathainaṃ bahudhā cakāra % na yaṃ vasiṣṭhaḥ kṛtavān aśaktiḥ // 1.42 //
+vālmīkir ādau ca sasarja padyaṃ $ jagrantha yan na cyavano maharṣiḥ &
+cikitsitaṃ yac ca cakāra nātriḥ % paścāt tad ātreya ṛṣir jagāda // 1.43 //
+yac ca dvijatvaṃ kuśiko na lebhe $ tad gādhinaḥ sūnur avāpa rājan &
+velāṃ samudre sagaraś ca dadhre % nekṣvākavo yāṃ prathamaṃ babandhuḥ // 1.44 //
+ācāryakaṃ yogavidhau dvijānām $ aprāptam anyair janako jagāma &
+khyātāni karmāṇi ca yāni śaureḥ % śūrādayas teṣv abalā babhūvuḥ // 1.45 //
+tasmāt pramāṇaṃ na vayo na (vaṃśaḥ Ckālaḥ $ kaścit kvacic chraiṣṭhyam upaiti loke &
+rājñām ṛṣīṇāṃ ca (hi tāni Chitāni )
+tāni % kṛtāni putrair akṛtāni pūrvaiḥ // 1.46 //
+evaṃ nṛpaḥ pratyayitair dvijais tair $ āśvāsitaś cāpy abhinanditaś ca &
+śaṅkām aniṣṭāṃ vijahau manastaḥ % praharṣam evādhikam āruroha // 1.47 //
+prītaś ca tebhyo dvijasattamebhyaḥ $ satkārapūrvaṃ pradadau dhanāni &
+bhūyād ayaṃ bhūmipatir yathokto % yāyāj jarām etya vanāni ceti // 1.48 //
+atho nimittaiś ca tapobalāc ca $ taj janma janmāntakarasya buddhvā &
+śākyeśvarasyālayam ājagāma % saddharmatarṣād asito maharṣiḥ // 1.49 //
+taṃ brahmavidbrahma(vidaṃ Cvidāṃ )
+jvalantaṃ $ brāhmyā śriyā caiva tapaḥśriyā ca &
+rājño gurur gauravasatkriyābhyāṃ % praveśayām āsa narendrasadma // 1.50 //
+sa pārthivāntaḥpurasaṃnikarṣaṃ $ kumārajanmāgataharṣa(vegaḥ Cvegaṃ ) //
+viveśa dhīro (vanasaṃjñayeva Cbalasaṃjñayaiva % tapaḥprakarṣāc ca jarāśrayāc ca // 1.51 //
+tato nṛpas taṃ munim āsanasthaṃ $ pādyārghyapūrvaṃ pratipūjya samyak &
+nimantrayām āsa yathopacāraṃ % purā vasiṣṭhaṃ sa ivāntidevaḥ // 1.52 //
+dhanyo 'smy anugrāhyam idaṃ kulaṃ me $ yan māṃ didṛkṣur bhagavān upetaḥ &
+ājñāpyatāṃ kiṃ karavāṇi saumya % śiṣyo 'smi viśrambhitum arhasīti // 1.53 //
+evaṃ nṛpeṇopamantritaḥ san $ sarveṇa bhāvena munir yathāvat &
+(sa vismayotphullaCsavismayotphulla)
+viśāladṛṣṭir % gambhīradhīrāṇi vacāṃsy uvāca // 1.54 //
+mahātmani tvayy upapannam etat $ priyātithau tyāgini dharmakāme &
+sattvānvayajñānavayoanurūpā % snigdhā yad evaṃ mayi te matiḥ syāt // 1.55 //
+etac ca tad yena nṛparṣayas te $ dharmeṇa (sūkṣmeṇa dhanāny avāpya Csūkṣmāṇi dhanāny apāsya ) //
+nityaṃ tyajanto vidhivad babhūvus % tapobhir āḍhyā vibhavair daridrāḥ // 1.56 //
+prayojanaṃ yat tu mamopayāne $ tan me śṛṇu prītim upehi ca tvam &
+divyā (mayādityaCmayādivya)
+pathe śrutā vāg % bodhāya jātas tanayas taveti // 1.57 //
+śrutvā vacas tac ca manaś ca yuktvā $ jñātvā nimittaiś ca tato 'smy upetaḥ &
+didṛkṣayā śākyakuladhvajasya % śakradhvajasyeva samucchritasya // 1.58 //
+ity etad evaṃ vacanaṃ niśamya $ praharṣasaṃbhrāntagatir narendraḥ &
+ādāya dhātry-aṅkagataṃ kumāraṃ % saṃdarśayām āsa tapodhanāya // 1.59 //
+cakrāṅkapādaṃ sa (tato Ctathā )
+maharṣir $ jālāvanaddhāṅgulipāṇipādam &
+sorṇabhruvaṃ vāraṇavastikośaṃ % savismayaṃ rājasutaṃ dadarśa // 1.60 //
+dhātry-aṅkasaṃviṣṭam avekṣya cainaṃ $ devy-aṅkasaṃviṣṭam ivāgnisūnum &
+babhūva (pakṣmāntavicañcitāśrur Cpakṣmāntar iva añcitāśrur % niśvasya caiva tridivonmukho 'bhūt // 1.61 //
+dṛṣṭvāsitaṃ tv aśrupariplutākṣaṃ $ snehāt (tanūjasya Ctu putrasya )
+nṛpaś cakampe &
+sagadgadaṃ bāṣpakaṣāyakaṇṭhaḥ % papraccha (sa Cca )
+prāñjalir ānatāṅgaḥ // 1.62 //
+alpāntaraṃ yasya vapuḥ (surebhyo Cmuneḥ syād $ bahvadbhutaṃ yasya ca janma dīptam &
+yasyottamaṃ bhāvinam āttha cārthaṃ % taṃ prekṣya kasmāt tava dhīra bāṣpaḥ // 1.63 //
+api sthirāyur bhagavan kumāraḥ $ kaccin na śokāya mama prasūtaḥ &
+(labdhā Clabdhaḥ )
+kathaṃcit salilāñjalir me % na khalv imaṃ pātum upaiti kālaḥ // 1.64 //
+apy akṣayaṃ me yaśaso nidhānaṃ $ kaccid dhruvo me kulahastasāraḥ &
+api prayāsyāmi sukhaṃ paratra % (supto 'pi Csupte 'pi )
+putre 'nimiṣaikacakṣuḥ // 1.65 //
+kaccin na me jātam aphullam eva $ kula(pravālaṃ Cprabālaṃ )
+pariśoṣabhāgi &
+kṣipraṃ vibho brūhi na me 'sti śāntiḥ % snehaṃ sute vetsi hi bāndhavānām // 1.66 //
+ity āgatāvegam aniṣṭabuddhyā $ buddhvā narendraṃ sa munir babhāṣe &
+mā bhūn matis te nṛpa kācid % anyā niḥsaṃśayaṃ tad yad avocam asmi // 1.67 //
+nāsyānyathātvaṃ prati vikriyā me $ svāṃ vañcanāṃ tu prati viklavo 'smi &
+kālo hi me yātum ayaṃ ca jāto % jātikṣayasyāsulabhasya boddhā // 1.68 //
+vihāya rājyaṃ viṣayeṣv anāsthas $ tīvraiḥ prayatnair adhigamya tattvam &
+jagaty ayaṃ mohatamo nihantuṃ % jvaliṣyati jñānamayo hi sūryaḥ // 1.69 //
+duḥkhārṇavād vyādhivikīrṇaphenāj $ jarātaraṅgān maraṇogravegāt &
+uttārayiṣyaty ayam uhyamānam % (ārtaṃ Cārttaṃ )
+jagaj jñānamahāplavena // 1.70 //
+prajñāmbuvegāṃ sthiraśīlavaprāṃ $ samādhiśītāṃ vratacakravākām &
+asyottamāṃ dharmanadīṃ pravṛttāṃ % tṛṣṇārditaḥ pāsyati jīvalokaḥ // 1.71 //
+duḥkhārditebhyo viṣayāvṛtebhyaḥ $ saṃsārakāntārapathasthitebhyaḥ &
+ākhyāsyati hy eṣa vimokṣamārgaṃ % mārgapranaṣṭebhya ivādhvagebhyaḥ // 1.72 //
+vidahyamānāya janāya loke $ rāgāgnināyaṃ viṣayendhanena &
+prahlādam ādhāsyati dharmavṛṣṭyā % vṛṣṭyā mahāmegha ivātapānte // 1.73 //
+tṛṣṇārgalaṃ mohatamaḥkapāṭaṃ $ dvāraṃ prajānām apayānahetoḥ &
+vipāṭayiṣyaty ayam uttamena % saddharmatāḍena durāsadena // 1.74 //
+svair mohapāśaiḥ pariveṣṭitasya $ duḥkhābhibhūtasya nirāśrayasya &
+lokasya saṃbudhya ca dharmarājaḥ % kariṣyate bandhanamokṣam eṣaḥ // 1.75 //
+tan mā kṛthāḥ śokam imaṃ prati tvam $ (asmin sa śocyo 'sti Ctat saumya śocye hi )
+manuṣyaloke &
+mohena vā kāmasukhair madād vā % yo naiṣṭhikaṃ śroṣyati nāsya dharmam // 1.76 //
+bhraṣṭasya tasmāc ca guṇād ato me $ dhyānāni labdhvāpy akṛtārthataiva &
+dharmasya tasyā śravaṇād ahaṃ hi % manye vipattiṃ tridive 'pi vāsam // 1.77 //
+iti śrutārthaḥ sasuhṛt sadāras $ tyaktvā viṣādaṃ mumude narendraḥ &
+evaṃvidho 'yaṃ tanayo mameti % mene sa hi svām api (sāravattām Csāramattām ) // 1.78 //
+(ārṣeṇa Cāryeṇa )
+mārgeṇa tu yāsyatīti $ cintāvidheyaṃ hṛdayaṃ cakāra &
+na khalv asau na priyadharmapakṣaḥ % saṃtānanāśāt tu bhayaṃ dadarśa // 1.79 //
+atha munir asito nivedya tattvaṃ $ sutaniyataṃ sutaviklavāya rājñe &
+sabahumatam udīkṣyamāṇarūpaḥ % pavanapathena yathāgataṃ jagāma // 1.80 //
+kṛta(mitir Cmatir )
+anujāsutaṃ ca dṛṣṭvā $ munivacanaśravaṇe ca tanmatau ca &
+bahuvidham anukampayā sa sādhuḥ % priyasutavad viniyojayāṃ cakāra // 1.81 //
+narapatir api putrajanmatuṣṭo $ viṣaya(gatāni Cmatāni )
+vimucya bandhanāni &
+kulasadṛśam acīkarad yathāvat % priya(tanayas Ctanayaṃ )
+tanayasya jātakarma // 1.82 //
+daśasu pariṇateṣv ahaḥsu (caiva Ccaivaṃ $ prayatamanāḥ parayā mudā parītaḥ &
+akuruta japahomamaṅgalādyāḥ % (paramabhavāya Cparamatamāḥ sa )
+sutasya devatejyāḥ // 1.83 //
+api ca śatasahasrapūṛnasaṃkhyāḥ $ sthirabalavattanayāḥ sahemaśṛṅgīḥ &
+anupagatajarāḥ payasvinīr gāḥ % svayam adadāt sutavṛddhaye dvijebhyaḥ // 1.84 //
+bahuvidhaviṣayās tato yatātmā $ svahṛdayatoṣakarīḥ kriyā vidhāya &
+guṇavati (niyate Cdivase )
+śive muhūrte % matim akaron muditaḥ purapraveśe // 1.85 //
+dviradaradamayīm atho mahārhāṃ $ sitasitapuṣpabhṛtāṃ maṇipradīpām &
+abhajata śivikāṃ śivāya devī % tanayavatī praṇipatya devatābhyaḥ // 1.86 //
+puram atha purataḥ praveśya patnīṃ $ sthavirajanānugatām apatyanāthām &
+nṛpatir api jagāma paurasaṃghair % divam amarair maghavān ivārcyamānaḥ // 1.87 //
+bhavanam atha vigāhya śākyarājo $ bhava iva ṣaṇmukhajanmanā pratītaḥ &
+idam idam iti harṣapūrṇavaktro % bahuvidhapuṣṭiyaśaskaraṃ vyadhatta // 1.88 //
+iti narapatiputrajanmavṛddhyā $ sajanapadaṃ kapilāhvayaṃ puraṃ tat &
+dhanadapuram ivāpsaraso 'vakīrṇaṃ % muditam abhūn nala(kūbaraCkūvara)prasūtau // 1.89 //
+[[iti (CśrīC)buddhacarite mahākāvye bhagavatprasūtir nāma prathamaḥ sargaḥ -- 1 --]]
+ā janmano janma(jarāntagasya Cjarāntakasya $ tasyātmajasyātmajitaḥ sa rājā &
+ahany ahany arthagajāśvamitrair % vṛddhiṃ yayau sindhur ivāmbuvegaiḥ // 2.1 //
+dhanasya ratnasya ca tasya tasya $ kṛtākṛtasyaiva ca kāñcanasya &
+tadā hi (naikān sa nidhīn avāpa Cnaikātmanidhīn avāpi % manorathasyāpy atibhārabhūtān // 2.2 //
+ye padmakalpair api ca dvipendrair $ na maṇḍalaṃ śakyam ihābhinetum &
+madotkaṭā haimavatā gajās te % vināpi yatnād upatasthur enam // 2.3 //
+nānāṅkacihnair navahemabhāṇḍair $ (vibhūṣitair Cabhūṣitair )
+lambasaṭais tathānyaiḥ &
+saṃcukṣubhe cāsya puraṃ turaṃgair % balena maitryā ca dhanena cāptaiḥ // 2.4 //
+puṣṭāś ca tuṣṭāś ca (tathāsya Ctadāsya )
+rājye $ sādhvyo 'rajaskā guṇavatpayaskāḥ &
+udagravatsaiḥ sahitā babhūvur % bahvyo bahukṣīraduhaś ca gāvaḥ // 2.5 //
+madhyasthatāṃ tasya ripur jagāma $ madhya(sthaCsva)
+bhāvaḥ prayayau suhṛttvam &
+viśeṣato dārḍhyam iyāya mitraṃ % dvāv asya pakṣāv aparas tu (nāsa Cnāśam ) // 2.6 //
+tathāsya mandānilameghaśabdaḥ $ saudāminīkuṇḍala(maṇḍitābhraḥ Cmaṇḍitāṅgaḥ ) //
+vināśmavarṣāśanipātadoṣaiḥ % kāle ca deśe pravavarṣa devaḥ // 2.7 //
+ruroha (sasyaṃ Csaṃyak )
+phalavad yathartu $ tadākṛtenāpi kṛṣiśrameṇa &
+tā eva (cāsyauṣadhayo Ccaivauṣadhayo )
+rasena % sāreṇa caivābhyadhikā babhūvuḥ // 2.8 //
+śarīrasaṃdehakare 'pi kāle $ saṃgrāmasaṃmardae iva pravṛtte &
+svasthāḥ sukhaṃ caiva nirāmayaṃ ca % prajajñire (kālavaśena Cgarbhadharāś ca )nāryaḥ // 2.9 //
+(pṛthag vratibhyo Cyac ca pratibhvo )
+vibhave 'pi (garhye Cśakye $ na prārthayanti sma narāḥ parebhyaḥ &
+abhyarthitaḥ sūkṣmadhano 'pi (cāryas Ccāyaṃ % tadā na kaścid vimukho babhūva // 2.10 //
+(nāgauravo Cnāśa vadho )
+bandhuṣu nāpy adātā $ naivāvrato nānṛtiko na hiṃsraḥ &
+āsīt tadā kaścana tasya rājye % rājño yayāter iva nāhus.asya // 2.11 //
+udyānadevāyatanāśramāṇāṃ $ kūpaprapāpuṣkariṇīvanānām &
+cakruḥ kriyās tatra ca dharmakāmāḥ % pratyakṣataḥ svargam ivopalabhya // 2.12 //
+muktaś ca durbhikṣabhayāmayebhyo $ hṛṣṭo janaḥ (svargae Csvargam )
+ivābhireme &
+patnīṃ patir vā mahiṣī patiṃ vā % parasparaṃ na vyabhiceratuś ca // 2.13 //
+kaścit siṣeve rataye na kāmaṃ $ kāmārtham arthaṃ na jugopa kaścit &
+kaścid dhanārthaṃ na cacāra dharmaṃ % dharmāya kaścin na cakāra hiṃsām // 2.14 //
+steyādibhiś cāpy (aribhiś Cabhitaś )
+ca naṣṭaṃ $ svasthaṃ svacakraṃ paracakramuktam &
+kṣemaṃ subhikṣaṃ ca babhūva tasya % (purānaraṇyasya Cpurāṇy araṇyāni )
+yathaiva rāṣṭre // 2.15 //
+tadā hi tajjanmani tasya rājño $ manor ivādityasutasya rājye &
+cacāra harṣaḥ praṇanāśa pāpmā % jajvāla dharmaḥ kaluṣaḥ śaśāma // 2.16 //
+evaṃvidhā rāja(kulasya saṃpat Csutasya tasya $ sarvārthasiddhiś ca yato babhūva &
+tato nṛpas tasya sutasya nāma % sarvārthasiddho 'yam iti pracakre // 2.17 //
+devī tu māyā vibudharṣikalpaṃ $ dṛṣṭvā viśālaṃ tanayaprabhāvam &
+jātaṃ praharṣaṃ na śaśāka soḍhuṃ % tato (nivāsāya Cavināśāya )
+divaṃ jagāma // 2.18 //
+tataḥ kumāraṃ suragarbhakalpaṃ $ snehena bhāvena ca nirviśeṣam &
+mātṛṣvasā mātṛsamaprabhāvā % saṃvardhayām ātmajavad babhūva // 2.19 //
+tataḥ sa bālārka ivodayasthaḥ $ samīrito vahnir ivānilena &
+krameṇa samyag vavṛdhe kumāras % tārādhipaḥ pakṣae ivātamaske // 2.20 //
+tato mahārhāṇi ca candanāni $ ratnāvalīś cauṣadhibhiḥ sagarbhāḥ &
+mṛgaprayuktān rathakāṃś ca haimān % ācakrire 'smai suhṛdālayebhyaḥ // 2.21 //
+vayoanurūpāṇi ca bhūṣaṇāni $ (hiraṇmayān Chiraṇmayā )
+hasti(mṛgāśvakāṃś Cmṛgāśvakāś )ca &
+(rathāṃś Crathāś )
+ca (goputrakasaṃprayuktān Cgāvo vasanaprayuktā % (putrīś Cgantrīś )
+ca cāmīkararūpyacitrāḥ // 2.22 //
+evaṃ sa tais tair viṣayopacārair $ vayoanurūpair upacaryamāṇaḥ &
+bālo 'py abālapratimo babhūva % dhṛtyā ca śaucena dhiyā śriyā ca // 2.23 //
+vayaś ca kaumāram atītya (samyak Cmadhyaṃ $ saṃprāpya (kāle pratipattikarma Cbālaḥ sa hi rājasūnuḥ ) //
+alpair ahobhir bahuvarṣagamyā % jagrāha vidyāḥ svakulānurūpāḥ // 2.24 //
+naiḥśreyasaṃ tasya tu bhavyam arthaṃ $ śrutvā purastād asitān maharṣeḥ &
+kāmeṣu saṅgaṃ janayāṃ babhūva % (vanāni yāyād iti śākyarājaḥ Cvṛddhir bhavacchākyakulasya rājñaḥ ) // 2.25 //
+kulāt tato 'smai sthiraśīla(yuktāt Csaṃyutāt $ sādhvīṃ vapurhrīvinayopapannām &
+yaśodharāṃ nāma yaśoviśālāṃ % (vāmābhidhānaṃ Ctulyābhidhānaṃ )
+śriyam ājuhāva // 2.26 //
+(vidyotamāno vapuṣā pareṇa Cathāparaṃ bhūmipateḥ priyo 'yaṃ $ sanatkumārapratimaḥ kumāraḥ &
+sārdhaṃ tayā śākyanarendravadhvā % śacyā sahasrākṣa ivābhireme // 2.27 //
+kiṃcin manaḥkṣobhakaraṃ pratīpaṃ $ (kathaṃ na Ckathaṃca )
+paśyed iti so 'nucintya &
+vāsaṃ nṛpo (vyādiśati Chy ādiśati )
+sma tasmai % harmyodareṣv eva na bhūpracāram // 2.28 //
+tataḥ śarattoyadapāṇḍareṣu $ bhūmau vimāneṣv iva rāñjiteṣu &
+harmyeṣu sarvartusukhāśrayeṣu % strīṇām udārair vijahāra tūryaiḥ // 2.29 //
+kalair hi cāmīkarabaddhakakṣair $ nārīkarāgrābhihatair mṛdaṅgaiḥ &
+varāpsaronṛtyasamaiś ca nṛtyaiḥ % kailāsavat tad bhavanaṃ rarāja // 2.30 //
+vāgbhiḥ kalābhir lalitaiś ca (hāvair Chārair $ madaiḥ sakhelair madhuraiś ca hāsaiḥ &
+taṃ tatra nāryo ramayāṃ babhūvur % bhrūvañcitair ardhanirīkṣitaiś ca // 2.31 //
+(tataḥ sa Ctataś ca )
+kāmāśrayapaṇḍitābhiḥ $ strībhir gṛhīto ratikarkaśābhiḥ &
+vimānapṛṣṭhān na mahīṃ jagāma % vimānapṛṣthād iva puṇyakarmā // 2.32 //
+nṛpas tu tasyaiva vivṛddhihetos $ tadbhāvinārthena ca codyamānaḥ &
+śame 'bhireme virarāma pāpād % bheje damaṃ saṃvibabhāja sādhūn // 2.33 //
+nādhīravat kāmasukhe sasañje $ na saṃrarañje viṣamaṃ jananyām &
+dhṛtyendriyāśvāṃś capalān vijigye % bandhūṃś ca paurāṃś ca guṇair jigāya // 2.34 //
+nādhyaiṣṭa duḥkhāya parasya vidyāṃ $ jñānaṃ śivaṃ yat tu tad adhyagīṣṭa &
+svābhyaḥ prajābhyo hi yathā tathaiva % sarvaprajābhyaḥ śivam āśaśaṃse // 2.35 //
+(bhaṃ Ctaṃ )bhāsuraṃ cāṅgirasādhidevaṃ $ yathāvad ānarca tadāyuṣe saḥ &
+juhāva havyāny akṛśe kṛśānau % dadau dvijebhyaḥ kṛśanaṃ ca gāś ca // 2.36 //
+sasnau śarīraṃ pavituṃ manaś ca $ tīrthāmbubhiś caiva guṇāmbubhiś ca &
+vedopadiṣṭaṃ samam ātmajaṃ ca % somaṃ papau śāntisukhaṃ ca hārdam // 2.37 //
+sāntvaṃ babhāṣe na ca nārthavad yaj $ jajalpa tattvaṃ na ca vipriyaṃ yat &
+sāntvaṃ hy atattvaṃ paruṣaṃ ca tattvaṃ % hriyāśakan nātmana eva vaktum // 2.38 //
+iṣṭeṣv aniṣṭeṣu ca kāryavatsu $ na rāgadoṣāśrayatāṃ prapede &
+śivaṃ siṣeve (vyavahāraśuddhaṃ Cavyavahāralabdhaṃ % yajñaṃ hi mene na tathā (yathā tat Cyathāvat ) // 2.39 //
+āśāvate cābhigatāya sadyo $ deyāmbubhis tarṣam (acechidiṣṭa Cacecchidiṣṭa ) //
+yuddhād ṛte vṛttaparaśvadhena % dviḍdarpam udvṛttam abebhidiṣṭa // 2.40 //
+ekaṃ vininye sa jugopa sapta $ saptaiva tatyāja rarakṣa pañca &
+prāpa trivargaṃ bubudhe trivargaṃ % jajñe dvivargaṃ prajahau dvivargam // 2.41 //
+kṛtāgaso 'pi pratipādya vadhyān $ nājīghanan nāpi ruṣā dadarśa &
+babandha sāntvena phalena caitāṃs % tyāgo 'pi teṣāṃ hy (anayāya dṛṣṭaḥ Canapāyadṛṣṭaḥ ) // 2.42 //
+ārṣāṇy acārīt paramavratāni $ vairāṇy ahāsīc cirasaṃbhṛtāni &
+yaśāṃsi cāpadguṇagandhavanti % rajāṃsy (ahārṣīn Cahāsīn )
+malinīkarāṇi // 2.43 //
+na cājihīrṣīd balim apravṛttaṃ $ na cācikīrṣīt paravastvabhidhyām &
+na cāvivakṣīd dviṣatām adharmaṃ % na (cāvivakṣīd Ccādidhakṣīd )
+dhṛdayena manyum // 2.44 //
+tasmiṃs tathā bhūmipatau pravṛtte $ bhṛtyāś ca paurāś ca tathaiva ceruḥ &
+śamātmake cetasi viprasanne % prayuktayogasya yathendriyāṇi // 2.45 //
+kāle tataś cārupayodharāyāṃ $ yaśodharāyāṃ (svaCsu)
+yaśodharāyām &
+śauddhodane rāhusapatnavaktro % jajñe suto rāhula eva nāmnā // 2.46 //
+atheṣṭaputraḥ paramapratītaḥ $ kulasya vṛddhiṃ prati bhūmipālaḥ &
+yathaiva putraprasave nananda % tathaiva pautraprasave nananda // 2.47 //
+(putrasya Cpautrasya )
+me putragato (mameva Cmamaiva $ snehaḥ kathaṃ syād iti jātaharṣaḥ &
+kāle sa taṃ taṃ vidhim ālalambe % putrapriyaḥ svargam ivārurukṣan // 2.48 //
+sthitvā pathi prāthamakalpikānāṃ $ rājarṣabhāṇāṃ yaśasānvitānām &
+śuklāny amuktvāpi tapāṃsy atapta % (yajñaiś Cyajñe )
+ca hiṃsārahitair ayaṣṭa // 2.49 //
+ajājvaliṣṭātha sa puṇyakarmā $ nṛpaśriyā caiva tapaḥśriyā ca &
+kulena vṛttena dhiyā ca dīptas % tejaḥ sahasrāṃśur ivotsisṛkṣuḥ // 2.50 //
+svāyaṃbhuvaṃ cārcikam arcayitvā $ jajāpa putrasthitaye sthitaśrīḥ &
+cakāra karmāṇi ca duṣkarāṇi % prajāḥ sisṛkṣuḥ ka ivādikāle // 2.51 //
+tatjyāja śastraṃ vimamarśa śāstraṃ $ śamaṃ siṣeve niyamaṃ viṣehe &
+vaśīva kaṃcid viṣayaṃ na bheje % piteva sarvān viṣayān dadarśa // 2.52 //
+babhāra rājyaṃ sa hi putrahetoḥ $ putraṃ kulārthaṃ yaśase kulaṃ tu &
+svargāya śabdaṃ divam ātmahetor % dharmārtham ātmasthitim ācakāṅkṣa // 2.53 //
+evaṃ sa dharmaṃ vividhaṃ cakāra $ sadbhir nipātaṃ śrutitaś ca siddham &
+dṛṣṭvā kathaṃ putramukhaṃ suto me % vanaṃ na yāyād iti nāthamānaḥ // 2.54 //
+rirakṣiṣantaḥ śriyam ātma(saṃsthāṃ Csaṃsthā $ rakṣanti putrān bhuvi bhūmipālāḥ &
+putraṃ narendraḥ sa tu dharmakāmo % rarakṣa dharmād (viṣayeṣu muñcan Cviṣayeṣv amuñcat ) // 2.55 //
+vanam anupamasattvā bodhisattvās tu sarve $ viṣayasukharasajñā jagmur utpannaputrāḥ &
+ata upacitakarmā rūḍhamūle 'pi hetau % sa ratim upasiṣeve bodhim (āpan na yāvat Cāpannayāvat ) // 2.56 //
+[[iti (CśrīC)buddhacarite mahākāvye 'ntaḥpuravihāro nāma dvitīyaḥ sargaḥ -- 2 --]]
+tataḥ kadācin mṛduśādvalāni $ puṃskokilonnāditapādapāni &
+śuśrāva padmākaramaṇḍitāni % (gītair Cśīte )
+nibaddhāni sa kānanāni // 3.1 //
+śrutvā tataḥ strījanavallabhānāṃ $ manojñabhāvaṃ purakānanānām &
+bahiḥprayāṇāya cakāra buddhim % antargṛhe nāga ivāvaruddhaḥ // 3.2 //
+tato nṛpas tasya niśamya bhāvaṃ $ putrābhidhānasya manorathasya &
+snehasya lakṣmyā vayasaś ca yogyām % ājñāpayām āsa vihārayātrām // 3.3 //
+nivartayām āsa ca rājamārge $ saṃpātam ārtasya pṛthagjanasya &
+mā bhūt kumāraḥ sukumāracittaḥ % saṃvignacetā (iti Civa )
+manyamānaḥ // 3.4 //
+pratyaṅgahīnān vikalendriyāṃś ca $ jīrṇāturādīn kṛpaṇāṃś ca (dikṣu Cbhikṣūn ) //
+tataḥ samutsārya pareṇa sāmnā % śobhāṃ (parāṃ Cparā )
+rājapathasya cakruḥ // 3.5 //
+tataḥ kṛte śrīmati rājamārge $ śrīmān vinītānucaraḥ kumāraḥ &
+prāsādapṛṣṭhād avatīrya kāle % kṛtābhyanujño nṛpam abhyagacchat // 3.6 //
+atho narendraḥ sutam āgatāśruḥ $ śirasy upāghrāya ciraṃ nirīkṣya &
+gaccheti cājñāpayati sma vācā % snehān na cainaṃ manasā mumoca // 3.7 //
+tataḥ sa jāmbūnadabhāṇḍabhṛdbhir $ yuktaṃ caturbhir nibhṛtais turaṃgaiḥ &
+aklība(vidvacCvidyuc)
+chuciraśmidhāraṃ % hiraṇmayaṃ syandanam āruroha // 3.8 //
+tataḥ prakīrṇojjvalapuṣpajālaṃ $ viṣaktamālyaṃ pracalatpatākam &
+mārgaṃ prapede sadṛśānuyātraś % candraḥ sanakṣatra ivāntarīkṣam // 3.9 //
+kautūhalāt sphītataraiś ca netrair $ (nīlotpalārdhair Cnīlotpalābhair )
+iva (kīryamāṇam Ckīryamāṇaḥ ) //
+śanaiḥ śanai rājapathaṃ jagāhe % pauraiḥ samantād abhivīkṣyamāṇaḥ // 3.10 //
+taṃ tuṣṭuvuḥ saumyaguṇena kecid $ vavandire dīptatayā tathānye &
+saumukhyatas tu śriyam asya kecid % vaipulyam āśaṃsiṣur āyuṣaś ca // 3.11 //
+niḥsṛtya kubjāś ca mahākulebhyo $ vyūhāś ca kairātakavāmanānām &
+nāryaḥ kṛśebhyaś ca niveśanebhyo % devānuyānadhvajavat praṇemuḥ // 3.12 //
+tataḥ kumāraḥ khalu gacchatīti $ śrutvā striyaḥ preṣyajanāt pravṛttim &
+didṛkṣayā harmyatalāni jagmur % janena mānyena kṛtābhyanujñāḥ // 3.13 //
+tāḥ srastakāñcīguṇavighnitāś ca $ suptaprabuddhākulalocanāś ca &
+vṛttāntavinyastavibhūṣaṇāś ca % (kautūhalenānibhṛtāḥ Ckautūhalenāpi bhṛtāḥ )parīyuḥ // 3.14 //
+prāsādasopānatalapraṇādaiḥ $ kāñcīravair nūpuranisvanaiś ca &
+(vitrāsayantyo Cvibhrāmayantyo )
+gṛhapakṣisaṃghān % anyoanyavegāṃś ca samākṣipantyaḥ // 3.15 //
+kāsāṃcid āsāṃ tu varāṅganānāṃ $ jātatvarāṇām api sotsukānām &
+gatiṃ gurutvāj jagṛhur viśālāḥ % śroṇīrathāḥ pīnapayodharāś ca // 3.16 //
+śīghraṃ samarthāpi tu gantum anyā $ gatiṃ nijagrāha yayau na tūrṇam &
+(hriyāpragalbhā vinigūhamānā Chriyā pragalbhāni nigūhamānā % (rahaḥprayuktāni Crahaḥ prayuktāni )
+vibhūṣaṇāni // 3.17 //
+parasparotpīḍanapiṇḍitānāṃ $ saṃmarda(saṃkṣobhitaCsaṃśobhita)
+kuṇḍalānām &
+tāsāṃ tadā sasvanabhūṣaṇānāṃ % vātāyaneṣv apraśamo babhūva // 3.18 //
+vātāyanebhyas tu viniḥsṛtāni $ paras(parāyāsitaCparopāsita)kuṇḍalāni &
+strīṇāṃ virejur mukhapaṅkajāni % saktāni harmyeṣv iva paṅkajāni // 3.19 //
+tato vimānair yuvatī(karālaiḥ Ckalāpaiḥ $ kautūhalodghāṭitavātayānaiḥ &
+śrīmat samantān nagaraṃ babhāse % viyadvimānair iva sāpsarobhiḥ // 3.20 //
+vātāyanānām aviśālabhāvād $ anyoanyagaṇḍārpitakuṇḍalānām &
+mukhāni rejuḥ pramadottamānāṃ % baddhāḥ kalāpā iva paṅkajānām // 3.21 //
+(taṃ tāḥ Ctasmin )
+kumāraṃ pathi vīkṣamāṇāḥ $ striyo babhur gām iva gantukāmāḥ &
+ūrdhvonmukhāś cainam udīkṣamāṇā % narā babhur dyām iva gantukāmāḥ // 3.22 //
+dṛṣṭvā ca taṃ rājasutaṃ striyas tā $ jājvalyamānaṃ vapuṣā śriyā ca &
+dhanyāsya bhāryeti śanair avocañ % śuddhair manobhiḥ khalu nānyabhāvāt // 3.23 //
+ayaṃ kila vyāyatapīnabāhū $ rūpeṇa sākṣād iva puṣpaketuḥ &
+tyaktvā śriyaṃ dharmam upaiṣyatīti % tasmin (hi tā Chitā )
+gauravam eva cakruḥ // 3.24 //
+kīrṇaṃ tathā rājapathaṃ kumāraḥ $ paurair vinītaiḥ śucidhīraveṣaiḥ &
+tat pūrvam ālokya jaharṣa kiṃcin % mene punarbhāvam ivātmanaś ca // 3.25 //
+puraṃ tu tat svargam iva prahṛṣṭaṃ $ śuddhādhivāsāḥ samavekṣya devāḥ &
+jīrṇaṃ naraṃ nirmamire prayātuṃ % saṃcodanārthaṃ kṣitipātmajasya // 3.26 //
+tataḥ kumāro jarayābhibhūtaṃ $ dṛṣṭvā narebhyaḥ pṛthagākṛtiṃ tam &
+uvāca saṃgrāhakam āgatāsthas % tatraiva niṣkampaniviṣṭadṛṣṭiḥ // 3.27 //
+ka eṣa bhoḥ sūta naro 'bhyupetaḥ $ keśaiḥ sitair yaṣṭiviṣaktahastaḥ &
+bhrūsaṃvṛtākṣaḥ śithilānatāṅgaḥ % kiṃ vikriyaiṣā prakṛtir yadṛcchā // 3.28 //
+ity evam uktaḥ sa rathapraṇetā $ nivedayām āsa nṛpātmajāya &
+saṃrakṣyam apy artham adoṣadarśī % tair eva devaiḥ kṛtabuddhimohaḥ // 3.29 //
+rūpasya (hantrī Chartrī )
+vyasanaṃ balasya $ śokasya yonir nidhanaṃ ratīnām &
+nāśaḥ smṛtīnāṃ ripur indriyāṇām % eṣā jarā nāma yayaiṣa bhagnaḥ // 3.30 //
+pītaṃ hy anenāpi payaḥ śiśutve $ kālena bhūyaḥ (parisṛptam Cparimṛṣṭam )urvyām &
+krameṇa bhūtvā ca yuvā vapuṣmān % krameṇa tenaiva jarām upetaḥ // 3.31 //
+ity evam ukte calitaḥ sa kiṃcid $ rājātmajaḥ sūtam idaṃ babhāṣe &
+kim eṣa doṣo bhavitā mamāpīty % asmai tataḥ sārathir abhyuvāca // 3.32 //
+āyuṣmato 'py eṣa vayaḥ(prakarṣo Cprakarṣān $ niḥsaṃśayaṃ kālavaśena bhāvī &
+evaṃ jarāṃ rūpavināśayitrīṃ % jānāti caivecchati (caiva Ccaiṣa )lokaḥ // 3.33 //
+tataḥ sa pūrvāśayaśuddhabuddhir $ vistīrṇakalpācitapuṇyakarmā &
+śrutvā jarāṃ saṃvivije mahātmā % mahāśaner ghoṣam ivāntike gauḥ // 3.34 //
+niḥśvasya dīrghaṃ (svaśiraḥ Csa śiraḥ )
+prakampya $ tamiṃś ca jīrṇe viniveśya cakṣuḥ &
+tāṃ caiva dṛṣṭvā janatāṃ saharṣāṃ % vākyaṃ sa (saṃvigna Csaṃvignam )
+idaṃ jagāda // 3.35 //
+evaṃ jarā hanti ca nirviśeṣaṃ $ smṛtiṃ ca rūpaṃ ca parākramaṃ ca &
+na caiva saṃvegam upaiti lokaḥ % pratyakṣato 'pīdṛśam īkṣamāṇaḥ // 3.36 //
+evaṃ gate sūta nivartayāśvān $ śīghraṃ gṛhāṇy eva bhavān prayātu &
+udyānabhūmau hi kuto ratir me % jarā(bhaye Cbhave )
+cetasi vartamāne // 3.37 //
+athājñayā bhartṛsutasya tasya $ nivartayām āsa rathaṃ niyantā &
+tataḥ kumāro bhavanaṃ tad eva % cintāvaśaḥ śūnyam iva prapede // 3.38 //
+yadā tu tatraiva na śarma lebhe $ jarā jareti praparīkṣamāṇaḥ &
+tato narendrānumataḥ sa bhūyaḥ % krameṇa tenaiva bahir jagāma // 3.39 //
+athāparaṃ vyādhiparītadehaṃ $ tae eva devāḥ sasṛjur manuṣyam &
+dṛṣṭvā ca taṃ sārathim ābabhāṣe % śauddhodanis tadgatadṛṣṭir eva // 3.40 //
+sthūlodaraḥ śvāsacalaccharīraḥ $ srastāṃsabāhuḥ kṛśapāṇdugātraḥ &
+ambeti vācaṃ karuṇaṃ bruvāṇaḥ % paraṃ (samāśritya Csamāśliṣya )
+naraḥ ka eṣaḥ // 3.41 //
+tato 'bravīt sārathir asya saumya $ dhātuprakopaprabhavaḥ pravṛddhaḥ &
+rogābhidhānaḥ sumahān anarthaḥ % (śakto Cśakro )
+api yenaiṣa kṛto 'svatantraḥ // 3.42 //
+ity ūcivān rājasutaḥ sa bhūyas $ taṃ sānukampo naram īkṣamāṇaḥ &
+asyaiva (jāto Cjātaḥ [sic;
+wrong sandhi in EHJ])
+pṛthag eṣa doṣaḥ % sāmānyato rogabhayaṃ prajānām // 3.43 //
+tato babhāṣe sa rathapraṇetā $ kumāra sādhāraṇa eṣa doṣaḥ &
+evaṃ hi rogaih paripīḍyamāno % rujāturo harṣam upaiti lokaḥ // 3.44 //
+iti śrutārthaḥ sa viṣaṇṇacetāḥ $ prāvepatāmbūrmigataḥ śaśīva &
+idaṃ ca vākyaṃ karuṇāyamānaḥ % provāca kiṃcinmṛdunā svareṇa // 3.45 //
+idaṃ ca rogavyasanaṃ prajānāṃ $ paśyaṃś ca viśrambham upaiti lokaḥ &
+(vistīrṇam ajñānam Cvistīrṇavijñānam )
+aho narāṇāṃ % hasanti ye rogabhayair amuktāḥ // 3.46 //
+nivartyatāṃ sūta (bahiḥCvahiḥ)
+prayāṇān $ narendrasadmaiva rathaḥ prayātu &
+śrutvā ca me rogabhayaṃ ratibhyaḥ % pratyāhataṃ saṃkucatīva cetaḥ // 3.47 //
+tato nivṛttaḥ sa nivṛttaharṣaḥ $ pradhyānayuktaḥ praviveśa (veśma Csadma ) //
+taṃ dvis tathā prekṣya ca saṃnivṛttaṃ % (paryeṣaṇaṃ Cpury āgamaṃ )
+bhūmipatiś cakāra // 3.48 //
+śrutvā nimittaṃ tu nivartanasya $ saṃtyaktam ātmānam anena mene &
+mārgasya śaucādhikṛtāya caiva % cukrośa ruṣṭo 'pi ca nogradaṇḍaḥ // 3.49 //
+bhūyaś ca tasmai vidadhe sutāya $ viśeṣayuktaṃ viṣaya(pracāram Cprakāram ) //
+calendriyatvād api (nāma sakto Cnāpi śakto % nāsmān vijahyād iti nāthamānaḥ // 3.50 //
+yadā ca śabdādibhir indriyārthair $ antaḥpure naiva suto 'sya reme &
+tato (bahir Cvahir )
+vyādiśati sma yātrāṃ % rasāntaraṃ syād iti manyamānaḥ // 3.51 //
+snehāc ca bhāvaṃ tanayasya buddhvā $ (sa rāgaCsaṃvega)
+doṣān avicintya kāṃścit &
+yogyāḥ samājñāpayati sma tatra % kalāsv abhijñā iti vāramukhyāḥ // 3.52 //
+tato viśeṣeṇa narendramārge $ svalaṃkṛte caiva parīkṣite ca &
+(vyatyasya Cvyatyāsya )
+sūtaṃ ca rathaṃ ca rājā % prasthāpayām āsa bahiḥ kumāram // 3.53 //
+tatas tathā gacchati rājaputre $ tair eva devair vihito gatāsuḥ &
+taṃ caiva mārge mṛtam uhyamānaṃ % sūtaḥ kumāraś ca dadarśa nānyaḥ // 3.54 //
+athābravīd rājasutaḥ sa sūtaṃ $ naraiś caturbhir hriyate ka eṣaḥ &
+dīnair manuṣyair anugamyamāno % ( bhūṣitaś cāpy Cyo bhūṣito 'śvāsy- )
+avarudyate ca // 3.55 //
+tataḥ sa śuddhātmabhir eva devaiḥ $ śuddhādhivāsair abhibhūtacetāḥ &
+avācyam apy artham imaṃ niyantā % (pravyājahārārthavadīśvarāya Cpravyājahārārthavid īśvarāya ) // 3.56 //
+buddhīndriyaprāṇaguṇair viyuktaḥ $ supto visaṃjñas tṛṇakāṣṭhabhūtaḥ &
+(saṃvardhya Csaṃbadhya )
+saṃrakṣya ca yatnavadbhiḥ % (priyapriyais Cpriyāpriyais )
+tyajyatae eṣa ko 'pi // 3.57 //
+iti praṇetuḥ sa niśamya vākyaṃ $ saṃcukṣubhe kiṃcid uvāca cainam &
+kiṃ (kevalo 'syaiva Ckevalasyaiva )
+janasya dharmaḥ % sarvaprajānām ayam īdṛśo 'ntaḥ // 3.58 //
+tataḥ praṇetā vadati sma tasmai $ sarvaprajānām (idam Cayam )
+anta(karma Ckarmā ) //
+hīnasya madhyasya mahātmano vā % sarvasya loke niyato vināśaḥ // 3.59 //
+tataḥ sa dhīro 'pi narendrasūnuḥ $ śrutvaiva mṛtyuṃ viṣasāda sadyaḥ &
+aṃsena saṃśliṣya ca kūbarāgraṃ % provāca nihrādavatā svareṇa // 3.60 //
+iyaṃ ca niṣṭhā (niyatā Cniyataṃ )
+prajānāṃ $ pramādyati tyaktabhayaś ca lokaḥ &
+manāṃsi śaṅke kaṭhināni nṝṇāṃ % svasthās tathā hy adhvani vartamānāḥ // 3.61 //
+tasmād (rathaḥ Crathaṃ )
+sūta nivartyatāṃ no $ vihāra(bhūmer Cbhūmau )
+na hi deśakālaḥ &
+jānan vināśaṃ katham (ārtiCārtti)
+kāle % sacetanaḥ syād iha hi pramattaḥ // 3.62 //
+iti bruvāṇe 'pi narādhipātmaje $ nivartayām āsa sa naiva taṃ ratham &
+viśeṣayuktaṃ tu narendraśāsanāt % sa padmaṣaṇḍaṃ vanam eva niryayau // 3.63 //
+tataḥ śivaṃ kusumitabālapādapaṃ $ paribhramatpramuditamattakokilam &
+vimānavat (sa kamalaCsakamala)
+cārudīrghikaṃ % dadarśa tad vanam iva nandanaṃ vanam // 3.64 //
+varāṅganāgaṇakalilaṃ nṛpātmajas $ tato balād vanam (atinīyate Cabhinīyate )sma tat &
+varāpsaro(vṛtam Cnṛtyam )
+alakādhipālayaṃ % navavrato munir iva vighnakātaraḥ // 3.65 //
+[[iti (CśrīC)buddhacarite mahākāvye saṃvegotpattir nāma tṛtīyaḥ sargaḥ -- 3 --]]
+tatas tasmāt purodyānāt $ kautūhalacalekṣaṇāḥ $
+pratyujjagmur nṛpasutaṃ % prāptaṃ varam iva striyaḥ // 4.1 //
+abhigamya ca tās tasmai $ vismayotphullalocanāḥ &
+cakrire samudācāraṃ % padmakośanibhaiḥ karaiḥ // 4.2 //
+tasthuś ca parivāryainaṃ $ manmathākṣiptacetasaḥ &
+niścalaiḥ pritivikacaiḥ % pibantya iva locanaiḥ // 4.3 //
+taṃ hi tā menire nāryaḥ $ kāmo vigrahavān iti &
+śobhitaṃ lakṣaṇair dīptaiḥ % sahajair bhūṣaṇair iva // 4.4 //
+saumyatvāc caiva dhairyāc ca $ kāścid enaṃ prajajñire &
+avatīrṇo mahīṃ sākṣād % (gūḍhāṃśuś Csudhāṃśuś )
+candramā (iti Civa ) // 4.5 //
+tasya tā vapuṣākṣiptā $ (nigṛhītaṃ Cnirgrahītuṃ )
+jajṛmbhire &
+anyoanyaṃ dṛṣṭibhir (hatvā Cgatvā % śanaiś ca viniśaśvasuḥ // 4.6 //
+evaṃ tā dṛṣṭimātreṇa $ nāryo dadṛśur eva tam &
+na vyājahrur na jahasuḥ % prabhāveṇāsya yantritāḥ // 4.7 //
+tās tathā tu nirārambhā $ dṛṣṭvā praṇayaviklavāḥ &
+purohitasuto dhīmān % udāyī vākyam abravīt // 4.8 //
+sarvāḥ sarvakalājñāḥ stha $ bhāvagrahaṇapaṇḍitāḥ &
+rūpacāturyasaṃpannāḥ % svaguṇair mukhyatāṃ gatāḥ // 4.9 //
+(śobhayeta Cśobhayeta )
+guṇair ebhir $ api tān uttarān kurūn &
+kuverasyāpi (cākrīḍaṃ Cca krīḍaṃ % prāg eva vasudhām imām // 4.10 //
+śaktāś cālayituṃ yūyaṃ $ vītarāgān ṛṣīn api &
+apsarobhiś ca kalitān % grahītuṃ vibudhān api // 4.11 //
+bhāvajñānena hāvena $ (rūpacāturyaCcāturyā rūpa)saṃpadā &
+strīṇām eva ca śaktāḥ stha % saṃrāge kiṃ punar nṛṇām // 4.12 //
+tāsām evaṃvidhānāṃ vo $ (viyuktānāṃ Cniyuktānāṃ )svagocare &
+iyam evaṃvidhā ceṣṭā % na tuṣṭo 'smy ārjavena vaḥ // 4.13 //
+idaṃ navavadhūnāṃ vo $ hrīnikuñcitacakṣuṣām &
+sadṛśaṃ ceṣṭitaṃ hi syād % api vā gopayoṣitām // 4.14 //
+(yad Cyady )api syād ayaṃ (dhīraḥ Cvīraḥ $ śrīprabhāvān mahān iti &
+strīṇām api mahat teja % itaḥ kāryo 'tra niścayaḥ // 4.15 //
+purā hi kāśisundaryā $ veśavadhvā mahān ṛṣiḥ &
+tāḍito 'bhūt (padā vyāso Cpadanyāsād % durdharṣo (devatair Cdaivatair )api // 4.16 //
+manthālagautamo bhikṣur $ jaṅghayā (vāraCbāla)mukhyayā &
+piprīṣuś ca tadarthārthaṃ % vyasūn niraharat purā // 4.17 //
+gautamaṃ dīrghatapasaṃ $ maharṣiṃ dīrghajīvinam &
+yoṣit saṃtoṣayām āsa % varṇasthānāvarā satī // 4.18 //
+ṛṣyaśṛṅgaṃ munisutaṃ $ tathaiva strīṣv apaṇḍitam &
+upāyair vividhaiḥ śāntā % jagrāha ca jahāra ca // 4.19 //
+viśvāmitro maharṣiś ca $ vigāḍho 'pi (mahat tapaḥ Cmahattapāḥ ) //
+(daśa varṣāṇy ahar mene Cdaśavarṣāṇy araṇyastho % ghṛtācyāpsarasā hṛtaḥ // 4.20 //
+evamādīn ṛṣīṃs tāṃs tān $ anayan vikriyāṃ striyaḥ &
+lalitaṃ pūrvavayasaṃ % kiṃ punar nṛpateḥ sutam // 4.21 //
+tad evaṃ sati viśrabdhaṃ $ prayatadhvaṃ tathā yathā &
+iyaṃ nṛpasya vaṃśaśrīr % ito na syāt parāṅmukhī // 4.22 //
+yā hi kāścid yuvatayo $ haranti sadṛśaṃ janam &
+nikṛṣṭotkṛṣṭayor bhāvaṃ % yā gṛhṇanti (tā tu [Wrong sandhi in EHJ? ?
+] Ctu tāḥ )striyaḥ // 4.23 //
+ity udāyivacaḥ śrutvā $ tā viddhā iva yoṣitaḥ &
+samāruruhur ātmānaṃ % kumāragrahaṇaṃ prati // 4.24 //
+tā bhrūbhiḥ prekṣitair (hāvair Cbhāvair $ hasitair (laḍitair Clalitair )gataiḥ &
+cakrur ākṣepikāś ceṣṭā % bhītabhītā ivāṅganāḥ // 4.25 //
+rājñas tu viniyogena $ kumārasya ca mārdavāt &
+(jahuḥ Cjahruḥ )
+kṣipram aviśrambhaṃ % madena madanena ca // 4.26 //
+atha nārījanavṛtaḥ $ kumāro vyacarad vanam &
+vāsitāyūthasahitah % karīva himavad vanam // 4.27 //
+sa tasmin kānane ramye $ jajvāla strīpuraḥsaraḥ &
+ākrīḍae iva (vibhrāje Cbabhrāje % vivasvān apsarovṛtaḥ // 4.28 //
+madenāvarjitā nāma $ taṃ kāścit tatra yoṣitaḥ &
+kaṭhinaiḥ paspṛśuḥ pīnaiḥ % (saṃhatair Csaṃghaṭṭair )
+valgubhiḥ stanaiḥ // 4.29 //
+srastāṃsakomalālamba $ mṛdubāhulatābalā &
+anṛtaṃ skhalitaṃ kācit % kṛtvainaṃ sasvaje balāt // 4.30 //
+kācit tāmrādharauṣṭhena $ mukhenāsavagandhinā &
+viniśaśvāsa karṇe 'sya % rahasyaṃ śrūyatām iti // 4.31 //
+kācid ājñāpayantīva $ provācārdrānulepanā &
+iha bhaktiṃ kuruṣveti % (hastasaṃśleṣalipsayā Chastaṃ saṃśliṣya lipsayā ) // 4.32 //
+muhur muhur madavyāja $ srastanīlāṃśukāparā &
+ālakṣyaraśanā reje % sphuradvidyud iva kṣapā // 4.33 //
+kāścit kanakakāñcībhir $ mukharābhir itas tataḥ &
+babhramur darśayantyo 'sya % śroṇīs tanvaṃśukāvṛtāḥ // 4.34 //
+cūtaśākhāṃ kusumitāṃ $ pragṛhyānyā lalambire &
+suvarṇakalaśaprakhyān % darśayantyaḥ payodharān // 4.35 //
+kācit padmavanād etya $ sapadmā padmalocanā &
+padmavaktrasya pārśve 'sya % padmaśrīr iva tasthuṣī // 4.36 //
+madhuraṃ gītam anvarthaṃ $ kācit sābhinayaṃ jagau &
+taṃ svasthaṃ codayantīva % vañcito 'sīty avekṣitaiḥ // 4.37 //
+śubhena vadanenānyā $ bhrūkārmukavikarṣiṇā &
+prāvṛtyānucakārāsya % ceṣṭitaṃ (dhīraCvīra)līlayā // 4.38 //
+pīnavalgustanī kācid $ (dhāsāghūrṇitaCvātāghūrṇita)kuṇḍalā &
+uccair avajahāsainaṃ % samāpnotu bhavān iti // 4.39 //
+apayāntaṃ tathaivānyā $ babandhur mālyadāmabhiḥ &
+kāścit sākṣepamadhurair % jagṛhur vacanāṅkuśaiḥ // 4.40 //
+pratiyogārthinī kācid $ gṛhītvā cūtavallarīm &
+idaṃ puṣpaṃ tu kasyeti % papraccha madaviklavā // 4.41 //
+kācit puruṣavat kṛtvā $ gatiṃ saṃsthānam eva ca &
+uvācainaṃ jitaḥ strībhir % jaya bho pṛthivīm imām // 4.42 //
+atha loleksaṇā kācij $ jighrantī nīlam utpalam &
+kiṃcinmadakalair vākyair % nṛpātmajam abhāṣata // 4.43 //
+paśya bhartaś citaṃ cūtaṃ $ kusumair madhugandhibhiḥ &
+hemapañjararuddho vā % kokilo yatra kūjati // 4.44 //
+aśoko dṛśyatām eṣa $ kāmiśokavivardhanaḥ &
+ruvanti bhramarā yatra % dahyamānā ivāgninā // 4.45 //
+cūtayaṣṭyā samāśliṣṭo $ dṛśyatāṃ tilakadrumaḥ &
+śuklavāsā iva naraḥ % striyā pītāṅgarāgayā // 4.46 //
+phullaṃ (kurubakaṃ Ckuruvakaṃ )
+paśya $ (nirbhuktālaktakaCnirmuktālaktaka)prabham &
+yo nakhaprabhayā strīṇāṃ % nirbhartsita ivānataḥ // 4.47 //
+bālāśokaś ca nicito $ dṛśyatām eṣa pallavaiḥ &
+yo 'smākaṃ hastaśobhābhir % lajjamāna iva sthitaḥ // 4.48 //
+dīrghikāṃ prāvṛtāṃ paśya $ tīrajaiḥ sinduvārakaiḥ &
+pāṇḍurāṃśukasaṃvītāṃ % śayānāṃ pramadām iva // 4.49 //
+dṛśyatāṃ strīṣu māhātmyaṃ $ cakravāko hy asau jale &
+pṛṣṭhataḥ preṣyavad bhāryām % anuvarty- anugacchati // 4.50 //
+mattasya parapuṣṭasya $ ruvataḥ śrūyatāṃ dhvaniḥ &
+aparaḥ kokilo (anvakṣaṃ % pratiśrutkeva Canutkaḥ pratiśrutyeva )kūjati // 4.51 //
+api nāma vihaṃgānāṃ $ (vasantenāhṛto Cvasantenāhito )madaḥ &
+na tu (cintayato 'cintyaṃ Ccintayataś cittaṃ % janasya prājñamāninaḥ // 4.52 //
+ity evaṃ tā yuvatayo $ manmathoddāmacetasaḥ &
+kumāraṃ vividhais tais tair % upacakramire nayaiḥ // 4.53 //
+evam ākṣipyamāṇo 'pi $ sa tu dhairyāvṛtendriyaḥ &
+martavyam iti sodvego % na jaharṣa na (vivyathe Csismiye ) // 4.54 //
+tāsāṃ (tattve 'navasthānaṃ Ctattvena vasthānaṃ $ dṛṣṭvā sa puruṣottamaḥ &
+(samaṃ vignena Csasaṃvignena )
+dhīreṇa % cintayām āsa cetasā // 4.55 //
+kiṃ (v imā Cvinā )
+nāvagacchanti % capalaṃ yauvanaṃ striyaḥ &
+yato rūpeṇa (saṃmattaṃ $ jarā yan Csaṃpannaṃ % jareyaṃ )
+nāśayiṣyati // 4.56 //
+nūnam etā na paśyanti $ kasyacid rogasaṃplavam &
+tathā hṛṣṭā bhayaṃ tyaktvā % jagati vyādhidharmiṇi // 4.57 //
+anabhijñāś ca suvyaktaṃ $ mṛtyoḥ sarvāpahāriṇaḥ &
+(tataḥ Ctathā )
+svasthā nir(udvignāḥ Cudvegāḥ % krīḍanti ca hasanti ca // 4.58 //
+jarāṃ (vyādhiṃ ca mṛtyuṃ Cmṛtyuṃ ca vyādhiṃ )
+ca $ ko hi jānan sacetanaḥ &
+svasthas tiṣṭhen niṣīded vā % (śayed Csuped )
+vā kiṃ punar haset // 4.59 //
+yas tu dṛṣṭvā paraṃ jīrṇaṃ $ vyādhitaṃ mṛtam eva ca &
+svastho bhavati nodvigno % yathācetās tathaiva saḥ // 4.60 //
+viyujyamāne (hi Capi )
+tarau $ puṣpair api phalair api &
+patati cchidyamāne vā % tarur anyo na śocate // 4.61 //
+iti dhyānaparaṃ dṛṣṭvā $ viṣayebhyo gataspṛham &
+udāyī nītiśāstrajñas % tam uvāca suhṛttayā // 4.62 //
+ahaṃ nṛpatinā dattaḥ $ sakhā tubhyaṃ kṣamaḥ kila &
+yasmāt tvayi vivakṣā me % tayā praṇayavattayā // 4.63 //
+ahitāt pratiṣedhaś ca $ hite cānupravartanam &
+vyasane cāparityāgas % trividhaṃ mitralakṣaṇam // 4.64 //
+so 'haṃ maitrīṃ pratijñāya $ puruṣārthāt parāṅ(mukhaḥ Cmukham ) //
+yadi (tvā samupekṣeya Ctvāṃ samupekṣeyaṃ % na bhaven mitratā mayi // 4.65 //
+tad bravīmi suhṛd bhūtvā $ taruṇasya vapuṣmataḥ &
+idaṃ na pratirūpaṃ te % strīṣv adākṣiṇyam īdṛśam // 4.66 //
+anṛtenāpi nārīṇāṃ $ yuktaṃ samanuvartanam &
+tadvrīḍāparihārārtham % ātmaratyartham eva ca // 4.67 //
+saṃnatis cānuvṛttiś ca $ strīṇāṃ hṛdayabandhanam &
+snehasya hi guṇā yonir % mānakāmāś ca yoṣitaḥ // 4.68 //
+tad arhasi viśālākṣa $ hṛdaye 'pi parāṅmukhe &
+rūpasyāsyānurūpeṇa % dākṣiṇyenānuvartitum // 4.69 //
+dākṣiṇyam auṣadhaṃ strīṇāṃ $ dākṣiṇyaṃ bhūṣaṇaṃ param &
+dākṣiṇyarahitaṃ rūpaṃ % niṣpuṣpam iva kānanam // 4.70 //
+kiṃ vā dākṣiṇyamātreṇa $ bhāvenāstu parigrahaḥ &
+viṣayān durlabhāṃl labdhvā % na hy avajñātum arhasi // 4.71 //
+kāmaṃ param iti jñātvā $ devo 'pi hi puraṃdaraḥ &
+gautamasya muneḥ patnīm % ahalyāṃ cakame purā // 4.72 //
+agastyaḥ prārthayām āsa $ somabhāryāṃ ca rohiṇīm &
+tasmāt tatsa(dṛśīṃ Cdṛśaṃ )
+lebhe % lopāmudrām iti śrutiḥ // 4.73 //
+(utathyasya Cautathyasya )
+ca bhāryāyāṃ $ mamatāyāṃ mahā(tapaḥ Ctapāḥ ) //
+mārutyāṃ janayām āsa % bharadvājaṃ (bṛhasCvṛhas)patiḥ // 4.74 //
+(bṛhasCvṛhas)
+pater mahiṣyāṃ ca $ juhvatyāṃ juhvatāṃ varaḥ &
+budhaṃ vibudha(karmāṇaṃ Cdharmāṇaṃ % janayām āsa candramāḥ // 4.75 //
+kālīm caiva purā kanyāṃ $ jalaprabhavasaṃbhavām &
+jagāma yamunātīre % jātarāgaḥ parāśaraḥ // 4.76 //
+mātaṅgyām akṣamālāyāṃ $ garhitāyāṃ riraṃsayā &
+kapiñjalādaṃ tanay.am % vasiṣṭho 'janayan muniḥ // 4.77 //
+yayātiś caiva rājarṣir $ vayasy api vinirgate &
+viśvācyāpsarasā sārdhaṃ % reme caitrarathe vane // 4.78 //
+strīsaṃsargaṃ vināśāntaṃ $ pāṇḍur jñātvāpi kauravaḥ &
+mādrīrūpaguṇākṣiptaḥ % siṣeve kāmajam sukham // 4.79 //
+karālajanakaś caiva $ hṛtvā brāhmaṇakanyakām &
+avāpa bhraṃśam apy (evaṃ Ceva % na tu (seje na Ctyajec ca )manmatham // 4.80 //
+evamādyā mahātmāno $ viṣayān garhitān api &
+ratihetor bubhujire % prāg eva guṇasaṃhitān // 4.81 //
+tvaṃ punar nyāyataḥ prāptān $ balavān rūpavān yuvā &
+viṣayān avajānāsi % yatra saktam idaṃ jagat // 4.82 //
+iti śrutvā vacas tasya $ ślakṣṇam āgamasaṃhitam &
+meghastanitanirghoṣaḥ % kumāraḥ pratyabhāṣata // 4.83 //
+upapannam idaṃ vākyaṃ $ sauhārdavyañjakaṃ tvayi &
+atra ca tvānuneṣyāmi % yatra mā duṣṭhu manyase // 4.84 //
+nāvajānāmi (viṣayān Cviṣayāñ $ jāne lokaṃ tadātmakam &
+anityaṃ tu jagan matvā % nātra me ramate manaḥ // 4.85 //
+jarā vyādhiś ca mṛtyuś ca $ yadi na syād idaṃ trayam &
+mamāpi hi manojñeṣu % viṣayeṣu ratir bhavet // 4.86 //
+nityaṃ yady api hi strīṇām $ etad eva vapur bhavet &
+(doṣavatsv api Csasaṃvitkasya )
+kāmeṣu % (kāmaṃ rajyeta me manaḥ Ctathāpi na ratiḥ kṣamā ) // 4.87 //
+yadā tu (jarayāpītaṃ Cjarayā pītaṃ $ rūpam āsāṃ bhaviṣyati &
+ātmano 'py anabhipretaṃ % mohāt tatra ratir bhavet // 4.88 //
+mṛtyuvyādhijarā(dharmā Cdharmo $ mṛtyuvyādhijarātmabhiḥ &
+ramamāṇo (hy Capy )
+asaṃvignaḥ % samāno mṛgapakṣibhiḥ // 4.89 //
+yad apy āttha mahātmānas $ te 'pi kāmātmakā iti &
+saṃvego (atraiva Catra na )
+kartavyo % yadā teṣām api kṣayaḥ // 4.90 //
+māhātmyaṃ na ca tan manye $ yatra sāmānyataḥ kṣayaḥ &
+viṣayeṣu prasaktir vā % yuktir vā nātmavattayā // 4.91 //
+yad apy ātthānṛtenāpi $ strījane vartyatām iti &
+anṛtaṃ nāvagacchāmi % dākṣiṇyenāpi kiṃcana // 4.92 //
+na cānuvartanaṃ tan me $ rucitaṃ yatra nārjavam &
+sarvabhāvena saṃparko % yadi nāsti dhig astu tat // 4.93 //
+(adhrṭeḥ Canṛte )
+śraddadhānasya $ saktasyādoṣadarśinaḥ &
+kiṃ hi vañcayitavyaṃ syāj % jātarāgasya cetasaḥ // 4.94 //
+vañcayanti ca yady (evaṃ Ceva $ jātarāgāḥ parasparam &
+nanu naiva kṣamaṃ draṣṭuṃ % narāḥ strīṇāṃ nṛṇām striyaḥ // 4.95 //
+tad evaṃ sati duḥkhārtaṃ $ jarāmaraṇa(bhāginam Cbhoginam ) //
+na māṃ kāmeṣv anāryeṣu % pratārayitum arhasi // 4.96 //
+aho 'tidhīraṃ balavac ca te manaś $ caleṣu kāmeṣu ca sāradarśinaḥ &
+bhaye (atitīvre Capi tīvre )
+viṣayeṣu sajjase % nirīkṣamāṇo maraṇādhvani prajāḥ // 4.97 //
+ahaṃ punar bhīrur atīvaviklavo $ jarāvipadvyādhibhayaṃ vicintayan &
+labhe na śāntiṃ na dhṛtiṃ kuto ratiṃ % niśāmayan dīptam ivāgninā jagat // 4.98 //
+asaṃśayaṃ mṛtyur iti prajānato $ narasya rāgo hṛdi yasya jāyate &
+ayomayīṃ tasya paraimi cetanāṃ % mahābhaye (rajyati Crakṣati )
+yo na roditi // 4.99 //
+atho kumāraś ca viniścayātmikāṃ $ cakāra kāmāśrayaghātinīṃ kathām &
+janasya cakṣurgamanīyamaṇḍalo % mahīdharaṃ cāstam iyāya bhāskaraḥ // 4.100 //
+tato vṛthādhāritabhūṣaṇasrajaḥ $ kalāguṇaiś ca praṇayaiś ca niṣphalaiḥ &
+svae eva bhāve vinigṛhya manmathaṃ % puraṃ yayur bhagnamanorathāḥ striyaḥ // 4.101 //
+tataḥ purodyānagatāṃ janaśriyaṃ $ nirīkṣya sāyaṃ pratisaṃhṛtāṃ punaḥ &
+anityatāṃ sarvagatāṃ vicintayan % viveśa dhiṣṇyaṃ kṣitipālakātmajaḥ // 4.102 //
+tataḥ śrutvā rājā viṣayavimukhaṃ tasya tu mano $ na śiśye tāṃ rātriṃ hṛdayagataśalyo gaja iva &
+atha śrānto mantre bahuvividhamārge sasacivo % na so 'nyat kāmebhyo niyamanam apaśyat sutamateḥ // 4.103 //
+[[iti (CśrīC)buddhacarite mahākāvye strīvighātano nāma caturthaḥ sargaḥ -- 4 --]]
+sa tathā viṣayair vilobhyamānaḥ $ (paramārhair Cparamohair )
+api śākyarājasūnuḥ &
+na jagāma (dhṛtiṃ Cratiṃ )
+na śarma lebhe % hṛdaye siṃha ivātidigdhaviddhaḥ // 5.1 //
+atha mantrisutaiḥ kṣamaiḥ kadācit $ sakhibhiś citrakathaiḥ kṛtānuyātraḥ &
+vanabhūmididṛkṣayā śamepsur % naradevānumato (bahiḥ Cvahiḥ )pratasthe // 5.2 //
+navarukmakhalīnakiṅkiṇīkaṃ $ pracalaccāmaracāruhemabhāṇḍam &
+abhiruhya sa (kanthakaṃ Ckaṇṭhakaṃ )
+sadaśvaṃ % prayayau ketum iva drumābjaketuḥ // 5.3 //
+sa (vikṛṣṭatarāṃ Cnikṛṣṭatarāṃ )
+vanāntabhūmiṃ $ vanalobhāc ca yayau mahī(guṇāc ca Cguṇecchuḥ ) //
+salilourmivikārasīramārgāṃ % vasudhāṃ caiva dadarśa kṛṣyamāṇām // 5.4 //
+halabhinnavikīrṇaśaṣpadarbhāṃ $ hatasūkṣmakrimi(kīṭaCkāṇḍa)
+jantukīrṇām &
+samavekṣya rasāṃ tathāvidhāṃ tāṃ % svajanasyeva (vadhe Cbadhe )
+bhṛśaṃ śuśoca // 5.5 //
+kṛṣataḥ puruṣāṃś ca vīkṣamāṇaḥ $ pavanārkāṃśurajovibhinnavarṇān &
+vahanaklamaviklavāṃś ca dhuryān % paramāryaḥ paramāṃ kṛpāṃ cakāra // 5.6 //
+avatīrya tatas turaṃgapṛṣṭhāc $ chanakair gāṃ (vyacarac chucā Cvyacarat śucā )parītaḥ &
+jagato jananavyayaṃ vicinvan % kṛpaṇaṃ khalv idam ity uvāca (cārtaḥ Ccārttaḥ ) // 5.7 //
+manasā ca viviktatām abhīpsuḥ $ suhṛdas tān anuyāyino nivārya &
+(abhitaś calaCabhitārala)
+cāruparṇavatyā % vijane mūlam upeyivān sa jambvāḥ // 5.8 //
+niṣasāda (sa yatra śaucavatyāṃ Cca patrakhoravatyāṃ $ bhuvi (vaiḍūryaCvaidūrya)
+nikāśaśādvalāyām &
+jagataḥ prabhavavyayau (vicinvan Cvicintya % manasaś ca sthitimārgam ālalambe // 5.9 //
+samavāptamanaḥsthitiś ca sadyo $ viṣayecchādibhir ādhibhiś ca muktaḥ &
+savitarkavicāram āpa śāntaṃ % prathamaṃ dhyānam an(āsravaCāśrava)prakāram // 5.10 //
+adhigamya tato vivekajaṃ tu $ paramaprītisukhaṃ ((CmanaḥC))samādhim &
+idam eva tataḥ paraṃ pradadhyau % manasā lokagatiṃ (niśāmya Cniśamya )samyak // 5.11 //
+kṛpaṇaṃ (bata Cvata )
+yaj janaḥ svayaṃ sann $ a(vaśo Craso )
+vyādhijarāvināśa(dharmā Cdharmaḥ ) //
+jarayārditam āturaṃ mṛtaṃ vā % param ajño vijugupsate madāndhaḥ // 5.12 //
+iha ced aham īdṛśaḥ svayaṃ san $ vijugupseya paraṃ tathāsvabhāvam &
+na bhavet sadṛśaṃ hi tat kṣamaṃ vā % paramaṃ dharmam imaṃ vijānato me // 5.13 //
+iti tasya vipaśyato yathāvaj $ jagato vyādhijarāvipattidoṣān &
+balayauvanajīvita(pravṛtto Cpravṛttau % vijagāmātmagato madaḥ kṣaṇena // 5.14 //
+na jaharṣa na cāpi cānutepe $ vicikitsāṃ na yayau na tandrinidre &
+na ca kāmaguṇeṣu saṃrarañje % na (vididveṣa Cca didveṣa )
+paraṃ na cāvamene // 5.15 //
+iti buddhir iyaṃ ca nīrajaskā $ vavṛdhe tasya mahātmano viśuddhā &
+puruṣair aparair adṛśyamānaḥ % puruṣaś copasasarpa bhikṣu(veṣaḥ Cveśaḥ ) // 5.16 //
+naradevasutas tam abhyapṛcchad $ vada ko 'sīti śaśaṃsa so 'tha tasmai &
+(narapuṃCsa ca puṃ)
+gava janmamṛtyubhītaḥ % śramaṇaḥ pravrajito 'smi mokṣahetoḥ // 5.17 //
+jagati kṣayadharmake mumukṣur $ mṛgaye 'haṃ śivam akṣayaṃ padaṃ tat &
+sva(jane 'nyajane ca tulyaCjano 'nyajanair atulya)
+buddhir % viṣayebhyo vini.vrttarāgadoṣaḥ // 5.18 //
+nivasan kvacid eva vṛkṣamūle $ vijane vāyatane girau vane vā &
+vicarāmy aparigraho nirāśaḥ % paramārthāya yathopapanna(bhaikṣaḥ Cbhikṣuḥ ) // 5.19 //
+iti paśyata eva rājasūnor $ idam uktvā sa nabhaḥ samutpapāta &
+sa hi tadvapur anya(buddhaCbuddhi)
+darśī % smṛtaye tasya sameyivān divaukāḥ // 5.20 //
+gaganaṃ khagavad gate ca tasmin $ nṛvaraḥ saṃjahṛṣe visismiye ca &
+upalabhya tataś ca dharmasaṃjñām % abhiniryāṇavidhau matiṃ cakāra // 5.21 //
+tata indrasamo (jitendriyāśvaḥ Cjitendriyaś ca $ pravivikṣuḥ (puram aśvam Cparamāśvam )āruroha &
+(parivārajanaṃ Cparivartya janaṃ )
+tv avekṣamāṇas % tata evābhimataṃ vanaṃ na bheje // 5.22 //
+sa jarāmaraṇakṣayaṃ cikīrṣur $ vanavāsāya matiṃ smṛtau nidhāya &
+praviveśa punaḥ puraṃ na kāmād % vanabhūmer iva maṇḍalaṃ dvipendraḥ // 5.23 //
+sukhitā (bata Cvata )
+nirvṛtā ca sā strī $ patir ī(dṛkṣa ihāyatākṣa Cdṛk tvam ivāyatākṣa )yasyāḥ &
+iti taṃ samudīkṣya rājakanyā % praviśantaṃ pathi sāñjalir jagāda // 5.24 //
+atha ghoṣam imaṃ mahābhraghoṣaḥ $ pariśuśrāva śamaṃ paraṃ ca lebhe &
+(śrutavān sa Cśrutavāṃś ca )
+hi nirvṛteti śabdaṃ % parinirvāṇavidhau matiṃ cakāra // 5.25 //
+atha kāñcanaśailaśṛṅgavarṣmā $ gajamegharṣabhabāhunisvanākṣaḥ &
+kṣayam akṣayadharmajātarāgaḥ % śaśisiṃhānanavikramaḥ prapede // 5.26 //
+mṛgarājagatis tato 'bhyagacchan $ nṛpatiṃ mantrigaṇair upāsyamānam &
+samitau marutām iva jvalantaṃ % maghavantaṃ tridive sanatkumāraḥ // 5.27 //
+praṇipatya ca sāñjalir babhāṣe $ diśa mahyaṃ naradeva sādhv anujñām &
+parivivrajiṣāmi mokṣahetor % niyato hy asya janasya viprayogaḥ // 5.28 //
+iti tasya vaco niśamya rājā $ kariṇevābhihato drumaś cacāla &
+kamalapratime 'ñjalau gṛhītvā % vacanaṃ cedam uvāca (bāṣpaCvāṣpa)kaṇṭhaḥ // 5.29 //
+pratisaṃhara tāta buddhim etāṃ $ na hi kālas tava dharmasaṃśrayasya &
+vayasi prathame matau calāyāṃ % bahudoṣāṃ hi vadanti dharmacaryām // 5.30 //
+viṣayeṣu kutūhalendriyasya $ vratakhedeṣv asamarthaniścayasya &
+taruṇasya manaś calaty araṇyād % anabhijñasya viśeṣato (viveke Cavivekam ) // 5.31 //
+mama tu priyadharma dharmakālas $ tvayi lakṣmīm avasṛjya (lakṣmaClakṣya)bhūte &
+sthiravikrama vikrameṇa dharmas % tava hitvā tu guruṃ bhaved adharmaḥ // 5.32 //
+tad imaṃ vyavasāyam utsṛja $ tvaṃ bhava tāvan nirato gṛhasthadharme &
+puruṣasya vayaḥsukhāni bhuktvā % ramaṇīyo hi tapovanapraveśaḥ // 5.33 //
+iti vākyam idaṃ niśamya rājñaḥ $ kalaviṅkasvara uttaraṃ babhāṣe &
+yadi me pratibhūś caturṣu rājan % bhavasi tvaṃ na tapovanaṃ śrayiṣye // 5.34 //
+na bhaven maraṇāya jīvitaṃ me $ viharet svāsthyam idam ca me na rogaḥ &
+na ca yauvanam ākṣipej jarā me % na ca saṃpattim (imāṃ hared Capāhared )vipattiḥ // 5.35 //
+iti durlabham artham ūcivāṃsaṃ $ tanay.am vākyam uvāca śākyarājaḥ &
+tyaja buddhim (imām atiCimāṃ gati)
+pravṛttām % avahāsyo 'timano(ratho 'Cratha)kramaś ca // 5.36 //
+atha merugurur guruṃ babhāṣe $ yadi nāsti krama eṣa (nāsmi Cnāsti )vāryaḥ &
+śaraṇāj jvalanena dahyamānān % na hi (niścikramiṣuḥ Cniścikramiṣuṃ )
+kṣamaṃ grahītum // 5.37 //
+jagataś ca (yadā Cyathā )
+dhruvo viyogo $ (nanu Cna tu )
+dharmāya varaṃ (svayaṃviyogaḥ Ctv ayaṃ viyogaḥ ) //
+avaśaṃ nanu viprayojayen mām % akṛtasvārtham atṛptam eva mṛtyuḥ // 5.38 //
+iti bhūmipatir niśamya tasya $ vyavasāyaṃ tanayasya nirmumukṣoḥ &
+abhidhāya na yāsyatīti bhūyo % vidadhe rakṣaṇam uttamāṃś ca kāmān // 5.39 //
+sacivais tu nidarśito yathāvad $ bahumānāt praṇayāc ca śāstrapūrvam &
+guruṇā ca nivārito 'śrupātaiḥ % praviveśāvasathaṃ tataḥ sa śocan // 5.40 //
+calakuṇdalacumbitānanābhir $ ghananiśvāsavikampitastanībhiḥ &
+vanitābhir adhīralocanābhir % mṛgaśāvābhir ivābhyudīkṣyamāṇaḥ // 5.41 //
+sa hi kāñcanaparvatāvadāto $ hṛdayonmādakaro varāṅganānām &
+śravanāṅgavilocanātmabhāvān % vacanasparśavapurguṇair jahāra // 5.42 //
+vigate divase tato vimānaṃ $ vapuṣā sūrya iva pradīpyamānaḥ &
+timiraṃ vijighāṃsur ātmabhāsā % ravir udyann iva merum āruroha // 5.43 //
+kanakojjvaladīptadīpavṛkṣaṃ $ varakālāgurudhūpapūrṇagarbham &
+adhiruhya sa vajrabhakticitraṃ % pravaraṃ kāñcanam āsanaṃ siṣeve // 5.44 //
+tata uttamam (uttamāṅganās taṃ Cuttamāś ca nāryo $ niśi tūryair upatasthur indrakalpam &
+himavacchirasīva candragaure % draviṇendrātmajam apsarogaṇaughāḥ // 5.45 //
+paramair api divyatūryakalpaiḥ $ sa tu tair naiva ratiṃ yayau na harṣam &
+paramārthasukhāya tasya sādhor % abhiniścikramiṣā yato na reme // 5.46 //
+atha tatra surais tapovariṣṭhair $ akaniṣṭhair vyavasāyam asya buddhvā &
+yugapat pramadājanasya nidrā % vihitāsīd vikṛtāś ca gātraceṣṭāḥ // 5.47 //
+abhavac chayitā hi tatra kācid $ viniveśya pracale kare kapolam &
+dayitām api rukmapattracitrāṃ % kupitevāṅkagatāṃ vihāya vīṇām // 5.48 //
+vibabhau karalagnaveṇur anyā $ stanavisrastasitāṃśukā śayānā &
+ṛjuṣaṭpadapaṅktijuṣṭapadmā % jalaphenaprahasattaṭā nadīva // 5.49 //
+navapuṣkaragarbhakomalābhyāṃ $ tapanīyojjvalasaṃgatāṅgadābhyām &
+svapiti sma (tathāparā Ctathā purā )
+bhujābhyāṃ % parirabhya priyavan mṛdaṅgam eva // 5.50 //
+navahāṭakabhūṣaṇās tathānyā $ vasanaṃ pītam anuttamaṃ vasānāḥ &
+avaśā (ghananidrayā Cvata nidrayā )
+nipetur % gajabhagnā iva karṇikāraśākhāḥ // 5.51 //
+avalambya gavākṣapārśvam anyā $ śayitā cāpavibhugnagātrayaṣṭiḥ &
+virarāja vilambicāruhārā % racitā toraṇaśālabhañjikeva // 5.52 //
+maṇikuṇḍaladaṣṭapattralekhaṃ $ mukhapadmaṃ vinataṃ tathāparasyāḥ &
+śatapattram ivārdha(vakraCcakra)
+nāḍaṃ % sthitakāraṇḍavaghaṭṭitaṃ cakāśe // 5.53 //
+aparāḥ śayitā yathopaviṣṭāḥ $ stanabhārair avanamyamānagātrāḥ &
+upaguhya parasparaṃ virejur % bhujapāśais tapanīyapārihāryaiḥ // 5.54 //
+mahatīṃ parivādinīṃ ca kācid $ vanitāliṅgya sakhīm iva prasuptā &
+vijughūrṇa calatsuvarṇa(sūtrā Csūtrāṃ % vadanenākula(yoktrakeṇa Ckarṇikojjvalena ) // 5.55 //
+paṇavaṃ yuvatir bhujāṃsadeśād $ avavisraṃsitacārupāśam anyā &
+savilāsaratāntatāntam ūrvor % vivare kāntam ivābhinīya śiśye // 5.56 //
+aparā babhur nimīlitākṣyo $ vipulākṣyo 'pi śubhabhruvo 'pi satyaḥ &
+pratisaṃkucitāravindakośāḥ % savitary astam ite yathā nalinyaḥ // 5.57 //
+śithilākulamūrdhajā tathānyā $ jaghanasrastavibhūṣaṇāṃśukāntā &
+aśayiṣṭa vikīrṇakaṇṭhasūtrā % gajabhagnā (pratiyātanāṅganeva Cpratipātitāṅganeva ) // 5.58 //
+aparās tv avaśā hriyā viyuktā $ dhṛtimatyo 'pi vapurguṇair upetāḥ &
+viniśaśvasur (ulbaṇaṃ Culvaṇaṃ )
+śayānā % (vikṛtāḥ kṣiptaCvikṛtākṣipta)
+bhujā jajṛmbhire ca // 5.59 //
+vyapaviddhavibhūṣaṇasrajo 'nyā $ (visṛtāgranthanaCvisṛtāgranthana)
+vāsaso visaṃjñāḥ &
+animīlitaśuklaniścalākṣyo % na virejuḥ śayitā gatāsukalpāḥ // 5.60 //
+vivṛtāsyapuṭā vivṛddha(gātrī Cgātrā $ prapatadvaktrajalā prakāśaguhyā &
+aparā madaghūrṇiteva śiśye % na (babhāse Cbabhāṣe )
+vikṛtaṃ vapuḥ pupoṣa // 5.61 //
+iti sattva(kulānvayānurūpaṃ Ckulānurūparūpaṃ $ vividhaṃ sa pramadājanaḥ śayānaḥ &
+sarasaḥ sadṛśaṃ babhāra rūpaṃ % pavanāvarjita(rugnaCrugṇa)
+puṣkarasya // 5.62 //
+samavekṣya (tathā tathā Ctataś ca tāḥ )
+śayānā $ vikṛtās tā yuvatīr adhīraceṣṭāḥ &
+guṇavadvapuṣo 'pi valgu(bhāṣā Cbhāso % nṛpasūnuḥ sa vigarhayāṃ babhūva // 5.63 //
+aśucir vikṛtaś ca jīvaloke $ vanitānām ayam īdṛśaḥ svabhāvaḥ &
+vasanābharaṇais tu vañcyamānaḥ % puruṣaḥ strīviṣayeṣu rāgam eti // 5.64 //
+vimṛśed yadi yoṣitāṃ manuṣyaḥ $ prakṛtiṃ svapnavikāram īdṛśaṃ ca &
+dhruvam atra na vardhayet pramādaṃ % guṇasaṃkalpahatas tu rāgam eti // 5.65 //
+iti tasya tadantaraṃ viditvā $ niśi niścikramiṣā samudbabhūva &
+avagamya manas tato 'sya devair % bhavanadvāram apāvṛtaṃ babhūva // 5.66 //
+atha so 'vatatāra harmyapṛṣṭhād $ yuvatīs tāḥ śayitā vigarhamāṇaḥ &
+avatīrya tataś ca nirviśaṅko % gṛhakakṣyāṃ (prathamāṃ Cprathamaṃ )
+vinirjagāma // 5.67 //
+turagāvacaraṃ sa bodhayitvā $ javinaṃ chandakam ittham ity uvāca &
+hayam ānaya kanthakaṃ tvarāvān % amṛtaṃ prāptum ito 'dya ma yiyāsā // 5.68 //
+hṛdi yā mama tuṣṭir adya jātā $ vyavasāyaś ca yathā (matau Cdhṛtau )niviṣṭaḥ &
+vijane 'pi ca nāthavān ivāsmi % dhruvam artho 'bhimukhaḥ (sameta Csa me ya )iṣṭaḥ // 5.69 //
+hriyam eva ca saṃnatiṃ ca hitvā $ śayitā matpramukhe yathā yuvatyaḥ &
+vivṛte ca yathā svayaṃ kapāṭe % niyataṃ yātum (ato mamādya Canāmayāya )kālaḥ // 5.70 //
+pratigṛhya tataḥ sa bhartur ājñāṃ $ viditārtho 'pi narendraśāsanasya &
+manasīva pareṇa codyamānas % turagasyānayane matiṃ cakāra // 5.71 //
+atha hemakhalīnapūrṇavaktraṃ $ laghuśayyāstaraṇopagūḍhapṛṣṭham &
+balasattva(javānvayopapannaṃ Cjavatvaropapannaṃ % sa varāśvaṃ tam upānināya bhartre // 5.72 //
+pratatatrikapucchamūlapārṣṇiṃ $ (nibhṛtahrasvaCnibhṛtaṃ hrasva)
+tanūja(pucchaCpṛṣṭha)karṇam &
+vinatonnatapṛṣṭhakukṣipārśvaṃ % vipulaprothalalāṭakaṭhyuraskam // 5.73 //
+upaguhya sa taṃ viśālavakṣāḥ $ kamalābhena ca sāntvayan kareṇa &
+madhurākṣarayā girā śaśāsa % dhvajinīmadhyam iva praveṣṭukāmaḥ // 5.74 //
+bahuśaḥ (kila śatravo Ckaliśatravo )
+nirastāḥ $ samare tvām adhiruhya pārthivena &
+aham apy amṛtaṃ (padaṃ Cparaṃ )
+yathāvat % turagaśreṣṭha labheya tat kuruṣva // 5.75 //
+sulabhāḥ khalu saṃyuge sahāyā $ viṣayāvāptasukhe dhanārjane vā &
+puruṣasya tu durlabhāḥ sahāyāḥ % patitasyāpadi dharmasaṃśraye vā // 5.76 //
+iha caiva bhavanti ye sahāyāḥ $ kaluṣe (karmaṇi Cdharmaṇi )
+dharmasaṃśraye vā &
+avagacchati me yathāntarātmā % niyataṃ te 'pi janās tadaṃśabhājaḥ // 5.77 //
+tad idaṃ parigamya dharmayuktaṃ $ mama niryāṇam (ito Cato )
+jagaddhitāya &
+turagottama vegavikramābhyāṃ % prayatasvātmahite jagaddhite ca // 5.78 //
+iti suhṛdam ivānuśiṣya kṛtye $ turagavaraṃ nṛvaro vanaṃ yiyāsuḥ &
+sitam asitagatidyutir vapuṣmān % ravir iva śāradam abhram āruroha // 5.79 //
+atha sa pariharan niśīthacaṇḍaṃ $ parijanabodhakaraṃ dhvaniṃ sadaśvaḥ &
+vigatahanuravaḥ praśāntaheṣaś % cakitavimuktapada(kramo Ckramā )jagāma // 5.80 //
+kanakavalayabhūṣitaprakoṣṭhaiḥ $ kamalanibhaiḥ (kamalān iva Ckamalāni ca )pravidhya &
+avanatatanavas tato 'sya yakṣāś % cakita(gatair Cgater )
+dadhire khurān karāgraiḥ // 5.81 //
+guruparighakapāṭasaṃvṛtā yā $ na sukham api dviradair apāvriyante &
+vrajati nṛpasute gatasvanās tāḥ % svayam abhavan vivṛtāḥ puraḥ pratolyaḥ // 5.82 //
+pitaram abhimukhaṃ sutaṃ ca bālaṃ $ janam anuraktam anuttamāṃ ca lakṣmīm &
+kṛtamatir apahāya nirvyapekṣaḥ % pitṛnagarāt sa tato vinirjagāma // 5.83 //
+atha sa (vimalaCvikaca)
+paṅkajāyatākṣaḥ $ puram avalokya nanāda siṃhanādam &
+jananamaraṇayor adṛṣṭapāro % na (puram Cpunar )
+ahaṃ kapilāhvayaṃ (praveṣṭā Cpraviṣṭā ) // 5.84 //
+iti vacanam idaṃ niśamya tasya $ draviṇapateḥ pariṣadgaṇā nananduḥ &
+pramuditamanasaś ca devasaṅghā % vyavasitapāraṇam āśaśaṃsire 'smai // 5.85 //
+hutavahavapuṣo divaukaso 'nye $ vyavasitam asya (suduṣCca duṣ)
+karaṃ viditvā &
+(akṛṣata Cakuruta )
+tuhine pathi prakāśaṃ % ghanavivarapraṣrtā ivendupādāḥ // 5.86 //
+aruṇaparuṣa(tāram antarikṣaṃ Cbhāram antarīkṣaṃ $ (sa ca subahūni Csarasabahūni )
+jagāma yojanāni // 5.87 //
+[[iti (CśrīC)buddhacarite mahākāvye 'bhiniṣkramaṇo nāma pañcamaḥ sargaḥ -- 5 --]]
+tato (muhūrtābhyudite Cmuhūrte 'bhyudite $ jagaccakṣuṣi bhāskare &
+bhārgavasyāśramapadaṃ % sa dadarśa nṛṇāṃ varaḥ // 6.1 //
+suptaviśvastahariṇaṃ $ svasthasthitavihaṃgamam &
+viśrānta iva yad (dṛṣṭvā Cdṛṣṭā [sic] % kṛtārtha iva cābhavat // 6.2 //
+sa vismayanivṛttyarthaṃ $ tapaḥpūjārtham eva ca &
+svāṃ cānuvartitāṃ rakṣaṇn % aśvapṛṣṭhād avātarat // 6.3 //
+avatīrya ca pasparśa $ nistīrṇam iti vājinam &
+chandakaṃ cābravīt prītaḥ % snāpayann iva cakṣuṣā // 6.4 //
+imaṃ tārkṣyopamajavaṃ $ turaṃgam anugacchatā &
+darśitā saumya madbhaktir % vikramaś cāyam ātmanaḥ // 6.5 //
+sarvathāsmy anyakāryo 'pi $ gṛhīto bhavatā hṛdi &
+bhartṛsnehaś ca yasyāyam % īdṛśaḥ (śaktir Cśakta )eva ca // 6.6 //
+asnigdho 'pi samartho 'sti $ niḥsāmarthyo 'pi bhaktimān &
+bhaktimāṃs caiva śaktaś ca % durlabhas tvadvidho bhuvi // 6.7 //
+tat prīto 'smi tavānena $ mahābhāgena karmaṇā &
+(yasya te Cdṛśyate )
+mayi bhāvo 'yaṃ % phalebhyo 'pi parāṅ(mukhaḥ Cmukhe ) // 6.8 //
+ko janasya phalasthasya $ na syād abhimukho janaḥ &
+janībhavati bhūyiṣṭhaṃ % svajano 'pi viparyaye // 6.9 //
+kulārthaṃ dhāryate putraḥ $ poṣārthaṃ sevyate pitā &
+(āśayāc chliṣyati Cāśayāśliṣyati )
+jagan % nāsti niṣ(kāraṇā svatā Ckāraṇāsvatā ) // 6.10 //
+kim uktvā bahu saṃkṣepāt $ kṛtaṃ me sumahat priyam &
+nivartasvāśvam ādāya % saṃprāpto 'smīpsitaṃ (padam Cvanam ) // 6.11 //
+ity uktvā sa mahābāhur $ anuśaṃsacikīrṣayā &
+bhūṣaṇāny avamucyāsmai % saṃtaptamanase dadau // 6.12 //
+(mukuṭād dīpaCmukuṭoddīpta)
+karmāṇaṃ $ maṇim ādāya bhāsvaram &
+bruvan vākyam idaṃ tasthau % sāditya iva mandaraḥ // 6.13 //
+anena maṇinā chanda $ praṇamya bahuśo nṛpaḥ &
+vijñāpyo 'muktaviśrambhaṃ % saṃtāpavinivṛttaye // 6.14 //
+(janmaCjarā)maraṇanāśārthaṃ $ praviṣṭo 'smi tapovanam &
+na khalu svargatarṣeṇa % nāsnehena na manyunā // 6.15 //
+tad evam abhiniṣkrāntaṃ $ na māṃ śocitum arhasi &
+bhūtvāpi hi ciraṃ śleṣaḥ % kālena na bhaviṣyati // 6.16 //
+dhruvo yasmāc ca viśleṣas $ tasmān mokṣāya me matiḥ &
+viprayogaḥ kathaṃ na syād % bhūyo 'pi sva(janād iti Cjanādibhiḥ ) // 6.17 //
+śokatyāgāya niṣkrāntaṃ $ na māṃ śocitum arhasi &
+śokahetuṣu kāmeṣu % saktāḥ śocyās tu rāgiṇaḥ // 6.18 //
+ayaṃ ca kila pūrveṣām $ asmākaṃ niścayaḥ sthiraḥ &
+iti (dāyādyaCdāyāda)
+bhūtena % na śocyo 'smi pathā vrajan // 6.19 //
+bhavanti hy arthadāyādāḥ $ puruṣasya viparyaye &
+pṛthivyāṃ dharmadāyādāḥ % durlabhās tu na santi vā // 6.20 //
+yad api syād asamaye $ yāto vanam asāv iti &
+akālo nāsti dharmasya % jīvite cañcale sati // 6.21 //
+tasmād adyaiva me śreyaś $ cetavyam iti niścayaḥ &
+jīvite ko hi viśrambho % mṛtyau pratyarthini sthite // 6.22 //
+evamādi tvayā saumya $ vijñāpyo vasudhādhipaḥ &
+prayatethās tathā caiva % yathā māṃ na smared api // 6.23 //
+api nairguṇyam asmākaṃ $ vācyaṃ narapatau tvayā &
+nairguṇyāt tyajyate snehaḥ % snehatyāgān na śocyate // 6.24 //
+iti vākyam idaṃ śrutvā $ chandaḥ saṃtāpaviklavaḥ &
+(bāṣpaCvāṣpa)
+grathitayā vācā % pratyuvāca kṛtāñjaliḥ // 6.25 //
+anena tava bhāvena $ bāndhavāyāsadāyinā &
+bhartaḥ sīdati me ceto % nadīpaṅkae iva dvipaḥ // 6.26 //
+kasya notpādayed (bāṣpaṃ Cvāṣpaṃ $ niścayas te 'yam īdṛśaḥ &
+ayomaye 'pi hṛdaye % kiṃ punaḥ snehaviklave // 6.27 //
+vimānaśayanārhaṃ hi $ saukumāryam idaṃ kva ca &
+kharadarbhāṅkuravatī % tapovanamahī kva ca // 6.28 //
+śrutvā tu vyavasāyaṃ te $ yad aśvo 'yaṃ (mayāhṛtaḥ Cmayā hṛtaḥ ) //
+balātkāreṇa tan nātha % daivenaivāsmi kāritaḥ // 6.29 //
+kathaṃ hy ātmavaśo jānan $ vyavasāyam imaṃ tava &
+upānayeyaṃ turagaṃ % śokaṃ kapila(vāstunaḥ Cvastunaḥ ) // 6.30 //
+tan nārhasi mahābāho $ vihātuṃ putralālasam &
+snigdhaṃ vṛddhaṃ ca rājānaṃ % saddharmam iva nāstikaḥ // 6.31 //
+saṃvardhanapariśrāntāṃ $ dvitīyāṃ tāṃ ca mātaram &
+(devīṃ Cdeva )nārhasi vismartuṃ % kṛtaghna iva satkriyām // 6.32 //
+bālaputrāṃ guṇavatīṃ $ kulaślāghyāṃ pativratām &
+devīm arhasi na tyaktuṃ % (klībaḥ Cklīvaḥ )
+prāptām iva śriyam // 6.33 //
+putraṃ yāśodharaṃ ślāghyaṃ $ yaśodharmabhṛtāṃ (varam Cvaraḥ ) //
+bālam arhasi na tyaktuṃ % vyasanīvottamaṃ yaśaḥ // 6.34 //
+atha bandhuṃ ca rājyaṃ ca $ tyaktum eva kṛtā matiḥ &
+māṃ nārhasi vibho tyaktuṃ % tvatpādau hi gatir mama // 6.35 //
+nāsmi yātuṃ puraṃ śakto $ dahyamānena cetasā &
+tvām araṇye parityajya % su(mantra Cmitra )
+iva rāghavam // 6.36 //
+kiṃ hi vakṣyati (māṃ rājā Crājā māṃ $ tvadṛte nagaraṃ gatam &
+vakṣyāmy ucitadarśitvāt % kiṃ tavāntaḥpurāṇi vā // 6.37 //
+yad apy ātthāpi nairguṇyaṃ $ vācyaṃ narapatāv iti &
+kiṃ tad vakṣyāmy abhūtaṃ te % nirdoṣasya muner iva // 6.38 //
+hṛdayena salajjena $ jihvayā sajjamānayā &
+ahaṃ yadyapi vā brūyāṃ % kas tac chraddhātum arhati // 6.39 //
+yo hi candramasas (taikṣṇyaṃ Ctaikṣṇya [sic] $ kathayec chraddadhīta vā &
+sa doṣāṃs tava doṣajña % kathayec chraddadhīta vā // 6.40 //
+sānukrośasya satataṃ $ nityaṃ karuṇavedinaḥ &
+snigdhatyāgo na sadṛśo % nivartasva prasīda me // 6.41 //
+iti śokābhibhūtasya $ śrutvā chandasya bhāṣitam &
+svasthaḥ paramayā dhṛtyā % jagāda vadatāṃ varaḥ // 6.42 //
+madviyogaṃ prati cchanda $ saṃtāpas tyajyatām ayam &
+nānābhāvo hi niyataṃ % pṛthagjātiṣu dehiṣu // 6.43 //
+svajanaṃ yadyapi snehān $ na (tyajeyam ahaṃ svayam Ctyajeyaṃ mumukṣayā ) //
+mṛtyur anyoanyam avaśān % asmān saṃtyājayiṣyati // 6.44 //
+mahatyā tṛṣṇayā duḥkhair $ garbheṇāsmi yayā dhṛtaḥ &
+tasyā niṣphalayatnāyāḥ % kvāhaṃ mātuḥ kva sā mama // 6.45 //
+vāsavṛkṣe samāgamya $ vigacchanti yathāṇḍajāḥ &
+niyataṃ viprayogāntas % tathā bhūtasamāgamaḥ // 6.46 //
+sametya ca yathā bhūyo $ vyapayānti (balāhakāḥ Cvalāhakāḥ ) //
+saṃyogo viprayogaś ca % tathā me prāṇināṃ mataḥ // 6.47 //
+yasmād yāti ca loko 'yaṃ $ vipralabhya paraṃparam &
+mamatvaṃ na kṣamaṃ tasmāt % svapnabhūte samāgame // 6.48 //
+sahajena viyujyante $ parṇarāgeṇa pādapāḥ &
+anyenānyasya viśleṣaḥ % kiṃ punar na bhaviṣyati // 6.49 //
+tad evaṃ sati saṃtāpaṃ $ mā kārṣīḥ saumya gamyatām &
+lambate yadi tu sneho % gatvāpi punar āvraja // 6.50 //
+brūyāś (cāsmatkṛtāpekṣaṃ Ccāsmāsv anākṣepaṃ $ janaṃ kapila(vāstuni Cvastuni ) //
+tyajyatāṃ tadgataḥ snehaḥ % śrūyatāṃ cāsya niścayaḥ // 6.51 //
+kṣipram eṣyati vā kṛtvā $ janmamṛtyukṣayaṃ kila &
+akṛtārtho nir(ārambho Cālambo % nidhanaṃ yāsyatīti vā // 6.52 //
+iti tasya vacaḥ śrutvā $ kanthakas turagottamaḥ &
+jihvayā lilihe pādau % (bāṣpam Cvāṣpam )
+uṣṇaṃ mumoca ca // 6.53 //
+jālinā svastikāṅkena $ (cakraCvakra)
+madhyena pāṇinā &
+āmamarśa kumāras taṃ % babhāṣe ca vayasyavat // 6.54 //
+muñca kanthaka mā (bāṣpaṃ Cvāṣpaṃ $ darśiteyaṃ sadaśvatā &
+mṛṣyatāṃ saphalaḥ śīghraṃ % śramas te 'yaṃ bhaviṣyati // 6.55 //
+maṇitsaruṃ chandakahastasaṃsthaṃ $ tataḥ sa dhīro niśitaṃ gṛhītvā &
+kośād asiṃ kāñcanabhakticitraṃ % (bilād Cvilād )
+ivāśīviṣam udbabarha // 6.56 //
+niṣkāsya taṃ cadutpalapattranīlaṃ $ ciccheda citraṃ mukuṭaṃ sakeśam &
+vikīryamāṇāṃśukam antarīkṣe % cikṣepa cainaṃ sarasīva haṃsam // 6.57 //
+pūjābhilāṣeṇa ca bāhumānyād $ divaukasas taṃ jagṛhuḥ praviddham &
+yathāvad enaṃ divi devasaṅghā % divyair viśeṣair mahayāṃ ca cakruḥ // 6.58 //
+muktvā tv alaṃkārakalatravattāṃ $ śrīvipravāsaṃ śirasaś ca kṛtvā &
+dṛṣṭvāṃśukaṃ kāñcanahaṃsa(cihnaṃ Ccitram % vanyaṃ sa dhīro 'bhicakāṅkṣa vāsaḥ // 6.59 //
+tato mṛgavyādhavapur divaukā $ bhāvaṃ viditvāsya viśuddhabhāvaḥ &
+kāṣāyavastro 'bhiyayau samīpaṃ % taṃ śākyarājaprabhavo 'bhyuvāca // 6.60 //
+śivaṃ ca kāṣāyam ṛṣidhvajas te $ na yujyate hiṃsram idaṃ dhanuś ca &
+tat saumya yady asti na saktir atra % mahyaṃ prayacchedam idaṃ gṛhāṇa // 6.61 //
+vyādho 'bravīt kāmada kāmam ārād $ anena viśvāsya mṛgān (nihanmi Cnihatya ) //
+arthas tu śakropama yady anena hanta % pratīcchānaya śuklam etat // 6.62 //
+pareṇa harṣeṇa tataḥ sa vanyaṃ $ jagrāha vāso 'ṃśukam utsasarja &
+vyādhas tu divyaṃ vapur eva bibhrat % tac chuklam ādāya divaṃ jagāma // 6.63 //
+tataḥ kumāraś ca sa cāśvagopas $ tasmiṃs tathā yāti visismiyāte &
+āraṇyake vāsasi caiva bhūyas % tasminn akārṣṭāṃ bahumānam āśu // 6.64 //
+chandaṃ tataḥ sāśrumukhaṃ visṛjya $ kāṣāya(saṃbhṛd dhṛtiCsaṃvid vṛta)
+kīrtibhṛt saḥ &
+yenāśramas tena yayau mahātmā % saṃdhyābhrasaṃvīta (ivoḍuCivādri)rājaḥ // 6.65 //
+tatas tathā bhartari rājyaniḥspṛhe $ tapovanaṃ yāti vivarṇavāsasi &
+bhujau samutkṣipya tataḥ sa vājibhṛd % bhṛśaṃ vicukrośa papāta ca kṣitau // 6.66 //
+vilokya bhūyaś ca ruroda sasvaraṃ $ hayaṃ bhujābhyām upaguhya kanthakam &
+tato nirāśo vilapan muhur muhur % yayau śarīreṇa puraṃ na cetasā // 6.67 //
+kvacit pradadhyau vilalāpa ca kvacit $ kvacit pracaskhāla papāta ca kvacit &
+ato vrajan bhaktivaśena duḥkhitaś % cacāra bahvīr (avasaḥ Cavaśaḥ )
+pathi kriyāḥ // 6.68 //
+[[iti (CśrīC)buddhacarite mahākāvye chandaka(nivartano Cnivartanaṃ )
+nāma ṣaṣṭhaḥ sargaḥ -- 6 --]]
+tato visṛjyāśrumukhaṃ rudantaṃ $ chandaṃ vanacchandatayā nirāsthaḥ &
+sarvārthasiddho vapuṣābhibhūya % tam āśramaṃ (siddha Csiddham )
+iva prapede // 7.1 //
+sa rājasūnur mṛgarājagāmī $ mṛgājiraṃ tan mṛgavat praviṣṭaḥ &
+lakṣmīviyukto 'pi śarīralakṣmyā % cakṣūṃṣi sarvāśramiṇāṃ jahāra // 7.2 //
+sthitā hi hastasthayugās tathaiva $ kautūhalāc cakradharāḥ sadārāḥ &
+tam indrakalpaṃ dadṛśur na jagmur % dhuryā ivārdhāvanataiḥ śirobhiḥ // 7.3 //
+viprāś ca gatvā bahir idhmahetoḥ $ prāptāḥ samitpuṣpapavitrahastāḥ &
+tapaḥpradhānāḥ kṛtabuddhayo 'pi % taṃ draṣṭum īyur na maṭhān abhīyuḥ // 7.4 //
+hṛṣṭāś ca kekā mumucur mayūrā $ dṛṣṭvāmbudaṃ nīlam (ivonnamantaḥ Civonnamantaṃ ) //
+śaṣpāṇi hitvābhimukhāś ca tasthur % mṛgāś calākṣā mṛgacāriṇaś ca // 7.5 //
+dṛṣṭvā tam ikṣvākukulapradīpaṃ $ jvalantam udyantam ivāṃśumantam &
+kṛte 'pi dohe janitapramodāḥ % prasusruvur homaduhaś ca gāvaḥ // 7.6 //
+kaścid vasūnām ayam aṣṭamaḥ syāt $ syād aśvinor anyataraś cyuto (vā Catra ) //
+uccerur uccair iti tatra vācas % taddarśanād vismayajā munīnām // 7.7 //
+lekharṣabhasyeva vapur dvitīyaṃ $ dhāmeva lokasya carācarasya &
+sa dyotayām āsa vanaṃ hi kṛtsnaṃ % yadṛcchayā sūrya ivāvatīrṇaḥ // 7.8 //
+tataḥ sa tair āśramibhir yathāvad $ abhyarcitaś copanimantritaś ca &
+pratyarcayāṃ dharmabhṛto babhūva % svareṇa (sāmbhoambuCbhādrāmbu)
+dharopamena // 7.9 //
+kīrṇaṃ (tathā Ctataḥ )
+puṇyakṛtā janena $ svargābhikāmena vimokṣakāmaḥ &
+tam āśramaṃ so 'nucacāra dhīras % tapāṃsi citrāṇi nirīkṣamāṇaḥ // 7.10 //
+tapovikārāṃś ca nirīkṣya saumyas $ tapovane tatra tapodhanānām &
+tapasvinaṃ kaṃcid anuvrajantaṃ % tattvaṃ vijijñāsur idaṃ babhāṣe // 7.11 //
+tatpūrvam adyāśramadarśanaṃ me $ yasmād imaṃ dharmavidhiṃ na jāne &
+tasmād bhavān arhati bhāṣituṃ me % yo niścayo (yat Cyaṃ )
+prati vaḥ pravṛttaḥ // 7.12 //
+tato dvijātiḥ sa tapovihāraḥ $ śākyarṣabhāyarṣabhavikramāya &
+kram.ena tasmai kathayāṃ cakāra % tapo(viśeṣāṃs Cviśeṣaṃ )
+tapasaḥ phalaṃ ca // 7.13 //
+agrāmyam annaṃ salile prarūḍhaṃ $ parṇāni toyaṃ phalamūlam eva &
+yathāgamaṃ vṛttir iyaṃ munīnāṃ % bhinnās tu te te tapasāṃ vikalpāḥ // 7.14 //
+uñchena jīvanti khagā ivānye $ tṛṇāni kecin mṛgavac caranti &
+kecid bhujaṃgaiḥ saha vartayanti % valmīkabhūtā (vanamārutena Civa mārutena ) // 7.15 //
+aśmaprayatnārjitavṛttayo 'nye $ kecit svadantāpahatānnabhakṣāḥ &
+kṛtvā parārthaṃ śrapaṇaṃ tathānye % kurvanti kāryaṃ yadi śeṣam asti // 7.16 //
+kecij jalaklinnajaṭākalāpā $ dviḥ pāvakaṃ juhvati mantrapūrvam &
+mīnaiḥ samaṃ kecid apo vigāhya % vasanti kūrmollikhitaiḥ śarīraiḥ // 7.17 //
+evaṃvidhaiḥ kālacitais tapobhiḥ $ parair divaṃ yānty aparair nṛlokam &
+duḥkhena mārgeṇa sukhaṃ (hy upaiti Ckṣiyanti % (sukhaṃ Cduḥkhaṃ )
+hi dharmasya vadanti mūlam // 7.18 //
+ity evamādi dvipendravatsaḥ $ śrutvā vacas tasya tapodhanasya &
+adṛṣṭatattvo 'pi na saṃtutoṣa % śanair idaṃ cātmagataṃ (babhāṣe Cjagāda ) // 7.19 //
+duḥkhātmakaṃ naikavidhaṃ tapaś ca $ svargapradhānaṃ tapasaḥ phalaṃ ca &
+lokāś ca sarve pariṇāmavantaḥ % svalpe śramaḥ khalv ayam āśramāṇām // 7.20 //
+(priyāṃś Cśriyaṃ )
+ca bandhūn viṣayāṃś ca hitvā $ ye svarga(hetor Chetau )
+niyamaṃ caranti &
+te viprayuktāḥ khalu gantukāmā % mahattaraṃ (bandhanam Csvaṃ vanam )eva bhūyaḥ // 7.21 //
+kāyaklamair yaś ca tapoabhidhānaiḥ $ pravṛttim ākāṅkṣati kāmahetoḥ &
+saṃsāradoṣān aparīkṣamāṇo % duḥkhena so 'nvicchati duḥkham eva // 7.22 //
+trāsaś ca nityaṃ maraṇāt prajānāṃ $ yatnena cecchanti (punaḥprasūtim Cpunaḥ prasūtim ) //
+satyāṃ pravṛttau niyataś ca mṛtyus % tatraiva (magnā Cmagno )
+yata eva (bhītāḥ Cbhītaḥ ) // 7.23 //
+ihārtham eke praviśanti khedaṃ $ svargārtham anye śramam āpnuvanti &
+sukhārtham āśākṛpaṇo 'kṛtārthaḥ % pataty anarthe khalu jīvalokaḥ // 7.24 //
+na khalv ayaṃ garhita eva yatno $ yo hīnam utsṛjya viśeṣagāmī &
+prājñaiḥ samānena pariśrameṇa % kāryaṃ tu tad yatra punar na kāryam // 7.25 //
+śarīrapīḍā tu yadīha dharmaḥ $ sukhaṃ śarīrasya bhavaty adharmaḥ &
+dharmeṇa cāpnoti sukhaṃ paratra % tasmād adharmaṃ phalatīha dharmaḥ // 7.26 //
+yataḥ śarīraṃ manaso vaśena $ pravartate (cāpi Cvāpi )
+nivartate (ca Cvā ) //
+yukto damaś cetasa eva tasmāc % cittād ṛte kāṣṭhasamaṃ śarīram // 7.27 //
+āhāraśuddhyā yadi puṇyam iṣṭaṃ $ tasmān mṛgāṇām api puṇyam asti &
+ye cāpi bāhyāḥ puruṣāḥ phalebhyo % bhāgyāparādhena parāṅ(mukhārthāḥ Cmukhatvāt ) // 7.28 //
+duḥkhe 'bhisaṃdhis tv atha puṇyahetuḥ $ sukhe 'pi kāryo nanu so 'bhisaṃdhiḥ &
+atha pramāṇaṃ na sukhe 'bhisaṃdhir % duḥkhe pramāṇaṃ nanu nābhisaṃdhiḥ // 7.29 //
+tathaiva ye karmaviśuddhihetoḥ $ spṛśanty apas tīrtham iti pravṛttāḥ &
+tatrāpi toṣo hṛdi kevalo 'yaṃ % na pāvayis.yanti hi pāpam āpaḥ // 7.30 //
+spṛṣṭaṃ hi yad yad guṇavadbhir ambhas $ tat tat pṛthivyāṃ yadi tīrtham iṣṭam &
+tasmād guṇān eva paraimi tīrtham % āpas tu niḥsaṃśayam āpa eva // 7.31 //
+iti sma tat tad bahuyuktiyuktaṃ $ jagāda cāstaṃ ca yayau vivasvān &
+tato havirdhūmavivarṇavṛkṣaṃ % tapaḥpraśāntaṃ sa vanaṃ viveśa // 7.32 //
+abhyuddhṛtaprajvalitāgnihotraṃ $ kṛtābhiṣekarṣijanāvakīrṇam &
+jāpyasvanākūjitadevakoṣṭhaṃ % dharmasya karmāntam iva pravṛttam // 7.33 //
+kāścin niśās tatra niśākarābhaḥ $ parīkṣamāṇaś ca tapāṃsy uvāsa &
+sarvaṃ parikṣepya tapaś ca matvā % tasmāt tapaḥkṣetratalāj jagāma // 7.34 //
+anvavrajann āśramiṇas tatas taṃ $ tadrūpamāhātmyagatair manobhiḥ &
+deśād anāryair abhibhūyamānān % maharṣayo dharmam ivāpayāntam // 7.35 //
+tato jaṭāvalkalacīrakhelāṃs $ tapodhanāṃś caiva sa tān dadarśa &
+tapāṃsi caiṣām (anurudhyamānas Canubudhyamānas % tasthau śive śrīmati (vṛkṣamūle Cmārgavṛkṣe ) // 7.36 //
+athopasṛtyāśramavāsinas taṃ $ manuṣyavaryaṃ parivārya tasthuḥ &
+vṛddhaś ca teṣāṃ bahumānapūrvaṃ % kalena sāmnā giram ity uvāca // 7.37 //
+tvayy āgate pūrṇa ivāśramo 'bhūt $ saṃpadyate śūnya iva prayāte &
+tasmād imaṃ nārhasi tāta hātuṃ % jijīviṣor deham iveṣṭam āyuḥ // 7.38 //
+brahmarṣirājarṣisurarṣijuṣṭaḥ $ puṇyaḥ samīpe himavān hi śailaḥ &
+tapāṃsi tāny eva tapodhanānāṃ % yatsaṃnikarṣād bahulībhavanti // 7.39 //
+tīrthāni puṇyāny abhitas tathaiva $ sopānabhūtāni nabhastalasya &
+juṣṭāni dharmātmabhir ātmavadbhir % devarṣibhiś caiva maharṣibhiś ca // 7.40 //
+itaś ca bhūyaḥ kṣamam uttaraiva $ dik sevituṃ dharmaviśeṣahetoḥ &
+na (tu Chi )kṣamaṃ dakṣiṇato budhena % padaṃ bhaved ekam api prayātum // 7.41 //
+tapovane 'sminn atha niṣkriyo vā $ saṃkīrṇa(dharmāpatito Cdharmā patito )aśucir vā &
+dṛṣṭas tvayā yena na te vivatsā % tad brūhi yāvad rucito 'stu vāsaḥ // 7.42 //
+ime hi vāñchanti tapaḥsahāyaṃ $ taponidhānapratimaṃ bhavantam &
+vāsas tvayā hīndrasamena sārdhaṃ % bṛhaspater abhyudayāvahaḥ syāt // 7.43 //
+ity evam ukte sa tapasvimadhye $ tapasvimukhyena manīṣimukhyaḥ &
+bhavapraṇāśāya kṛtapratijñaḥ % svaṃ bhāvam antargatam ācacakṣe // 7.44 //
+ṛjvātmanāṃ dharmabhṛtāṃ munīnām $ iṣṭātithitvāt svajanopamānām &
+evaṃvidhair māṃ prati bhāvajātaiḥ % prītiḥ (parā me Cparātmā )
+janitaś ca (mānaḥ Cmārgaḥ ) // 7.45 //
+snigdhābhir ābhir hṛdayaṃgamābhiḥ $ samāsataḥ snāta ivāsmi vāgbhiḥ &
+ratiś ca me dharmanavagrahasya % vispanditā saṃprati bhūya eva // 7.46 //
+evaṃ pravṛttān bhavataḥ śaraṇyān $ atīva saṃdarśitapakṣapātān &
+yāsyāmi hitveti mamāpi duḥkhaṃ % yathaiva bandhūṃs tyajatas tathaiva // 7.47 //
+svargāya yuṣmākam ayaṃ tu dharmo $ mamābhilāṣas tv apunarbhavāya &
+asmin vane yena na me vivatsā % bhinnaḥ pravṛttyā hi nivṛttidharmaḥ // 7.48 //
+tan nāratir me na parāpacāro $ vanād ito yena parivrajāmi &
+dharme sthitāḥ pūrvayugānurūpe % sarve bhavanto hi maharṣikalpāḥ // 7.49 //
+tato vacaḥ sūnṛtam arthavac ca $ suślakṣṇam ojasvi ca garvitaṃ ca &
+śrutvā kumārasya tapasvinas te % viśeṣayuktaṃ bahumānam īyuḥ // 7.50 //
+kaścid dvijas tatra tu bhasmaśāyī $ prāṃśuḥ śikhī dāravacīravāsāḥ &
+āpiṅgalākṣas tanudīrghaghoṇaḥ % (kuṇḍaikaCkuṇḍoda)
+hasto giram ity uvāca // 7.51 //
+dhīmann udāraḥ khalu niścayas te $ yas tvaṃ yuvā janmani dṛṣṭadoṣaḥ &
+svargāpavargau hi vicārya samyag % yasyāpavarge matir asti so 'sti // 7.52 //
+yajñais tapobhir niyamaiś ca tais taiḥ $ svargaṃ yiyāsanti hi rāgavantaḥ &
+rāgeṇa sārdhaṃ ripuṇeva yuddhvā % mokṣaṃ parīpsanti tu sattvavantaḥ // 7.53 //
+tadbuddhir eṣā yadi niścitā te $ tūrṇaṃ bhavān gacchatu vindhyākoṣṭham &
+asau munis tatra vasaty arāḍo % yo naiṣṭhike śreyasi labdhacakṣuḥ // 7.54 //
+tasmād bhavāñ chroṣyati tattvamārgaṃ $ satyāṃ rucau saṃpratipatsyate ca &
+yathā tu paśyāmi matis (tathaiṣā Ctavaiṣā % tasyāpi yāsyaty avadhūya buddhim // 7.55 //
+(spaṣṭoccaCpuṣṭāśva)
+ghoṇaṃ vipulāyatākṣaṃ $ tāmrādharauṣṭhaṃ sitatīkṣṇadaṃṣṭram &
+idaṃ hi vaktraṃ tanuraktajihvaṃ % jñeyārṇavaṃ pāsyati kṛtsnam eva // 7.56 //
+gambhīratā yā bhavatas tv agādhā $ yā dīptatā yāni ca lakṣaṇāni &
+ācāryakaṃ prāpsyasi tat prṭhivyāṃ % yan narṣibhiḥ pūrvayuge 'py avāptam // 7.57 //
+paramam iti tato nṛpātmajas $ tam ṛṣijanaṃ pratinandya niryayau &
+vidhivad anuvidhāya te 'pi taṃ % praviviśur āśramiṇas tapovanam // 7.58 //
+[[iti (CśrīC)buddhacarite mahākāvye tapovanapraveśo nāma saptamaḥ sargaḥ -- 7 --]]
+tatas turaṃgāvacaraḥ sa durmanās $ tathā vanaṃ bhartari nirmame gate &
+cakāra yatnaṃ pathi śoka(nigrahe Cvigrahe % tathāpi caivāśru na tasya (cikṣiye Ccikṣipe ) // 8.1 //
+yam ekarātreṇa tu bhartur ājñayā $ jagāma mārgaṃ saha tena vājinā &
+iyāya bhartur virahaṃ vicintayaṃs % tam eva panthānam ahobhir aṣṭabhiḥ // 8.2 //
+hayaś ca (saujā vicacāra Csaujasvi cacāra )
+kanthakas $ tatāma bhāvena babhūva nirmadaḥ &
+alaṃkṛtaś cāpi tathaiva bhūṣaṇair % abhūd gataśrīr iva tena varjitaḥ // 8.3 //
+nivṛtya caivābhimukhas tapovanaṃ $ bhṛśaṃ jiheṣe karuṇaṃ muhur muhuḥ &
+kṣudhānvito 'py adhvani śaṣpam ambu vā % yathā purā nābhinananda nādade // 8.4 //
+tato vihīnaṃ kapilāhvayaṃ puraṃ $ mahātmanā tena jagaddhitātmanā &
+krameṇa tau śūnyam ivopajagmatur % divākareṇeva vinākṛtaṃ nabhaḥ // 8.5 //
+sapuṇḍarīkair api śobhitaṃ $ jalair alaṃkṛtaṃ puṣpadharair nagair api &
+tad eva tasyopavanaṃ vanopamaṃ % gatapraharṣair na rarāja nāgaraiḥ // 8.6 //
+tato bhramadbhir diśi dīnamānasair $ anujjvalair (bāṣpaCvāṣpa)
+hatekṣaṇair naraiḥ &
+nivāryamāṇāv iva tāv ubhau puraṃ % (śanair apasnātam Cśanai rajaḥsnātam )
+ivābhijagmatuḥ // 8.7 //
+(niśāmya Cniśamya )
+ca srastaśarīragāminau $ vināgatau śākyakularṣabheṇa tau &
+mumoca (bāṣpaṃ Cvāṣpaṃ )
+pathi nāgaro janaḥ % purā rathe dāśarather ivāgate // 8.8 //
+atha bruvantaḥ samupetamanyavo $ janāḥ pathi cchandakam āgatāśravaḥ &
+kva rājaputraḥ (puraCkula)
+rāṣṭra(nandano Cvardhano )
+% hṛtas tvayāsāv iti pṛṣṭhato 'nvayuḥ // 8.9 //
+tataḥ sa tān bhaktimato 'bravīj janān $ narendraputraṃ na parityajāmy aham &
+rudann ahaṃ tena tu nirjane vane % gṛhasthaveśaś ca visarjitāv iti // 8.10 //
+idaṃ vacas tasya niśamya te janāḥ $ suduṣkaraṃ khalv iti niścayaṃ yayuḥ &
+patad (dhi jahruḥ Cvijahruḥ )
+salilaṃ na netrajaṃ % mano nininduś ca (phalottham Cphalārtham )ātmanaḥ // 8.11 //
+athocur adyaiva viśāma tad vanaṃ $ gataḥ sa yatra dviparājavikramaḥ &
+jijīviṣā nāsti hi tena no vinā % yathendriyāṇāṃ vigame śarīriṇām // 8.12 //
+idaṃ puraṃ tena vivarjitaṃ vanaṃ $ vanaṃ ca tat tena samanvitaṃ puram &
+na śobhate tena hi no vinā puraṃ % marutvatā vṛtravadhe yathā divam // 8.13 //
+punaḥ kumāro vinivṛtta ity atho $ gavākṣamālāḥ pratipedire 'ṅganāḥ &
+viviktapṛṣṭhaṃ ca (niśāmya Cniśamya )
+vājinaṃ % punar gavākṣāṇi pidhāya cukruśuḥ // 8.14 //
+praviṣṭadīkṣas tu sutopalabdhaye $ vratena śokena ca khinnamānasaḥ &
+jajāpa devāyatane narādhipaś % cakāra tās tāś ca (yathāśayāḥ Cyathāśrayāḥ )kriyāḥ // 8.15 //
+tataḥ sa (bāṣpaCvāṣpa)
+pratipūrṇalocanas $ turaṃgam ādāya turaṃ(gamānugaḥ Cgamānasaḥ ) //
+viveśa śokābhihato nṛ(pakṣayaṃ Cpālayaṃ % (yudhāpinīte Ckṣayaṃ vinīte )
+ripuṇeva bhartari // 8.16 //
+vigāhamānaś ca narendramandiraṃ $ vilokayann aśruvahena cakṣuṣā &
+svareṇa puṣṭena rurāva kanthako % janāya duḥkhaṃ prativedayann iva // 8.17 //
+tataḥ khagāś ca kṣayamadhyagocarāḥ $ samīpabaddhās turagāś ca satkṛtāḥ &
+hayasya tasya pratisasvanuḥ svanaṃ % narendrasūnor upayāna(śaṅkinaḥ Cśaṅkitāḥ ) // 8.18 //
+janāś ca harṣātiśayena vañcitā $ janādhipāntaḥpurasaṃnikarṣagāḥ &
+yathā hayaḥ kanthaka eṣa heṣate % dhruvaṃ kumāro viśatīti menire // 8.19 //
+atipraharṣād atha śokamūrchitāḥ $ kumārasaṃdarśanalolalocanāḥ &
+gṛhād viniścakramur āśayā striyaḥ % śaratpayodād iva vidyutaś calāḥ // 8.20 //
+vilamba(keśyo Cveśyo )
+malināṃśukāmbarā $ nirañjanair (bāṣpaCvāṣpa)
+hatekṣaṇair mukhaiḥ &
+(striyo na rejur mṛjayā Ckṛṣṇā vivarṇāañjanayā )
+vinākṛtā % divīva tārā rajanīkṣayāruṇāḥ // 8.21 //
+araktatāmraiś caraṇair anūpurair $ akuṇḍalair ārjava(kandharair Ckarṇikair )mukhaiḥ &
+svabhāvapīnair jaghanair amekhalair % ahārayoktrair muṣitair iva stanaiḥ // 8.22 //
+(nirīkṣya tā bāṣpaCnirīkṣitā vāṣpa)
+parīta(locanā Clocanaṃ $ nirāśrayaṃ chandakam aśvam eva ca &
+(viṣaṇṇaCvivarṇa)
+vaktrā rurudur varāṅganā % vanāntare gāva ivarṣabhojjhitāḥ // 8.23 //
+tataḥ sa(bāṣpā Cvāṣpā )
+mahiṣī mahīpateḥ $ pranaṣṭavatsā mahiṣīva vatsalā &
+pragṛhya bāhū nipapāta gautamī % vilolaparṇā kadalīva kāñcanī // 8.24 //
+hatatviṣo 'nyā (śithilāṃsaCśithilātma)
+bāhavaḥ $ striyo viṣādena vicetanā iva &
+na cukruśur nāśru jahur na śaśvasur % na (celur āsur likhitā Ccetanā ullikhitā )
+iva sthitāḥ // 8.25 //
+adhīram anyāḥ patiśokamūrchitā $ vilocanaprasravaṇair mukhaiḥ striyaḥ &
+siṣiñcire proṣitacandanān stanān % dharādharaḥ prasravaṇair ivopalān // 8.26 //
+mukhaiś ca tāsāṃ nayanāmbu(tāḍitai Ctāḍitaiḥ $ rarāja tad rājaniveśanaṃ tadā &
+navāmbukāle 'mbudavṛṣṭitāḍitaiḥ % sravajjalais tāmarasair yathā saraḥ // 8.27 //
+suvṛttapīnāṅgulibhir nirantarair $ abhūṣaṇair gūḍhasirair varāṅganāḥ &
+urāṃsi jaghnuḥ kamalopamaiḥ karaiḥ % svapallavair vātacalā latā iva // 8.28 //
+karaprahārapracalaiś ca tā (babhus Cbabhur $ (tathāpi Cyathāpi )
+nāryaḥ sahitonnataiḥ stanaiḥ &
+vanānilāghūrṇitapadmakampitai % rathāṅganāmnāṃ mithunair ivāpagāḥ // 8.29 //
+yathā ca vakṣāṃsi karair apīḍayaṃs $ tathaiva vakṣobhir apīḍayan karān &
+akārayaṃs tatra parasparaṃ vyathāḥ % karāgravakṣāṃsy abalā dayālasāḥ // 8.30 //
+tatas tu roṣapraviraktalocanā $ viṣāda(saṃbandhiCsaṃbandha)
+kaṣāyagadgadam &
+uvāca (niśvāsaCniḥśvāsa)
+calatpayodharā % vigāḍhaśokāśrudharā yaśodharā // 8.31 //
+niśi prasuptām avaśāṃ vihāya māṃ $ gataḥ kva sa cchandaka manmanorathaḥ &
+upāgate ca tvayi kanthake ca me % samaṃ gateṣu triṣu kampate manaḥ // 8.32 //
+anāryam asnidgham amitrakarma me $ nṛśaṃsa kṛtvā kim ihādya rodiṣi &
+niyaccha (bāṣpaṃ Cvāṣpaṃ )
+bhava tuṣṭamānaso % na saṃvadaty aśru ca tac ca karma te // 8.33 //
+priyeṇa vaśyena hitena sādhunā $ tvayā sahāyena yathārthakāriṇā &
+gato 'ryaputro hy apunarnivṛttaye % ramasva diṣṭyā saphalaḥ śramas tava // 8.34 //
+varaṃ manuṣyasya vicakṣaṇo ripur $ na mitram aprājñam ayogapeśalam &
+suhṛdbruveṇa hy avipaścitā tvayā % kṛtaḥ kulasyāsya mahān upaplavaḥ // 8.35 //
+imā hi śocyā vyavamuktabhūṣaṇāḥ $ prasakta(bāṣpāvilaCvāṣpāvila)
+raktalocanāḥ &
+sthite 'pi patyau himavanmahīsame % pranaṣṭaśobhā vidhavā iva striyaḥ // 8.36 //
+imāś ca vikṣiptaviṭaṅkabāhavaḥ $ prasaktapārāvatadīrghanisvanāḥ &
+vinākṛtās tena (sahāvarodhanair Csahaiva rodhanair % bhṛśaṃ rudantīva vimānapaṅktayaḥ // 8.37 //
+anarthakāmo 'sya janasya sarvathā $ turaṃgamo 'pi dhruvam eṣa kanthakaḥ &
+jahāra sarvasvam itas tathā hi me % jane prasupte niśi ratnacauravat // 8.38 //
+yadā samarthaḥ khalu soḍhum āgatān $ iṣuprahārān api kiṃ punaḥ kaśāḥ &
+gataḥ kaśāpātabhayāt kathaṃ (nv Ctv )
+ayaṃ % śriyaṃ gṛhītvā hṛdayaṃ ca me samam // 8.39 //
+anāryakarmā bhṛśam adya heṣate $ narendradhiṣṇyaṃ pratipūrayann iva &
+yadā tu nirvāhayati sma me priyaṃ % tadā hi mūkas turagādhamo 'bhavat // 8.40 //
+yadi hy aheṣiṣyata (bodhayan Cbodhayañ )
+janaṃ $ khuraiḥ kṣitau vāpy akariṣyata dhvanim &
+hanusvanaṃ vājaniṣyad uttamaṃ % na cābhaviṣyan mama duḥkham īdṛśam // 8.41 //
+itīha devyāḥ paridevitāśrayaṃ $ niśamya (bāṣpaCvāṣpa)
+grathitākṣaraṃ vacaḥ &
+adhomukhaḥ sāśrukalaḥ kṛtāñjaliḥ % śanair idaṃ chandaka uttaraṃ jagau // 8.42 //
+vigarhituṃ nārhasi devi kanthakaṃ $ na cāpi roṣaṃ mayi kartum arhasi &
+anāgasau svaḥ samavehi sarvaśo % gato nṛdevaḥ sa hi devi devavat // 8.43 //
+ahaṃ hi jānann api rājaśāsanaṃ $ balāt kṛtaḥ kair api daivatair iva &
+upānayaṃ tūrṇam imaṃ turaṃgamaṃ % tathānvagacchaṃ vigataśramo 'dhvani // 8.44 //
+vrajann ayaṃ vājivaro 'pi nāspṛśan $ mahīṃ khurāgrair vidhṛtair ivāntarā &
+tathaiva daivād iva saṃyatānano % hanusvanaṃ nākṛta nāpy aheṣata // 8.45 //
+(yato bahir Cyadā vahir )
+gacchati pārthivātma(je Cjas $ tadābhavad dvāram apāvṛtaṃ svayam &
+tamaś ca naiśaṃ raviṇeva pāṭitaṃ % tato 'pi daivo vidhir eṣa gṛhyatām // 8.46 //
+(yad aCyadā)pramatto 'pi narendraśāsanād $ gṛhe pure caiva sahasraśo janaḥ &
+tadā sa nābudhyata nidrayā hṛtas % tato 'pi daivo vidhir eṣa gṛhyatām // 8.47 //
+yataś ca vāso vanavāsasaṃmataṃ $ (nisṛṣṭam Cvisṛṣṭam )
+asmai samaye divaukasā &
+divi praviddhaṃ mukuṭaṃ ca tad dhṛtaṃ % tato 'pi daivo vidhir eṣa gṛhyatām // 8.48 //
+tad evam āvāṃ naradevi doṣato $ na tat prayātaṃ (prati gantum Cpratigantum )arhasi &
+na kāmakāro mama nāsya vājinaḥ % kṛtānuyātraḥ sa hi daivatair gataḥ // 8.49 //
+iti prayāṇaṃ (bahudevam Cbahudhaivam )
+adbhutaṃ $ niśamya tās tasya mahātmanaḥ striyaḥ &
+pranaṣṭaśokā iva vismayaṃ yayur % manojvaraṃ pravrajanāt tu lebhire // 8.50 //
+viṣādapāriplavalocanā tataḥ $ pranaṣṭapotā kurarīva duḥkhitā &
+vihāya dhairyaṃ virurāva gautamī % tatāma caivāśrumukhī jagāda ca // 8.51 //
+mahormimanto mṛdavo 'sitāḥ śubhāḥ $ pṛthak(pṛthaṅCpṛthag)
+mūlaruhāḥ samudgatāḥ &
+(praveritās Cpraceritās )
+te bhuvi tasya mūrdhajā % narendramaulīpariveṣṭanakṣamāḥ // 8.52 //
+pralambabāhur mṛgarājavikramo $ maharṣabhākṣaḥ kanakojjvaladyutiḥ &
+viśālavakṣā ghanadundubhisvanas % tathāvidho 'py āśramavāsam arhati // 8.53 //
+abhāginī nūnam iyaṃ vasuṃdharā $ tam āryakarmāṇam anuttamaṃ (patim Cprati ) //
+gatas tato 'sau guṇavān hi tādṛśo % nṛpaḥ prajābhāgyaguṇaiḥ prasūyate // 8.54 //
+sujātajālāvatatāṅgulī mṛdū $ nigūḍhagulphau (bisaCviṣa)
+puṣpakomalau &
+vanāntabhūmiṃ kaṭhināṃ kathaṃ nu tau % sacakramadhyau caraṇau gamiṣyataḥ // 8.55 //
+vimānapṛṣṭhe śayanāsanocitaṃ $ mahārhavastrāgurucandanārcitam &
+kathaṃ nu śītoṣṇajalāgameṣu tac % charīram ojasvi vane bhaviṣyati // 8.56 //
+kulena sattvena balena varcasā $ śrutena lakṣmyā vayasā ca garvitaḥ &
+pradātum (evābhyucito Cevābhyudito )
+na yācituṃ % kathaṃ sa bhikṣāṃ parataś cariṣyati // 8.57 //
+śucau śayitvā śayane hiraṇmaye $ prabodhyamāno niśi tūryanisvanaiḥ &
+kathaṃ (bata Cvata )
+svapsyati so 'dya me vratī % paṭaikadeśāntarite mahītale // 8.58 //
+imaṃ (pralāpaṃ Cvilāpaṃ )
+karuṇaṃ niśamya tā $ bhujaiḥ pariṣvajya parasparaṃ striyaḥ &
+vilocanebhyaḥ salilāni tatyajur % madhūni puṣpebhya iveritā latāḥ // 8.59 //
+tato dharāyām apatad yaśodharā $ vicakravākeva rathāṅgasāhvayā &
+śanaiś ca tat tad vilalāpa viklavā % muhur muhur gadgadaruddhayā girā // 8.60 //
+sa mām anāthāṃ sahadharmacāriṇīm $ apāsya dharmaṃ yadi kartum icchati &
+kuto 'sya dharmaḥ sahadharmacāriṇīṃ % vinā tapo yaḥ paribhoktum icchati // 8.61 //
+śṛṇoti nūnaṃ sa na pūrvapārthivān $ mahāsudarśaprabhṛtīn pitāmahān &
+vanāni patnīsahitān upeyuṣas % tathā (hi Csa )
+dharmaṃ madṛte cikīrṣati // 8.62 //
+makheṣu vā vedavidhānasatkṛtau $ na daṃpatī paśyati dīkṣitāv ubhau &
+samaṃ bubhukṣū parato 'pi tatphalaṃ % tato 'sya jāto mayi dharmamatsaraḥ // 8.63 //
+dhruvaṃ sa jānan mama dharmavallabho $ manaḥ (priyerṣyākalahaṃ Cpriye 'py ākalahaṃ )
+muhur mithaḥ &
+sukhaṃ vibhīr mām apahāya rosaṇāṃ % mahendraloke 'psaraso jighṛkṣati // 8.64 //
+iyaṃ tu cintā mama kīdṛśaṃ nu tā $ vapurguṇaṃ bibhrati tatra yoṣitaḥ &
+vane yadarthaṃ sa tapāṃsi tapyate % śriyaṃ ca hitvā mama bhaktim eva ca // 8.65 //
+na khalv iyaṃ svargasukhāya me spṛhā $ na taj janasyātmavato 'pi durlabham &
+sa tu priyo mām iha vā paratra vā % kathaṃ na jahyād iti me manorathaḥ // 8.66 //
+abhāginī yady aham āyatekṣaṇaṃ $ śucismitaṃ bhartur udīkṣituṃ mukham &
+na mandabhāgyo 'rhati rāhulo 'py ayaṃ % kadācid aṅke parivartituṃ pituḥ // 8.67 //
+aho nṛśaṃsaṃ sukumāravarcasaḥ $ sudāruṇaṃ tasya manasvino manaḥ &
+kalapralāpaṃ dviṣato 'pi harṣaṇaṃ % śiśuṃ sutaṃ yas tyajatīdṛśaṃ (bata Csvataḥ ) // 8.68 //
+mamāpi kāmaṃ hṛdayaṃ sudāruṇaṃ $ śilāmayaṃ vāpy (ayaso 'pi Cayasāpi )vā kṛtam &
+anāthavac chrīrahite sukhocite % vanaṃ gate bhartari yan na dīryate // 8.69 //
+itīha devī patiśokamūrchitā $ ruroda dadhyau vilalāpa cāsakṛt &
+svabhāvadhīrāpi hi sā satī śucā % dhṛtiṃ na sasmāra cakāra no hriyam // 8.70 //
+tatas tathā śokavilāpaviklavāṃ $ yaśodharāṃ prekṣya vasuṃdharāgatām &
+mahāravindair iva vṛṣṭitāḍitair % mukhaiḥ sa(bāṣpair Cvāṣpair )
+vanitā vicukruśuḥ // 8.71 //
+samāptajāpyaḥ kṛtahomamaṅgalo $ nṛpas tu devāyatanād viniryayau &
+janasya tenārtaraveṇa cāhataś % cacāla vajradhvanineva vāraṇaḥ // 8.72 //
+niśāmya ca cchandakakanthakāv ubhau $ sutasya saṃśrutya ca niścayaṃ sthiram &
+papāta śokābhihato mahīpatiḥ % śacīpater vṛtta ivotsave dhvajaḥ // 8.73 //
+tato muhūrtaṃ sutaśokamohito $ janena tulyābhijanena dhāritaḥ &
+nirīkṣya dṛṣṭyā jalapūrṇayā hayaṃ % mahītalastho vilalāpa pārthivaḥ // 8.74 //
+bahūni kṛtvā samare priyāṇi me $ mahat tvayā kanthaka vipriyaṃ kṛtam &
+guṇapriyo yena vane sa me priyaḥ % priyo 'pi sann apriyavat (praveritaḥ Cpraceritaḥ ) // 8.75 //
+tad adya māṃ vā naya tatra yatra sa $ vraja drutaṃ vā punar enam ānaya &
+ṛte hi tasmān mama nāsti jīvitaṃ % vigāḍharogasya sadauṣadhād iva // 8.76 //
+suvarṇaniṣṭhīvini mṛtyunā hṛte $ suduṣkaraṃ yan na mamāra (saṃjayaḥ Csṛñjayaḥ ) //
+ahaṃ punar dharmaratau sute gate % (mumukṣur Camumukṣur )
+ātmānam anātmavān iva // 8.77 //
+vibhor daśakṣatrakṛtaḥ prajāpateḥ $ parāparajñasya vivasvadātmanaḥ &
+priyeṇa putreṇa satā vinākṛtaṃ % kathaṃ na muhyed dhi mano manor api // 8.78 //
+ajasya rājñas tanayāya dhīmate $ narādhipāyendrasakhāya me spṛhā &
+gate vanaṃ yas tanaye divaṃ gato % na mogha(bāṣpaḥ Cvāṣpaḥ )
+kṛpaṇaṃ jijīva ha // 8.79 //
+pracakṣva me bhadra tadāśramājiraṃ $ hṛtas tvayā yatra sa me jalāñjaliḥ &
+ime parīpsanti hi (taṃ Cte )
+pipāsavo % mamāsavaḥ pretagatiṃ yiyāsavaḥ // 8.80 //
+iti tanayaviyogajāta(duḥkhaḥ Cduḥkhaṃ $ kṣitisadṛśaṃ sahajaṃ vihāya dhairyam &
+daśaratha iva rāmaśokavaśyo % bahu vilalāpa nṛpo visaṃjñakalpaḥ // 8.81 //
+śrutavinayaguṇānvitas tatas taṃ $ matisacivaḥ pravayāḥ purohitaś ca &
+(samadhṛtam Cavadhṛtam )
+idam ūcatur yathāvan % na ca paritaptamukhau na cāpy aśokau // 8.82 //
+tyaja naravara śokam ehi dhairyaṃ $ kudhṛtir ivārhasi dhīra nāśru moktum &
+srajam iva mṛditām apāsya lakṣmīṃ % bhuvi bahavo (ChiC)
+nṛpā vanāny atīyuḥ // 8.83 //
+api ca niyata eṣa tasya bhāvaḥ $ smara vacanaṃ tad ṛṣeḥ purāsitasya &
+na hi sa divi na cakravartirājye % kṣaṇam api vāsayituṃ sukhena śakyaḥ // 8.84 //
+yadi tu nṛvara kārya eva yatnas $ tvaritam udāhara yāvad atra yāvaḥ &
+bahuvidham iha yuddham astu tāvat % tava tanayasya vidheś ca tasya tasya // 8.85 //
+narapatir atha tau śaśāsa tasmād $ drutam ita eva yuvām abhiprayātam &
+na hi mama hṛdayaṃ prayāti śāntiṃ % vanaśakuner iva putralālasasya // 8.86 //
+paramam iti narendraśāsanāt tau $ yayatur amātyapurohitau vanaṃ tat &
+kṛtam iti savadhūjanaḥ sadāro % nṛpatir api pracakāra śeṣakāryam // 8.87 //
+[[iti (CśrīC)buddhacarite mahākāvye 'ntaḥpuravilāpo nāmāṣṭamaḥ sargaḥ -- 8 --]]
+tatas tadā mantripurohitau tau $ (bāṣpapratodābhihitau Cvāṣpapratodābhihatau )nṛpeṇa &
+viddhau sadaśvāv iva sarvayatnāt % sauhārdaśīghraṃ yayatur vanaṃ tat // 9.1 //
+tam āśramam jātapariśramau tāv $ upetya kāle sadṛśānuyātrau &
+rājarddhim utsṛjya vinītaceṣṭāv % upeyatur bhārgavadhiṣṇyam eva // 9.2 //
+tau nyāyatas taṃ pratipūjya vipraṃ $ tenārcitau tāv api cānurūpam &
+kṛtāsanau bhārgavam āsanasthaṃ % chittvā kathām ūcatur ātmakṛtyam // 9.3 //
+śuddhaujasaḥ śuddhaviśālakīrter $ ikṣvākuvaṃśaprabhavasya rājñaḥ &
+imaṃ janaṃ vettu bhavān (adhītaṃ Cadhīraṃ % śrutagrahe mantraparigrahe ca // 9.4 //
+tasyendrakalpasya jayantakalpaḥ $ putro jarāmṛtyubhayaṃ titīrṣuḥ &
+ihābhyupetaḥ kila tasya hetor % āvām upetau bhagavān avaitu // 9.5 //
+tau so 'bravīd asti sa dīrghabāhuḥ $ prāptaḥ kumāro na tu nāvabuddhaḥ &
+dharmo 'yam āvartaka ity avetya % yātas tv arāḍābhimukho mumukṣuḥ // 9.6 //
+tasmāt tatas tāv upalabhya tattvaṃ $ taṃ vipram (āmantrya Cāmanttya )
+tadaiva sadyaḥ &
+khinnāv akhinnāv iva rāja(bhaktyā Cputraḥ % prasasratus tena yataḥ sa yātaḥ // 9.7 //
+yāntau tatas tau (mṛjayā Csṛjayā )
+vihīnam $ apaśyatāṃ taṃ (vapuṣojjvalantam Cvapuṣā jvalantam ) //
+(upopaviṣṭaṃ Cnṛpopaviṣṭaṃ )
+pathi vṛkṣamūle % sūryaṃ ghanābhogam iva praviṣṭam // 9.8 //
+yānaṃ vihāyopayayau tatas taṃ $ purohito mantradhareṇa sārdham &
+yathā vanasthaṃ sahavāmadevo % rāmaṃ didṛkṣur munir aurvaśeyaḥ // 9.9 //
+tāv arcayām āsatur arhatas taṃ $ divīva śukrāṅgirasau mahendram &
+pratyarcayām āsa sa cārhatas tau % divīva śukrāṅgirasau mahendraḥ // 9.10 //
+kṛtābhyanujñāv abhitas tatas tau $ (niṣedatuḥ Cniṣīdatuḥ )
+śākyakuladhvajasya &
+virejatus tasya ca saṃnikarṣe % punarvasū yogagatāv ivendoḥ // 9.11 //
+taṃ vṛkṣamūlastham abhijvalantaṃ $ purohito rājasutaṃ babhāṣe &
+yathopaviṣṭaṃ divi pārijāte % bṛhaspatiḥ śakrasutaṃ jayantam // 9.12 //
+tvacchokaśalye hṛdayāvagāḍhe $ mohaṃ gato bhūmitale muhūrtam &
+kumāra rājā nayanāmbuvarṣo % yat tvām avocat tad idaṃ nibodha // 9.13 //
+jānāmi dharmaṃ prati niścayaṃ te $ paraimi te (bhāvinam Cacyāvinam )
+etam artham &
+ahaṃ tv akāle vanasaṃśrayāt te % śokāgnināgnipratimena dahye // 9.14 //
+tad ehi dharmapriya matpriyārthaṃ $ dharmārtham eva tyaja buddhim etām &
+ayaṃ hi mā śokarayaḥ pravṛddho % nadīrayaḥ kūlam ivābhihanti // 9.15 //
+meghāmbukakṣādriṣu yā hi vṛttiḥ $ samīraṇārkāgnimahāśanīnām &
+tāṃ vṛttim asmāsu karoti śoko % vikarṣaṇocchoṣaṇadāhabhedaiḥ // 9.16 //
+tad bhuṅkṣva tāvad vasudhādhipatyaṃ $ kāle vanaṃ yāsyasi śāstradṛṣṭe &
+aniṣṭabandhau kuru (mayy apekṣāṃ Cmāpy upekṣāṃ % sarveṣu bhūteṣu dayā hi dharmaḥ // 9.17 //
+na caiṣa dharmo vanae eva siddhaḥ $ pure 'pi siddhir niyatā yatīnām &
+buddhiś ca yatnaś ca nimittam atra % vanaṃ ca liṅgaṃ ca hi bhīrucihnam // 9.18 //
+maulīdharair aṃsaviṣaktahāraiḥ $ keyūraviṣṭabdha(bhujair Csrajair )
+narendraiḥ &
+lakṣmy-aṅkamadhye parivartamānaiḥ % prāpto gṛhasthair api mokṣadharmaḥ // 9.19 //
+dhruvānujau yau balivajrabāhū $ vaibhrājam āṣāḍham athāntidevam &
+videharājaṃ janakaṃ tathaiva % ( drumaṃ Cpākadrumaṃ )
+senajitaś ca rājñaḥ // 9.20 //
+etān gṛhasthān nṛpatīn avehi $ naiḥśreyase dharmavidhau vinītān &
+(ubhau Cubhe )api tasmād yugapad bhajasva % (vittādhipatyaṃ Ccittādhipatyaṃ )
+ca nṛpaśriyaṃ ca // 9.21 //
+icchāmi hi tvām upaguhya gāḍhaṃ $ kṛtābhiṣekaṃ salilārdram eva &
+(dhṛtātapattraṃ Cdhṛtātapatraṃ. )
+samudīkṣamāṇas % tenaiva harṣeṇa vanaṃ praveṣṭum // 9.22 //
+ity abravīd bhūmipatir bhavantaṃ $ vākyena (bāṣpaCvāṣpa)
+grathitākṣareṇa &
+śrutvā bhavān arhati tatpriyārthaṃ % snehena tatsneham anuprayātum // 9.23 //
+śokāmbhasi tvatprabhave hy agādhe $ duḥkhārṇave majjati śākyarājaḥ &
+tasmāt tam uttāraya nāthahīnaṃ % nirāśrayaṃ magnam ivārṇave (nauḥ Cgām ) // 9.24 //
+bhīṣmeṇa gaṅgodarasaṃbhavena $ rāmeṇa rāmeṇa ca bhārgaveṇa &
+śrutvā kṛtaṃ karma pituḥ priyārthaṃ % pitus tvam apy arhasi kartum iṣṭam // 9.25 //
+saṃvardhayitrīṃ (samavehi Cca samehi )
+devīm $ agastyajuṣṭāṃ diśam aprayātām &
+pranaṣṭavatsām iva vatsalāṃ gām % ajasram ārtāṃ karuṇaṃ rudantīm // 9.26 //
+haṃsena haṃsīm iva viprayuktāṃ $ tyaktāṃ gajeneva vane kareṇum &
+(ārtāṃ Cārttāṃ )
+sanāthām api nāthahīnāṃ % trātuṃ vadhūm arhasi darśanena // 9.27 //
+ekaṃ sutaṃ bālam anarhaduḥkhaṃ $ (saṃtāpam antargatam udvahantam Csaṃtāpasaṃtapta ) //
+taṃ rāhulaṃ mokṣaya bandhuśokād % rāhūpasargād iva pūrṇacandram // 9.28 //
+śokāgninā tvadvirahendhanena $ niḥśvāsadhūmena tamaḥśikhena &
+tvad(darśanāmbv icchati dahyamānam Cdarśanāyarchati dahyamānaḥ % (antaḥCso 'ntaḥ)
+puraṃ caiva puraṃ ca kṛtsnam // 9.29 //
+sa bodhisattvaḥ paripūrṇasattvaḥ $ śrutvā vacas tasya purohitasya &
+dhyātvā muhūrtaṃ guṇavad guṇajñaḥ % pratyuttaraṃ praśritam ity uvāca // 9.30 //
+avaimi bhāvaṃ (tanaye pitṝṇāṃ Ctanayaprasaktaṃ $ viśeṣato yo mayi bhūmipasya &
+jānann api vyādhijarāvipadbhyo % bhītas tv agatyā svajanaṃ tyajāmi // 9.31 //
+draṣṭuṃ priyaṃ kaḥ svajanaṃ hi necchen $ (nānte Cnāsau )
+yadi syāt priyaviprayogaḥ &
+yadā tu bhūtvāpi (ciraṃ Cbhaved )
+viyogas % tato guruṃ snigdham api tyajāmi // 9.32 //
+maddhetukaṃ yat tu narādhipasya $ śokaṃ bhavān (āha na tat Carhati na )priyaṃ me &
+yat svapnabhūteṣu samāgameṣu % saṃtapyate bhāvini (viprayoge Cviprayogaiḥ ) // 9.33 //
+evaṃ ca te niścayam etu buddhir $ dṛṣṭvā vicitraṃ (jagataḥ pracāram Cvividhapracāram ) //
+saṃtāpahetur na suto na bandhur % ajñānanaimittika eṣa tāpaḥ // 9.34 //
+(yathādhvaCyadādhva)
+gānām (iha Civa )
+saṃgatānāṃ $ kāle viyogo niyataḥ prajānām &
+prājño janaḥ ko nu bhajeta śokaṃ % bandhu(pratijñātajanair vihīnaḥ Cpriyaḥ sann api bandhuhīnaḥ ) // 9.35 //
+ihaiti hitvā svajanaṃ paratra $ pralabhya cehāpi punaḥ prayāti &
+gatvāpi tatrāpy aparatra gacchaty % evaṃ (jane tyāgini Cjano yogini )
+ko 'nurodhaḥ // 9.36 //
+yadā ca garbhāt prabhṛti (pravṛttaḥ Cprajānāṃ $ (sarvāsv avasthāsu vadhāya C nubadhāya )mṛtyuḥ &
+kasmād akāle vanasaṃśrayaṃ me % putrapriyas (tatrabhavān Ctatra bhavān )avocat // 9.37 //
+bhavaty akālo viṣayābhipattau $ kālas (tathaivārthavidhau Ctathaivābhividhau )pradiṣṭaḥ &
+kālo jagat karṣati sarvakālān % (nirvāhake Carcārhake )
+śreyasi (nāsti kālaḥ Csarvakālaḥ ) // 9.38 //
+rājyaṃ mumukṣur mayi yac ca rājā $ tad apy udāraṃ sadṛśaṃ pituś ca &
+pratigrahītuṃ mama na kṣamaṃ tu % lobhād apathyānnam ivāturasya // 9.39 //
+kathaṃ nu mohāyatanaṃ nṛpatvaṃ $ kṣamaṃ prapattuṃ viduṣā nareṇa &
+sodvegatā yatra madaḥ śramaś ca % (parāpacāreṇa Cparopacāreṇa )
+ca dharmapīḍā // 9.40 //
+jāmbūnadaṃ harmyam iva pradīptaṃ $ viṣeṇa saṃyuktam ivottamānnam &
+grāhākulaṃ (cāmbv iva sāravindaṃ Cca sthitaṃ % ((Crājyaṃ hi ramyaṃ vyasanāśrayaṃ ca C)) // 9.41 //
+((Citthaṃ ca rājyaṃ na sukhaṃ na dharmaḥ C)
+$ ((Cpūrve yathā jātaghṛṇā narendrāḥ &
+((Cvayaḥprakarṣe 'parihāryaduḥkhe C)
+% ((Crājyāni muktvā vanam eva jagmuḥ C)) // 9.42 //
+((Cvaraṃ hi bhuktāni tṛṇāny araṇye C)
+$ ((Ctoṣaṃ paraṃ ratnam ivopaguhya C)) //
+((Csahoṣitaṃ śrīsulabhair na caiva C)
+% ((Cdoṣair adṛśyair iva kṛṣṇasarpaiḥ C)) // 9.43 //
+((Cślāghyaṃ hi rājyāni vihāya rājñāṃ C)
+$ ((Cdharmābhilāṣeṇa vanaṃ praveṣṭum C)) //
+((Cbhagnapratijñasya na tūpapannaṃ C)
+% ((Cvanaṃ parityajya gṛhaṃ praveṣṭum C)) // 9.44 //
+((Cjātaḥ kule ko hi naraḥ sasattvo C)
+$ ((Cdharmābhilāṣeṇa vanaṃ praviṣṭaḥ C)) //
+((Ckāṣāyam utsṛjya vimuktalajjaḥ C)
+% ((Cpuraṃdarasyāpi puraṃ śrayeta C)) // 9.45 //
+((Clobhād dhi mohād athavā bhayena C)
+$ ((Cyo vāntam annaṃ punar ādadīta C)) //
+((Clobhāt sa mohād athavā bhayena C)
+% ((Csaṃtyajya kāmān punar ādadīta C)) // 9.46 //
+((Cyaś ca pradīptāc charaṇāt kathaṃcin C)
+$ ((Cniṣkramya bhūyaḥ praviśet tad eva C)) //
+((Cgārhasthyam utsṛjya sa dṛṣṭadoṣo C)
+% ((Cmohena bhūyo 'bhilaṣed grahītum C)) // 9.47 //
+((Cyā ca śrutir mokṣam avāptavanto C)
+$ ((Cnṛpā gṛhasthā iti naitad asti C)) //
+((Cśamapradhānaḥ kva ca mokṣadharmo C)
+% ((Cdaṇḍapradhānaḥ kva ca rājadharmaḥ C)) // 9.48 //
+((Cśame ratiś cec chithilaṃ ca rājyaṃ C)
+$ ((Crājye matiś cec chamaviplavaś ca C)) //
+((Cśamaś ca taikṣṇyaṃ ca hi nopapannaṃ C)
+% ((Cśītoṣṇayor aikyam ivodakāgnyoḥ C)) // 9.49 //
+((Ctan niścayād vā vasudhādhipās te C)
+$ ((Crājyāni muktvā śamam āptavantaḥ C)) //
+((Crājyāṅgitā vā nibhṛtendriyatvād C)
+% ((Canaiṣṭhike mokṣakṛtābhimānāḥ C)) // 9.50 //
+((Cteṣāṃ ca rājye 'stu śamo yathāvat C)
+$ ((Cprāpto vanaṃ nāham aniścayena C)) //
+((Cchittvā hi pāśaṃ gṛhabandhusaṃjñaṃ C)
+% ((Cmuktaḥ punar na pravivikṣur asmi C)) // 9.51 //
+ity ātmavijñānaguṇānurūpaṃ $ muktaspṛhaṃ hetumad ūrjitaṃ ca &
+śrutvā narendrātmajam uktavantaṃ % pratyuttaraṃ mantradharo 'py uvāca // 9.52 //
+yo niścayo (dharmavidhau Cmantravaras )
+tavāyam $ nāyaṃ na yukto na tu kālayuktaḥ &
+śokāya (dattvā Chitvā )
+pitaraṃ vayaḥsthaṃ % syād dharmakāmasya hi te na dharmaḥ // 9.53 //
+nūnaṃ ca buddhis tava nātisūkṣmā $ dharmārthakāmeṣv avicakṣaṇā vā &
+hetor adṛṣṭasya phalasya yas tvaṃ % pratyakṣam arthaṃ paribhūya yāsi // 9.54 //
+punarbhavo 'stīti ca kecid āhur $ nāstīti kecin niyatapratijñāḥ &
+evaṃ yadā saṃśayito 'yam arthas % tasmāt kṣamaṃ bhoktum upasthitā śrīḥ // 9.55 //
+bhūyaḥ pravṛttir yadi kācid asti $ raṃsyāmahe tatra yathopapattau &
+atha pravṛttiḥ parato na kācit % siddho 'prayatnāj jagato 'sya mokṣaḥ // 9.56 //
+astīti kecit paralokam āhur $ mokṣasya yogaṃ na tu varṇayanti &
+agner yathā hy (auṣṇyam Cuṣṇam )
+apāṃ dravatvaṃ % tadvat pravṛttau prakṛtiṃ vadanti // 9.57 //
+kecit svabhāvād iti varṇayanti $ śubhāśubhaṃ caiva bhavābhavau ca &
+svābhāvikaṃ sarvam idaṃ ca yasmād % ato 'pi mogho bhavati prayatnaḥ // 9.58 //
+yad indriyāṇāṃ niyataḥ pracāraḥ $ priyāpriyatvaṃ viṣayeṣu caiva &
+saṃyujyate yaj (jarayārtibhiś Cjarayārttibhiś )
+ca % kas tatra yatno nanu sa svabhāvaḥ // 9.59 //
+adbhir hutāśaḥ śamam abhyupaiti $ tejāṃsi cāpo gamayanti śoṣam &
+bhinnāni bhūtāni śarīrasaṃsthāny % aikyaṃ ca (gatvā Cdattvā )
+jagad udvahanti // 9.60 //
+yat pāṇipādodarapṛṣṭha(mūrdhnāṃ Cmūrdhnā $ nirvartate garbhagatasya bhāvaḥ &
+yad ātmanas tasya ca tena yogaḥ % svābhāvikaṃ tat kathayanti tajjñāḥ // 9.61 //
+kaḥ kaṇṭakasya prakaroti taikṣṇyaṃ $ vicitrabhāvaṃ mṛgapakṣiṇāṃ vā &
+svabhāvataḥ sarvam idaṃ pravṛttaṃ % na kāmakāro 'sti kutaḥ prayatnaḥ // 9.62 //
+sargaṃ vadantīśvaratas tathānye $ tatra prayatne puruṣaṣya ko 'rthaḥ &
+ya eva hetur jagataḥ pravṛttau % hetur nivṛttau niyataḥ sa eva // 9.63 //
+kecid vadanty ātmanimittam eva $ prādurbhavaṃ caiva bhavakṣayaṃ ca &
+prādurbhavaṃ tu pravadanty ayatnād % yatnena mokṣādhigamaṃ bruvanti // 9.64 //
+naraḥ pitṝṇām anṛṇaḥ prajābhir $ vedair ṛṣīṇāṃ kratubhiḥ surāṇām &
+utpadyate sārdham ṛṇais tribhis tair % yasyāsti mokṣaḥ kila tasya mokṣaḥ // 9.65 //
+ity evam etena vidhikrameṇa mokṣaṃ $ sayatnasya vadanti tajjñāḥ &
+prayatnavanto 'pi hi vikrameṇa % mumukṣavaḥ khedam avāpnuvanti // 9.66 //
+tat saumya mokṣe yadi bhaktir asti $ nyāyena sevasva vidhiṃ yathoktam &
+evaṃ bhaviṣyaty upapattir asya % saṃtāpanāśaś ca narādhipasya // 9.67 //
+yā ca pravṛttā (tava doṣaCbhavadoṣa)
+buddhis $ tapovanebhyo bhavanaṃ praveṣṭum &
+tatrāpi cintā tava tāta mā bhūt % pūrve 'pi jagmuḥ sva(gṛhān Cgṛhaṃ )vanebhyaḥ // 9.68 //
+tapovanastho 'pi vṛtaḥ prajābhir $ jagāma rājā puram ambarīṣaḥ &
+tathā mahīṃ viprakṛtām anāryais % tapovanād etya rarakṣa rāmaḥ // 9.69 //
+tathaiva śālvādhipatir (drumākhyo Cdrumākṣo $ vanāt sasūnur (nagaraṃ viveśa Csvapuraṃ praviśya ) //
+brahmarṣibhūtaś ca muner (vasiṣṭhād Cvaśiṣṭhād % dadhre śriyaṃ sāṃkṛtir antidevaḥ // 9.70 //
+evaṃvidhā dharmayaśaḥpradīptā $ vanāni hitvā bhavanāny (atīyuḥ Cabhīyuḥ ) //
+tasmān na doṣo 'sti gṛhaṃ (prayātuṃ Cpraveṣṭuṃ % tapovanād dharmanimittam eva // 9.71 //
+tato vacas tasya niśamya mantriṇaḥ $ priyaṃ hitaṃ caiva nṛpasya cakṣuṣaḥ &
+anūnam avyastam asaktam adrutaṃ % dhṛtau sthito rājasuto 'bravīd vacaḥ // 9.72 //
+ihāsti nāstīti ya eṣa saṃśayaḥ $ parasya vākyair na mamātra niścayaḥ &
+avetya tattvaṃ tapasā śamena (ca Cvā % svayaṃ grahīṣyāmi yad atra niścitam // 9.73 //
+na me kṣamaṃ (saṃśayajaṃ Csaṅgaśataṃ )
+hi darśanaṃ $ grahītum avyakta(parasparāhatam Cparaṃ parāhatam ) //
+(budhaḥ Cbuddhaḥ )
+parapratyayato hi ko vrajej % jano 'ndhakāre 'ndha ivāndha(deśikaḥ Cdeśitaḥ ) // 9.74 //
+adṛṣṭatattvasya sato 'pi kiṃ tu me $ śubhāśubhe saṃśayite śubhe matiḥ &
+vṛthāpi khedo (hi Capi )
+varaṃ śubhātmanaḥ % sukhaṃ na tattve 'pi vigarhitātmanaḥ // 9.75 //
+imaṃ tu dṛṣṭvāgamam avyavasthitaṃ $ yad uktam āptais tad avehi sādhv iti &
+prahīṇadoṣatvam avehi cāptatāṃ % prahīṇadoṣo hy anṛtaṃ na vakṣyati // 9.76 //
+gṛhapraveśaṃ prati yac ca me bhavān $ uvāca rāmaprabhṛtīn nidarśanam &
+na te pramāṇaṃ na hi dharmaniścayeṣv % alaṃ pramāṇāya parikṣatavratāḥ // 9.77 //
+tad evam apy eva ravir mahīṃ pated $ api sthiratvaṃ himavān giris tyajet &
+adṛṣṭatattvo viṣayonmukhendriyaḥ % śrayeya na tv eva gṛhān pṛthagjanaḥ // 9.78 //
+ahaṃ viśeyaṃ jvalitaṃ hutāśanaṃ $ na cākṛtārthaḥ praviśeyam ālayam &
+iti pratijñāṃ sa cakāra garvito % yatheṣṭam utthāya ca nirmamo yayau // 9.79 //
+tataḥ sa(bāṣpau Cvāṣpau )
+sacivadvijāv ubhau $ niśamya tasya sthiram eva niścayam &
+viṣaṇṇavaktrāv anugamya duḥkhitau % śanair agatyā puram eva jagmatuḥ // 9.80 //
+tatsnehād atha nṛpateś ca bhaktitas tau $ sāpekṣaṃ pratiyayatuś ca tasthatuś ca &
+durdharṣaṃ ravim iva dīptam ātmabhāsā % taṃ draṣṭuṃ na hi pathi śekatur na moktum // 9.81 //
+tau jñātuṃ paramagater gatiṃ tu tasya $ pracchannāṃś carapuruṣāñ chucīn vidhāya &
+rājānaṃ priyasutalālasaṃ nu gatvā % drakṣyāvaḥ katham iti jagmatuḥ kathaṃcit // 9.82 //
+[[iti (CśrīC)buddhacarite mahākāvye kumārānveṣaṇo nāma navamaḥ sargaḥ -- 9 --]]
+sa rājavatsaḥ pṛthupīnavakṣās $ tau havyamantrādhikṛtau vihāya &
+uttīrya gaṅgāṃ pracalattaraṃgāṃ % śrīmadgṛhaṃ rājagṛhaṃ jagāma // 10.1 //
+śailaiḥ suguptaṃ ca vibhūṣitaṃ ca $ dhṛtaṃ ca pūtaṃ ca śivais tapodaiḥ &
+pañcācalāṅkaṃ nagaraṃ prapede % śāntaḥ svayaṃbhūr iva nākapṛṣṭham // 10.2 //
+gāmbhīryam ojaś ca niśāmya tasya $ vapuś ca dīptaṃ puruṣān atītya &
+visismiye tatra janas tadānīṃ % sthānuvratasyeva vṛṣadhvajasya // 10.3 //
+taṃ prekṣya yo 'nyena yayau sa tasthau $ (yas tatra Cyaś cātra )
+tasthau pathi so 'nvagacchat &
+drutaṃ yayau (yaḥ sa jagāma dhīraṃ Csadayaṃ sadhīraṃ % yaḥ kaścid āste sma sa cotpapāta // 10.4 //
+kaścit tam ānarca janaḥ karābhyāṃ $ satkṛtya kaścic chirasā vavande &
+snigdhena kaścid vacasābhyanandan % (nainaṃ Cnaivaṃ )
+jagāmāpratipūjya kaścit // 10.5 //
+taṃ jihriyuḥ prekṣya vicitraveṣāḥ $ prakīrṇavācaḥ pathi maunam īyuḥ &
+dharmasya sākṣād iva (saṃnikarṣe Csaṃnikarṣān % na kaścid anyāyamatir babhūva // 10.6 //
+anyakriyāṇām api rājamārge $ strīṇāṃ nṛṇāṃ vā bahumānapūrvam &
+(taṃ devakalpaṃ Ctad eva kalpaṃ )
+naradeva(sūnuṃ Csūtraṃ % nirīkṣamāṇā na (tatarpa Ctu tasya )dṛṣṭiḥ // 10.7 //
+bhruvau lalāṭaṃ mukham (īkṣaṇe Cīkṣaṇaṃ )
+vā $ vapuḥ karau vā caraṇau gatiṃ vā &
+yad eva yas tasya dadarśa tatra % tad eva (tasyātha babandha Ctasyānubabandha )cakṣuḥ // 10.8 //
+dṛṣṭvā (ca sorṇaCśubhorṇa)
+bhruvam āyatākṣaṃ $ jvalaccharīraṃ śubhajālahastam &
+taṃ bhikṣu(veṣaṃ Cveśaṃ )
+kṣitipālanārhaṃ % saṃcukṣubhe rājagṛhasya lakṣmīḥ // 10.9 //
+śreṇyo 'tha bhartā magadhājirasya $ (bāhyād Cvāhyād )
+vimānād vipulaṃ janaugham &
+dadarśa papraccha ca tasya hetuṃ % tatas tam asmai puruṣaḥ śaśaṃsa // 10.10 //
+jñānaṃ paraṃ vā pṛthivīśriyaṃ vā $ viprair ya ukto 'dhigamiṣyatīti &
+sa (eṣa Ceva )śākyādhipates tanūjo % nirīkṣyate pravrajito janena // 10.11 //
+tataḥ śrutārtho (manasāgatāstho Cmanasā gatārtho $ rājā babhāṣe puruṣaṃ tam eva &
+vijñāyatāṃ kva pratigacchatīti % tathety athainaṃ puruṣo 'nvagacchat // 10.12 //
+alolacakṣur yugamātradarśī $ nivṛttavāg yantritamandagāmī &
+cacāra bhikṣāṃ sa tu bhikṣuvaryo % nidhāya gātrāṇi calaṃ ca cetaḥ // 10.13 //
+ādāya bhaikṣaṃ ca yathopapannaṃ $ yayau gireḥ prasravaṇaṃ viviktam &
+nyāyena tatrābhyavahṛtya cainan % mahīdharaṃ pāṇḍavam āruroha // 10.14 //
+tasmin navau lodhravanopagūḍhe $ mayūranādapratipūrṇakuñje &
+kāṣāyavāsāḥ sa babhau nṛsūryo % yathodayasyopari bālasūryaḥ // 10.15 //
+(tatrainam Ctatraivam )
+ālokya sa rājabhṛtyaḥ $ śreṇyāya rājñe kathayāṃ cakāra &
+saṃśrutya rājā sa ca bāhumānyāt % tatra pratasthe nibhṛtānuyātraḥ // 10.16 //
+sa pāṇḍavaṃ pāṇḍavatulyavīryaḥ $ śailottamaṃ śailasamānavarṣmā &
+maulīdharaḥ siṃhagatir nṛsiṃhaś % calatsaṭaḥ siṃha ivāruroha // 10.17 //
+(tataḥ sma Ccalasya )
+tasyopari śṛṅgabhūtaṃ $ śāntendriyaṃ paśyati bodhisattvam &
+paryaṅkam āsthāya virocamānaṃ % śaśāṅkam udyantam ivābhra(kuñjāt Ckūṭāt ) // 10.18 //
+taṃ rūpalakṣmyā ca śamena caiva $ dharmasya nirmāṇam ivopaviṣṭam &
+savismayaḥ praśrayavān narendraḥ % svayaṃbhuvaṃ śakra ivopatasthe // 10.19 //
+taṃ nyāyato (nyāyavidāṃ variṣṭhaṃ Cnyāyavatāṃ variṣṭhaḥ $ sametya papraccha ca dhātusāmyam &
+sa cāpy avocat sadṛśena sāmnā % nṛpaṃ manaḥsvāsthyam anāmayaṃ ca // 10.20 //
+tataḥ śucau vāraṇakarṇanīle $ śilātale (saṃniṣasāda Casau niṣasāda )rājā &
+(upopaviśyānumataś Cnṛpopaviśyānumataś )
+ca tasya % bhāvaṃ vijijñāsur idaṃ babhāṣe // 10.21 //
+prītiḥ parā me bhavataḥ kulena $ kramāgatā caiva parīkṣitā ca &
+jātā vivakṣā (svavayo Csuta yā )
+yato me % tasmād idaṃ snehavaco nibodha // 10.22 //
+ādityapūrvaṃ vipulaṃ kulaṃ te $ navaṃ vayo dīptam idaṃ vapuś ca &
+kasmād iyaṃ te matir akrameṇa % bhaikṣākae evābhiratā na rājye // 10.23 //
+gātraṃ hi te lohitacandanārhaṃ $ kāṣāyasaṃśleṣam anarham etat &
+hastaḥ prajāpālanayogya eṣa % bhoktuṃ na cārhaḥ paradattam annam // 10.24 //
+tat saumya rājyaṃ yadi paitṛkaṃ tvaṃ $ snehāt pitur necchasi vikrameṇa &
+na ca (kramaṃ Ckṣamaṃ )
+marṣayituṃ matis te % (bhuṅkṣvārdham Cbhuktvārdham )
+asmadviṣayasya śīghram // 10.25 //
+evaṃ hi na syāt svajanāvamardaḥ $ kālakrameṇāpi śamaśrayā śrīḥ &
+tasmāt kuruṣva praṇayaṃ mayi tvaṃ % sadbhiḥ sahīyā hi satāṃ samṛddhiḥ // 10.26 //
+atha tv idānīṃ kulagarvitatvād $ asmāsu viśrambhaguṇo na te 'sti &
+(vyūḍhāny anīkāni Cvyūhāny anekāni )
+vigāhya (bāṇair Cvāṇair % mayā sahāyena (parān Cparāñ )jigīṣa // 10.27 //
+tad buddhim atrānyatarāṃ vṛṇīṣva $ dharmārthakāmān vidhivad bhajasva &
+vyatyasya (rāgād iha Crāgādi ha )
+hi trivargaṃ % pretyeha ca (bhraṃśam Cvibhraṃśam )
+avāpnuvanti // 10.28 //
+yo hy arthadharmau paripīḍya kāmaḥ $ syād dharma(kāmau Ckāmye )
+paribhūya cārthaḥ &
+kāmārthayoś coparameṇa dharmas % tyājyaḥ sa kṛtsno yadi (kāṅkṣito 'rthaḥ Ckāṅkṣitārthaḥ ) // 10.29 //
+tasmāt trivargasya niṣevaṇena $ tvaṃ rūpam etat saphalaṃ kuruṣva &
+dharmārthakāmādhigamaṃ hy anūnaṃ % nṛṇām anūnaṃ puruṣārtham āhuḥ // 10.30 //
+tan niṣphalau nārhasi kartum etau $ pīnau bhujau cāpavikarṣaṇārhau &
+māndhātṛvaj jetum imau hi yogyau % (lokān api trīn iha Clokāni hi trīṇi hi )
+kiṃ punar gām // 10.31 //
+snehena khalv etad ahaṃ bravīmi $ naiśvaryarāgeṇa na vismayena &
+imaṃ hi dṛṣṭvā tava bhikṣu(veṣaṃ Cveśaṃ % jātānukampo 'smy api cāgatāśruḥ // 10.32 //
+yāvat svavaṃśaprati(rūpa rūpaṃ Crūparūpaṃ $ na te jarābhyety abhibhūya bhūyaḥ &
+tad bhuṅkṣva bhikṣāśramakāma kāmān % kāle 'si kartā priyadharma dharmam [Pādas ab and cd are exchanged in C.] // 10.33 //
+śaknoti jīrṇaḥ khalu dharmam āptuṃ $ kāmopabhogeṣv agatir jarāyāḥ &
+ataś ca yūnaḥ kathayanti kāmān % madhyasya vittaṃ sthavirasya dharmam // 10.34 //
+dharmasya cārthasya ca jīvaloke $ pratyarthibhūtāni hi yauvanāni &
+saṃrakṣyamānāny api durgrahāṇi % kāmā yatas tena (pathā Cyathā )haranti // 10.35 //
+vayāṃsi jīrṇāni (vimarśavanti Cvimarśayanti $ dhīrāṇy avasthānaparāyaṇāni &
+alpena yatnena śamātmakāni % bhavanty a(gatyaiva Cgatyeva )
+ca lajjayā ca // 10.36 //
+ataś ca lolaṃ viṣayapradhānaṃ $ pramattam akṣāntam adīrghadarśi &
+bahucchalaṃ yauvanam abhyatītya % nistīrya kāntāram ivāśvasanti // 10.37 //
+tasmād adhīraṃ capalapramādi $ navaṃ vayas tāvad idaṃ vyapaitu &
+kāmasya pūrvaṃ hi vayaḥ śaravyaṃ % na śakyate rakṣitum indriyebhyaḥ // 10.38 //
+atho cikīrṣā tava dharma eva $ yajasva yajñaṃ kuladharma eṣaḥ &
+yajñair adhiṣṭhāya hi nākapṛṣṭhaṃ % yayau marutvān api nākapṛṣṭham // 10.39 //
+suvarṇakeyūravidaṣṭabāhavo $ maṇipradīpojjvalacitramaulayaḥ &
+nṛparṣayas tāṃ hi gatiṃ gatā makhaiḥ % śrameṇa yām eva maharṣayo yayuḥ // 10.40 //
+ity evaṃ magadhapatir ((Cvaco C) )
+babhāṣe $ yaḥ samyag valabhid iva (bruvan babhāse Cdhruvaṃ babhāṣe ) //
+tac chrutvā na sa (vicacāla Cvicacāra )
+rājasūnuḥ % kailāso girir iva naikacitrasānuḥ // 10.41 //
+[[iti (CśrīC)buddhacarite mahākāvye 'śvaghoṣakṛte śreṇyābhigamano nāma daśamaḥ sargaḥ -- 10 --]]
+athaivam ukto magadhādhipena $ suhṛnmukhena pratikūlam artham &
+svastho 'vikāraḥ kulaśaucaśuddhaḥ % śauddhodanir vākyam idaṃ jagāda // 11.1 //
+nāścaryam etad bhavato (vidhānaṃ Cabhidhātuṃ $ jātasya haryaṅkakule viśāle &
+yan mitrapakṣe tava mitrakāma % syād vṛttir eṣā pariśuddhavṛtteḥ // 11.2 //
+asatsu maitrī sva(kulānuvṛttā Ckulānurūpā $ na tiṣṭhati śrir iva viklaveṣu &
+pūrvaiḥ kṛtāṃ prītiparaṃparābhis % tām eva santas tu vivardhayanti // 11.3 //
+ye cārthakṛcchreṣu bhavanti loke $ samānakāryāḥ suhṛdāṃ manuṣyāḥ &
+mitrāṇi tānīti paraimi buddhyā % svasthasya vṛddhiṣv iha ko hi na syāt // 11.4 //
+evaṃ ca ye dravyam avāpya loke $ mitreṣu dharme ca niyojayanti &
+avāptasārāṇi dhanāni teṣāṃ % bhraṣṭāni nānte janayanti tāpam // 11.5 //
+suhṛttayā cāryatayā ca rājan $ (khalv eṣa yo māṃ prati niścayas Cvibhāvya mām eva viniścayas )te &
+atrānuneṣyāmi suhṛttayaiva % brūyām ahaṃ nottaram anyad atra // 11.6 //
+ahaṃ jarāmṛtyubhayaṃ viditvā $ mumukṣayā dharmam imaṃ prapannaḥ &
+bandhūn priyān aśrumukhān vihāya % prāg eva kāmān aśubhasya hetūn // 11.7 //
+nāśīviṣebhyo (hi Capi )
+tathā bibhemi $ naivāśanibhyo gaganāc cyutebhyaḥ &
+na pāvakebhyo 'nilasaṃhitebhyo % yathā bhayaṃ me viṣayebhya (eva Cebhyaḥ ) // 11.8 //
+kāmā hy anityāḥ kuśalārthacaurā $ riktāś ca māyāsadṛśāś ca loke &
+āśāsyamānā api mohayanti % cittaṃ nṛṇāṃ kiṃ punar ātmasaṃsthāḥ // 11.9 //
+kāmābhibhūtā hi na yānti śarma $ tripiṣṭape kiṃ (bata Cvata )
+martyaloke &
+kāmaiḥ satṛṣṇasya hi nāsti tṛptir % yathendhanair vātasakhasya vahneḥ // 11.10 //
+jagaty anartho na samo 'sti kāmair $ mohāc ca teṣv eva janaḥ prasaktaḥ &
+tattvaṃ viditvaivam anarthabhīruḥ % prājñaḥ svayaṃ ko 'bhilaṣed anartham // 11.11 //
+samudravastrām api gām avāpya $ pāraṃ jigīṣanti mahārṇavasya &
+lokasya kāmair na vitṛptir asti % patadbhir ambhobhir ivārṇavasya // 11.12 //
+devena vṛṣṭe 'pi hiraṇyavarṣe $ dvīpān (samagrāṃś Csamudrāṃś )
+caturo 'pi jitvā &
+śakrasya cārdhāsanam apy avāpya % māndhātur āsīd viṣayeṣv atṛptiḥ // 11.13 //
+bhuktvāpi rājyaṃ divi devatānāṃ $ śatakratau vṛtrabhayāt pranaṣṭe &
+darpān maharṣīn api vāhayitvā % kāmeṣv atṛpto nahuṣaḥ papāta // 11.14 //
+aiḍaś ca rājā tridivaṃ vigāhya $ nītvāpi devīṃ vaśam urvaśīṃ tām &
+lobhād ṛṣibhyaḥ kanakaṃ jihīrṣur % jagāma nāśaṃ viṣayeṣv atṛptaḥ // 11.15 //
+baler mahendraṃ nahuṣaṃ mahendrād $ indraṃ punar ye nahuṣād upeyuḥ &
+svarge kṣitau vā viṣayeṣu teṣu % ko viśvased bhāgyakulākuleṣu // 11.16 //
+cīrāmbarā mūlaphalāmbubhakṣā $ jaṭā vahanto 'pi bhujaṃgadīrghāḥ &
+yair (nānyaCanya)
+kāryā munayo 'pi bhagnāḥ % kaḥ kāmasaṃjñān mṛgayeta śatrūn // 11.17 //
+ugrāyudhaś cogradhṛtāyudho 'pi $ yeṣāṃ kṛte mṛtyum avāpa bhīṣmāt &
+cintāpi teṣām aśivā vadhāya % (sadCtad)
+vṛttināṃ kiṃ punar avratānām // 11.18 //
+āsvādam alpaṃ viṣayeṣu matvā $ saṃyojanotkarṣam atṛptim eva &
+sadbhyaś ca garhāṃ niyataṃ ca pāpaṃ % kaḥ kāmasaṃjñaṃ viṣam (ādadīta Cāsasāda ) // 11.19 //
+kṛṣyādibhiḥ (karmabhir arditānāṃ Cdharmabhir anvitānāṃ $ kāmātmakānāṃ ca niśamya duḥkham &
+svāsthyaṃ ca kāmeṣv akutūhalānāṃ % kāmān vihātuṃ kṣamam ātmavadbhiḥ // 11.20 //
+jñeyā vipatkāmini kāmasaṃpat $ siddheṣu kāmeṣu madaṃ hy upaiti &
+madād akāryaṃ kurute na kāryaṃ % yena kṣato durgatim abhyupaiti // 11.21 //
+yatnena labdhāḥ parirakṣitāś ca $ ye vipralabhya pratiyānti bhūyaḥ &
+teṣv ātmavān yācitakopam eṣu % kāmeṣu vidvān iha ko rameta // 11.22 //
+anviṣya cādāya ca jātatarṣā $ yān atyajantaḥ pariyānti duḥkham &
+loke tṛṇolkāsadṛśeṣu teṣu % kāmeṣu kasyātmavato ratiḥ syāt // 11.23 //
+anātmavanto hṛdi yair vidaṣṭā $ vināśam archanti na yānti śarma &
+kruddhograsarpapratimeṣu teṣu % kāmeṣu kasyātmavato ratiḥ syāt // 11.24 //
+asthi (kṣudhārtā Ckṣudhārttā )
+iva sārameyā $ bhuktvāpi yān naiva bhavanti tṛptāḥ &
+jīrṇāsthikaṅkālasameṣu teṣu % kāmeṣu kasyātmavato ratiḥ syāt // 11.25 //
+ye rājacaurodakapāvakebhyaḥ $ sādhāraṇatvāj janayanti duḥkham &
+teṣu praviddhāmiṣasaṃnibheṣu % kāmeṣu kasyātmavato ratiḥ syāt // 11.26 //
+yatra sthitānām abhito vipattiḥ $ śatroḥ sakāśād api bāndhavebhyaḥ &
+hiṃsreṣu teṣv āyatanopameṣu % kāmeṣu kasyātmavato ratiḥ syāt // 11.27 //
+girau vane cāpsu ca sāgare ca $ (yān Cyad )
+bhraṃśam (archanti vilaṅghamānāḥ Carchanty abhilaṅghamānāḥ ) //
+teṣu drumaprāgraphalopameṣu % kāmeṣu kasyātmavato ratiḥ syāt // 11.28 //
+(tīvraiḥ Ctīrthaiḥ )
+prayatnair vividhair avāptāḥ $ kṣaṇena ye nāśam iha prayānti &
+svapnopabhogapratimeṣu teṣu % kāmeṣu kasyātmavato ratiḥ syāt [Verses 11.29 and 11.30 are exchanged in ed. C.] // 11.29 //
+yān arcayitvāpi na yānti śarma $ vivardhayitvā paripālayitvā &
+aṅgāra(karṣūCkarṣa)
+pratimeṣu teṣu % kāmeṣu kasyātmavato ratiḥ syāt // 11.30 //
+vināśam īyuḥ kuravo yadarthaṃ $ vṛṣṇyandhakā (mekhalaCmaithila)
+daṇḍakāś ca &
+(sūnāsiCśūlāsi)
+kāṣṭhapratimeṣu teṣu % kāmeṣu kasyātmavato ratiḥ syāt // 11.31 //
+sundopasundāv asurau yadartham $ anyoanyavairaprasṛtau vinaṣṭau &
+sauhārdaviśleṣakareṣu teṣu % kāmeṣu kasyātmavato ratiḥ syāt // 11.32 //
+(yeṣāṃ kṛte vāriṇi pāvake Ckāmāndhasaṃjñāḥ kṛpayā va ke [sic] )
+ca $ kravyātsu (cātmānam Cnātmānam )
+ihotsṛjanti &
+sapatnabhūteṣv aśiveṣu teṣu % kāmeṣu kasyātmavato ratiḥ syāt // 11.33 //
+(kāmārtham ajñaḥ Ckāmāndhasaṃjñaḥ )
+kṛpaṇaṃ karoti $ prāpnoti duḥkhaṃ vadhabandhanādi &
+kāmārtham āśākṛpaṇas tapasvī % (mṛtyuṃ śramaṃ cārchati Cmṛtyuśramaṃ cārhati )
+jīva(lokaḥ Cloke ) // 11.34 //
+gītair hriyante hi mṛgā vadhāya $ rūpārtham agnau śalabhāḥ patanti &
+matsyo giraty āyasam āmiṣārthī % tasmād anarthaṃ viṣayāḥ phalanti // 11.35 //
+kāmās tu bhogā iti (yan matiḥ Cyan mataṃ )
+syād $ (bhogā Cbhogyā )
+na kecit parigaṇyamānāḥ &
+vastrādayo dravyaguṇā hi loke % duḥkhapratīkāra iti pradhāryāḥ // 11.36 //
+iṣṭaṃ hi tarṣapraśamāya toyaṃ $ kṣunnāśahetor aśanaṃ tathaiva &
+vātātapāmbvāvaraṇāya veśma % kaupīnaśītāvaraṇāya vāsaḥ // 11.37 //
+nidrāvighātāya tathaiva śayyā $ yānaṃ tathādhvaśramanāśanāya &
+tathāsanaṃ sthānavinodanāya % snānaṃ mṛjārogyabalāśrayāya // 11.38 //
+duḥkhapratīkāranimittabhūtās $ tasmāt prajānāṃ viṣayā na (bhogāḥ Cbhogyāḥ ) //
+aśnāmi bhogān iti ko 'bhyupeyāt % prājñaḥ pratīkāravidhau (pravṛttaḥ Cpravṛttān ) // 11.39 //
+yaḥ pittadāhena vidahyamānaḥ $ śītakriyāṃ bhoga iti vyavasyet &
+duḥkhapratīkāravidhau pravṛttaḥ % kāmeṣu kuryāt sa hi bhogasaṃjñām // 11.40 //
+kāmeṣv anaikāntikatā ca yasmād $ ato 'pi me teṣu na bhogasaṃjñā &
+yae eva bhāvā hi sukhaṃ diśanti % tae eva duḥkhaṃ punar āvahanti // 11.41 //
+gurūṇi vāsāṃsy agurūṇi caiva $ sukhāya (śīte Cgīte )
+hy asukhāya (gharme Cdharme ) //
+candrāṃśavaś candanam eva coṣṇe % sukhāya dukhāya bhavanti śīte // 11.42 //
+dvaṃdvāni sarvasya yataḥ prasaktāny $ alābhalābhaprabhṛtīni loke &
+ato 'pi naikāntasukho 'sti kaścin % naikāntaduḥkhaḥ puruṣaḥ prṭhivyām // 11.43 //
+dṛṣṭvā (vimiśrāṃ C ca miśrāṃ )
+sukhaduḥkatāṃ me $ rājyaṃ ca dāsyaṃ ca mataṃ samānam &
+nityaṃ hasaty eva hi naiva rājā % na cāpi saṃtapyatae eva dāsaḥ // 11.44 //
+ājñā nṛpatve 'bhyadhiketi (yat syān Cyasmāt $ mahānti duḥkhāny ata eva rājñaḥ &
+āsaṅgakāṣṭhapratimo hi rājā % lokasya hetoḥ parikhedam eti // 11.45 //
+rājye nṛpas tyāgini (bahvaCvaṅka)
+mitre $ viśvāsam āgacchati ced vipannaḥ &
+athāpi viśrambham upaiti neha % kiṃ nāma saukhyaṃ cakitasya rājñaḥ // 11.46 //
+yadā ca jitvāpi mahīṃ samagrāṃ $ vāsāya dṛṣṭaṃ puram ekam eva &
+tatrāpi caikaṃ bhavanaṃ niṣevyaṃ % śramaḥ parārthe nanu rājabhāvaḥ // 11.47 //
+rājño 'pi (vāsoyugam Cvāse yugam )
+ekam eva $ kṣutsaṃnirodhāya tathānnamātrā &
+śayyā tathaikāsanam ekam eva % śeṣā viśeṣā nṛpater madāya // 11.48 //
+tuṣṭyartham etac ca phalaṃ yadīṣṭam $ ṛte 'pi rājyān mama tuṣṭir asti &
+tuṣṭau ca satyāṃ puruṣasya loke % sarve viśeṣā nanu nirviśeṣāḥ // 11.49 //
+tan nāsmi kāmān prati saṃpratāryaḥ $ (kṣemaṃ Ckṣeme )
+śivaṃ mārgam anuprapannaḥ &
+smṛtvā suhṛttvaṃ tu punaḥ punar māṃ % brūhi pratijñāṃ khalu (pālayeti Cpālayanti ) // 11.50 //
+na hy asmy amarṣeṇa vanaṃ praviṣṭo $ na śatrubāṇair avadhūtamauliḥ &
+kṛtaspṛho nāpi phalādhikebhyo % gṛhṇāmi naitad vacanaṃ yatas te // 11.51 //
+yo dandaśūkaṃ kupitaṃ bhujaṃgaṃ $ muktvā vyavasyed dhi punar grahītum &
+dāhātmikāṃ vā jvalitāṃ tṛṇolkāṃ % saṃtyajya kāmān sa punar bhajeta // 11.52 //
+andhāya yaś ca spṛhayed anandho $ baddhāya mukto vidhanāya (cāḍhyaḥ Cvāḍhyaḥ ) //
+unmattacittāya ca kalyacittaḥ % spṛhāṃ sa kuryād viṣayātmakāya // 11.53 //
+(bhaikṣopabhogīti ca Cbhikṣopabhogī vara )
+nānukampyaḥ $ kṛtī jarāmṛtyubhayaṃ titīrṣuḥ &
+ihottamaṃ śāntisukhaṃ ca yasya % paratra duḥkhāni ca saṃvṛtāni // 11.54 //
+lakṣmyāṃ mahatyām api vartamānas $ tṛṣṇābhibhūtas tv anukampitavyaḥ &
+prāpnoti yaḥ śāntisukhaṃ na ceha % paratra (duḥkhaiḥ Cduḥkhaṃ )
+pratigṛhyate ca // 11.55 //
+evaṃ tu vaktuṃ bhavato 'nurūpaṃ $ sattvasya vṛttasya kulasya caiva &
+mamāpi voḍhuṃ sadṛśaṃ pratijñāṃ % sattvasya vṛttasya kulasya caiva // 11.56 //
+ahaṃ hi saṃsāra(śareṇa Crasena )
+viddho $ viniḥsṛtaḥ (śāntim Cśāntam )
+avāptukāmaḥ &
+neccheyam āptuṃ tridive 'pi rājyaṃ % nirāmayaṃ kiṃ (bata Cvata )mānuṣeṣu // 11.57 //
+trivargasevāṃ nṛpa yat tu kṛtsnataḥ $ paro manuṣyārtha iti tvam āttha mām &
+anartha ity (eva mamātra darśanaṃ Cāttha mamārthadarśanaṃ % kṣayī trivargo hi na cāpi tarpakaḥ // 11.58 //
+pade tu yasmin na jarā na (bhīr na ruṅ Cbhīrutā $ na janma naivoparamo na (cādhayaḥ Cvādhayaḥ ) //
+tam eva manye puruṣārtham uttamaṃ % na vidyate yatra punaḥ punaḥ kriyā // 11.59 //
+yad apy avocaḥ paripālyatāṃ jarā $ navaṃ vayo gacchati vikriyām iti &
+aniścayo 'yaṃ capalaṃ hi dṛśyate % jarāpy adhīrā dhṛtimac ca yauvanam // 11.60 //
+svakarmadakṣaś ca (yadāntako Cyadā tu ko )
+jagad $ vayaḥsu (sarveṣv avaśaṃ vikarṣati Csarveṣu ca saṃvikarṣati ) //
+vināśakāle katham avyavasthite % jarā pratīkṣyā viduṣā śamepsunā // 11.61 //
+jarāyudho vyādhivikīrṇasāyako $ yadāntako vyādha (ivāśivaḥ Civāśritaḥ )sthitaḥ &
+prajāmṛgān bhāgyavanāśritāṃs tudan % vayaḥprakarṣaṃ prati ko manorathaḥ // 11.62 //
+(ato Csuto )yuvā vā sthaviro 'thavā śiśus $ tathā tvarāvān iha kartum arhati &
+yathā bhaved dharmavataḥ (kṛtātmanaḥ Ckṛpātmanaḥ % pravṛttir iṣṭā vinivṛttir eva vā // 11.63 //
+yad āttha (cāpīṣṭaCvā dīpta)
+phalāṃ kulocitāṃ $ kuruṣva dharmāya makhakriyām iti &
+namo makhebhyo na hi kāmaye sukhaṃ % parasya duḥkha(kriyayā yad iṣyate Ckriyayāpadiśyate ) // 11.64 //
+paraṃ hi hantuṃ vivaśaṃ phalepsayā $ na yuktarūpaṃ karuṇātmanaḥ sataḥ &
+kratoḥ phalaṃ yady api śāśvataṃ bhavet % tathāpi kṛtvā kim (u yat kṣayātmakam Cupakṣayātmakam ) // 11.65 //
+bhavec ca dharmo yadi nāparo vidhir $ vratena śīlena manaḥśamena vā &
+tathāpi naivārhati sevituṃ kratuṃ % viśasya yasmin param ucyate phalam // 11.66 //
+ihāpi tāvat puruṣasya tiṣṭhataḥ $ pravartate yat parahiṃsayā sukham &
+tad apy aniṣṭaṃ saghṛṇasya dhīmato % bhavāntare kiṃ (bata Cvata )
+yan na dṛśyate // 11.67 //
+na ca pratāryo 'smi phalapravṛttaye $ bhaveṣu rājan ramate na me manaḥ &
+latā ivāmbhodharavṛṣṭitāḍitāḥ % pravṛttayaḥ sarvagatā hi cañcalāḥ // 11.68 //
+ihāgataś cāham ito didṛkṣayā $ muner arāḍasya vimokṣavādinaḥ &
+prayāmi cādyaiva nṛpāstu te śivaṃ % vacaḥ (kṣamethā mama tattvaCkṣamethāḥ śamatattva)niṣṭhuram // 11.69 //
+(avendravad Cathendravad )
+divy ava śaśvad arkavad $ guṇair ava śreya ihāva gām ava &
+avāyur āryair ava satsutān ava % śriyaś ca rājann ava dharmam ātmanaḥ // 11.70 //
+himāriketūdbhava(saṃbhavāntare Csaṃplavāntare $ yathā dvijo yāti vimokṣayaṃs tanum &
+himāri(śatrukṣayaCśatruṃ kṣaya)
+śatru(ghātane Cghātinas % tathāntare yāhi (vimokṣayan Cvimocayan )manaḥ // 11.71 //
+nṛpo 'bravīt sāñjalir āgataspṛho $ yatheṣṭam (āpnotu Cāpnoti )
+bhavān avighnataḥ &
+avāpya kāle kṛtakṛtyatām imāṃ % mamāpi kāryo bhavatā tv anugrahaḥ // 11.72 //
+sthiraṃ pratijñāya tatheti pārthive $ tataḥ sa vaiśvaṃtaram āśramaṃ yayau &
+parivrajantaṃ (tam udīkṣya Csamudīkṣya )
+vismito % nṛpo 'pi (vavrāja puriṃ girivrajam Cca prāpur imaṃ giriṃ vrajan ) // 11.73 //
+[[iti (CśrīC)buddhacarite mahākāvye (Caśvaghoṣakṛte C)
+kāmavigarhaṇo nāmaikādaśaḥ sargaḥ -- 11 --]]
+tataḥ śamavihārasya $ muner ikṣvākucandramāḥ &
+arāḍasyāśramaṃ bheje % vapuṣā pūrayann iva // 12.1 //
+sa kālāmasagotreṇa $ tenālokyaiva dūrataḥ &
+uccaiḥ svāgatam ity uktaḥ % samīpam upajagmivān // 12.2 //
+tāv ubhau nyāyataḥ pṛṣṭvā $ dhātusāmyaṃ parasparam &
+dāravyor medhyayor vṛṣyoḥ % śucau deśe (niṣedatuḥ Cniṣīdatuḥ ) // 12.3 //
+tam āsīnaṃ nṛpasutaṃ $ so 'bravīn munisattamaḥ &
+bahumānaviśālābhyāṃ % darśanābhyāṃ pibann iva // 12.4 //
+viditaṃ me yathā saumya $ niṣkrānto bhavanād asi &
+chittvā snehamayaṃ pāśaṃ % pāśaṃ dṛpta iva dvipaḥ // 12.5 //
+sarvathā dhṛtimac caiva $ prājñaṃ caiva manas tava &
+yas tvaṃ prāptaḥ śriyaṃ tyaktvā % latāṃ viṣaphalām iva // 12.6 //
+nāścaryaṃ jīrṇavayaso $ yaj jagmuḥ pārthivā vanam &
+apatyebhyaḥ śriyaṃ dattvā % bhuktocchiṣṭām iva srajam // 12.7 //
+idaṃ me matam āścaryaṃ $ nave vayasi yad bhavān &
+abhuktvaiva śriyaṃ prāptaḥ % sthito viṣayagocare // 12.8 //
+tad vijñātum imaṃ dharmaṃ $ paramaṃ bhājanaṃ bhavān &
+jñāna(plavam Cpūrvam )
+adhiṣṭhāya % śīghraṃ duḥkhārṇavaṃ tara // 12.9 //
+śiṣye yady api vijñāte $ śāstraṃ kālena (varṇyate Cvartate ) //
+gāmbhīryād vyavasāyāc ca % (na parīkṣyo Csuparīkṣyo )
+bhavān mama // 12.10 //
+iti vākyam arāḍasya $ vijñāya sa (nararṣabhaḥ Cnarādhipaḥ ) //
+babhūva paramaprītaḥ % provācottaram eva ca // 12.11 //
+viraktasyāpi yad idaṃ $ saumukhyaṃ bhavataḥ param &
+akṛtārtho 'py anenāsmi % kṛtārtha iva saṃprati // 12.12 //
+didṛkṣur iva hi jyotir $ yiyāsur iva daiśikam &
+tvad(darśanam Cdarśanād )
+ahaṃ manye % titīrṣur iva ca plavam // 12.13 //
+tasmād arhasi tad vaktuṃ $ vaktavyaṃ yadi manyase &
+jarāmaraṇarogebhyo % yathāyaṃ parimucyate // 12.14 //
+ity arāḍaḥ kumārasya $ māhātmyād eva coditaḥ &
+saṃkṣiptaṃ kathayāṃ cakre % svasya śāstrasya niścayam // 12.15 //
+śrūyatām ayam asmākaṃ $ siddhāntaḥ śṛṇvatāṃ vara &
+yathā bhavati saṃsāro % yathā (caiva nivartate Cvai parivartate ) // 12.16 //
+prakṛtiś ca vikāraś ca $ janma mṛtyur jaraiva ca &
+tat tāvat sattvam ity uktaṃ % sthirasattva parehi (tat Cnaḥ ) // 12.17 //
+tatra tu (prakṛtiṃ Cprakṛtir )
+nāma $ viddhi prakṛtikovida &
+pañca bhūtāny ahaṃkāraṃ % buddhim avyaktam eva ca // 12.18 //
+vikāra iti (budhyasva Cbuddhiṃ tu $ viṣayān indriyāṇi ca &
+pāṇipādaṃ ca vādaṃ ca % pāyūpasthaṃ tathā manaḥ // 12.19 //
+asya kṣetrasya vijñānāt $ kṣetrajña iti saṃjñi ca &
+kṣetrajña iti cātmānaṃ % kathayanty ātmacintakāḥ // 12.20 //
+saśiṣyaḥ kapilaś ceha $ (pratibuddhir Cpratibuddha )iti smṛtiḥ &
+sa(putro 'pratibuddhas tu Cputraḥ pratibuddhaś ca % prajāpatir ihocyate // 12.21 //
+jāyate jīryate caiva $ (bādhyate Cbudhyate )
+mriyate ca yat &
+tad vyaktam iti vijñeyam % avyaktaṃ tu viparyayāt // 12.22 //
+ajñānaṃ karma tṛṣṇā ca $ jñeyāḥ saṃsārahetavaḥ &
+sthito 'smiṃs tritaye (jantus Cyas tu % tat sattvaṃ (nātivartate Cnābhivartate ) // 12.23 //
+vipratyayād ahaṃkārāt $ saṃdehād abhisaṃplavāt &
+aviśeṣānupāyābhyāṃ % saṅgād abhyavapātataḥ // 12.24 //
+tatra vipratyayo nāma $ viparītaṃ pravartate &
+anyathā kurute kāryaṃ % mantavyaṃ manyate 'nyathā // 12.25 //
+bravīmy aham ahaṃ vedmi $ gacchāmy aham ahaṃ sthitaḥ &
+itīhaivam ahaṃkāras tv % anahaṃkāra vartate // 12.26 //
+yas tu (bhāvān asaṃdigdhān Cbhāvena saṃdigdhān $ ekībhāvena paśyati &
+mṛtpiṇḍavad asaṃdeha % saṃdehaḥ sa ihocyate // 12.27 //
+ya evāhaṃ sa evedaṃ $ mano buddhiś ca karma ca &
+yaś (caivaiṣa Ccaivaṃ sa )
+gaṇaḥ so 'ham % iti yaḥ so 'bhisaṃplavaḥ // 12.28 //
+aviśeṣaṃ viśeṣajña $ pratibuddhāprabuddhayoḥ &
+prakṛtīnāṃ ca yo veda % so 'viśeṣa iti smṛtaḥ // 12.29 //
+namaskāravaṣaṭkārau $ prokṣaṇābhyukṣaṇādayaḥ &
+anupāya iti prājñair % upāyajña praveditaḥ // 12.30 //
+sajjate yena durmedhā $ mano(vāgbuddhikarmabhiḥ Cvākkarmabuddhibhiḥ ) //
+viṣayeṣv anabhiṣvaṅga % so 'bhiṣvaṅga iti smṛtaḥ // 12.31 //
+mamedam aham asyeti $ yad duḥkham abhimanyate &
+vijñeyo 'bhyavapātaḥ sa % saṃsāre yena pātyate // 12.32 //
+ity a(vidyāṃ Cvidyā )
+hi (vidvān sa Cvidvāṃsaḥ [? ?
+] $ pañca(parvāṃ Cparvā )samīhate &
+tamo mohaṃ mahāmohaṃ % tāmisradvayam eva ca // 12.33 //
+tatrālasyaṃ tamo viddhi $ mohaṃ mṛtyuṃ ca janma ca &
+mahāmohas tv asaṃmoha % kāma ity (eva gamyatām Cavagamyatām ) // 12.34 //
+yasmād atra ca bhūtāni $ pramuhyanti mahānty api &
+tasmād eṣa mahābāho % mahāmoha iti smṛtaḥ // 12.35 //
+tāmisram iti cākrodha $ krodham evādhikurvate &
+viṣādaṃ cāndhatāmisram % aviṣāda pracakṣate // 12.36 //
+anayāvidyayā bālaḥ $ saṃyuktaḥ pañcaparvayā &
+saṃsāre duḥkhabhūyiṣṭhe % janmasv abhiniṣicyate // 12.37 //
+draṣṭā śrotā ca mantā ca $ (kāryakaraṇam Ckāryaṃ karaṇam )eva ca &
+aham ity evam āgamya % saṃsāre parivartate // 12.38 //
+(ihaibhir City ebhir )
+hetubhir dhīman $ (janmaCtamaḥ)
+srotaḥ pravartate &
+hetva(bhāvāt Cbhāve )
+phalābhāva % iti vijñātum arhasi // 12.39 //
+tatra (samyaṅCsamyag)
+matir vidyān $ mokṣakāma catuṣṭayam &
+pratibuddhāprabuddhau ca % vyaktam avyaktam eva ca // 12.40 //
+yathāvad etad vijñāya $ kṣetrajño hi catuṣṭayam &
+(ājavaṃjavatāṃ Cārjavaṃ javatāṃ )
+hitvā % prāpnoti padam akṣaram // 12.41 //
+ityarthaṃ brāhmaṇā loke $ paramabrahmavādinaḥ &
+brahmacaryaṃ carantīha % brāhmaṇān vāsayanti ca // 12.42 //
+iti vākyam idaṃ śrutvā $ munes tasya nṛpātmajaḥ &
+abhyupāyaṃ ca papraccha % padam eva ca naiṣṭhikam // 12.43 //
+brahmacaryam idaṃ caryaṃ $ yathā yāvac ca yatra ca &
+dharmasyāsya ca paryantaṃ % bhavān vyākhyātum arhati // 12.44 //
+ity arāḍo yathāśāstraṃ $ vispaṣṭārthaṃ samāsataḥ &
+tam evānyena kalpena % dharmam asmai vyabhāṣata // 12.45 //
+ayam ādau gṛhān muktvā $ bhaikṣākaṃ liṅgam āśritaḥ &
+samudācāravistīrṇaṃ % śīlam ādāya vartate // 12.46 //
+saṃtoṣaṃ param āsthāya $ yena tena yatas tataḥ &
+viviktaṃ sevate vāsaṃ % nirdvaṃdvaḥ śāstravitkṛtī // 12.47 //
+tato rāgād bhayaṃ dṛṣṭvā $ vairāgyāc ca paraṃ śivam &
+nigṛhṇann indriyagrāmaṃ % yatate manasaḥ (śame Cśrame ) // 12.48 //
+atho viviktaṃ kāmebhyo $ vyāpādādibhya eva ca &
+vivekajam avāpnoti % pūrvadhyānaṃ vitarkavat // 12.49 //
+tac ca (dhyānasukhaṃ Cdhyānaṃ sukhaṃ )
+prāpya $ tat tad eva vitarkayan &
+apūrvasukhalābhena % hriyate bāliśo janaḥ // 12.50 //
+śamenaivaṃvidhenāyaṃ $ kāmadveṣavigarhiṇā &
+brahmalokam avāpnoti % paritoṣeṇa vañcitaḥ // 12.51 //
+jñātvā vidvān vitarkāṃs tu $ manaḥsaṃkṣobhakārakān &
+tadviyuktam avāpnoti % dhyānaṃ prītisukhānvitam // 12.52 //
+hriyamāṇas tayā prītyā $ yo viśeṣaṃ na paśyati &
+sthānaṃ bhāsvaram āpnoti % deveṣv (ābhāsvareṣu saḥ Cābhāsureṣv api ) // 12.53 //
+yas tu prītisukhāt tasmād $ vivecayati mānasam &
+tṛtīyaṃ labhate dhyānaṃ % sukhaṃ prītivivarjitam [Ed. C reads 12.57 after 12.54.] // 12.54 //
+yas tu tasmin sukhe magno $ na viśeṣāya yatnavān &
+śubhakṛtsnaiḥ sa sāmānyaṃ % sukhaṃ prāpnoti daivataiḥ // 12.55 //
+tādṛśaṃ sukham āsādya $ yo na (rajyaty upekṣakaḥ Crajyann upekṣate ) //
+caturthaṃ dhyānam āpnoti % sukhaduḥkhavivarjitam // 12.56 //
+tatra kecid vyavasyanti $ mokṣa ity (abhimāninaḥ Capi māninaḥ ) //
+sukhaduḥkhaparityāgād % avyāpārāc ca cetasaḥ // 12.57 //
+asya dhyānasya tu phalaṃ $ samaṃ devair bṛhatphalaiḥ &
+kathayanti (bṛhatkālaṃ $ bṛhatCvṛhatphalaṃ % vṛhat)
+prajñāparīkṣakāḥ // 12.58 //
+samādher vyutthitas tasmād $ dṛṣṭvā doṣāṃś charīriṇām &
+jñānam ārohati prājñaḥ % śarīravinivṛttaye // 12.59 //
+tatas tad dhyānam utsṛjya $ viśeṣe kṛtaniścayaḥ &
+kāmebhya iva (sa prājño Csatprājño % rūpād api virajyate // 12.60 //
+śarīre khāni yāny asmin $ tāny ādau parikalpayan &
+ghaneṣv api tato dravyeṣv % ākāśam adhimucyate // 12.61 //
+ākāśa(gatam Csamam )
+ātmānaṃ $ saṃkṣipya tv aparo budhaḥ &
+(tad evānCtadaivān)
+antataḥ paśyan % viśeṣam adhigacchati // 12.62 //
+adhyātma(kuśalas tv Ckuśaleṣv )
+anyo $ nivartyātmānam ātmanā &
+kiṃcin nāstīti saṃpaśyann % ākiṃcanya iti smṛtaḥ // 12.63 //
+tato muñjād iṣīkeva $ śakuniḥ pañjarād iva &
+kṣetrajño niḥsṛto dehān % mukta ity abhidhīyate // 12.64 //
+etat tat paramaṃ brahma $ nirliṅgaṃ dhruvam akṣaram &
+yan mokṣa iti tattvajñāḥ % kathayanti manīṣiṇaḥ // 12.65 //
+ity upāyaś ca mokṣaś ca $ mayā saṃdarśitas tava &
+yadi jñātaṃ yadi (rucir Cruci % yathāvat pratipadyatām // 12.66 //
+jaigīṣavyo 'tha janako $ vṛddhaś caiva parāśaraḥ &
+imaṃ panthānam āsādya % muktā hy anye ca mokṣiṇaḥ // 12.67 //
+iti tasya sa tad vākyaṃ $ gṛhītvā (tu Cna )vicārya ca &
+pūrvahetubalaprāptaḥ % pratyuttaram uvāca (ha Csaḥ ) // 12.68 //
+śrutaṃ jñānam idaṃ sūkṣmaṃ $ parataḥ parataḥ śivam &
+(kṣetrajñasyāCkṣetreṣv asyā)
+parityāgād % avaimy etad anaiṣṭhikam // 12.69 //
+vikāraprakṛtibhyo hi $ kṣetrajñaṃ muktam apy aham &
+manye prasavadharmāṇaṃ % (bījaCvīja)
+dharmāṇam eva ca // 12.70 //
+viśuddho yady api hy ātmā $ nirmukta iti kalpyate &
+((Cbhūyaḥ pratyayasadbhāvād % amuktaḥ sa bhaviṣyati C)) // 12.71 //
+((Cṛtubhūmyambuvirahād $ yathā bījaṃ na rohatiC)) &
+((Crohati pratyayais tais tais % tadvat so 'pi mato mama C)) // 12.72 //
+((Cyat karmājñānatṛṣṇānāṃ $ tyāgān mokṣaś ca kalpyateC)) &
+atyantas tatparityāgaḥ % saty ātmani na vidyate // 12.73 //
+hitvā hitvā trayam idaṃ $ viśeṣas tūpalabhyate &
+ātmanas tu sthitir yatra % tatra sūkṣmam idaṃ trayam // 12.74 //
+sūkṣmatvāc caiva doṣāṇām $ avyāpārāc ca cetasaḥ &
+dīrghatvād āyuṣaś caiva % mokṣas tu parikalpyate // 12.75 //
+ahaṃkāraparityāgo $ yaś caiṣa parikalpyate &
+saty ātmani parityāgo % nāhaṃkārasya vidyate // 12.76 //
+saṃkhyādibhir amuktaś ca $ nirguṇo na bhavaty ayam &
+tasmād asati nairguṇye % nāsya mokṣo 'bhidhīyate // 12.77 //
+guṇino hi guṇānāṃ ca $ vyatireko na vidyate &
+rūpoṣṇābhyāṃ virahito % na hy agnir upalabhyate // 12.78 //
+prāg dehān na bhaved dehī $ prāg guṇebhyas tathā guṇī &
+(tasmād Ckasmād )
+ādau vimuktaḥ (san Csañ % śarīrī badhyate punaḥ // 12.79 //
+kṣetrajño viśarīraś ca $ jño vā syād ajña eva vā &
+yadi jño jñeyam asyāsti % jñeye sati na mucyate // 12.80 //
+athājña iti siddho vaḥ $ kalpitena kim ātmanā &
+vināpi hy ātmanājñānaṃ % prasiddhaṃ kāṣṭhakuḍyavat // 12.81 //
+parataḥ paratas tyāgo $ yasmāt tu guṇavān smṛtaḥ &
+tasmāt sarvaparityāgān % manye kṛtsnāṃ kṛtārthatām // 12.82 //
+iti dharmam arāḍasya $ viditvā na tutoṣa saḥ &
+akṛtsnam iti vijñāya % tataḥ pratijagāma ha // 12.83 //
+viśeṣam atha śuśrūṣur $ udrakasyāśramaṃ yayau &
+ātmagrāhāc ca tasyāpi % jagṛhe na sa darśanam // 12.84 //
+saṃjñāsaṃjñitvayor doṣaṃ $ jñātvā hi munir udrakaḥ &
+ākiṃcinyāt paraṃ lebhe % (asaṃjñāsaṃjñātmikāṃ Csaṃjñāsaṃjñātmikāṃ )gatim // 12.85 //
+yasmāc cālambane sūkṣme $ saṃjñāsaṃjñe tataḥ param &
+nāsaṃjñī naiva saṃjñīti % tasmāt (tatragataCtatra gata)spṛhaḥ // 12.86 //
+yataś ca buddhis tatraiva $ sthitānyatrāpracāriṇī &
+(sūkṣmāpaṭvī Csūkṣmāpādi )
+tatas tatra % nāsaṃjñitvaṃ na saṃjñitā // 12.87 //
+yasmāc ca (tad Ctam )
+api prāpya $ punar āvartate jagat &
+bodhisattvaḥ paraṃ prepsus % tasmād udrakam atyajat // 12.88 //
+tato hitvāśramaṃ tasya $ śreyoarthī kṛtaniścayaḥ &
+bheje gayasya rājarṣer % nagarīsaṃjñam āśramam // 12.89 //
+atha nairañjanātīre $ śucau śuciparākramaḥ &
+cakāra vāsam ekānta % (vihārābhiratir C(vihārābhivratī )muniḥ // 12.90 //
+((C tatpūrvaṃ $ pañcendriyavaśoddhatānC)) &
+((Ctapaḥ vratino bhikṣūn ... pañca niraikṣata C)) // 12.91 //
+(te copatasthur Cpañcopatasthur )
+dṛṣṭvātra $ bhikṣavas taṃ mumukṣavaḥ &
+puṇyārjitadhanārogyam % indriyārthā iveśvaram // 12.92 //
+saṃpūjyamānas taiḥ prahvair $ (vinayād anuvartibhiḥ Cvinayānatamūrtibhiḥ ) //
+tadvaśasthāyibhiḥ śiṣyair % lolair mana ivendriyaiḥ // 12.93 //
+mṛtyujanmāntakaraṇe $ syād upāyo 'yam ity atha &
+duṣkarāṇi samārebhe % tapāṃsy anaśanena saḥ // 12.94 //
+upavāsavidhīn naikān $ kurvan naradurācarān &
+varṣāṇi ṣaṭ (śamaCkarma)
+prepsur % akarot kārśyam ātmanaḥ // 12.95 //
+annakāleṣu caikaikaiḥ $ (sa kolaCsakola)
+tilataṇḍulaiḥ &
+apārapārasaṃsāra % pāraṃ prepsur apārayat // 12.96 //
+dehād apacayas tena $ tapasā tasya yaḥ kṛtaḥ &
+sa evopacayo bhūyas % tejasāsya kṛto 'bhavat // 12.97 //
+kṛśo 'py akṛśakīrtiśrīr $ hlādaṃ cakre 'nya(cakṣuṣām Ccakṣuṣam ) //
+kumudānām iva śarac % chuklapakṣādicandramāḥ // 12.98 //
+tvagasthiśeṣo niḥśeṣair $ medaḥpiśitaśoṇitaiḥ &
+kṣīṇo 'py akṣīṇagāmbhīryaḥ % samudra iva sa vyabhāt // 12.99 //
+atha kaṣṭatapaḥspaṣṭa $ vyarthakliṣṭatanur muniḥ &
+bhavabhīrur imāṃ cakre % buddhim buddhatvakāṅkṣayā // 12.100 //
+nāyaṃ dharmo virāgāya $ na bodhāya na muktaye &
+jambumūle mayā prāpto % yas tadā sa vidhir dhruvaḥ // 12.101 //
+na cāsau durbalenāptuṃ $ śakyam ity āgatādaraḥ &
+śarīrabalavṛddhyartham % idaṃ bhūyo 'nvacintayat // 12.102 //
+kṣutpipāsāśramaklāntaḥ $ śramād asvasthamānasaḥ &
+prāpnuyān manasāvāpyaṃ % phalaṃ katham anirvṛtaḥ // 12.103 //
+nirvṛtiḥ prāpyate samyak $ satatendriyatarpaṇāt &
+saṃtarpitendriyatayā % manaḥsvāsthyam avāpyate // 12.104 //
+svasthaprasannamanasaḥ $ samādhir upapadyate &
+samādhiyuktacittasya % dhyānayogaḥ pravartate // 12.105 //
+dhyānapravartanād dharmāḥ $ prāpyante yair avāpyate &
+durlabhaṃ śāntam ajaraṃ % paraṃ tad amṛtaṃ padam // 12.106 //
+tasmād āhāramūlo 'yam $ upāya itiniścayaḥ &
+(āhāraCasūri)
+karaṇe dhīraḥ % kṛtvāmitamatir matim // 12.107 //
+snāto nairañjanātīrād $ uttatāra śanaiḥ kṛśaḥ &
+bhaktyāvanataśākhāgrair % dattahastas taṭadrumaiḥ // 12.108 //
+atha gopādhipasutā $ daivatair abhicoditā &
+udbhūtahṛdayānandā % tatra nandabalāgamat // 12.109 //
+sitaśaṅkhojjvalabhujā $ nīlakambalavāsinī &
+saphenamālānīlāmbur % yamuneva saridvarā // 12.110 //
+sā (śrāddhāvardhitaCśraddhāvardhita)
+prītir $ vikasallocanotpalā &
+śirasā praṇipatyainaṃ % grāhayām āsa pāyasam // 12.111 //
+kṛtvā tadupabhogena $ prāptajanmaphalāṃ sa tām &
+bodhiprāptau samartho 'bhūt % saṃtarpitaṣaḍindriyaḥ // 12.112 //
+paryāptāpyāna(mūrtiś Cmūrtaś )
+ca $ (sārthaṃ svaCsārdhaṃ su)
+yaśasā muniḥ &
+kānti(dhairye babhāraikaḥ $ śaśāṅkārṇavayor dvayoḥ Cdhairyaikabhāraikaḥ % śaśāṅkārṇavaval babhau ) // 12.113 //
+āvṛtta iti vijñāya $ taṃ jahuḥ (pañca bhikṣavaḥ Cpañcabhikṣavaḥ ) //
+manīṣiṇam ivātmānaṃ % nirmuktaṃ (pañca dhātavaḥ Cpañcadhātavaḥ ) // 12.114 //
+vyavasāyadvitīyo 'tha $ śādvalās tīrṇabhūtalam &
+so 'śvatthamūlaṃ prayayau % bodhāya kṛtaniścayaḥ // 12.115 //
+tatas tadānīṃ gajarājavikramaḥ $ padasvanenānupamena bodhitaḥ &
+mahāmuner āgatabodhiniścayo % jagāda kālo bhujagottamaḥ stutim // 12.116 //
+yathā mune tvaccaraṇāvapīḍitā $ muhur muhur niṣṭanatīva medinī &
+yathā ca te rājati sūryavat prabhā % dhruvaṃ tvam iṣṭaṃ phalam adya bhokṣyase // 12.117 //
+yathā bhramantyo divi (cāṣaCvāya)
+paṅktayaḥ $ pradakṣiṇaṃ tvāṃ kamalākṣa kurvate &
+yathā ca saumyā divi vānti vāyavas % tvam adya buddho niyataṃ bhaviṣyasi // 12.118 //
+tato bhujaṃgapravareṇa saṃstutas $ tṛṇāny upādāya śucīni lāvakāt &
+kṛtapratijño niṣasāda bodhaye % mahātaror mūlam upāśritaḥ śuceḥ // 12.119 //
+tataḥ sa paryaṅkam akampyam uttamaṃ $ babandha suptoragabhogapiṇḍitam &
+bhinadmi tāvad bhuvi naitad āsanaṃ % na yāmi yāvat kṛtakṛtyatām iti // 12.120 //
+tato yayur mudam atulāṃ divaukaso $ (vavāśire Cvavāsire )
+na mṛga(gaṇāḥ Cgaṇā [Wrong sandhi in ed. EJH.])
+na pakṣiṇaḥ &
+na sasvanur vanataravo 'nilāhatāḥ % kṛtāsane bhagavati (niścitātmani Cniścalātmani ) // 12.121 //
+[[iti (CśrīC)buddhacarite mahākāvye (Caśvaghoṣakṛte C)
+arāḍadarśano nāma dvādaśaḥ sargaḥ -- 12 --]]
+tasmin vimokṣāya kṛtapratijñe $ rājarṣivaṃśaprabhave maharṣau &
+tatropaviṣṭe prajaharṣa lokas % tatrāsa saddharmaripus tu māraḥ // 13.1 //
+yaṃ kāmadevaṃ pravadanti loke $ citrāyudhaṃ puṣpaśaraṃ tathaiva &
+kāmapracārādhipatiṃ tam eva % mokṣadviṣaṃ māram udāharanti // 13.2 //
+tasyātmajā vibhramaharṣadarpās $ tisro (aratiCrati)
+prītitṛṣaś ca kanyāḥ &
+papracchur enaṃ manaso vikāraṃ % sa tāṃś ca tāś caiva vaco (abhyuvāca Cbabhāṣe ) // 13.3 //
+asau munir niścayavarma bibhrat $ sattvāyudhaṃ buddhiśaraṃ vikṛṣya &
+jigīṣur āste viṣayān madīyān % tasmād ayaṃ me manaso viṣādaḥ // 13.4 //
+yadi hy asau mām abhibhūya yāti $ lokāya cākhyāty apavargamārgam &
+śūnyas tato 'yaṃ viṣayo mamādya % vṛttāc cyutasyeva videhabhartuḥ // 13.5 //
+tad yāvad evaiṣa na labdhacakṣur $ madgocare tiṣṭhati yāvad eva &
+yāsyāmi tāvad vratam asya bhettuṃ % setuṃ nadīvega (ivātivṛddhaḥ Civābhivṛddhaḥ ) // 13.6 //
+tato dhanuḥ puṣpamayaṃ gṛhītvā $ (śarān jaganmohaCśarāṃs tathā moha)
+karāṃś ca pañca &
+so 'śvatthamūlaṃ sasuto 'bhyagacchad % asvāsthyakārī manasaḥ prajānām // 13.7 //
+atha praśāntaṃ munim āsanasthaṃ $ pāraṃ titīrṣuṃ bhavasāgarasya &
+viṣajya savyaṃ karam āyudhāgre % (krīḍan Ckrīḍañ )
+śareṇedam uvāca māraḥ // 13.8 //
+uttiṣṭha bhoḥ kṣatriya mṛtyubhīta $ (cara svadharmaṃ Cvarasva dharmaṃ )
+tyaja mokṣadharmam &
+(bāṇaiś Cvāṇaiś )
+ca (yajñaiś ca C )
+vinīya (lokaṃ Clokān % (lokāt padaṃ Clokān parān )
+prāpnuhi vāsavasya // 13.9 //
+panthā hi niryātum ayaṃ yaśasyo $ yo vāhitaḥ pūrvatamair narendraiḥ &
+jātasya rājarṣikule viśāle % bhaikṣākam aślāghyam idaṃ prapattum // 13.10 //
+athādya nottiṣṭhasi (niścitātman Cniścitātmā $ bhava sthiro mā vimucaḥ pratijñām &
+mayodyato hy eṣa śaraḥ sa eva % yaḥ (śūrpake Csūryake )
+mīnaripau vimuktaḥ // 13.11 //
+(spṛṣṭaḥ Cpṛṣṭaḥ )
+sa cānena kathaṃcid aiḍaḥ $ somasya naptāpy abhavad vicittaḥ &
+sa cābhavac (chaṃtanur Cchāṃtanur )
+asvatantraḥ % kṣīṇe yuge kiṃ (bata Cvata )
+durbalo 'nyaḥ // 13.12 //
+tat kṣipram uttiṣṭha labhasva saṃjñāṃ $ (bāṇo Cvāṇo )
+hy ayaṃ tiṣṭhati lelihānaḥ &
+priyāvidheyeṣu ratipriyeṣu % yaṃ cakravākeṣv (iva Capi )notsṛjāmi // 13.13 //
+ity evam ukto 'pi yadā nirāstho $ naivāsanaṃ śākyamunir bibheda &
+śaraṃ tato 'smai visasarja māraḥ % kanyāś ca kṛtvā purataḥ sutāṃś ca // 13.14 //
+tasmiṃs tu (bāṇe Cvāṇe )
+api sa vipramukte $ cakāra nāsthāṃ na dhṛteś cacāla &
+dṛṣṭvā tathainaṃ viṣasāda māraś % cintāparītaś ca śanair jagāda // 13.15 //
+śailendraputrīṃ prati yena viddho $ devo 'pi śaṃbhuś calito babhūva &
+na cintayaty eṣa tam eva (bāṇaṃ Cvāṇaṃ % kiṃ syād acitto na śaraḥ sa eṣaḥ // 13.16 //
+tasmād ayaṃ nārhati puṣpa(bāṇaṃ Cvāṇaṃ $ na harṣaṇaṃ nāpi rater niyogam &
+arhaty ayaṃ bhūtagaṇair a(saumyaiḥ Cśeṣaiḥ % saṃtrāsanātarjanatāḍanāni // 13.17 //
+sasmāra māraś ca tataḥ svasainyaṃ $ (vighnaṃ śame Cvidhvaṃsanaṃ )
+śākyamuneś cikīrṣan &
+nānāśrayāś cānucarāḥ parīyuḥ % (śalaCśara)
+drumaprāsagadāsihastāḥ // 13.18 //
+varāhamīnāśvakharoṣṭravaktrā $ vyāghrarkṣasiṃhadviradānanāś ca &
+ekekṣaṇā naikamukhās triśīrṣā % lambodarāś caiva pṛṣodarāś ca // 13.19 //
+(ajānusakthā Cajāsu saktā )
+ghaṭajānavaś ca $ daṃṣṭrāyudhāś caiva nakhāyudhāś ca &
+(karaṅkavaktrā Ckabandhuhastā )
+bahumūrtayaś ca % bhagnārdhavaktrāś ca mahāmukhāś ca // 13.20 //
+(bhasmāruṇā Ctāmrāruṇā )
+lohita(binduCvindu)
+citrāḥ $ khaṭvāṅgahastā haridhūmrakeśāḥ &
+lambasrajo vāraṇalambakarṇāś % carmāmbarāś caiva nirambarāś ca // 13.21 //
+śvetārdhavaktrā haritārdhakāyās $ tāmrāś ca dhūmrā harayo 'sitāś ca &
+(vyālottarāsaṅgaCvyāḍottarāsaṅga)
+bhujās tathaiva % praghuṣṭaghaṇṭākulamekhalāś ca // 13.22 //
+tālapramāṇāś ca gṛhītaśūlā $ daṃṣṭrākarālāś ca śiśupramāṇāḥ &
+urabhravaktrāś ca vihaṃ(gamākṣā Cgamāś ca % mārjāravaktrāś ca manuṣyakāyāḥ // 13.23 //
+prakīrṇakeśāḥ śikhino 'rdhamuṇḍā $ (raktāmbarā Crajjvambarā )
+vyākulaveṣṭanāś ca &
+prahṛṣṭavaktrā bhṛkuṭīmukhāś ca % tejoharāś caiva manoharāś ca // 13.24 //
+kecid vrajanto bhṛśam āvavalgur $ anyoanyam āpupluvire tathānye &
+cikrīḍur ākāśagatāś ca kecit % kecic ca cerus tarumastakeṣu // 13.25 //
+nanarta kaścid bhramayaṃs triśūlaṃ $ kaś(cid vipusphūrja Ccid dha pusphūrja )
+gadāṃ vikarṣan &
+harṣeṇa kaścid vṛṣavan (nanarda Cnanarta % kaścit prajajvāla tanūruhebhyaḥ // 13.26 //
+evaṃvidhā bhūtagaṇāḥ samantāt $ tad bodhimūlaṃ parivārya tasthuḥ &
+jighṛkṣavaś caiva jighāṃsavaś ca % bhartur niyogaṃ paripālayantaḥ // 13.27 //
+taṃ prekṣya mārasya ca pūrvarātre $ śākyarṣabhasyaiva ca yuddhakālam &
+na dyauś cakāśe pṛthivī cakampe % prajajvaluś caiva diśaḥ saśabdāḥ // 13.28 //
+(viṣvag Cviśvag )
+vavau vāyur udīrṇavegas $ tārā na rejur na babhau śaśāṅkaḥ &
+tamaś ca bhūyo (vitatāna rātriḥ Cvitatāra rātreḥ % sarve ca saṃcukṣubhire samudrāḥ // 13.29 //
+mahībhṛto dharmaparāś ca nāgā $ mahāmuner vighnam amṛṣyamāṇāḥ &
+māraṃ prati krodhavivṛttanetrā % niḥśaśvasuś caiva jajṛmbhire ca // 13.30 //
+śuddhādhivāsā vibudharṣayas tu $ saddharmasiddhyartham (abhipravṛttāḥ Civa pravṛttāḥ ) //
+māre 'nukampāṃ manasā pracakrur % virāgabhāvāt tu na roṣam īyuḥ // 13.31 //
+tad bodhimūlaṃ samavekṣya kīrṇaṃ $ hiṃsātmanā mārabalena tena &
+dharmātmabhir lokavimokṣakāmair % babhūva hāhākṛtam (antarīkṣe Cantarīkṣam ) // 13.32 //
+(upaplavaṃ Cupaplutaṃ )
+dharma(vidhes Cvidas )
+tu tasya $ dṛṣṭvā sthitaṃ mārabalaṃ maharṣiḥ &
+na cukṣubhe nāpi yayau vikāraṃ % madhye gavāṃ siṃha ivopaviṣṭaḥ // 13.33 //
+māras tato bhūtacamūm udīrṇām $ ājñāpayām āsa bhayāya tasya &
+svaiḥ svaiḥ prabhāvair atha sāsya senā % taddhairyabhedāya matiṃ cakāra // 13.34 //
+kecic calan naikavilambijihvās $ (tīkṣṇāgraCtīkṣṇogra)
+daṃṣṭrā harimaṇḍalākṣāḥ &
+vidāritāsyāḥ sthiraśaṅkukarṇāḥ % saṃtrāsayantaḥ kila nāma tasthuḥ // 13.35 //
+tebhyaḥ sthitebhyaḥ sa tathāvidhebhyaḥ $ rūpeṇa bhāvena ca dāruṇebhyaḥ &
+na vivyathe nodvivije maharṣiḥ % (krīḍatsuCkrīḍan su)
+bālebhya ivoddhatebhyaḥ // 13.36 //
+kaścit tato (roṣaCraudra)
+vivṛttadṛṣṭis $ tasmai gadām udyamayāṃ cakāra &
+tastambha bāhuḥ sagadas tato 'sya % puraṃdarasyeva purā savajraḥ // 13.37 //
+kecit samudyamya śilās tarūṃś ca $ viṣehire naiva munau vimoktum &
+petuḥ savṛkṣāḥ saśilās tathaiva % vajrāvabhagnā iva vindhyapādāḥ // 13.38 //
+kaiścit samutpatya nabho vimuktāḥ $ śilāś ca vṛkṣāś ca paraśvadhāś ca &
+tasthur nabhasy eva na cāvapetuḥ % saṃdhyābhrapādā iva naikavarṇāḥ // 13.39 //
+cikṣepa tasyopari dīptam anyaḥ $ kaḍaṅgaraṃ parvataśṛṅgamātram &
+yan muktamātraṃ gaganastham eva % tasyānubhāvāc chatadhā (paphāla Cbabhūva ) // 13.40 //
+kaścij jalann arka ivoditaḥ khād $ aṅgāravarṣaṃ mahad utsasarja &
+cūṛnāni cāmīkarakandarāṇāṃ % kalpātyaye merur iva pradīptaḥ // 13.41 //
+tad bodhimūle pravikīryamāṇam $ aṅgāravarṣaṃ tu savisphuliṅgam &
+maitrīvihārād ṛṣisattamasya % babhūva raktotpala(pattraCpatra)varṣaḥ // 13.42 //
+śarīracittavyasanātapais tair $ evaṃvidhais taiś ca nipātyamānaiḥ &
+naivāsanāc chaākyamuniś cacāla % (svaniścayaṃ Csvaṃ niścayaṃ )
+bandhum ivopaguhya // 13.43 //
+athāpare (nirjigilur Cnirjagalur )
+mukhebhyaḥ $ sarpān vijīrṇebhya iva drumebhyaḥ &
+te mantrabaddhā iva tatsamīpe % na śaśvasur (notsasṛpur Cnalutsasṛjur )na celuḥ // 13.44 //
+bhūtvāpare vāridharā (bṛhantaḥ Cvṛhantaḥ $ savidyutaḥ sāśanicaṇḍaghoṣāḥ &
+tasmin drume tatyajur aśmavarṣaṃ % tat puṣ.pavarṣaṃ ruciraṃ babhūva // 13.45 //
+cāpe 'tha (bāṇo Cvāṇo )
+nihito 'pareṇa $ jajvāla tatraiva na niṣpapāta &
+anīśvarasyātmani (dhūyamāno Cdhūryamāṇo % durmarṣaṇasyeva narasya manyuḥ // 13.46 //
+pañceṣavo 'nyena tu vipramuktās $ tasthur (nabhasy Cnayaty )
+eva munau na petuḥ &
+saṃsārabhīror viṣayapravṛttau % pañcendriyāṇīva parīkṣakasya // 13.47 //
+jighāṃsayānyaḥ prasasāra ruṣṭo $ gadāṃ gṛhītvābhimukho maharṣeḥ &
+so 'prāpta(kāmo Ckālo )
+vivaśaḥ papāta % doṣeṣv ivānarthakareṣu lokaḥ // 13.48 //
+strī meghakālī tu kapālahastā $ kartuṃ maharṣeḥ kila (cittamoham Cmohacittam ) //
+babhrāma tatrāniyataṃ na tasthau % calātmano buddhir ivāgameṣu // 13.49 //
+kaścit pradīptaṃ praṇidhāya cakṣur $ netrāgnināśīviṣavad didhakṣuḥ &
+tatraiva (nāsīnam Cnāsīt taṃ )
+ṛṣiṃ dadarśa % kāmātmakaḥ śreya ivopadiṣṭam // 13.50 //
+gurvīṃ śilām udyamayaṃs tathānyaḥ $ śaśrāma moghaṃ vihataprayatnaḥ &
+niḥśreyasaṃ jñānasamādhigamyaṃ % kāyaklamair dharmam ivāptukāmaḥ // 13.51 //
+tarakṣusiṃhākṛtayas tathānye $ praṇedur uccair mahataḥ praṇādān &
+sattvāni yaiḥ saṃcukucuḥ samantād % vajrāhatā dyauḥ phalatīti matvā // 13.52 //
+mṛgā gajāś (cārtaCcārtta)
+ravān sṛjanto $ vidudruvuś caiva nililyire ca &
+rātrau ca tasyām ahanīva digbhyaḥ % khagā ruvantaḥ paripetur (ārtāḥ Cārttāḥ ) // 13.53 //
+teṣāṃ praṇādais tu tathāvidhais taiḥ $ sarveṣu bhūteṣv api kampiteṣu &
+munir na tatrāsa na saṃcukoca % ravair garutmān iva vāyasānām // 13.54 //
+bhayāvahebhyaḥ pariṣadgaṇebhyo $ yathā yathā naiva munir bibhāya &
+tathā tathā dharmabhṛtāṃ sapatnaḥ % śokāc ca roṣāc ca (sasāda Csasāra )māraḥ // 13.55 //
+bhūtaṃ tataḥ kiṃcid adṛśyarūpaṃ $ viśiṣṭa(bhūtaṃ Crūpaṃ )
+gaganastham eva &
+dṛṣṭvarṣaye drugdham avairaruṣṭaṃ % māraṃ babhāṣe mahatā svareṇa // 13.56 //
+moghaṃ śramaṃ nārhasi māra kartuṃ $ hiṃsrātmatām utsṛja gaccha śarma &
+naiṣa tvayā kampayituṃ hi śakyo % mahāgirir merur ivānilena // 13.57 //
+apy uṣṇabhāvaṃ jvalanaḥ prajahyād $ āpo dravatvaṃ pṛthivī sthiratvam &
+anekakalpācitapuṇyakarmā % na tv eva jahyād vyavasāyam eṣaḥ // 13.58 //
+yo niścayo hy asya parākramaś ca $ tejaś ca yad yā ca dayā prajāsu &
+aprāpya notthāsyati tattvam eṣa % tamāṃsy ahatveva sahasraraśmiḥ // 13.59 //
+kāṣṭhaṃ hi mathnan labhate hutāśaṃ $ bhūmiṃ khanan vindati cāpi toyam &
+nirbandhinaḥ kiṃ(cana nāsty asādhyaṃ Cca na nāsya sādhyaṃ % nyāyena yuktaṃ ca kṛtaṃ ca sarvam // 13.60 //
+tal lokam (ārtaṃ Cārttaṃ )
+karuṇāyamāno $ rogeṣu rāgādiṣu vartamānam &
+mahā(bhiṣaṅ Cbhiṣag )
+nārhati vighnam eṣa % jñānauṣadhārthaṃ parikhidyamānaḥ // 13.61 //
+hṛte ca loke bahubhiḥ kumārgaiḥ $ sanmārgam anvicchati yaḥ śrameṇa &
+sa daiśikaḥ kṣobhayituṃ na yuktaṃ % sudeśikaḥ sārthae iva pranaṣṭe // 13.62 //
+sattveṣu naṣṭeṣu mahāndha(kāre Ckārair $ jñānapradīpaḥ kriyamāṇa eṣaḥ &
+āryasya nirvāpayituṃ na sādhu % prajvālyamānas tamasīva dīpaḥ // 13.63 //
+dṛṣṭvā ca saṃsāramaye mahaughe $ magnaṃ jagat pāram avindamānam &
+yaś cedam uttārayituṃ pravṛttaḥ % (kaś cintayet Ckaścin nayet )
+tasya tu pāpam āryaḥ // 13.64 //
+kṣamāśipho dhairyavigāḍhamūlaś $ cāritrapuṣpaḥ smṛtibuddhiśākhaḥ &
+jñānadrumo dharmaphalapradātā % notpāṭanaṃ hy arhati vardhamānaḥ // 13.65 //
+baddhāṃ dṛḍhaiś cetasi mohapāśair $ yasya prajāṃ mokṣayituṃ manīṣā &
+tasmin jighāṃsā tava nopapannā % śrānte jagadbandhanamokṣahetoḥ // 13.66 //
+bodhāya karmāṇi hi yāny anena $ kṛtāni teṣāṃ niyato 'dya kālaḥ &
+sthāne tathāsminn upaviṣṭa eṣa % yathaiva pūrve munayas tathaiva // 13.67 //
+eṣā hi nābhir vasudhātalasya $ kṛtsnena yuktā parameṇa dhāmnā &
+bhūmer ato 'nyo 'sti hi na pradeśo % (vegaṃ Cveśaṃ )
+samādher (viṣaheta yo 'sya Cviṣayo hitasya ) // 13.68 //
+tan mā kṛthāḥ śokam upehi śāntiṃ $ mā bhūn mahimnā tava māra mānaḥ &
+viśrambhituṃ na kṣamam adhruvā śrīś % cale pade (vismayam Ckiṃ padam )
+abhyupaiṣi // 13.69 //
+tataḥ sa saṃśrutya ca tasya tad vaco $ mahāmuneḥ prekṣya ca niṣprakampatām &
+jagāma māro vi(mano Cmanā )
+hatodyamaḥ % śarair jagaccetasi yair (vihanyate Cvihanyase ) // 13.70 //
+gatapraharṣā viphalīkṛtaśramā $ praviddhapāṣāṇakaḍaṅgaradrumā &
+diśaḥ pradudrāva tato 'sya sā camūr % hatāśrayeva dviṣatā dviṣaccamūḥ // 13.71 //
+dravati sa(paripakṣe Cparapakṣe )
+nirjite puṣpaketau $ jayati jitatamaske nīrajaske maharṣau &
+yuvatir iva sahāsā dyauś cakāśe sacandrā % surabhi ca jalagarbhaṃ puṣpavarṣaṃ papāta // 13.72 //
+X(Ctathāpi pāpīyasi nirjite gate $ diśaḥ praseduḥ prababhau niśākaraḥ &
+Xdivo nipetur bhuvi puṣpavṛṣṭayo % rarāja yoṣeva vikalmaṣā niśāC) // 13.73 //
+[[iti (CśrīC)buddhacarite mahākāvye 'śvaghoṣakṛte māravijayo nāma trayodaśaḥ sargaḥ -- 13 --]]
+tato mārabalaṃ jitvā $ dhairyeṇa ca śamena ca &
+paramārthaṃ vijijñāsuḥ % sa dadhyau dhyānakovidaḥ // 14.1 //
+sarveṣu dhyānavidhiṣu $ prāpya caiśvaryam uttamam &
+sasmāra prathame yāme % pūrvajanmaparaṃparām // 14.2 //
+amutrāham ayaṃ nāma $ cyutas tasmād ihāgataḥ &
+iti janmasahasrāṇi % sasmārānubhavann iva // 14.3 //
+smṛtvā janma ca mṛtyuṃ ca $ tāsu tāsūpapattiṣu &
+tataḥ sattveṣu kāruṇyaṃ % cakāra karuṇātmakaḥ // 14.4 //
+kṛtveha svajanotsargaṃ $ punar anyatra ca kriyāḥ &
+atrāṇaḥ khalu loko 'yaṃ % paribhramati cakravat // 14.5 //
+ity evaṃ smaratas tasya $ babhūva niyatātmanaḥ &
+kadalīgarbhaniḥsāraḥ % saṃsāra iti niścayaḥ // 14.6 //
+dvitīye tv āgate yāme $ so 'dvitīyaparākramaḥ &
+divyaṃ (lebhe Ccakṣuḥ )
+paraṃ (cakṣuḥ Clebhe % sarvacakṣuṣmatāṃ varaḥ // 14.7 //
+tatas tena sa divyena $ pariśuddhena cakṣuṣā &
+dadarśa nikhilaṃ lokam % ādarśae iva nirmale // 14.8 //
+sattvānāṃ paśyatas tasya $ nikṛṣṭotkṛṣṭakarmaṇām &
+pracyutiṃ copapattiṃ ca % vavṛdhe karuṇātmatā // 14.9 //
+ime duṣkṛtakarmāṇaḥ $ prāṇino yānti durgatim &
+ime 'nye śubhakarmāṇaḥ % pratiṣṭhante tripiṣṭape // 14.10 //
+upapannāḥ pratibhaye $ narake bhṛśadāruṇe &
+amī duḥkhair bahuvidhaiḥ % pīḍyante kṛpaṇaṃ (bata Cvata ) // 14.11 //
+pāyyante kvathitaṃ kecid $ agnivarṇam ayorasam &
+āropyante ruvanto 'nye % niṣṭaptastambham āyasam // 14.12 //
+pacyante piṣṭavat kecid $ ayaskumbhīṣv avāṅmukhāḥ &
+dahyante karuṇaṃ kecid % dīpteṣv aṅgārarāśiṣu // 14.13 //
+kecit tīkṣṇair ayodaṃṣṭrair $ bhakṣyante dāruṇaiḥ śvabhiḥ &
+kecid dhṛṣṭair ayastuṇḍair % vāyasair āyasair iva // 14.14 //
+kecid dāhapariśrāntāḥ $ śītacchāyābhikāṅkṣiṇaḥ &
+asi(pattravanaṃ Cpatraṃ vanaṃ )
+nīlaṃ % baddhā iva viśanty amī // 14.15 //
+pāṭyante dāruvat kecit $ kuṭhārair (baddhaCbahu)bāhavaḥ &
+duḥkhe 'pi na (vipacyante Cvipadyante % karmabhir dhāritāsavaḥ // 14.16 //
+sukhaṃ syād iti yat karma $ kṛtaṃ duḥkhanivṛttaye &
+phalaṃ tasyedam avaśair % duḥkham evopabhujyate // 14.17 //
+sukhārtham aśubhaṃ kṛtvā $ yae ete bhṛśaduḥkhitāḥ &
+āsvādaḥ sa kim eteṣāṃ % karoti sukham aṇv api // 14.18 //
+hasadbhir yat kṛtaṃ karma $ kaluṣaṃ kaluṣātmabhiḥ &
+etat pariṇate kāle % krośadbhir anubhūyate // 14.19 //
+yady (evaṃ Ceva )
+pāpakarmāṇaḥ $ paśyeyuḥ karmaṇāṃ phalam &
+vameyur (uṣṇaṃ rudhiraṃ Cuṣṇarudhiraṃ % marmasv abhihatā iva // 14.20 //
+X(Cśārīrebhyo 'pi duḥkhebhyo $ nārakebhyo manasvinaḥ &
+Xanāryaiḥ saha saṃvāso % mama kṛcchramatamo mataḥ //
+[Printed as spurious verse in a footnote in ed. EHJ.]C) //
+ime 'nye karmabhiś citraiś $ cittavispandasaṃbhavaiḥ &
+tiryagyonau vicitrāyām % upapannās tapasvinaḥ // 14.21 //
+māṃsatvagbāladantārthaṃ $ vairād api madād api &
+hanyante (kṛpaṇaṃ Ckṛpaṇā )
+yatra % bandhūnāṃ paśyatām api // 14.22 //
+aśaknuvanto 'py avaśāḥ $ kṣuttarṣaśramapīḍitāḥ &
+goaśvabhūtāś ca vāhyante % pratodakṣatamūrtayaḥ // 14.23 //
+vāhyante gajabhūtāś ca $ balīyāṃso 'pi durbalaiḥ &
+aṅkuśakliṣṭamūrdhānas % tāḍitāḥ pādapārṣṇibhiḥ // 14.24 //
+satsv apy anyeṣu duḥkheṣu $ duḥkhaṃ yatra viśeṣataḥ &
+parasparavirodhāc ca % parādhīnatayaiva ca // 14.25 //
+khasthāḥ khasthair hi bādhyante $ jalasthā jalacāribhiḥ &
+sthalasthāḥ sthalasaṃsthaiś (ca $ prāpya caivetaretaraiḥ Ctu % prāpyante cetaretaraiḥ ) // 14.26 //
+upapannās tathā ceme $ mātsaryākrāntacetasaḥ &
+pitṛloke nirāloke % kṛpaṇaṃ bhuñjate phalam // 14.27 //
+sūcīchidropamamukhāḥ $ parvatopamakukṣayaḥ &
+kṣuttarṣajanitair duḥkhaiḥ % pīḍyante duḥkhabhāginaḥ // 14.28 //
+āśayā (samatikrāntā Csamabhikrāntā $ dhāryamāṇāḥ svakarmabhiḥ &
+labhante na hy amī bhoktuṃ % praviddhāny aśucīny api [This verse is placed after 14.30 in ed. C.] // 14.29 //
+puruṣo yadi jānīta $ mātsaryasyedṛśaṃ phalam &
+sarvathā (śibivad Cśivivad )
+dadyāc % charīrāvayavān api // 14.30 //
+ime 'nye (narakaprakhye Cnarakaṃ prāpya $ garbhasaṃjñe 'śucihrade &
+upapannā manuṣyeṣu % duḥkham archanti jantavaḥ // 14.31 //
+[Ed. C continues with chapter 14 till 14.91,
+and chapters 15--17.]
