@@ -1,4 +1,7 @@
 use aws_sdk_s3::Client;
+use sanskrit_english_identification::get_files_in_folder;
+use std::cell::RefCell;
+use std::cmp;
 use std::collections::HashMap;
 use std::fs::OpenOptions;
 use std::io::{self, BufRead, Read, Write};
@@ -12,8 +15,7 @@ use chrono::prelude::*;
 use regex::Regex;
 
 fn remove_unwanted_characters(input: &str) -> String {
-    // Define your regex pattern
-    let pattern = Regex::new("[^āīūṛṝḷḹṅñṭṭhḍḍhṇśṣḥṃA-Za-z ]+").unwrap();
+    let pattern = Regex::new("[^āīūṛṝḷḹṅñṭṭhḍḍhṇśṣḥṃĀĪŪṚṜḶḸṄÑṬṬHḌḌHṆŚṢḤṂA-Za-z '\n]+").unwrap();
 
     // Remove characters not matching the pattern
     pattern.replace_all(input, "").to_string()
@@ -41,15 +43,15 @@ pub fn preprocess_data(paths: &Vec<PathBuf>) -> Result<(), Box<dyn Error>> {
     Ok(())
 }
 
-pub fn label_data(paths: &Vec<PathBuf>, new_directory: &str, label: &str, min: i64) -> Result<PathBuf, Box<dyn Error>> {
+pub fn label_data(paths: &Vec<PathBuf>, new_directory: &str, label: &str) -> Result<PathBuf, Box<dyn Error>> {
     preprocess_data(paths)?;
     let t: SystemTime = SystemTime::now();
     
     fs::create_dir_all(Path::new(new_directory).to_str().expect("Expected valid directory"))?;
 
     let mut output_path = PathBuf::new();
-    output_path.set_file_name(&format!("{}{}_processed.txt", new_directory, label));
-    let file_name = &output_path.file_name().unwrap().to_str().unwrap();
+    output_path.set_file_name(&format!("{}_{}_processed.txt", new_directory, label));
+    let file_name = output_path.file_name().unwrap().to_str().unwrap();
 
     if output_path.exists() {
         println!("File {} exists\n", file_name);
@@ -64,10 +66,6 @@ pub fn label_data(paths: &Vec<PathBuf>, new_directory: &str, label: &str, min: i
             .unwrap();
 
     for i in 0..paths.len() {
-        if i as i64 == min {
-            break;
-        }
-        
         let path = &paths[i];
         
         println!("Starting file {}", path.file_name().unwrap().to_str().unwrap());
@@ -98,41 +96,71 @@ pub fn label_data(paths: &Vec<PathBuf>, new_directory: &str, label: &str, min: i
     Ok(output_path)
 }
 
-pub fn gen_ftt_word_vectors_local(paths_one: &Vec<PathBuf>, paths_two: &Vec<PathBuf>, new_directory: &str, label_one: &str, label_two: &str, min: i64) -> Result<(), Box<dyn Error>> {
-    let binding_one = label_data(paths_one, new_directory, &label_one, min)?;
-    let binding_two = label_data(paths_two, new_directory, &label_two, min)?;
+pub fn gen_ftt_word_vectors_local(paths: Vec<String>, labels: Vec<String>, output_directory: &str) -> Result<(), Box<dyn Error>> {
+    let mut file_paths_list: Vec<Vec<PathBuf>> = Vec::new();
+    let mut min = i64::MAX;
 
-    let text_file_path_one = binding_one.to_str().expect("Expected Value");
-    let text_file_path_two = binding_two.to_str().expect("Expected Value");
+    for path in paths {
+        let file_paths = get_files_in_folder(&path)?;
 
-    let mut txt1 = fs::OpenOptions::new()
-        .append(true)
-        .open(text_file_path_one)
-        .unwrap();
+        min = cmp::min(min, file_paths.len() as i64) as i64;
+
+        file_paths_list.push(file_paths);
+    }
+
+    let mut txts = Vec::new();
+
+    for i in 0..file_paths_list.len() {
+        let binding = label_data(&file_paths_list[i], &output_directory, &labels[i])?;
+
+        let text_file_path = binding.to_str().expect("Expected Value").to_string();
+
+        txts.push(text_file_path);
+    }
+
     
-    let mut txt2 = fs::OpenOptions::new()
-        .read(true)
-        .open(text_file_path_two)
-        .unwrap();
+    let output_path = &format!("{}/output.txt", &output_directory);
 
-    io::copy(&mut txt2, &mut txt1)?;
+    let mut output = fs::OpenOptions::new()
+        .append(true)
+        .open(output_path)?;
 
-    let model_path = &format!("{}model_{}-{}", new_directory, label_one, label_two).to_string();
+    for text in &txts {
+        let mut txt = fs::OpenOptions::new()
+            .read(true)
+            .open(text)?;
+        
+        io::copy(&mut txt, &mut output)?;
+    }
+
+    let mut labels_string = String::new();
+
+    for label in labels {
+        labels_string.push_str(&label);
+    }
+
+    let model_path = &format!("{}_{}", output_directory, labels_string).to_string();
 
     let mut args: HashMap<&str, &str> = HashMap::new();
-    args.insert("input", text_file_path_one); // Path to the training file
+    args.insert("input", output_path); // Path to the training file
     args.insert("output", model_path); // Path to save the trained model
     args.insert("epoch", "25"); // Number of training epochs
     args.insert("lr", "0.1"); // Learning rate
 
     supervised(&args);
 
+    for text in txts {
+        fs::remove_file(text).expect("Panicked at output removal");
+    }
+
+    fs::remove_file(output_path).expect("Panicked at output removal");
+
     Ok(())
 }
 
 pub async fn gen_ftt_word_vectors_cloud(paths_one: &Vec<PathBuf>, paths_two: &Vec<PathBuf>, client: &Client, bucket_name: &str, label_one: &str, label_two: &str, min: i64) -> Result<(), Box<dyn Error>> {
-    let binding_one = label_data(paths_one, "", &label_one, min)?;
-    let binding_two = label_data(paths_two, "", &label_two, min)?;
+    let binding_one = label_data(paths_one, "", &label_one)?;
+    let binding_two = label_data(paths_two, "", &label_two)?;
 
     let text_file_path_one = binding_one.to_str().expect("Expected Value");
     let text_file_path_two = binding_two.to_str().expect("Expected Value");

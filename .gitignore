@@ -8,3 +8,5 @@ english*
 *.bin
 *.vec
 sanskrit*
+/fastText
+/output_models

@@ -1,1 +1,482 @@
-Notation local rulesD x  y indicates that Dvivedinthe editorsuggests the reading yinstead of xIn Chapter Cbn indicates that the stanza is given the number nin Colebrookes translationCb indicates that the stanza does not exist in Colebrookes translationOtherwise the stanza number coincides with Colebrookes oneColebrookes translation is available for Chapters  and  only In Chapter all the stanza numbers given by Dvivedin coincide with Colebrookes As Chapter  on combinatrics concerning Sanskrit prosodyhas not been deciphered yetthe text of that chapter is left exactly as it is in Dvivedins edition without decomposition of compounds and sandhiatha gaṇitaadhyāyasparikarmaviṃśatisBSSa parikarmaviṃśatim yas saṅkalitaādyām pṛthak vijānātiBSSc aṣṭau ca vyavahārān chāyāantān bhavati gaṇakas sasBSSa viparītachedaguṇās rāśyos chedaaṃśakās samachedāsBSSc saṅkalite aṃśās yojyās vyavakalite aṃśaantaram kāryamBSSa rūpāṇi chedaguṇāni aṃśayutāni dvayos bahūnām vāBSSc pratyutpannas bhavati chedavadhena uddhṛtas aṃśavadhasBSSa parivartya bhāgahārachedaaṃśau chedasaṃguṇachedasD parivarttyaBSSc aṃśas aṃśaguṇas bhājyasya bhāgahāras savarṇitayosBSSa saṃvarṇitaaṃśavargas chedakṛtivibhājitas bhavati vargasBSSc saṃvarṇitaaṃśamūlam chedapadena uddhṛtam mūlamBSSa sthāpyas antyaghanas antyakṛtis triguṇauttarasaṅguṇā ca tadprathamātBSSc uttarakṛtis antyaguṇā triguṇā ca uttaraghanas ca ghanasBSSa chedas ghanāt dvitīyāt ghanamūlakṛtis trisaṅguṇā āptakṛtisBSSc śodhyā tripūrvaguṇitā prathamāt ghanatas ghanas mūlamBSSa sadṛśachedaaṃśayutis chedavibhaktā phalam prathamajātauBSSc aṃśais aṃśās guṇitās chedais chedās dvitīyāyāmBSSa ūrdhvaaṃśās chedaguṇās tṛtīyajātau dvayos prathamaparayosBSSc chedais chedās guṇitās svaaṃśayutaūnais uparigaaṃśāsBSSa trairāśike pramāṇam phalam iccā ādiantayos sadṛśarāśīBSSc icchā phalena guṇitā pramāṇabhaktā phalam bhavatiBSSa vyastatrairāśikaphalam icchābhaktas pramāṇaphalaghātasBSSc trairāśikaādiṣu phalam viṣameṣu ekādaśaanteṣuBSSa phalasaṅkramaṇam ubhayatas bahurāśivadhas alpavadhahṛtas jñeyamBSSc sakaleṣu evam bhinneṣu ubhayatas chedasaṅkramaṇamBSSa prāk mūlyavyatyāsas bhāṇḍapratibhāṇḍake anyat uktasamamBSSc parikarmāṇi aṣṭānām vyavahārāṇām abhihitānimiśrakavyavahārasBSSa kālaguṇitam pramāṇam phalabhaktam viekaguṇahatam kālasBSSc svaphalayutarūpabhaktam mūlaphalaaikyam bhavati mūlamBSSa kālapramāṇaghātas parakālahṛtas dvidhā ādyamiśravadhātBSSc anyaardhakṛtiyutāt padam anyaardhaūnam pramāṇaphalamBSSa prakṣepayogahṛtayā labdhyā prakṣepakās guṇās lābhāsBSSc ūnaadhikauttarās tadyutaūnayā svaphalam ūnayutamśreḍhīvyavahārasBSSa padam ekahīnam uttaraguṇitam saṃyuktam ādinā antyadhanamBSSc ādiyutaantyadhanaardham madhyadhanam padaguṇam gaṇitamBSSa uttarahīnadviguṇaādiśeṣavargam dhanauttaraaṣṭavadheBSSc prakṣipya padam śeṣaūnam dviguṇauttarahṛtam gacchasBSSa ekauttaram ekaādyam yadi iṣṭagacchasya bhavati saṅkalitamBSSc tat dviyutagacchaguṇitam trihṛtam saṅkalitasaṅkalitamBSSa dviguṇapadasaekaguṇitam tat trihṛtam bhavati vargasaṅkalitamBSSc ghanasaṅkalitam tadkṛtis eṣām samagolakais citayaskṣetravyavahārasBSSa sthūlaphalam tricaturbhujabāhupratibāhuyogadalaghātasBSSc bhujayogaardhacatuṣṭayabhujaūnaghātāt padam sūkṣmamBSSa bhujakṛtiantarabhūhṛtahīnayutā bhūs dvibhājitā āvādheD kṛtyantyantaraBSSc svaāvādhāvargaūnāt bhujavargāt mūlam avalambasBSSa aviṣamacaturasrabhujapratibhujavadhayos yutes padam karṇasBSSc karṇakṛtis bhūmukhayutidalavargaūnā padam lambasBSSa karṇakṛtes koṭikṛtim viśodhya mūlam bhujas bhujasya kṛtimBSSc prohya padam koṭis koṭibāhukṛtiyutipadam karṇas D vāhu  bāhuBSSa karṇayutau ūrdhvaadharakhaṇḍe karṇaavalambayoge vāBSSc svaāvādhe svayutihṛte dvidhā pṛthak karṇalambaguṇeBSSa aviṣamapārśvabhujaguṇas karṇas dviguṇaavalambakavibhaktasBSSc hṛdayam viṣamasya bhujapratibhujakṛtiyogamūlaardhamBSSa tribhujasya vadhas bhujayos dviguṇitalambauddhṛtas hṛdayarajjusBSSc sā dviguṇā tricaturbhujakoṇaspṛk vṛttaviṣkambhasBSSa karṇaāśritabhujaghātaaikyam ubhayathā anyonyabhājitam guṇayetBSSc yogena bhujapratibhujavadhayos karṇau pade viṣameBSSa viṣamacaturasramadhye viṣamatribhujadvayam prakalpya pṛthakBSSc karṇadvayena pūrvavat āvādhe lambakau ca pṛthakBSSa viṣamabhujaantartribhuje prakalpya karṇau bhujau tadāvādheBSSc pṛthak ūrdhvaadharakhaṇḍe karṇayutau karṇayos adhareBSSa tribhje bhujau tu bhūmis tadlambas lambakaadharam khaṇḍamBSSc ūrdhvam avalambakhaṇḍam lambakayogaardham adharaūnamBSSa karṇaavalambakayutau khaṇḍe karṇaavalambakayos adhareBSSc anupātena tadūne ūrdhve sūcyām sapāṭāyāmBSSa kṛtiyutis asadṛśarāśyos bāhus ghātas dvisaṅguṇas lambasBSSc kṛtiantaram asadṛśayos dviguṇam dvisamatribhujabhūmisBSSa iṣṭadvayena bhaktas dvidhā iṣṭavargas phalaiṣṭayogaardheBSSc viṣamatribhujasya bhujau iṣṭaūnaphalaardhayogas bhūsBSSa iṣṭasya bhujasya kṛtis bhaktā ūnā iṣṭena taddalam koṭisBSSc āyatacaturasrasya kṣetrasya iṣṭaadhikā karṇasBSSa āyatakarṇas bāhū bhujakṛtis iṣṭena bhājitā iṣṭaūnāBSSc dvihṛtā koṭiadhikā bhūs mukham ūnā dvisamacaturasreBSSa karṇakṛtis trisamahbujās trayas caturthas viśodhya koṭikṛtimBSSc bāhukṛtes triguṇāyās yadi adhikas bhūs mukham hīnasBSSa jātyadvayakoṭibhujās parakarṇaguṇās bhujās caturviṣameBSSc adhikas bhūs mukhahīnas bāhudvitayam bhujau anyauBSSa iṣṭaguṇakāraguṇitas giriucchrāyas puraantaram anaṣṭamBSSc dviyutaguṇakārabhājitam utpātas anyasya samagatyosBSSa vyāsavyāsaardhakṛtī paridhiphale vyāvahārike triguṇeBSSc tadvargābhyām daśabhis saṅguṇitābhyām pade sūkṣmeBSSa vṛtte śaraūnaguṇitāt vyāsāt caturāhatāt padam jīvāBSSc jyāvargas caturāhataśarabhaktas śarayutas vyāsasBSSa jyāvyāsakṛtiviśeṣāt mūlavyāsaantaraardham iṣus alpasBSSc vyāsau grāsaūnaguṇau grāsaūnaaikyauddhṛtau bāṇauBSSa iṣṭaśaradvayabhakte jyāardhakṛtī śarayute phale vyāsauBSSc śarayos phalayos aikyam grāsas grāsaūnam aikyam tatkhātavyavahārasBSSa kṣetraphalam vedhaguṇam samakhātaphalam hṛtam tribhis sūcyāsBSSc mukhatalatulyabhujaaikyāni ekaagrahṛtāni samarajjusBSSa mukhatalayutidalagaṇitam vedhaguṇam vyāvahārikam gaṇitamBSSc mukhatalagaṇitaaikyaardham vedhaguṇam syāt gaṇitam autramBSSa autragaṇitāt viśodhya vyavahāraphalam bhajet tribhis śeṣamBSSc labdham vyavahāraphale prakṣipya bhavati phalam sūkṣmamcitivyavahārasBSSa ākṛtiphalam auccyaāhatam agratalaaikyaardham auccyadairghyaguṇamBSSc ghanagaṇitam iṣṭakāghanaphalena hṛtam iṣṭakāgaṇitamkrākacikavyavahārasBSSa vistāraāyāmaaṅgulaghātas mārgaāhatas dvivedahṛtasBSSc kiṣkuaṅgulāni labdham tat ṣaṇṇavatis bhavati karmaBSSa śākāādiṣu śālmalyām śatadvayam bījake śatam viṃśamBSSc śālasaralaādiṣu śatam atha avidāruṣu catuḥṣaṣṭisrāśivyavahārasBSSa navamas śūkiṣu daśamas sthūleṣu ekādaśas bhavati aṇuṣuBSSc paridhes vedhas paridhes ṣaṣaṃśavargaāhatas gaṇitamBSSa dvicatursatriaṃśaguṇas bhittiantarvāhyakoṇagas paridhisBSSc prākvat kṛtvā gaṇitam tadgaṇitam svaguṇakārahṛtamchāyāvyavahārasBSSa chāyānarasaekahṛtam dyudalam prākaparayos dyugataśeṣamBSSc dinagataśeṣaaṃśahṛtam dyudalam chāyānaraviekamBSSa dīpatalaśaṅkutalayos antaram iṣṭapramāṇaśaṅkuguṇamBSSc dīpaśikhaauccyāt śaṅkum viśodhya śeṣauddhṛtam chāyāBSSa chāyāagraantaraguṇitā chāyā chāyāantareṇa bhaktā bhūsBSSc bhūs śaṅkuguṇā chāyāvibhājitā dīpaśikhayā auccyampratyutpannaādayasBSSa guṇakārakhaṇḍatulyas guṇyas gomūtrikākṛtas guṇitasBSSc sahitas pratyutpannas guṇakārakabhedatulyas vāBSSa guṇyas rāśis guṇakārarāśinā iṣṭaadhikaūnakena guṇasBSSc guṇyaiṣṭavadhaūnayutas guṇake abhyadhikaūnake kāryasBSSa chedena iṣṭayutaūnena āptam bhājyāt anaṣṭam iṣṭaguṇamBSSc prakṛtisthachedahṛtam labdhyā yutahīnakam anaṣṭamBSSa guṇyas chedaphalavadhas guṇakahṛtas guṇyabhājitas guṇakasBSSc chedauddhṛtas phalam guṇyaguṇavadhas phalahṛtas chedasBSSa guṇyaguṇakārayos chedalabdhayos yadi dvayos dvayos nāśasBSSc teṣām dṛśyau vyastau kṛtvā tadsthānayos ca iṣṭauBSSa guṇyam guṇakāram vā guṇayet chedena bhāgahārasyaBSSc guṇyaguṇakārarāśyos chedaguṇas bhāgahāras caBSSa acchedasya chedam rūpam kṛtvā anyat uktavat sarvamBSSc apavartyau chedaguṇau tulyena iṣṭena guṇyau vāD avaparttyau  apavartyauBSSa svavikalaṣaṣṭiaṃśaguṇas sakalas triṃśauddhṛtas vikalavargasBSSc prakṣepyas sakalakṛtau vargaghanau dvitritulyavadhauBSSa rāśes ūnam dviguṇam bahutaraguṇam ūnakṛtiyutam vargasBSSc rāśes iṣṭayutaūnāt vadhas kṛtis vā iṣṭakṛtiyuktasBSSa iṣṭaalparāśivargau yuktaūnau itaravikalavargābhyāmBSSc dviguṇaitararāśibhyām bhaktau tena adhikaūnābhyāmBSSa sthānaantareṣu labdham yena samam phalayutaūnakachedasBSSc dalitas kṛtiyogaantarapadam itaras vā phalayutaūnasBSSa dikmātram etat anyat jyāutpattau kuṭṭake ca kathayiṣyeBSSc saṅkalitaādiṣu āryās ṣaṭṣaṣṭis dvādaśas adhyāyasBSSp iti śrībrāhmasphuṭasiddhānte dvādaśas adhyāyasatha kuṭṭakaadhyāyasBSSa prāyeṇa yatas praśnās kuṭṭākārāt ṛte na śakyanteBSSc jñātum vakṣyāmi tatas kuṭṭākāram saha praśnaisBSSa kuṭṭakakhaṛṇadhanaavyaktamadhyaharaṇaekavarṇabhāvitakaisBSSc ācāryas tantravidām jñātais vargaprakṛtyā cakuṭṭakamBSSa adhikaagrabhāgahārāt ūnaagrachedabhājitāt śeṣamBSSc yat tat parasparahṛtam labdham adhas adhas pṛthak sthāpyamBSSa śeṣam tathā iṣṭaguṇitam yathā agrayos antareṇa saṃyuktamBSSc śudhyati guṇakas sthāpyas labdham ca antyāt upāntyaguṇasBSSa svaūrdhvas antyayutas agraantas hīnaagrachedabhājitas śeṣamBSSc adhikaagrachedahatam adhikaagrayutam bhavati agramBSSa chedavadhasya dviyugam chedavadhas yugagatam dvayos agramBSSc kuṭṭākāreṇa evam triādigrahayugagataānayanamBSSa bhagaṇaādiśeṣam agram chedahṛtam kham ca dinajaśeṣahṛtamBSSc anayos agram bhagaṇaādidinajaśeṣauddhṛtam dyugaṇas CbBSSa dinajabhagaṇaādiśeṣam yena guṇam maṇḍalaādi śeṣakayosBSSc sadṛśachedauddhṛtayos tadghātam ahargaṇaādyam atas CbBSSa hṛtayos parasparam yat cheṣam guṇakārabhāgahārakayosBSSc tena hṛtau nischedau tau eva parasparam hṛtayos CbBSSa labdham adhas adhas sthāpyam tathā iṣṭaguṇakārasaṅguṇam śeṣamBSSc śudhyati yathā ekahīnam guṇakas sthāpyas phalam ca antyāt CbBSSa agraantam upāntyena svaūrdhvas guṇitas antyasaṃyutas bhaktamBSSc nisśeṣabhāgahāreṇa evam sthirakuṭṭakas śeṣam CbBSSa iṣṭabhagaṇaādiśeṣāt svakuṭṭakaguṇāt svabhāgahāraguṇātBSSc śeṣam dyugaṇas gatanisapavartaguṇabhāgahārayutasCb ḍ apavartta  apavartaBSSa evam sameṣu viṣameṣu ṛṇam dhanam dhanam ṛṇam yat uktam tatBSSc ṛṇadhanayos vyastatvam guṇyaprakṣepayos kāryam CbBSSa guṇakas chedas chedas guṇakas dhanam ṛṇam ṛṇam dhanam kāryamBSSc vargam padam padam kṛtis antyāt viparītam ādyam tat CbBSSa yas jānāti yugaādi grahayugayātais pṛthak pṛthak kathitaisBSSc dvitricaturprabhṛtīnām kuṭṭākāram sas jānāti CbBSSa bhagaṇaādyam iṣṭaśeṣam kadā indudivase raves gurudine vāBSSc jñadine rāśīn kathayati kuṭṭākāram sas jānāti CbBSSa jñadine yat aṃśaśeṣam vikalāśeṣam kadā tat indudineBSSc bhānos atha vā śaśinas yas kathayati kuṭṭakajñas sas CbBSSa tithimānadineṣu iṣṭās ye arkaādyās te punar kadā teṣuBSSc iṣṭagrahavāreṣu yas kathayati kuṭṭakajñas sas CbBSSa iṣṭabhagaṇaādiśeṣāt dyugaṇas tat kuṭṭakena saṃyuktasBSSc tadchedadinais tāvat dinavāras yāvat iṣṭas syāt CbBSSa yas rāśiādīn dṛṣṭvā madhyasya iṣṭasya katahyati dyugaṇamBSSc dviādigrahasaṃyogāt grahaantarāt vā sas kuṭṭajñas CbBSSa nischedabhāgahārāt rāśiādikalāādinā hatāt bhaktātBSSc bhagaṇakalābhis labdham maṇḍalaśeṣam dinagaṇas asmāt CbBSSa evam rāśiaṃśakalāvikalāśeṣāt ahargaṇas prākvatBSSc naṣṭastheṣu iṣṭān tān kṛtvā bhaktvā uktavat śeṣam CbBSSa rāśiaṃśakalāvikalāśeṣāt kathitāt abhīṣṭatas naṣṭānBSSc yas sādhayati uparitanān samadhyamān kuṭṭakajñas sas CbBSSa yena guṇas śeṣayutas chedas śudhyati hṛtas svaguṇakenaBSSc tadbhuktam śeṣam phalam evam śeṣāt grahadyugaṇau CbBSSa jānāti yas yugagatam kathitāt adhimāsaśeṣakāt iṣṭātBSSc avamaavaśeṣatas vā tadyogāt vā sas kuṭṭajñas CbBSSa iṣṭeṣu mānadivaseṣu adhimāsanyūnarātraśeṣe vāBSSc bhūyas te yas kathayati pṛthak pṛthak vā sas kuṭṭajñas CbBSSa aṃśakaśeṣāt triūnāt saptahṛtāt mūlam ūnam aṣṭābhisBSSc navabhis guṇam sarūpam kadā śatam budhadine savitus CbBSSa triūnaadhimāsaśeṣāt mūlam dviadhikam vibhājitam ṣaḍbhisBSSc dviūnam vargitam adhikam navabhis navatis kadā bhavati CbBSSa avamaavaśeṣavargas viekas viṃśativibhājitas dviadhikasBSSc aṣṭaguṇas daśabhaktas dviyutas aṣṭādaśa kadā bhavati CbdhanaṛṇaśūnyamBSSa dhanayos dhanam ṛṇam ṛṇayos dhanaṛṇayos antaram samaaikyam khamBSSc ṛṇam aikyam ca dhanam ṛṇadhanaśūnyayos śūnyayos śūnyam CbBSSa ūnam adhikāt viśodhyam dhanam dhanāt ṛṇam ṛṇāt adhikam ūnātBSSc vyastam tadantaram syāt ṛṇam dhanam dhanam ṛṇam bhavati CbBSSa śūnyavihīnam ṛṇam ṛṇam dhanam dhanam bhavati śūnyam ākāśamBSSc śodhyam yadā dhanam ṛṇāt ṛṇam dhanāt vā tadā kṣepyam CbBSSa ṛṇam ṛṇadhanayos ghātas dhanam ṛṇayos dhanavadhas dhanam bhavatiBSSc śūnyaṛṇayos khadhanayos khaśūnyayos vā vadhas śūnyam CbBSSa dhanabhaktam dhanam ṛṇahṛtam ṛṇam dhanam bhavati kham khabhaktam khamBSSc bhaktam ṛṇena dhanam ṛṇam dhanena hṛtam ṛṇam ṛṇam bhavati CbBSSa khauddhṛtam ṛṇam dhanam vā tadchedam kham ṛṇadhanavibhaktam vāBSSc ṛṇadhanayos vargas svam kham khasya padam kṛtis yat tat CbsaṅkramaṇamBSSa yogas antarayutahīnas dvihṛtas saṅkramaṇam antaravibhaktam vāBSSc vargaantaram antarayutahīnam dvihṛtam viṣamakarma CbkaraṇīBSSa karaṇī lambas tadkṛtis iṣṭahṛtā iṣṭaūnasaṃyutā alpā bhūsBSSc adhikas dvihṛtas bāhus saṃkṣepyas yadvadhas vargasCb ḍ saṃkṣeppasBSSa iṣṭauddhṛtakaraṇīpadayutikṛtis iṣṭaguṇitā antarakṛtis vāBSSc guṇyas tiryak adhas adhas guṇakasamas tadguṇas sahitas CbBSSa svaiṣṭaṛṇachedaguṇau bhājyachedau pṛthak yujau asakṛtBSSc chedaekagatahṛtas vā bhājyas vargas samadvivadhas CbBSSa iṣṭakaraṇīūnāyās rūpakṛtes padayutaūnarūpaardheBSSc prathamam rūpāṇi anyat tatas dvitīyam karaṇī asakṛt CbBSSa avyaktavargaghanavargavargapañcagataṣaṣgataādīnāmBSSc tulyānām saṅkalitavyavakalite pṛthak atulyānām CbBSSa sadṛśadvivadhas vargas triādivadhas tadgatas anyajātivadhasBSSc anyonyavarṇaghātas bhāvitakas pūrvavat śeṣam CbekavarṇasamīkaraṇamBSSa avyaktaantarabhaktam vyastam rūpaantaram same avyaktasBSSc vargaavyaktās śodhyās yasmāt rūpāṇi tadadhastāt CbBSSa vargacaturguṇitānām rūpāṇām madhyavargasahitānāmBSSc mūlam nadhyena ūnam vargadviguṇauddhṛtam madhyas CbBSSa vargaāhatarūpāṇām avyaktaardhakṛtisaṃyutānām yatBSSc padam avyaktaardhaūnam tat vargavibhaktam avyaktas CbBSSa saekāt aṃśakaśeṣāt dvādaśabhāgas caturguṇas aṣṭayutasBSSc saekaaṃśaśeṣatulyas yadā tadā ahargaṇam kathaya CbBSSa dviūnam adhikamāsaśeṣam trihṛtam saptaadhikam dvisaṅguṇitamBSSc adhimāsaśeṣatulyam yadā tadā yugagatam kathaya CbBSSa viekam avamaavaśeṣam ṣaṣuddhṛtam triyutam avamaśeṣasyaBSSc pañcavibhaktasya samam yadā tadā yugagatam kathaya CbBSSa maṇḍalaśeṣāt dviūnāt mūlam viekam daśaāhatam dviyutamBSSc maṇḍalaśeṣam viekam bhānos jñadine kadā bhavatiBSSa adhimāsaśeṣapādāt triūnāt vargas adhimāsaśeṣasamasBSSc avamaavaśeṣatas vā avamaśeṣasamas kadā bhavati CbanekavarṇasamīkaraṇamBSSa ādyāt varṇāt anyān varṇān prohya ādyamānam āḍyahṛtamBSSc sadṛśachedau asakṛt dvau vyastau kuṭṭakas bahuṣu CbBSSa gatabhagaṇayutāt dyugaṇāt tadśeṣayutāt tadaikyasaṃyuktātBSSc tadyogāt dyugaṇam vā yas kathayati kuṭṭakajñas sas CbBSSa gatabhagaṇaūnāt dyugaṇāt tadśeṣaūnāt tadaikyahīnāt vāBSSc tadvivarāt dyugaṇam vā yas kathayati kuṭṭakajñas sas CbBSSa rāśiādyais tadśeṣais ca evam bhuktaadhimāsadinahīnaisBSSc tadśeṣais ca yugagatam yas kathayati kuṭṭakajñas sas CbBSSa aṃśakaśeṣeṇa yutāt liptāśeṣāt tadantarāt atha vāBSSc bhānos jñadine dyugaṇam yas kathayati kuṭṭakajñas sas CbBSSa aṃśakaśeṣam triyutam liptāśeṣam kadā raves jñadineBSSc ṣaṭ sapta aṣṭau nava vā kurvan ā vatsarāt gaṇakas CbBSSa aṃśasamam aṃśaśeṣam kalāsamam vā kalāśeṣamBSSc divasakarasya iṣṭadine kurvan ā vatsarāt gaṇakas CbBSSa avamaavaśeṣam avamais adhimāsakaśeṣam adhimāsaisBSSc iṣṭayutaūnam tulyam kurvan ā vatsarāt gaṇakas CbBSSa nischedabhāgahāras bhānos saptatiguṇas aṃśaśeṣaūnasBSSc śudhyati ayutavibhaktas kurvan ā vatsarāt gaṇakas CbbhāvitakamBSSa bhāvitakarūpaguṇanā saavyaktavadhā iṣṭabhājitā iṣṭaāptyosBSSc alpe adhikas adhike alpas kṣepyas bhāvitahṛtau vyastam CbBSSa bhānos rāśiaṃśavadhāt tricaturguṇitān viśodhya rāśiaṃśānBSSc navatim dṛṣṭvā sūryam kurvan ā vatsarāt gaṇakas CbBSSa bhāvitake yadghātas vinaṣṭavarṇena tadpramāṇāniBSSc kṛtvā iṣṭāni tadāhatavarṇaaikyam bhavati rūpāṇi CbBSSa varṇapramāṇabhāvitaghātas bhavati iṣṭavarṇasaṅkhyā evamBSSc sidhyati vinā api bhāvitasamakaraṇāt kim kṛtam tat atas CbvargaprakṛtisBSSa mūlam dvidhā iṣṭavargāt guṇakaguṇāt iṣṭayutavihīnāt caBSSc ādyavadhas guṇakaguṇas saha antyaghātena kṛtam antyam CbBSSa vajravadhaaikyam prathamam prakṣepas kṣepavadhatulyasBSSc prakṣepaśodhakahṛte mūle prakṣepake rūpe CbBSSa rūpaprakṣepapade pṛthak iṣṭakṣepyaśodhyamūlābhyāmBSSc kṛtvā antyaādyapade ye prakṣepe śodhane vā iṣṭe CbBSSa caturadhike antyapadakṛtis triūnā dalitā antyapadaguṇā antyapadamBSSc antyapadakṛtis viekā dvihṛtā ādyapadaāhatā ādyapadam CbBSSa caturūne antyapadakṛtī triekayute vadhadalam pṛthak viekamBSSc viekaāḍyaāhatam antyam padavadhaguṇam ādyam āntyapadam CbBSSa varge guṇake kṣepas kena cit uddhṛtayutaūnitas dalitasBSSc prathamas antyamūlam anyas guṇakārapadauddhṛtas prathamas CbBSSa vargachinne guṇake prathamam tadmūlabhājitam bhavatiBSSc vargachinne kṣepe tadpadaguṇite tadā mūle CbBSSa guṇakayutis aṣṭaguṇitā guṇakaantaravargabhājitā rāśisBSSc guṇakau triguṇau vyastaadhikau hṛtau antareṇa pade CbBSSa vargas anyakṛtiyutaūnas tadsaṃyogaantaraardhakṛtibhaktasBSSc tadguṇitau yutiviyutau vargau ghāte ca rūpayute CbBSSa yais ūnas yais ca yutas rūpais vargas tadaikyam iṣṭahṛtamBSSc iṣṭaūnam taddalakṛtis ūnā abhyadhikā bhavati rāśis CbBSSa yābhyām kṛtis adhikaūnas tadantaram hṛtayutaūnam iṣṭenaBSSc taddalakṛtis adhikaūnā adhikayos adhikaūnayos rāśis CbudāharaṇāniBSSa rāśikalāśeṣakṛtim dvinavatiguṇitām tryaśītiguṇitām vāBSSc saekā jñadine vargam kurvan ā vatsarāt gaṇakas CbBSSa sūryaviliptāśeṣam pañcabhis ūnaāhatam tathā daśabhisBSSc varge bṛhaspatidine kurvan ā vatsarāt gaṇakas CbBSSa bhagaṇaādiśeṣavargam tribhis guṇam saṃyutam śatais navabhisBSSc kṛtim aṣṭaśataūnam vā kurvan ā vatsarāt gaṇakas CbBSSa bhagaṇaādiśeṣavargam caturguṇam pañcaṣaṣṭisaṃyuktamBSSc ṣaṣṭiūnam vā vargam kurvan ā vatsarāt gaṇakas CbBSSa iṣṭabhagaṇaādiśeṣam dvinavatiūnam tryaśītisaṃguṇitamBSSc rūpeṇa yutam vargam kurvan ā vatsarāt gaṇakas CbBSSa adhimāsaśeṣavargam trayodaśaguṇam tribhis śatais yuktamBSSc trighanaūnam vā vargam kurvan ā vatsarāt gaṇakas CbBSSa induviliptāśeṣam saptadaśaguṇam trayodaśaguṇam ca apiBSSc pṛthak ekayutam vargam kurvan ā vatsarāt gaṇakas CbBSSa avamaavaśeṣavargam dvādaśaguṇitam śatena saṃyuktamBSSc tribhis ūnam vā vargam kurvan ā vatsarāt gaṇakas CbBSSa jñadine arkakalāśeṣam gurudinavikalāavaśeṣayuktaūnamBSSc vargam vadham ca saekam kurvan ā vatsarāt gaṇakas CbBSSa vikalāśeṣam sahitam trinavatyā saptaṣaṣṭihīnam caBSSc bhānos jñadine vargam kurvan ā vatsarāt gaṇakas CbBSSa jñadine arkakalāśeṣam dvādaśabhis saṃyutam triṣaṣṭyā caBSSc ṣaṣṭyā aṣṭabhis ca ūnam kurvan ā vatsarāt gaṇakas CbBSSa induviliptāśeṣāt raviliptāśeṣam aṃśaśeṣam vāBSSc atha vā madhyamam iṣṭam kurvan ā vatsarāt gaṇakas CbBSSa jīvaviliptāśeṣāt kujam indum bhaumaliptikāśeṣātBSSc ravim indubhāgaśeṣāt kurvan ā vatsarāt gaṇakas CbBSSa iṣṭagrahaiṣṭaśeṣāt dyugaṇas gatanisapavartasaṃguṇitaisD apavartta  apavartaBSSc chedadinais adhikas asmāt anyagrahaśeṣam iṣṭas vā CbBSSa nischedabhāgahārau grahayos viparītau grahayos dyugaṇātBSSc yasmāt tadnischedena uddhṛtayos labdhasaṃguṇitauD uddhatayos  uddhṛtayos CbBSSa nischedabhāgahārau viparītau tadyutāt punar tasmātBSSc śeṣe dyugaṇāt evam triādīnām prākvat iṣṭadine CbBSSa dyugaṇam avamaavaśeṣāt ravicandrau madhyamau sphuṭau atha vāBSSc evam tithim graham vā kurvan ā vatsarāt gaṇakas CbBSSa ekadinam avamaśeṣam yadguṇam ekaravicandrabhagaṇaūnamBSSc śudhyati bhūdinabhaktam viekam cāndrais taduktis iyam CbBSSa iṣuśarakṛtaaṣṭadigbhis  saṅguṇitāt avamaśeṣakāt bhaktātBSSc rūpaaṣṭavedarasaśūnyaśaraguṇais  dinagaṇas śeṣam CbBSSc iṣṭaavamaśeṣāt yat śeṣam ravibhagaṇaśeṣam tat CbBSSa goagaindukhaīśaguṇitāt bhaktāt nakhapakṣayamarasaiṣuguṇais BSSc śeṣam avamaavaśeṣāt tithayas avamaśeṣakāt vikalam CbBSSa bhāgakalāvikalāaikyam dṛṣṭvā vikalāantaram ca ke śeṣeBSSc aikyam dvidhā antaraadhikahīnam ca dvibhājitam śeṣe CbBSSa tadvargaantaram ādye tadantaram ca anatarauddhṛtayutaūnamBSSc vargaantaram vibhaktam dvābhyām śeṣe tatas dyugaṇas Cb BSSa kṛtisaṃyogāt dviguṇāt yutivargam prohya śeṣamūlam yatBSSc tena yutaūnas yogas dalitas śeṣe pṛthak abhīṣṭe CbBSSa śeṣavadhāt dvikṛtiguṇāt śeṣaantaravargasaṃyutāt mūlamBSSc śeṣaantaraūnayuktam dalitam śeṣe pṛthak abhīṣṭe CbBSSa hṛdighātram amī praśnās praśnān anyān sahasraśas kuryātD hṛdighātram  hṛdmātramBSSc anyais dattān praśnān uktyā evam sādhayet karaṇais CbBSSa janasaṃsadi daivavidām tejas nāśayati bhānus iva bhānāmBSSc kuṭṭākārapraśnais pathitais api kim punar śataśasCb ḍ śataśas  sūtraisBSSa pratisūtram amī praśnās pathitās sauddeśakeṣu sūtreṣuBSSc āryātriadhikaśatena ca kuṭṭas ca aṣṭādaśas adhyāyas CbBSSp iti śrībrāhmasphuṭasiddhānte kuṭṭakaadhyāyas aṣṭādaśasśaṅkuchāyāādijñānampraśnāsBSSa dṛṣṭvā dinaardhaghaṭikā yas arkajñas akṣaaṃśakān vijānātiBSSc udayaantaraghaṭikābhis jñātāt jñeyam sas tantrajñasBSSa astaantaraghaṭikābhis yas jñātāt jñeyam ānayati tastmātBSSc madhyagatim yugabhagaṇān ānayati tatas sas tantrajñasBSSa ānayati yas tamasraviśaśaaṅkamānāni dīpakaśikhaauccyātBSSc śaṅkutalaantarabhūmijñāne chāyām sas tantrajñasBSSa iṣṭagṛhaauccyajñas yas tadantarajñas nirīkṣyate tu jaleBSSc gṛhabhittiagram darśayati darpaṇe vā sas tantrajñasBSSa chāyādvitīyabhāagraantaravijñānena vetti dīpaaucyamBSSc śaṅkuchāyājñas vā bhūmes chāyām sas tantrajñasD śaṅka  śaṅkuBSSa dṛṣṭvā gṛhatalaantarajālabhos dṛṣṭvā agram gṛhasya bhūmijñasD dṛṣṭvā gṛhatalaantarajālabhos  gṛhapuruṣaantarasalile yasBSSc vetti gṛhaauccyam dṛṣṭvā tailastham vā sas tantrajñasBSSa vīkṣya gṛhaagram salile prasārya salilam punar svabhūjñāneBSSc ānayati jalāt bhūmim gṛhasya vā auccyam sas tantrajñasBSSa jñātais chāyāpuruṣais vijñāte toyakuḍyayos vivareBSSc kuḍye arkatejasas yas vetti ārūḍhim sas tantrajñasuttarāṇiBSSa iṣṭadivasaardhaghaṭikā ghaṭikāpañcadaśaantaraprāṇāsBSSc taddivasacaraprāṇās tais akṣam sādhayet prākvatBSSa jñātajñeyagrahayos udayaantaranāḍikābhis adhikaūnasBSSc udayais jñātas jñātāt jñeyas prākaparayos jñeyasBSSa jñātas sabhaardhas udayais astaantaranāḍikābhis adhikaūnasBSSc jñātāt pūrvaaparayos jñeyas bhaardhaūnake jñeyasBSSa jñātam kṛtvā madhyam bhūyas anyadine tadantaram bhuktisBSSc trairāśikena bhuktyā kalpagrahamaṇḍalaānayanamBSSa sthitiardhāt viparītam tamaspramāṇam sphuṭam grahaṇeBSSc mānaudayāt raviindvos ghaṭikāavayavena bhaudayatasBSSa dīpatalaśaṅkutalayos antaram iṣṭapramāṇaśaṅkuguṇamBSSc dīpaśikhaauccyāt śaṅkum viśodhya śeṣauddhṛtam chāyāBSSa śaṅkuantareṇa guṇitā chāyā chāyāantareṇa bhaktā bhūs BSSc sachāyā śaṅkuguṇā dīpaauccyam chāyayā bhaktāBSSa jñātvā śaṅkuchāyām anupātāt sādhayet samucchrāyānBSSc gṛhacaityatarunagānām auccyam vijñāya vā chāyāmBSSa yutadṛṣṭigṛhaauccyahṛtā hi antarabhūmis dṛkauccyasaṅguṇitāBSSc phalabhūs nyaste toye pratirūpaagram gṛhasya narātBSSa gṛhapuruṣaantarasalile vīkṣya gṛhaagram dṛkauccyasaṅguṇitamBSSc gṛhatoyaantaram auccyam gṛhasya nṛjalaantareṇa hṛtamBSSa prathamadvitīyanṛjalaantaraantareṇa uddhṛtā jalaapasṛtisBSSc dṛṣṭiauccyaguṇā ucchrāyas toyāt nṛjalaantaraguṇā bhūsBSSa chāyāpuruṣachinnam jalakuḍyaantaram avāptam ārūḍhisBSSc adhyāyas viṃśatiāryāṇām ekonaviṃśas ayamchandascitiuttaramBSSa ṛgvargaḥ paryāyaḥ samūhayogāvayukṣu yugmeṣuBSSc soyāḥ prāgvatprāptādāścatuṣkakāḥ śeṣayuktyontyaḥBSSa ekādiyutavihīnāvādyantau tadviparyayau yāvatBSSc vargādiṣu viṣamayujāṃ kramotkramādvardhayetpādānBSSa ekaikena dvyādvyāḥ soppappadhikeṣu tatpratiṣṭheṣuBSSc vargādirabhīṣṭāntaḥ prastāro bhavati yavamadhyaḥBSSa sūnontyo dvipadāgraṃ tripadādyānāmadhaḥ pṛthak saṃkhyāBSSc tacchodhyo vyekaḥ pṛthagntādrūpamūrdhvayutamBSSa yāvat pādāvyekāgacchādvarṇeṣvathaikavṛddheṣuBSSc rūpādyutaghāte vargādyānāṃ parā saṃkhyāBSSa rūpādhikapādārdheviṣameṣūrdhvaḥ sameṣu pādārdheBSSc ardhādviguṇāvyekāṃyulānyadhastasya sarveṣāmBSSa mādhyais tathārdhahīnaiḥ kramapādair vyastatulyapādādyaḥBSSc viṣameravyekaṃ madhye prohyādyānyataḥ kuryātBSSa saikakramatulyādyair nyāsobhyadhiko viśodhitaś cādhaḥBSSc saṃkhyaikyaṃ tādṛk yādṛk prathamas trirahito naṣṭeBSSa mādhyaiḥ kṛtaiś ca dalitaiḥ samasaṃkhyāyāṃ kramotkramāt kṣeppamBSSc viṣamāyāṃ vyekāyāṃ dalam kramād uttkramāt saikamBSSa samasaṃkhyāyāṃ sopānakramotkramābhyāṃ tathaiva viṣamābhyāmBSSc kalpyā pacite dṛṣṭe prathamaḥ śeṣākṣarāṇyanteBSSa samadalasamaviṣamāṇāṃ saṃkhyāpādārdhasarvakalpavadhaḥBSSc svādyavadhonyaiḥ pādaiḥ svaparasya prāgvadhaḥ saikaiḥBSSa ādyādanantarodhaḥ kalpponyatulyamādyaḥ prākBSSc nyāso vargonyonaḥ prastārordhasamaviṣamāṇāmBSSa naṣṭentyāt svādhasthonakalpaghātordhatulyaviṣamāṇāmBSSc vyekaḥ pṛthak svavargoddhṛtaḥ phalaṃ tulyakalyānāmBSSa uddiṣṭe kalpahṛtetītaiḥ prathamaḥ phale sarūpe nyaḥBSSc asakṛdvargāṃśayute saike vārdhasamaviṣamāṇāmBSSa kapeṣu pṛthak gurulaghusaṃkhyaikādibhājitā prāgvatBSSc viṣameṣvādyalaghūno laghubhir meruḥ samādīnāmBSSa ekadvitayoḥ parato dvisaṃguṇonantarādvirūpodhaḥBSSc vargadharādyonodalasamaviṣamāṇāṃ dhvajo laghubhiḥBSSa laghusaṃkhyā padadalitā paratodhodhaś ca śudhyati hṛtā yaiḥBSSc dviguṇāntaiḥ śuddhair vargaparair mandaro laghubhiḥBSSa kṛtvādhodhaḥ kalpyānyekādyekottarānadhasteṣāmBSSc svāt paratonyaikyam adhaḥ prastārād uktavad ihādyaiḥBSSa guruṣaṣṭyekānighaṭīdviguṇānyekāṃgulāni saṃkhyā syātBSSc drāviṃśatir āryāṇāṃ chandaścityuttarodhyāyaḥBSSp iti śrībrāhmasphuṭasiddhānte chandaścityuttarādhyāyo viṃśatitamaḥjyāprakaraṇamBSSa rāśiaṣṭaaṃśeṣu aṅkān padasandhibhyas kramautkramāt kṛtvāBSSc badhnīyāt sūtrāṇi dvayos dvayos jyās tadardhāniBSSa jyāardhāni jyāardhānām jyākhaṇḍāni antarāṇiBSSc vyastāni antyāt atha vā iṣus utkramajyā dhanus tābhyāmBSSa ekadvitriguṇāyās vyāsaardhakṛtes pṛthak caturthebhyasBSSc mūlāni aṣṭadvādaśaṣoḍaśakhaṇḍāni atas anyāniBSSa tulyakramautkramajyāsamakhaṇḍakavargayuticaturbhāgamBSSc prohya anaṣṭam vyāsaardhavargatas tadpade prathamamBSSa taddalakhaṇḍāni tadūnajinasamāni dvitīyam utpattauBSSc kṛtayamalaekadiśīśaiṣusaptarasaguṇanavaādīnāmBSSa evam jīvākhaṇḍāni alpāni bahūni vā ādyakhaṇḍāniBSSc jyāardhāni vṛttaparidhes ṣaṣṭhacaturthatribhāgānāmBSSa utkramasamakhaṇḍaguṇāt vyāsāt atha vā caturthabhāgāt yatBSSc kṛtvā uktakhaṇḍakāni jyāardhaānayanam na laghu asmāt
+Notation local rules
+D x  y indicates that Dvivedin
+the editor
+suggests the reading y
+instead of x
+In Chapter 
+Cbn indicates that the stanza is given the number n
+in Colebrooke's translation
+Cb indicates that the stanza does not exist in Colebrooke's translation
+Otherwise the stanza number coincides with Colebrooke's one
+Colebrooke's translation is available for Chapters  and  only In Chapter 
+all the stanza numbers given by Dvivedin coincide with Colebrooke's 
+As Chapter  on combinatrics concerning Sanskrit prosody
+has not been deciphered yet
+the text of that chapter is left exactly as it is in Dvivedin's edition without decomposition of compounds and sandhi
+atha gaṇitaadhyāyas
+parikarmaviṃśatis
+BSSa parikarmaviṃśatim yas saṅkalitaādyām pṛthak vijānāti
+BSSc aṣṭau ca vyavahārān chāyāantān bhavati gaṇakas sas
+BSSa viparītachedaguṇās rāśyos chedaaṃśakās samachedās
+BSSc saṅkalite aṃśās yojyās vyavakalite aṃśaantaram kāryam
+BSSa rūpāṇi chedaguṇāni aṃśayutāni dvayos bahūnām vā
+BSSc pratyutpannas bhavati chedavadhena uddhṛtas aṃśavadhas
+BSSa parivartya bhāgahārachedaaṃśau chedasaṃguṇachedas
+D parivarttya
+BSSc aṃśas aṃśaguṇas bhājyasya bhāgahāras savarṇitayos
+BSSa saṃvarṇitaaṃśavargas chedakṛtivibhājitas bhavati vargas
+BSSc saṃvarṇitaaṃśamūlam chedapadena uddhṛtam mūlam
+BSSa sthāpyas antyaghanas antyakṛtis triguṇauttarasaṅguṇā ca tadprathamāt
+BSSc uttarakṛtis antyaguṇā triguṇā ca uttaraghanas ca ghanas
+BSSa chedas ghanāt dvitīyāt ghanamūlakṛtis trisaṅguṇā āptakṛtis
+BSSc śodhyā tripūrvaguṇitā prathamāt ghanatas ghanas mūlam
+BSSa sadṛśachedaaṃśayutis chedavibhaktā phalam prathamajātau
+BSSc aṃśais aṃśās guṇitās chedais chedās dvitīyāyām
+BSSa ūrdhvaaṃśās chedaguṇās tṛtīyajātau dvayos prathamaparayos
+BSSc chedais chedās guṇitās svaaṃśayutaūnais uparigaaṃśās
+BSSa trairāśike pramāṇam phalam iccā ādiantayos sadṛśarāśī
+BSSc icchā phalena guṇitā pramāṇabhaktā phalam bhavati
+BSSa vyastatrairāśikaphalam icchābhaktas pramāṇaphalaghātas
+BSSc trairāśikaādiṣu phalam viṣameṣu ekādaśaanteṣu
+BSSa phalasaṅkramaṇam ubhayatas bahurāśivadhas alpavadhahṛtas jñeyam
+BSSc sakaleṣu evam bhinneṣu ubhayatas chedasaṅkramaṇam
+BSSa prāk mūlyavyatyāsas bhāṇḍapratibhāṇḍake anyat uktasamam
+BSSc parikarmāṇi aṣṭānām vyavahārāṇām abhihitāni
+miśrakavyavahāras
+BSSa kālaguṇitam pramāṇam phalabhaktam viekaguṇahatam kālas
+BSSc svaphalayutarūpabhaktam mūlaphalaaikyam bhavati mūlam
+BSSa kālapramāṇaghātas parakālahṛtas dvidhā ādyamiśravadhāt
+BSSc anyaardhakṛtiyutāt padam anyaardhaūnam pramāṇaphalam
+BSSa prakṣepayogahṛtayā labdhyā prakṣepakās guṇās lābhās
+BSSc ūnaadhikauttarās tadyutaūnayā svaphalam ūnayutam
+śreḍhīvyavahāras
+BSSa padam ekahīnam uttaraguṇitam saṃyuktam ādinā antyadhanam
+BSSc ādiyutaantyadhanaardham madhyadhanam padaguṇam gaṇitam
+BSSa uttarahīnadviguṇaādiśeṣavargam dhanauttaraaṣṭavadhe
+BSSc prakṣipya padam śeṣaūnam dviguṇauttarahṛtam gacchas
+BSSa ekauttaram ekaādyam yadi iṣṭagacchasya bhavati saṅkalitam
+BSSc tat dviyutagacchaguṇitam trihṛtam saṅkalitasaṅkalitam
+BSSa dviguṇapadasaekaguṇitam tat trihṛtam bhavati vargasaṅkalitam
+BSSc ghanasaṅkalitam tadkṛtis eṣām samagolakais citayas
+kṣetravyavahāras
+BSSa sthūlaphalam tricaturbhujabāhupratibāhuyogadalaghātas
+BSSc bhujayogaardhacatuṣṭayabhujaūnaghātāt padam sūkṣmam
+BSSa bhujakṛtiantarabhūhṛtahīnayutā bhūs dvibhājitā āvādhe
+D kṛtyantyantara
+BSSc svaāvādhāvargaūnāt bhujavargāt mūlam avalambas
+BSSa aviṣamacaturasrabhujapratibhujavadhayos yutes padam karṇas
+BSSc karṇakṛtis bhūmukhayutidalavargaūnā padam lambas
+BSSa karṇakṛtes koṭikṛtim viśodhya mūlam bhujas bhujasya kṛtim
+BSSc prohya padam koṭis koṭibāhukṛtiyutipadam karṇas D vāhu  bāhu
+BSSa karṇayutau ūrdhvaadharakhaṇḍe karṇaavalambayoge vā
+BSSc svaāvādhe svayutihṛte dvidhā pṛthak karṇalambaguṇe
+BSSa aviṣamapārśvabhujaguṇas karṇas dviguṇaavalambakavibhaktas
+BSSc hṛdayam viṣamasya bhujapratibhujakṛtiyogamūlaardham
+BSSa tribhujasya vadhas bhujayos dviguṇitalambauddhṛtas hṛdayarajjus
+BSSc sā dviguṇā tricaturbhujakoṇaspṛk vṛttaviṣkambhas
+BSSa karṇaāśritabhujaghātaaikyam ubhayathā anyonyabhājitam guṇayet
+BSSc yogena bhujapratibhujavadhayos karṇau pade viṣame
+BSSa viṣamacaturasramadhye viṣamatribhujadvayam prakalpya pṛthak
+BSSc karṇadvayena pūrvavat āvādhe lambakau ca pṛthak
+BSSa viṣamabhujaantartribhuje prakalpya karṇau bhujau tadāvādhe
+BSSc pṛthak ūrdhvaadharakhaṇḍe karṇayutau karṇayos adhare
+BSSa tribhje bhujau tu bhūmis tadlambas lambakaadharam khaṇḍam
+BSSc ūrdhvam avalambakhaṇḍam lambakayogaardham adharaūnam
+BSSa karṇaavalambakayutau khaṇḍe karṇaavalambakayos adhare
+BSSc anupātena tadūne ūrdhve sūcyām sapāṭāyām
+BSSa kṛtiyutis asadṛśarāśyos bāhus ghātas dvisaṅguṇas lambas
+BSSc kṛtiantaram asadṛśayos dviguṇam dvisamatribhujabhūmis
+BSSa iṣṭadvayena bhaktas dvidhā iṣṭavargas phalaiṣṭayogaardhe
+BSSc viṣamatribhujasya bhujau iṣṭaūnaphalaardhayogas bhūs
+BSSa iṣṭasya bhujasya kṛtis bhaktā ūnā iṣṭena taddalam koṭis
+BSSc āyatacaturasrasya kṣetrasya iṣṭaadhikā karṇas
+BSSa āyatakarṇas bāhū bhujakṛtis iṣṭena bhājitā iṣṭaūnā
+BSSc dvihṛtā koṭiadhikā bhūs mukham ūnā dvisamacaturasre
+BSSa karṇakṛtis trisamahbujās trayas caturthas viśodhya koṭikṛtim
+BSSc bāhukṛtes triguṇāyās yadi adhikas bhūs mukham hīnas
+BSSa jātyadvayakoṭibhujās parakarṇaguṇās bhujās caturviṣame
+BSSc adhikas bhūs mukhahīnas bāhudvitayam bhujau anyau
+BSSa iṣṭaguṇakāraguṇitas giriucchrāyas puraantaram anaṣṭam
+BSSc dviyutaguṇakārabhājitam utpātas anyasya samagatyos
+BSSa vyāsavyāsaardhakṛtī paridhiphale vyāvahārike triguṇe
+BSSc tadvargābhyām daśabhis saṅguṇitābhyām pade sūkṣme
+BSSa vṛtte śaraūnaguṇitāt vyāsāt caturāhatāt padam jīvā
+BSSc jyāvargas caturāhataśarabhaktas śarayutas vyāsas
+BSSa jyāvyāsakṛtiviśeṣāt mūlavyāsaantaraardham iṣus alpas
+BSSc vyāsau grāsaūnaguṇau grāsaūnaaikyauddhṛtau bāṇau
+BSSa iṣṭaśaradvayabhakte jyāardhakṛtī śarayute phale vyāsau
+BSSc śarayos phalayos aikyam grāsas grāsaūnam aikyam tat
+khātavyavahāras
+BSSa kṣetraphalam vedhaguṇam samakhātaphalam hṛtam tribhis sūcyās
+BSSc mukhatalatulyabhujaaikyāni ekaagrahṛtāni samarajjus
+BSSa mukhatalayutidalagaṇitam vedhaguṇam vyāvahārikam gaṇitam
+BSSc mukhatalagaṇitaaikyaardham vedhaguṇam syāt gaṇitam autram
+BSSa autragaṇitāt viśodhya vyavahāraphalam bhajet tribhis śeṣam
+BSSc labdham vyavahāraphale prakṣipya bhavati phalam sūkṣmam
+citivyavahāras
+BSSa ākṛtiphalam auccyaāhatam agratalaaikyaardham auccyadairghyaguṇam
+BSSc ghanagaṇitam iṣṭakāghanaphalena hṛtam iṣṭakāgaṇitam
+krākacikavyavahāras
+BSSa vistāraāyāmaaṅgulaghātas mārgaāhatas dvivedahṛtas
+BSSc kiṣkuaṅgulāni labdham tat ṣaṇṇavatis bhavati karma
+BSSa śākāādiṣu śālmalyām śatadvayam bījake śatam viṃśam
+BSSc śālasaralaādiṣu śatam atha avidāruṣu catuḥṣaṣṭis
+rāśivyavahāras
+BSSa navamas śūkiṣu daśamas sthūleṣu ekādaśas bhavati aṇuṣu
+BSSc paridhes vedhas paridhes ṣaṣaṃśavargaāhatas gaṇitam
+BSSa dvicatursatriaṃśaguṇas bhittiantarvāhyakoṇagas paridhis
+BSSc prākvat kṛtvā gaṇitam tadgaṇitam svaguṇakārahṛtam
+chāyāvyavahāras
+BSSa chāyānarasaekahṛtam dyudalam prākaparayos dyugataśeṣam
+BSSc dinagataśeṣaaṃśahṛtam dyudalam chāyānaraviekam
+BSSa dīpatalaśaṅkutalayos antaram iṣṭapramāṇaśaṅkuguṇam
+BSSc dīpaśikhaauccyāt śaṅkum viśodhya śeṣauddhṛtam chāyā
+BSSa chāyāagraantaraguṇitā chāyā chāyāantareṇa bhaktā bhūs
+BSSc bhūs śaṅkuguṇā chāyāvibhājitā dīpaśikhayā auccyam
+pratyutpannaādayas
+BSSa guṇakārakhaṇḍatulyas guṇyas gomūtrikākṛtas guṇitas
+BSSc sahitas pratyutpannas guṇakārakabhedatulyas vā
+BSSa guṇyas rāśis guṇakārarāśinā iṣṭaadhikaūnakena guṇas
+BSSc guṇyaiṣṭavadhaūnayutas guṇake abhyadhikaūnake kāryas
+BSSa chedena iṣṭayutaūnena āptam bhājyāt anaṣṭam iṣṭaguṇam
+BSSc prakṛtisthachedahṛtam labdhyā yutahīnakam anaṣṭam
+BSSa guṇyas chedaphalavadhas guṇakahṛtas guṇyabhājitas guṇakas
+BSSc chedauddhṛtas phalam guṇyaguṇavadhas phalahṛtas chedas
+BSSa guṇyaguṇakārayos chedalabdhayos yadi dvayos dvayos nāśas
+BSSc teṣām dṛśyau vyastau kṛtvā tadsthānayos ca iṣṭau
+BSSa guṇyam guṇakāram vā guṇayet chedena bhāgahārasya
+BSSc guṇyaguṇakārarāśyos chedaguṇas bhāgahāras ca
+BSSa acchedasya chedam rūpam kṛtvā anyat uktavat sarvam
+BSSc apavartyau chedaguṇau tulyena iṣṭena guṇyau vā
+D avaparttyau  apavartyau
+BSSa svavikalaṣaṣṭiaṃśaguṇas sakalas triṃśauddhṛtas vikalavargas
+BSSc prakṣepyas sakalakṛtau vargaghanau dvitritulyavadhau
+BSSa rāśes ūnam dviguṇam bahutaraguṇam ūnakṛtiyutam vargas
+BSSc rāśes iṣṭayutaūnāt vadhas kṛtis vā iṣṭakṛtiyuktas
+BSSa iṣṭaalparāśivargau yuktaūnau itaravikalavargābhyām
+BSSc dviguṇaitararāśibhyām bhaktau tena adhikaūnābhyām
+BSSa sthānaantareṣu labdham yena samam phalayutaūnakachedas
+BSSc dalitas kṛtiyogaantarapadam itaras vā phalayutaūnas
+BSSa dikmātram etat anyat jyāutpattau kuṭṭake ca kathayiṣye
+BSSc saṅkalitaādiṣu āryās ṣaṭṣaṣṭis dvādaśas adhyāyas
+BSSp iti śrībrāhmasphuṭasiddhānte dvādaśas adhyāyas
+atha kuṭṭakaadhyāyas
+BSSa prāyeṇa yatas praśnās kuṭṭākārāt ṛte na śakyante
+BSSc jñātum vakṣyāmi tatas kuṭṭākāram saha praśnais
+BSSa kuṭṭakakhaṛṇadhanaavyaktamadhyaharaṇaekavarṇabhāvitakais
+BSSc ācāryas tantravidām jñātais vargaprakṛtyā ca
+kuṭṭakam
+BSSa adhikaagrabhāgahārāt ūnaagrachedabhājitāt śeṣam
+BSSc yat tat parasparahṛtam labdham adhas adhas pṛthak sthāpyam
+BSSa śeṣam tathā iṣṭaguṇitam yathā agrayos antareṇa saṃyuktam
+BSSc śudhyati guṇakas sthāpyas labdham ca antyāt upāntyaguṇas
+BSSa svaūrdhvas antyayutas agraantas hīnaagrachedabhājitas śeṣam
+BSSc adhikaagrachedahatam adhikaagrayutam bhavati agram
+BSSa chedavadhasya dviyugam chedavadhas yugagatam dvayos agram
+BSSc kuṭṭākāreṇa evam triādigrahayugagataānayanam
+BSSa bhagaṇaādiśeṣam agram chedahṛtam kham ca dinajaśeṣahṛtam
+BSSc anayos agram bhagaṇaādidinajaśeṣauddhṛtam dyugaṇas Cb
+BSSa dinajabhagaṇaādiśeṣam yena guṇam maṇḍalaādi śeṣakayos
+BSSc sadṛśachedauddhṛtayos tadghātam ahargaṇaādyam atas Cb
+BSSa hṛtayos parasparam yat cheṣam guṇakārabhāgahārakayos
+BSSc tena hṛtau nischedau tau eva parasparam hṛtayos Cb
+BSSa labdham adhas adhas sthāpyam tathā iṣṭaguṇakārasaṅguṇam śeṣam
+BSSc śudhyati yathā ekahīnam guṇakas sthāpyas phalam ca antyāt Cb
+BSSa agraantam upāntyena svaūrdhvas guṇitas antyasaṃyutas bhaktam
+BSSc nisśeṣabhāgahāreṇa evam sthirakuṭṭakas śeṣam Cb
+BSSa iṣṭabhagaṇaādiśeṣāt svakuṭṭakaguṇāt svabhāgahāraguṇāt
+BSSc śeṣam dyugaṇas gatanisapavartaguṇabhāgahārayutas
+Cb ḍ apavartta  apavarta
+BSSa evam sameṣu viṣameṣu ṛṇam dhanam dhanam ṛṇam yat uktam tat
+BSSc ṛṇadhanayos vyastatvam guṇyaprakṣepayos kāryam Cb
+BSSa guṇakas chedas chedas guṇakas dhanam ṛṇam ṛṇam dhanam kāryam
+BSSc vargam padam padam kṛtis antyāt viparītam ādyam tat Cb
+BSSa yas jānāti yugaādi grahayugayātais pṛthak pṛthak kathitais
+BSSc dvitricaturprabhṛtīnām kuṭṭākāram sas jānāti Cb
+BSSa bhagaṇaādyam iṣṭaśeṣam kadā indudivase raves gurudine vā
+BSSc jñadine rāśīn kathayati kuṭṭākāram sas jānāti Cb
+BSSa jñadine yat aṃśaśeṣam vikalāśeṣam kadā tat indudine
+BSSc bhānos atha vā śaśinas yas kathayati kuṭṭakajñas sas Cb
+BSSa tithimānadineṣu iṣṭās ye arkaādyās te punar kadā teṣu
+BSSc iṣṭagrahavāreṣu yas kathayati kuṭṭakajñas sas Cb
+BSSa iṣṭabhagaṇaādiśeṣāt dyugaṇas tat kuṭṭakena saṃyuktas
+BSSc tadchedadinais tāvat dinavāras yāvat iṣṭas syāt Cb
+BSSa yas rāśiādīn dṛṣṭvā madhyasya iṣṭasya katahyati dyugaṇam
+BSSc dviādigrahasaṃyogāt grahaantarāt vā sas kuṭṭajñas Cb
+BSSa nischedabhāgahārāt rāśiādikalāādinā hatāt bhaktāt
+BSSc bhagaṇakalābhis labdham maṇḍalaśeṣam dinagaṇas asmāt Cb
+BSSa evam rāśiaṃśakalāvikalāśeṣāt ahargaṇas prākvat
+BSSc naṣṭastheṣu iṣṭān tān kṛtvā bhaktvā uktavat śeṣam Cb
+BSSa rāśiaṃśakalāvikalāśeṣāt kathitāt abhīṣṭatas naṣṭān
+BSSc yas sādhayati uparitanān samadhyamān kuṭṭakajñas sas Cb
+BSSa yena guṇas śeṣayutas chedas śudhyati hṛtas svaguṇakena
+BSSc tadbhuktam śeṣam phalam evam śeṣāt grahadyugaṇau Cb
+BSSa jānāti yas yugagatam kathitāt adhimāsaśeṣakāt iṣṭāt
+BSSc avamaavaśeṣatas vā tadyogāt vā sas kuṭṭajñas Cb
+BSSa iṣṭeṣu mānadivaseṣu adhimāsanyūnarātraśeṣe vā
+BSSc bhūyas te yas kathayati pṛthak pṛthak vā sas kuṭṭajñas Cb
+BSSa aṃśakaśeṣāt triūnāt saptahṛtāt mūlam ūnam aṣṭābhis
+BSSc navabhis guṇam sarūpam kadā śatam budhadine savitus Cb
+BSSa triūnaadhimāsaśeṣāt mūlam dviadhikam vibhājitam ṣaḍbhis
+BSSc dviūnam vargitam adhikam navabhis navatis kadā bhavati Cb
+BSSa avamaavaśeṣavargas viekas viṃśativibhājitas dviadhikas
+BSSc aṣṭaguṇas daśabhaktas dviyutas aṣṭādaśa kadā bhavati Cb
+dhanaṛṇaśūnyam
+BSSa dhanayos dhanam ṛṇam ṛṇayos dhanaṛṇayos antaram samaaikyam kham
+BSSc ṛṇam aikyam ca dhanam ṛṇadhanaśūnyayos śūnyayos śūnyam Cb
+BSSa ūnam adhikāt viśodhyam dhanam dhanāt ṛṇam ṛṇāt adhikam ūnāt
+BSSc vyastam tadantaram syāt ṛṇam dhanam dhanam ṛṇam bhavati Cb
+BSSa śūnyavihīnam ṛṇam ṛṇam dhanam dhanam bhavati śūnyam ākāśam
+BSSc śodhyam yadā dhanam ṛṇāt ṛṇam dhanāt vā tadā kṣepyam Cb
+BSSa ṛṇam ṛṇadhanayos ghātas dhanam ṛṇayos dhanavadhas dhanam bhavati
+BSSc śūnyaṛṇayos khadhanayos khaśūnyayos vā vadhas śūnyam Cb
+BSSa dhanabhaktam dhanam ṛṇahṛtam ṛṇam dhanam bhavati kham khabhaktam kham
+BSSc bhaktam ṛṇena dhanam ṛṇam dhanena hṛtam ṛṇam ṛṇam bhavati Cb
+BSSa khauddhṛtam ṛṇam dhanam vā tadchedam kham ṛṇadhanavibhaktam vā
+BSSc ṛṇadhanayos vargas svam kham khasya padam kṛtis yat tat Cb
+saṅkramaṇam
+BSSa yogas antarayutahīnas dvihṛtas saṅkramaṇam antaravibhaktam vā
+BSSc vargaantaram antarayutahīnam dvihṛtam viṣamakarma Cb
+karaṇī
+BSSa karaṇī lambas tadkṛtis iṣṭahṛtā iṣṭaūnasaṃyutā alpā bhūs
+BSSc adhikas dvihṛtas bāhus saṃkṣepyas yadvadhas vargas
+Cb ḍ saṃkṣeppas
+BSSa iṣṭauddhṛtakaraṇīpadayutikṛtis iṣṭaguṇitā antarakṛtis vā
+BSSc guṇyas tiryak adhas adhas guṇakasamas tadguṇas sahitas Cb
+BSSa svaiṣṭaṛṇachedaguṇau bhājyachedau pṛthak yujau asakṛt
+BSSc chedaekagatahṛtas vā bhājyas vargas samadvivadhas Cb
+BSSa iṣṭakaraṇīūnāyās rūpakṛtes padayutaūnarūpaardhe
+BSSc prathamam rūpāṇi anyat tatas dvitīyam karaṇī asakṛt Cb
+BSSa avyaktavargaghanavargavargapañcagataṣaṣgataādīnām
+BSSc tulyānām saṅkalitavyavakalite pṛthak atulyānām Cb
+BSSa sadṛśadvivadhas vargas triādivadhas tadgatas anyajātivadhas
+BSSc anyonyavarṇaghātas bhāvitakas pūrvavat śeṣam Cb
+ekavarṇasamīkaraṇam
+BSSa avyaktaantarabhaktam vyastam rūpaantaram same avyaktas
+BSSc vargaavyaktās śodhyās yasmāt rūpāṇi tadadhastāt Cb
+BSSa vargacaturguṇitānām rūpāṇām madhyavargasahitānām
+BSSc mūlam nadhyena ūnam vargadviguṇauddhṛtam madhyas Cb
+BSSa vargaāhatarūpāṇām avyaktaardhakṛtisaṃyutānām yat
+BSSc padam avyaktaardhaūnam tat vargavibhaktam avyaktas Cb
+BSSa saekāt aṃśakaśeṣāt dvādaśabhāgas caturguṇas aṣṭayutas
+BSSc saekaaṃśaśeṣatulyas yadā tadā ahargaṇam kathaya Cb
+BSSa dviūnam adhikamāsaśeṣam trihṛtam saptaadhikam dvisaṅguṇitam
+BSSc adhimāsaśeṣatulyam yadā tadā yugagatam kathaya Cb
+BSSa viekam avamaavaśeṣam ṣaṣuddhṛtam triyutam avamaśeṣasya
+BSSc pañcavibhaktasya samam yadā tadā yugagatam kathaya Cb
+BSSa maṇḍalaśeṣāt dviūnāt mūlam viekam daśaāhatam dviyutam
+BSSc maṇḍalaśeṣam viekam bhānos jñadine kadā bhavati
+BSSa adhimāsaśeṣapādāt triūnāt vargas adhimāsaśeṣasamas
+BSSc avamaavaśeṣatas vā avamaśeṣasamas kadā bhavati Cb
+anekavarṇasamīkaraṇam
+BSSa ādyāt varṇāt anyān varṇān prohya ādyamānam āḍyahṛtam
+BSSc sadṛśachedau asakṛt dvau vyastau kuṭṭakas bahuṣu Cb
+BSSa gatabhagaṇayutāt dyugaṇāt tadśeṣayutāt tadaikyasaṃyuktāt
+BSSc tadyogāt dyugaṇam vā yas kathayati kuṭṭakajñas sas Cb
+BSSa gatabhagaṇaūnāt dyugaṇāt tadśeṣaūnāt tadaikyahīnāt vā
+BSSc tadvivarāt dyugaṇam vā yas kathayati kuṭṭakajñas sas Cb
+BSSa rāśiādyais tadśeṣais ca evam bhuktaadhimāsadinahīnais
+BSSc tadśeṣais ca yugagatam yas kathayati kuṭṭakajñas sas Cb
+BSSa aṃśakaśeṣeṇa yutāt liptāśeṣāt tadantarāt atha vā
+BSSc bhānos jñadine dyugaṇam yas kathayati kuṭṭakajñas sas Cb
+BSSa aṃśakaśeṣam triyutam liptāśeṣam kadā raves jñadine
+BSSc ṣaṭ sapta aṣṭau nava vā kurvan ā vatsarāt gaṇakas Cb
+BSSa aṃśasamam aṃśaśeṣam kalāsamam vā kalāśeṣam
+BSSc divasakarasya iṣṭadine kurvan ā vatsarāt gaṇakas Cb
+BSSa avamaavaśeṣam avamais adhimāsakaśeṣam adhimāsais
+BSSc iṣṭayutaūnam tulyam kurvan ā vatsarāt gaṇakas Cb
+BSSa nischedabhāgahāras bhānos saptatiguṇas aṃśaśeṣaūnas
+BSSc śudhyati ayutavibhaktas kurvan ā vatsarāt gaṇakas Cb
+bhāvitakam
+BSSa bhāvitakarūpaguṇanā saavyaktavadhā iṣṭabhājitā iṣṭaāptyos
+BSSc alpe adhikas adhike alpas kṣepyas bhāvitahṛtau vyastam Cb
+BSSa bhānos rāśiaṃśavadhāt tricaturguṇitān viśodhya rāśiaṃśān
+BSSc navatim dṛṣṭvā sūryam kurvan ā vatsarāt gaṇakas Cb
+BSSa bhāvitake yadghātas vinaṣṭavarṇena tadpramāṇāni
+BSSc kṛtvā iṣṭāni tadāhatavarṇaaikyam bhavati rūpāṇi Cb
+BSSa varṇapramāṇabhāvitaghātas bhavati iṣṭavarṇasaṅkhyā evam
+BSSc sidhyati vinā api bhāvitasamakaraṇāt kim kṛtam tat atas Cb
+vargaprakṛtis
+BSSa mūlam dvidhā iṣṭavargāt guṇakaguṇāt iṣṭayutavihīnāt ca
+BSSc ādyavadhas guṇakaguṇas saha antyaghātena kṛtam antyam Cb
+BSSa vajravadhaaikyam prathamam prakṣepas kṣepavadhatulyas
+BSSc prakṣepaśodhakahṛte mūle prakṣepake rūpe Cb
+BSSa rūpaprakṣepapade pṛthak iṣṭakṣepyaśodhyamūlābhyām
+BSSc kṛtvā antyaādyapade ye prakṣepe śodhane vā iṣṭe Cb
+BSSa caturadhike antyapadakṛtis triūnā dalitā antyapadaguṇā antyapadam
+BSSc antyapadakṛtis viekā dvihṛtā ādyapadaāhatā ādyapadam Cb
+BSSa caturūne antyapadakṛtī triekayute vadhadalam pṛthak viekam
+BSSc viekaāḍyaāhatam antyam padavadhaguṇam ādyam āntyapadam Cb
+BSSa varge guṇake kṣepas kena cit uddhṛtayutaūnitas dalitas
+BSSc prathamas antyamūlam anyas guṇakārapadauddhṛtas prathamas Cb
+BSSa vargachinne guṇake prathamam tadmūlabhājitam bhavati
+BSSc vargachinne kṣepe tadpadaguṇite tadā mūle Cb
+BSSa guṇakayutis aṣṭaguṇitā guṇakaantaravargabhājitā rāśis
+BSSc guṇakau triguṇau vyastaadhikau hṛtau antareṇa pade Cb
+BSSa vargas anyakṛtiyutaūnas tadsaṃyogaantaraardhakṛtibhaktas
+BSSc tadguṇitau yutiviyutau vargau ghāte ca rūpayute Cb
+BSSa yais ūnas yais ca yutas rūpais vargas tadaikyam iṣṭahṛtam
+BSSc iṣṭaūnam taddalakṛtis ūnā abhyadhikā bhavati rāśis Cb
+BSSa yābhyām kṛtis adhikaūnas tadantaram hṛtayutaūnam iṣṭena
+BSSc taddalakṛtis adhikaūnā adhikayos adhikaūnayos rāśis Cb
+udāharaṇāni
+BSSa rāśikalāśeṣakṛtim dvinavatiguṇitām tryaśītiguṇitām vā
+BSSc saekā jñadine vargam kurvan ā vatsarāt gaṇakas Cb
+BSSa sūryaviliptāśeṣam pañcabhis ūnaāhatam tathā daśabhis
+BSSc varge bṛhaspatidine kurvan ā vatsarāt gaṇakas Cb
+BSSa bhagaṇaādiśeṣavargam tribhis guṇam saṃyutam śatais navabhis
+BSSc kṛtim aṣṭaśataūnam vā kurvan ā vatsarāt gaṇakas Cb
+BSSa bhagaṇaādiśeṣavargam caturguṇam pañcaṣaṣṭisaṃyuktam
+BSSc ṣaṣṭiūnam vā vargam kurvan ā vatsarāt gaṇakas Cb
+BSSa iṣṭabhagaṇaādiśeṣam dvinavatiūnam tryaśītisaṃguṇitam
+BSSc rūpeṇa yutam vargam kurvan ā vatsarāt gaṇakas Cb
+BSSa adhimāsaśeṣavargam trayodaśaguṇam tribhis śatais yuktam
+BSSc trighanaūnam vā vargam kurvan ā vatsarāt gaṇakas Cb
+BSSa induviliptāśeṣam saptadaśaguṇam trayodaśaguṇam ca api
+BSSc pṛthak ekayutam vargam kurvan ā vatsarāt gaṇakas Cb
+BSSa avamaavaśeṣavargam dvādaśaguṇitam śatena saṃyuktam
+BSSc tribhis ūnam vā vargam kurvan ā vatsarāt gaṇakas Cb
+BSSa jñadine arkakalāśeṣam gurudinavikalāavaśeṣayuktaūnam
+BSSc vargam vadham ca saekam kurvan ā vatsarāt gaṇakas Cb
+BSSa vikalāśeṣam sahitam trinavatyā saptaṣaṣṭihīnam ca
+BSSc bhānos jñadine vargam kurvan ā vatsarāt gaṇakas Cb
+BSSa jñadine arkakalāśeṣam dvādaśabhis saṃyutam triṣaṣṭyā ca
+BSSc ṣaṣṭyā aṣṭabhis ca ūnam kurvan ā vatsarāt gaṇakas Cb
+BSSa induviliptāśeṣāt raviliptāśeṣam aṃśaśeṣam vā
+BSSc atha vā madhyamam iṣṭam kurvan ā vatsarāt gaṇakas Cb
+BSSa jīvaviliptāśeṣāt kujam indum bhaumaliptikāśeṣāt
+BSSc ravim indubhāgaśeṣāt kurvan ā vatsarāt gaṇakas Cb
+BSSa iṣṭagrahaiṣṭaśeṣāt dyugaṇas gatanisapavartasaṃguṇitais
+D apavartta  apavarta
+BSSc chedadinais adhikas asmāt anyagrahaśeṣam iṣṭas vā Cb
+BSSa nischedabhāgahārau grahayos viparītau grahayos dyugaṇāt
+BSSc yasmāt tadnischedena uddhṛtayos labdhasaṃguṇitau
+D uddhatayos  uddhṛtayos Cb
+BSSa nischedabhāgahārau viparītau tadyutāt punar tasmāt
+BSSc śeṣe dyugaṇāt evam triādīnām prākvat iṣṭadine Cb
+BSSa dyugaṇam avamaavaśeṣāt ravicandrau madhyamau sphuṭau atha vā
+BSSc evam tithim graham vā kurvan ā vatsarāt gaṇakas Cb
+BSSa ekadinam avamaśeṣam yadguṇam ekaravicandrabhagaṇaūnam
+BSSc śudhyati bhūdinabhaktam viekam cāndrais taduktis iyam Cb
+BSSa iṣuśarakṛtaaṣṭadigbhis  saṅguṇitāt avamaśeṣakāt bhaktāt
+BSSc rūpaaṣṭavedarasaśūnyaśaraguṇais  dinagaṇas śeṣam Cb
+BSSc iṣṭaavamaśeṣāt yat śeṣam ravibhagaṇaśeṣam tat Cb
+BSSa goagaindukhaīśaguṇitāt bhaktāt nakhapakṣayamarasaiṣuguṇais 
+BSSc śeṣam avamaavaśeṣāt tithayas avamaśeṣakāt vikalam Cb
+BSSa bhāgakalāvikalāaikyam dṛṣṭvā vikalāantaram ca ke śeṣe
+BSSc aikyam dvidhā antaraadhikahīnam ca dvibhājitam śeṣe Cb
+BSSa tadvargaantaram ādye tadantaram ca anatarauddhṛtayutaūnam
+BSSc vargaantaram vibhaktam dvābhyām śeṣe tatas dyugaṇas Cb 
+BSSa kṛtisaṃyogāt dviguṇāt yutivargam prohya śeṣamūlam yat
+BSSc tena yutaūnas yogas dalitas śeṣe pṛthak abhīṣṭe Cb
+BSSa śeṣavadhāt dvikṛtiguṇāt śeṣaantaravargasaṃyutāt mūlam
+BSSc śeṣaantaraūnayuktam dalitam śeṣe pṛthak abhīṣṭe Cb
+BSSa hṛdighātram amī praśnās praśnān anyān sahasraśas kuryāt
+D hṛdighātram  hṛdmātram
+BSSc anyais dattān praśnān uktyā evam sādhayet karaṇais Cb
+BSSa janasaṃsadi daivavidām tejas nāśayati bhānus iva bhānām
+BSSc kuṭṭākārapraśnais pathitais api kim punar śataśas
+Cb ḍ śataśas  sūtrais
+BSSa pratisūtram amī praśnās pathitās sauddeśakeṣu sūtreṣu
+BSSc āryātriadhikaśatena ca kuṭṭas ca aṣṭādaśas adhyāyas Cb
+BSSp iti śrībrāhmasphuṭasiddhānte kuṭṭakaadhyāyas aṣṭādaśas
+śaṅkuchāyāādijñānam
+praśnās
+BSSa dṛṣṭvā dinaardhaghaṭikā yas arkajñas akṣaaṃśakān vijānāti
+BSSc udayaantaraghaṭikābhis jñātāt jñeyam sas tantrajñas
+BSSa astaantaraghaṭikābhis yas jñātāt jñeyam ānayati tastmāt
+BSSc madhyagatim yugabhagaṇān ānayati tatas sas tantrajñas
+BSSa ānayati yas tamasraviśaśaaṅkamānāni dīpakaśikhaauccyāt
+BSSc śaṅkutalaantarabhūmijñāne chāyām sas tantrajñas
+BSSa iṣṭagṛhaauccyajñas yas tadantarajñas nirīkṣyate tu jale
+BSSc gṛhabhittiagram darśayati darpaṇe vā sas tantrajñas
+BSSa chāyādvitīyabhāagraantaravijñānena vetti dīpaaucyam
+BSSc śaṅkuchāyājñas vā bhūmes chāyām sas tantrajñas
+D śaṅka  śaṅku
+BSSa dṛṣṭvā gṛhatalaantarajālabhos dṛṣṭvā agram gṛhasya bhūmijñas
+D dṛṣṭvā gṛhatalaantarajālabhos  gṛhapuruṣaantarasalile yas
+BSSc vetti gṛhaauccyam dṛṣṭvā tailastham vā sas tantrajñas
+BSSa vīkṣya gṛhaagram salile prasārya salilam punar svabhūjñāne
+BSSc ānayati jalāt bhūmim gṛhasya vā auccyam sas tantrajñas
+BSSa jñātais chāyāpuruṣais vijñāte toyakuḍyayos vivare
+BSSc kuḍye arkatejasas yas vetti ārūḍhim sas tantrajñas
+uttarāṇi
+BSSa iṣṭadivasaardhaghaṭikā ghaṭikāpañcadaśaantaraprāṇās
+BSSc taddivasacaraprāṇās tais akṣam sādhayet prākvat
+BSSa jñātajñeyagrahayos udayaantaranāḍikābhis adhikaūnas
+BSSc udayais jñātas jñātāt jñeyas prākaparayos jñeyas
+BSSa jñātas sabhaardhas udayais astaantaranāḍikābhis adhikaūnas
+BSSc jñātāt pūrvaaparayos jñeyas bhaardhaūnake jñeyas
+BSSa jñātam kṛtvā madhyam bhūyas anyadine tadantaram bhuktis
+BSSc trairāśikena bhuktyā kalpagrahamaṇḍalaānayanam
+BSSa sthitiardhāt viparītam tamaspramāṇam sphuṭam grahaṇe
+BSSc mānaudayāt raviindvos ghaṭikāavayavena bhaudayatas
+BSSa dīpatalaśaṅkutalayos antaram iṣṭapramāṇaśaṅkuguṇam
+BSSc dīpaśikhaauccyāt śaṅkum viśodhya śeṣauddhṛtam chāyā
+BSSa śaṅkuantareṇa guṇitā chāyā chāyāantareṇa bhaktā bhūs 
+BSSc sachāyā śaṅkuguṇā dīpaauccyam chāyayā bhaktā
+BSSa jñātvā śaṅkuchāyām anupātāt sādhayet samucchrāyān
+BSSc gṛhacaityatarunagānām auccyam vijñāya vā chāyām
+BSSa yutadṛṣṭigṛhaauccyahṛtā hi antarabhūmis dṛkauccyasaṅguṇitā
+BSSc phalabhūs nyaste toye pratirūpaagram gṛhasya narāt
+BSSa gṛhapuruṣaantarasalile vīkṣya gṛhaagram dṛkauccyasaṅguṇitam
+BSSc gṛhatoyaantaram auccyam gṛhasya nṛjalaantareṇa hṛtam
+BSSa prathamadvitīyanṛjalaantaraantareṇa uddhṛtā jalaapasṛtis
+BSSc dṛṣṭiauccyaguṇā ucchrāyas toyāt nṛjalaantaraguṇā bhūs
+BSSa chāyāpuruṣachinnam jalakuḍyaantaram avāptam ārūḍhis
+BSSc adhyāyas viṃśatiāryāṇām ekonaviṃśas ayam
+chandascitiuttaram
+BSSa ṛgvargaḥ paryāyaḥ samūhayogāvayukṣu yugmeṣu
+BSSc soyāḥ prāgvatprāptādāścatuṣkakāḥ śeṣayuktyontyaḥ
+BSSa ekādiyutavihīnāvādyantau tadviparyayau yāvat
+BSSc vargādiṣu viṣamayujāṃ kramotkramādvardhayetpādān
+BSSa ekaikena dvyādvyāḥ soppappadhikeṣu tatpratiṣṭheṣu
+BSSc vargādirabhīṣṭāntaḥ prastāro bhavati yavamadhyaḥ
+BSSa sūnontyo dvipadāgraṃ tripadādyānāmadhaḥ pṛthak saṃkhyā
+BSSc tacchodhyo vyekaḥ pṛthagntādrūpamūrdhvayutam
+BSSa yāvat pādāvyekāgacchādvarṇeṣvathaikavṛddheṣu
+BSSc rūpādyutaghāte vargādyānāṃ parā saṃkhyā
+BSSa rūpādhikapādārdheviṣameṣūrdhvaḥ sameṣu pādārdhe
+BSSc ardhādviguṇāvyekāṃyulānyadhastasya sarveṣām
+BSSa mādhyais tathārdhahīnaiḥ kramapādair vyastatulyapādādyaḥ
+BSSc viṣameravyekaṃ madhye prohyādyānyataḥ kuryāt
+BSSa saikakramatulyādyair nyāso'bhyadhiko viśodhitaś cādhaḥ
+BSSc saṃkhyaikyaṃ tādṛk yādṛk prathamas trirahito naṣṭe
+BSSa mādhyaiḥ kṛtaiś ca dalitaiḥ samasaṃkhyāyāṃ kramotkramāt kṣeppam
+BSSc viṣamāyāṃ vyekāyāṃ dalam kramād uttkramāt saikam
+BSSa samasaṃkhyāyāṃ sopānakramotkramābhyāṃ tathaiva viṣamābhyām
+BSSc kalpyā pacite dṛṣṭe prathamaḥ śeṣākṣarāṇyante
+BSSa samadalasamaviṣamāṇāṃ saṃkhyāpādārdhasarvakalpavadhaḥ
+BSSc svādyavadho'nyaiḥ pādaiḥ svaparasya prāgvadhaḥ saikaiḥ
+BSSa ādyādanantaro'dhaḥ kalppo'nyatulyamādyaḥ prāk
+BSSc nyāso vargo'nyonaḥ prastāro'rdhasamaviṣamāṇām
+BSSa naṣṭentyāt svādhasthonakalpaghāto'rdhatulyaviṣamāṇām
+BSSc vyekaḥ pṛthak svavargoddhṛtaḥ phalaṃ tulyakalyānām
+BSSa uddiṣṭe kalpahṛte'tītaiḥ prathamaḥ phale sarūpe 'nyaḥ
+BSSc asakṛdvargāṃśayute saike vārdhasamaviṣamāṇām
+BSSa kapeṣu pṛthak gurulaghusaṃkhyaikādibhājitā prāgvat
+BSSc viṣameṣvādyalaghūno laghubhir meruḥ samādīnām
+BSSa ekadvitayoḥ parato dvisaṃguṇo'nantarādvirūpo'dhaḥ
+BSSc vargadharādyonodalasamaviṣamāṇāṃ dhvajo laghubhiḥ
+BSSa laghusaṃkhyā padadalitā parato'dho'dhaś ca śudhyati hṛtā yaiḥ
+BSSc dviguṇāntaiḥ śuddhair vargaparair mandaro laghubhiḥ
+BSSa kṛtvādho'dhaḥ kalpyānyekādyekottarānadhasteṣām
+BSSc svāt parato'nyaikyam adhaḥ prastārād uktavad ihādyaiḥ
+BSSa guruṣaṣṭyekānighaṭīdviguṇānyekāṃgulāni saṃkhyā syāt
+BSSc drāviṃśatir āryāṇāṃ chandaścityuttaro'dhyāyaḥ
+BSSp iti śrībrāhmasphuṭasiddhānte chandaścityuttarādhyāyo viṃśatitamaḥ
+jyāprakaraṇam
+BSSa rāśiaṣṭaaṃśeṣu aṅkān padasandhibhyas kramautkramāt kṛtvā
+BSSc badhnīyāt sūtrāṇi dvayos dvayos jyās tadardhāni
+BSSa jyāardhāni jyāardhānām jyākhaṇḍāni antarāṇi
+BSSc vyastāni antyāt atha vā iṣus utkramajyā dhanus tābhyām
+BSSa ekadvitriguṇāyās vyāsaardhakṛtes pṛthak caturthebhyas
+BSSc mūlāni aṣṭadvādaśaṣoḍaśakhaṇḍāni atas anyāni
+BSSa tulyakramautkramajyāsamakhaṇḍakavargayuticaturbhāgam
+BSSc prohya anaṣṭam vyāsaardhavargatas tadpade prathamam
+BSSa taddalakhaṇḍāni tadūnajinasamāni dvitīyam utpattau
+BSSc kṛtayamalaekadiśīśaiṣusaptarasaguṇanavaādīnām
+BSSa evam jīvākhaṇḍāni alpāni bahūni vā ādyakhaṇḍāni
+BSSc jyāardhāni vṛttaparidhes ṣaṣṭhacaturthatribhāgānām
+BSSa utkramasamakhaṇḍaguṇāt vyāsāt atha vā caturthabhāgāt yat
+BSSc kṛtvā uktakhaṇḍakāni jyāardhaānayanam na laghu asmāt

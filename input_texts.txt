@@ -1,0 +1,8 @@
+/Users/aarnavsrivastava/Desktop/sanskrit-english-identification/english
+english
+/Users/aarnavsrivastava/Desktop/sanskrit-english-identification/hindi
+hindi
+/Users/aarnavsrivastava/Desktop/sanskrit-english-identification/sanskrit
+sanskrit
+/Users/aarnavsrivastava/Desktop/sanskrit-english-identification/tibetan
+tibetan

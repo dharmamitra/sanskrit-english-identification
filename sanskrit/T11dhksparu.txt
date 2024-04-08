@@ -1,1 +1,131 @@
-Explanatory RemarksA number of five figures at the left side indicates the location of the key wordin the basic texts In the case of the SVthe HB and the VNthe first three figuresindicate the page numberand the last two indicate the line number for example In the case of thePV and the NB the second figure indicates the chapter number and the last threefigures indicate the karika or sutra number for example PVPV thePramanasiddhichapter v NBNBthe Pararthanumanachapter sutra In the case of the SPthe last two figures indicate the karika number for example In this databasesentences are artificially divided into wordunitsalthough theyinvolve a phonetic fusion or union in the basic texts Furthercompound words aredivided into their shortest constitutive elements we use a hyphen to indicate thathyphenated elements originally form a compound wordwith the followingexceptions The prefixes adurnih remain undividedirrespective of attachment towords or compound words Suffixes making an adverbfor example vatvasaare divided But suffixesmaking a possessive adjectivefor example vatmatremain undivided and termssuch as a numeral dhavidhaprakara remain also undivided Compound words with the suffixes tatva or bhavabhuta fundamentallyremain undivided For examplekaryakaranabhavabhutata Compound words with evamtattathaparayathasu sva in thewordhead fundamentally remain undivided For exampleevamjatiyatadutpattitathakrta paratantrayatharthayathasvamsujnanatva svabhava Some compound words which are regarded as terminology remain alsoundivided For example agnihotraayogavyavacchedaarthapatti padarthaparamarthaprasajyapratisedhaviruddhavyabhicarinsamanantarapratyayasamtanaparinamasamanyalaksanasvabhavapratibandha Those terms whose wordhead is subject to the Sandhi rules for example ddhetu are cited in their original form for example d hetufor the sake ofusing this database to make an KWIC index August   TsukubaMotoi ONONoteThis database is quite a tentative oneand I must admit that there are a lot oferrors and defects in this version I would appreciate it very much if the user wouldpoint out any errors in this version so that we can make a better new version in thefutureEmail onologostsukubaacjp  pāratantryaṃ hi sambandhaḥ siddhe kā paratantratā tasmāt sarvasya bhāvasya sambandho na asti tattvataḥ rūpaśleṣo hi sambandho dvitve sa ca kathaṃ bhavet tasmāt prakṛtibhinnānāṃ sambandho na asti tattvataḥ paraapekṣā hi sambandhaḥ so asan katham apekṣate saṃś ca sarvanirāśaṃso bhāvaḥ katham apekṣate dvayor ekaabhisambandhāt sambandho yadi taddvayoḥ kaḥ sambandho anavasthā ca na sambandhamatis tathā tau ca bhāvau tadanyaś ca sarve te svaātmani sthitāḥ ity amiśrāḥ svayaṃ bhāvās tān miśrayati kalpanā tām eva ca anurundhānaiḥ kriyākārakavācinaḥ bhāvabhedapratītyarthaṃ saṃyojyante abhidhāyakāḥ kāryakāraṇabhāvo api tayor asahabhāvataḥ prasiddhyati kathaṃ dviṣṭho adviṣṭhe sambandhatā katham krameṇa bhāva ekatra vartamāṇo anyanispṛhaḥ tadbhāve api tadbhāvāt sambandho na ekavṛttimān yady apekṣya tayor ekam anyatra asau pravartate upakārī hy apekṣyaḥ syāt kathaṃ ca upakaroty asan yady ekaarthaabhisambandhāt kāryakāraṇatā tayoḥ prāptā dvitvaādisambandhāt savyetaraviśāṇayoḥ dviṣṭho hi kaścit sambandho na ato anyat tasya lakṣaṇam bhāvaabhāvaupadhir yogaḥ kāryakāraṇatā yadi yogaupādhī na tāv eva kāryakāraṇatā atra kim bhedāc cen nanv ayaṃ śabdo niyoktāraṃ samāśritaḥ paśyann ekam adṛṣṭasya darśane tadadarśane apaśyat kāryam anveti vinā vyākhyātṛbhir janaḥ darśanād adarśane muktvā kāryabuddher asambhavāt kāryaādiśrutir apy atra lāghavaarthaṃ niveśitā tadbhāvaabhāvāt tatkāryagatir yā apy anuvarṇyate saṃketaviṣayaākhyā sā sāsnāāder gogatir yathā bhāve bhāvini tadbhāvo bhāva eva ca bhāvitā prasiddhe hetuphalate pratyakṣaanupalambhataḥ etāvanmātratattvaarthāḥ kāryakāraṇagocarāḥ vikalpā darśayanty arthān mithyāarthā ghaṭitān iva bhinne kā ghaṭanā abhinne kāryakāraṇatā api kā bhāve hy anyasya viśliṣṭau śilaṣṭau syātāṃ kathaṃ ca tau saṃyogisamavāyyaādi sarvam etena cintitam anyonyaanupakārāc ca na sambandhī ca tādṛśaḥ janane api hi kāryasya kenacit samavāyinā samavāyī tadā na asau na tato atiprasaṅgataḥ tayor anupakāre api samavāye paratra vā sambandho yadi viśvaṃ syāt samavāyi parasparam saṃyogajanane api iṣṭau tataḥ saṃyoginau na tau karmaādiyogitaāpatteḥ sthiteś ca prativarṇitā saṃyogaādyāśraye yogyam ayogyaṃ tac ca jāyate nityaṃ yogyasvabhāvasya tadvaikalyavirodhataḥ iti tadyogyatāvācyaḥ svabhāvo asya nirucyatām vibhāgayogagatibhiḥ kim anyair gamanaādibhiḥ teṣu satsv api tasya iti sambandhasya aprasiddhitaḥ yuktaḥ svabhāvabhedo ayam tat pratikṣaṇajanmanām
+Explanatory Remarks
+A number of five figures at the left side indicates the location of the key word
+in the basic texts In the case of the SV
+the HB and the VN
+the first three figures
+indicate the page number
+and the last two indicate the line number for example
+ In the case of the
+PV and the NB the second figure indicates the chapter number and the last three
+figures indicate the karika or sutra number for example PVPV the
+Pramanasiddhichapter v NBNB
+the Pararthanumanachapter sutra 
+In the case of the SP
+the last two figures indicate the karika number for example
+ In this database
+sentences are artificially divided into wordunits
+although they
+involve a phonetic fusion or union in the basic texts Further
+compound words are
+divided into their shortest constitutive elements we use a hyphen to indicate that
+hyphenated elements originally form a compound word
+with the following
+exceptions
+ The prefixes a
+dur
+nih remain undivided
+irrespective of attachment to
+words or compound words
+ Suffixes making an adverb
+for example vat
+vasa
+are divided But suffixes
+making a possessive adjective
+for example vat
+mat
+remain undivided and terms
+such as a numeral dha
+vidha
+prakara remain also undivided
+ Compound words with the suffixes ta
+tva or bhava
+bhuta fundamentally
+remain undivided For example
+karyakaranabhavabhutata
+ Compound words with evam
+tat
+tatha
+para
+yatha
+su sva in the
+wordhead fundamentally remain undivided For example
+evamjatiya
+tadutpatti
+tathakrta paratantra
+yathartha
+yathasvam
+sujnanatva svabhava
+ Some compound words which are regarded as terminology remain also
+undivided For example agnihotra
+ayogavyavaccheda
+arthapatti padartha
+paramartha
+prasajyapratisedha
+viruddhavyabhicarin
+samanantarapratyaya
+samtanaparinama
+samanyalaksana
+svabhavapratibandha
+ Those terms whose wordhead is subject to the Sandhi rules for example d
+dhetu are cited in their original form for example d hetu
+for the sake of
+using this database to make an KWIC index
+ August   Tsukuba
+Motoi ONO
+Note
+This database is quite a tentative one
+and I must admit that there are a lot of
+errors and defects in this version I would appreciate it very much if the user would
+point out any errors in this version so that we can make a better new version in the
+future
+Email onologostsukubaacjp 
+ pāratantryaṃ hi sambandhaḥ siddhe kā paratantratā
+ tasmāt sarvasya bhāvasya sambandho na asti tattvataḥ
+ rūpaśleṣo hi sambandho dvitve sa ca kathaṃ bhavet
+ tasmāt prakṛtibhinnānāṃ sambandho na asti tattvataḥ
+ paraapekṣā hi sambandhaḥ so asan katham apekṣate
+ saṃś ca sarvanirāśaṃso bhāvaḥ katham apekṣate
+ dvayor ekaabhisambandhāt sambandho yadi taddvayoḥ
+ kaḥ sambandho anavasthā ca na sambandhamatis tathā
+ tau ca bhāvau tadanyaś ca sarve te svaātmani sthitāḥ
+ ity amiśrāḥ svayaṃ bhāvās tān miśrayati kalpanā
+ tām eva ca anurundhānaiḥ kriyākārakavācinaḥ
+ bhāvabhedapratītyarthaṃ saṃyojyante abhidhāyakāḥ
+ kāryakāraṇabhāvo api tayor asahabhāvataḥ
+ prasiddhyati kathaṃ dviṣṭho adviṣṭhe sambandhatā katham
+ krameṇa bhāva ekatra vartamāṇo anyanispṛhaḥ
+ tadbhāve api tadbhāvāt sambandho na ekavṛttimān
+ yady apekṣya tayor ekam anyatra asau pravartate
+ upakārī hy apekṣyaḥ syāt kathaṃ ca upakaroty asan
+ yady ekaarthaabhisambandhāt kāryakāraṇatā tayoḥ
+ prāptā dvitvaādisambandhāt savyetaraviśāṇayoḥ
+ dviṣṭho hi kaścit sambandho na ato anyat tasya lakṣaṇam
+ bhāvaabhāvaupadhir yogaḥ kāryakāraṇatā yadi
+ yogaupādhī na tāv eva kāryakāraṇatā atra kim
+ bhedāc cen nanv ayaṃ śabdo niyoktāraṃ samāśritaḥ
+ paśyann ekam adṛṣṭasya darśane tadadarśane
+ apaśyat kāryam anveti vinā vyākhyātṛbhir janaḥ
+ darśanād adarśane muktvā kāryabuddher asambhavāt
+ kāryaādiśrutir apy atra lāghavaarthaṃ niveśitā
+ tadbhāvaabhāvāt tatkāryagatir yā apy anuvarṇyate
+ saṃketaviṣayaākhyā sā sāsnāāder gogatir yathā
+ bhāve bhāvini tadbhāvo bhāva eva ca bhāvitā
+ prasiddhe hetuphalate pratyakṣaanupalambhataḥ
+ etāvanmātratattvaarthāḥ kāryakāraṇagocarāḥ
+ vikalpā darśayanty arthān mithyāarthā ghaṭitān iva
+ bhinne kā ghaṭanā abhinne kāryakāraṇatā api kā
+ bhāve hy anyasya viśliṣṭau śilaṣṭau syātāṃ kathaṃ ca tau
+ saṃyogisamavāyyaādi sarvam etena cintitam
+ anyonyaanupakārāc ca na sambandhī ca tādṛśaḥ
+ janane api hi kāryasya kenacit samavāyinā
+ samavāyī tadā na asau na tato atiprasaṅgataḥ
+ tayor anupakāre api samavāye paratra vā
+ sambandho yadi viśvaṃ syāt samavāyi parasparam
+ saṃyogajanane api iṣṭau tataḥ saṃyoginau na tau
+ karmaādiyogitaāpatteḥ sthiteś ca prativarṇitā
+ saṃyogaādyāśraye yogyam ayogyaṃ tac ca jāyate
+ nityaṃ yogyasvabhāvasya tadvaikalyavirodhataḥ
+ iti tadyogyatāvācyaḥ svabhāvo asya nirucyatām
+ vibhāgayogagatibhiḥ kim anyair gamanaādibhiḥ
+ teṣu satsv api tasya iti sambandhasya aprasiddhitaḥ
+ yuktaḥ svabhāvabhedo ayam tat pratikṣaṇajanmanām

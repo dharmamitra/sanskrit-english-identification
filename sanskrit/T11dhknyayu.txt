@@ -1,1 +1,386 @@
-Explanatory RemarksA number of five figures at the left side indicates the location of the key wordin the basic texts In the case of the SVthe HB and the VNthe first three figuresindicate the page numberand the last two indicate the line number for example In the case of thePV and the NB the second figure indicates the chapter number and the last threefigures indicate the karika or sutra number for example PVPV thePramanasiddhichapter v NBNBthe Pararthanumanachapter sutra In the case of the SPthe last two figures indicate the karika number for example In this databasesentences are artificially divided into wordunitsalthough theyinvolve a phonetic fusion or union in the basic texts Furthercompound words aredivided into their shortest constitutive elements we use a hyphen to indicate thathyphenated elements originally form a compound wordwith the followingexceptions The prefixes adurnih remain undividedirrespective of attachment towords or compound words Suffixes making an adverbfor example vatvasaare divided But suffixesmaking a possessive adjectivefor example vatmatremain undivided and termssuch as a numeral dhavidhaprakara remain also undivided Compound words with the suffixes tatva or bhavabhuta fundamentallyremain undivided For examplekaryakaranabhavabhutata Compound words with evamtattathaparayathasu sva in thewordhead fundamentally remain undivided For exampleevamjatiyatadutpattitathakrta paratantrayatharthayathasvamsujnanatva svabhava Some compound words which are regarded as terminology remain alsoundivided For example agnihotraayogavyavacchedaarthapatti padarthaparamarthaprasajyapratisedhaviruddhavyabhicarinsamanantarapratyayasamtanaparinamasamanyalaksanasvabhavapratibandha Those terms whose wordhead is subject to the Sandhi rules for example ddhetu are cited in their original form for example d hetufor the sake ofusing this database to make an KWIC index August   TsukubaMotoi ONONoteThis database is quite a tentative oneand I must admit that there are a lot oferrors and defects in this version I would appreciate it very much if the user wouldpoint out any errors in this version so that we can make a better new version in thefutureEmail onologostsukubaacjp  samyagjñānapūrvikā sarvapuruṣaarthasiddhir iti tad vyutpādyate dvividhaṃ samyagjñānam pratyakṣam anumānaṃ ca iti tatra pratyakṣaṃ kalpanā apoḍham abhrāntam abhilāpasaṃsargayogyapratibhāsā pratītiḥ kalpanā tayā rahitaṃ timiraāśubhramaṇanauyānasaṃkṣobhaādyanāhitavibhramaṃ jñānaṃ pratyakṣam tat caturvidham indriyajñānam svaviṣayaanantaraviṣayasahakāriṇā indriyajñānena samanantarapratyayena janitaṃ tan manovijñānam sarvacittacaittānām ātmasaṃvedanam bhūtaarthabhāvanāprakarṣaparyantajaṃ yogijñānaṃ ca iti tasya viṣayaḥ svalakṣaṇam yasya arthasya saṃnidhānaasaṃnidhānābhyāṃ jñānapratibhāsabhedas tat svalakṣaṇam tad eva paramārthasat arthakriyāsāmarthyalakṣaṇatvād vastunaḥ anyat sāmānyalakṣaṇam so anumānasya viṣayaḥ tad eva ca pratyakṣaṃ jñānaṃ pramāṇaphalam arthapratītirūpatvāt arthasārūpyam asya pramāṇam tadvaśād arthapratītisiddher iti anumānaṃ dvividhā svārthaṃ parārthaṃ ca tatra svārthaṃ trirūpāl liṅgād yad anumeye jñānaṃ tad anumānam pramāṇaphalavyavasthā atra api pratyakṣavat trairūpyaṃ punar liṅgasya anumeye sattvam evasapakṣa eva sattvamasapakṣe ca asattvam eva niścitam anumeyo atra jijñāṣitaviśeṣo dharmī sādhyadharmasāmānyena samāno arthaḥ sapakṣaḥ na sapakṣo asapakṣaḥ tato anyas tadviruddhas tadabhāvaś ca iti trirūpāṇi ca trīṇy eva liṅgāni anupalabdhiḥ svabhāvaḥ kāryaṃ ca iti tatra anupalabdhir yathāna pradeśaviśeṣe kvacid ghaṭaḥupalabdhilakṣaṇaprāptasya anupalabdher iti upalabdhilakṣaṇaprāptir upalambhapratyayaantarasākalyaṃ svabhāvaviśeṣaś ca yaḥ svabhāvaḥ satsv anyeṣu upalambhapratyayeṣu san pratyakṣa eva bhavati sa svabhāvaviśeṣaḥ svabhāvaḥ svasattāmātrabhāvini sādhyadharme hetuḥ yathā vṛkṣo ayaṃ śiṃśapātvād iti kāryaṃ yathā vahnir atra dhūmād iti atra dvau vastusādhanau ekaḥ pratiṣedhahetuḥ svabhāvapratibandhe hi saty artho arthaṃ gamayet tadapratibaddhasya tadavyabhicāraniyamaabhāvāt sa ca pratibandhaḥ sādhye arthe liṅgasya vastutas tādātmyāt tadutpatteś ca atadsvabhāvasya atadutpatteś ca tatra apratibaddhasvabhāvatvāt te ca tādātmyatadupattī svabhāvakāryayor eva iti tābhyām eva vastusiddhiḥ pratiṣedhasiddhir api yathoktāyā eva anupalabdheḥ sati vastuni tasyā asambhavāt anyathā ca anupalabdhilakṣaṇaprāpteṣu deśakālasvabhāvaviprakṛṣṭeṣv artheṣv ātmapratyakṣanivṛtter abhāvaniścayaabhāvāt amūḍhasmṛtisaṃskārasya atītasya vartamānasya ca pratipattṛpratyakṣasya nivṛttir abhāvavyavahārapravartanī tasyā eva abhāvaniścayāt sā ca prayogabhedād ekadaśaprakārā svabhāvaanupalabdhir yathāna atra dhūma upalabdhilakṣaṇaprāptasya anupalabdhir iti kāryaanupalabdhir yathāna iha apratibaddhasāmarthyāni dhūmakāraṇāni santi dhūmaabhāvād iti vyāpakaanupalabdhir yathāna atra śiṃśapāvṛkṣaabhāvād iti svabhāvaviruddhaupalabdhir yathāna atra śītasparśo vahner iti viruddhakāryaupalabdhir yathāna atra śītasparśo dhūmād iti viruddhavyāptaupalabdhir yathāna dhūmabhāvī bhūtasya api bhāvasya vināśaḥhetvantaraapekṣaṇād iti kāryaviruddhaupalabdhir yathāna iha apratibaddhasāmarthyāni śītakāraṇāni santi vahner iti vyāpakaviruddhaupalabdhir yathāna atra tuṣārasparśo vahner iti kāraṇaanupalabdhir yathāna atra dhūmo vahnyabhāvād iti kāraṇaviruddhaupalabdhir yathāna asya romaharṣaādiviśeṣāḥsaṃnihitadahanaviśeṣatvād iti kāraṇaviruddhakāryaupalabdhir yathāna romaharṣaādiviśeṣayuktapuruṣavān ayaṃ pradeśaḥ dhūmād iti ime sarve kāryaanupalabdhyādayo daśaanupalabdhiprayogāḥ svabhāvaanupalabdhau saṃgraham upayānti pāraṃparyeṇa arthāntaravidhipratiṣedhāyāṃ prayogabhede api prayogadarśanaabhyāsāt svayam apy evaṃ vyavacchedapratītir bhavati iti svārthe apy anumāne asyāḥ prayoganirdeśaḥ sarvatra ca asyām abhāvavyavahārasādhanyām anupalabdhau yeṣāṃ svabhāvaviruddhaādīnāmupalabdhyā kāraṇaādīnām anupalabdhyā ca pratiṣedha uktas teṣām upalabdhilakṣaṇaprāptānām eva upalabdhir anupalabdhiś ca veditavyā anyeṣāṃ virodhakāryakāraṇabhāvasiddheḥ pramāṇanivṛttav apy arthaabhāvaasiddher iti trirūpaliṅgaākhyānaṃ parārtham anumānam kāraṇe kāryaupacārāt tad dvividham prayogabhedāt sādharmyavaidharmyavacana iti na anayor arthataḥ kaścid bhedaḥ anyatra prayogabhedāt tatra sādharmyavat prayogaḥyad upalabdhilakṣaṇaprāptaṃ sann na upalabhyate so asadvyavahāraviṣayaḥ siddhaḥ yathā anyaḥ kaścid dṛṣṭaḥ śaśaviṣāṇaādiḥ na upalabhyate ca kaścit pradeśaviśeṣa upalabdhilakṣaṇaprāpto ghaṭa ity anupalabdhiprayogaḥ  tathā svabhāvahetoḥ prayogaḥyat sat tat sarvam anityamyathā ghaṭaādir iti śuddhasya svabhāvahetoḥ prayogaḥ yad utpattimat tad anityam iti svabhāvabhūtadharmabhedena svabhāvasya prayogaḥ yat kṛtakaṃ tad anityam ity upādhibhedena apekṣitaparavyāpāro hi bhāvaḥ svabhāvaniṣpattau kṛtaka iti evaṃ pratyayabhedabheditvaādayo api draṣṭavyāḥ sann utpattimān kṛtako vā śabda iti pakṣadharmaupadarśanam sarva ete sādhanadharmā yathāsvaṃ pramāṇaiḥ siddhasādhanadharmamātraanubandha eva sādhyadharmo avagantavyāḥ tasya eva tat svabhāvasya ca hetutvāt vastutas tayos tādātmyam tanniṣpattāv aniṣpannasya tatsvabhāvatvaabhāvāt vyabhicārasambhavāc ca kāryahetoḥ prayogaḥyatra dhūmas tatra agniḥyathā mahānasaādau asti ca iha dhūma iti iha api siddha eva kāryakāraṇabhāve kāraṇe sādhye kāryahetur vaktavyaḥ vaidharmyavataḥ prayogaḥyat sad upalabdhilakṣaṇaprāptaṃ tad upalabhyata evayathā nīlaādiviśeṣaḥ na ca evam iha upalabdhilakṣaṇaprāptasya sata upalabdhir ghaṭasya ity anupalabdhiprayogaḥ asaty anityatve na asty eva sattvam utpattimattvaṃ kṛtakatvaṃ vā saṃś ca śabda utpattimān kṛtako vā iti svabhāvahetoḥ prayogaḥ asaty agnau na bhavaty eva dhūmaḥ atra ca asti dhūma iti kāryahetoḥ prayogaḥ sādharmyeṇa api hi prayoge arthād vaidharmyagatir iti asati tasmin sādhyena hetor anvayaabhāvāt tathā vaidharmyeṇa apy anvayagatiḥ asati tasmin sādhyaabhāve hetvabhāvasya asiddheḥ na hi svabhāvapratibandhe asaty ekasya nivṛttav aparasya niyamena nivṛttiḥ sa ca dviprakāraḥ sarvasya tādātmyalakṣaṇas tadutpattilakṣaṇaś ca ity uktam tena hi nivṛttiṃ kathayatā pratibandho darśanīyaḥ tasmāt nivṛttivacanam ākṣiptapratibandhaupadarśanameva bhavati yac ca pratibandhaupadarśanaṃ tad eva anvayavacanam ity ekena apivākyena anvayamukhena vyatirekamukhena vā prayuktena sapakṣaasapakṣayor liṅgasyasadasattvakhyāpanaṃ kṛtaṃ bhavati iti na avaśyaṃ vākyadvayaprayogaḥ anupalabdhāv apiyat sad upalabdhilakṣaṇaprāptaṃ tad upalabhyata eva ity ukteanupalabhyamānaṃ tādṛśam asad iti pratīter anvayasiddheḥ dvayor apy anayoḥ prayogayor na avaśyaṃ pakṣanirdeśaḥ yasmāt sādharmyavatprayoge api yad upalabdhilakṣaṇaprāptaṃ san na upalabhyateso asadvyavahāraviṣayaḥ na upalabhyate ca atra upalabdhilakṣaṇaprāpto ghaṭaity ukte sāmarthyād eva na iha ghaṭa iti bhavati tathā vaidharmyavatprayoge apiyaḥ sadvyavahāraviṣaya upalabdhilakṣaṇaprāptaḥsa upalabhyata eva na tathā atra tādṛśo ghaṭa upalabhyata ity ukte sāmarthyād eva na iha sadvyavahāraviṣaya iti bhavati kīdṛśaḥ punaḥ pakṣa iti nirdeśyaḥ svarūpeṇa eva svayam iṣṭo anirākṛtaḥ pakṣa iti svarūpeṇa iti sādhyatvena iṣṭaḥ svarūpeṇa eva iti sādhyatvena eva iṣṭo na sādhanatvena api yathā śabdasya anityatve sādhye cākṣuṣatvaṃ hetuḥśabde asiddhatvāt sādhyam na punas tad iha sādhyatvena eva iṣṭamsādhanatvena abhidhānāt svayam iti vādinā yas tadā sādhanam āha etena yady api kvacic śāstre sthitaḥ sādhanam āhatac śāstrakāreṇa tasmin dharmiṇy anekadharmaabhyupagame api yas tadā tena vādinā dharmaḥ svayaṃ sādhayitum iṣṭaḥsa eva sādhyo na itara ity uktaṃ bhavati iṣṭa iti yatra arthe vivādena sādhanam upanyastaṃ tasya siddhim icchatā so anukto api vacanena sādhyaḥ tad adhikaraṇatvād vivādasya yathā parārthaś cakṣurādayaḥ saṃghātatvāc śayanaāsanaādyaṅgavad iti atraātmaarthā ity anuktāv apy ātmaarthatā sādhyā tena na uktamātram eva sādhyam ity uktaṃ bhavati anirākṛta itietallakṣaṇayoge api yaḥ sādhayitum iṣṭo apy arthaḥ pratyakṣaanumānapratītisvavacanair nirākriyatena sa pakṣa iti pradarśanaartham tatra pratyakṣanirākṛto yathāaśrāvaṇaḥ śabda iti anumānanirākṛto yathānityaḥ śabda iti pratītinirākṛto yathāacandraḥ śaśī iti svavacananirākṛto yathāna anumānaṃ pramāṇam iti catvāraḥ pakṣābhāsā nirākṛtā bhavanti evaṃ siddhasyaasiddhasya api sādhanatvena abhimatasyasvayaṃ vādinā tadā sādhayitum aniṣṭasya uktamātrasya ca viparyayeṇa sādhyaḥ tena eva svarūpeṇa abhimato vādina iṣṭo anirākṛtaḥ pakṣa iti pakṣalakṣaṇam anavadyaṃ darśitaṃ bhavati  trirūpaliṅgaākhyānaṃ parārthaanumānam ity uktam tatra trayāṇāṃ rūpāṇām ekasya api rūpasya anuktau sādhanābhāsaḥ uktāv apy asiddhau sandehe vā pratipādyapratipādakayoḥ ekasya rūpasya dharmisambandhasya asiddhau sandehe vā asiddho hetvābhāsāḥ yathā anityaḥ śabda iti sādhye cākṣuṣatvam ubhayaasiddham cetanās tarava iti sādhye sarvatvagapaharaṇe maraṇaṃ prativādyasiddhamvijñānaindriyaāyur nirodhalakṣaṇasya maraṇasya anena abhyupagamāttasya ca taruṣv asambhavāt acetanāḥ sukhaādaya iti sādhye utpattimatvaṃ vā sāṃkhyasya svayaṃ vādino asiddham tathā svayaṃ tadāśrayaṇasya vā sandehe asiddhaḥ yathā bāṣpaādibhāvena sandihyamāno bhūtasaṃghāto agnisiddhāv upadiśyamānaḥ sandigdhaasiddhaḥ yathā iha nikuñje mayūraḥ kekāyitād iti tadāpātadeśavibhrame dharmyasiddhāv apy asiddhaḥyathā sarvagata ātmā iti sādhye sarvatra upalambhamānaguṇatvam tathā ekasya rūpasya asapakṣe asattvasya asiddhāv anaikāntiko hetvābhāsaḥ yathā śabdasya anityatvaādike dharme sādhye prameyatvaādiko dharmaḥ sapakṣavipakṣayoḥ sarvatra ekadeśe vā vartamānaḥ tathā asya eva rūpasya sandehe apy anaikāntika eva yathā asarvajñaḥ kaścid vivakṣitaḥ puruṣo rāgaādimān vā sādhye vaktṛtvaādiko dharmaḥ sandigdhavipakṣavyāvṛttikaḥ  sarvajño vaktā na upalabhyate ity evaṃprakārasya anupalambhasya adṛśyaātmaviṣayatvena sandehahetutvāt tato asarvajñaviparyayād vaktṛtvaāder  vyāvṛttiḥ sandigdhā  vaktṛtvasarvajñatvayor virodhaabhāvāc ca yaḥ sarvajñaḥ sa vaktā na bhavati ity adarśane api vyatireko na sidhyati sandehāt dvividho hi padārthānāṃ virodhaḥ avikalakāraṇasya bhavato anyabhāve abhāvād virodhagatiḥ śītauṣṇasparśavat parasparaparihārasthitalakṣaṇatayā vā bhāvaabhāvavat sa ca dvividho api virodho vaktṛtvasarvajñatvayor na sambhavati na ca aviruddhavidher anupalabdhāv apy abhāvagatiḥ rāgaādīnāṃ vacanaādeś ca kāryakāraṇabhāvaasiddheḥ arthāntarasya ca akāraṇasya nivṛttau na vacanaāder nivṛttiḥ iti sandigdhavyatireko anaikāntiko vacanaādiḥ dvayo rūpayor viparyayasiddhau viruddhaḥ kayor dvayoḥ sapakṣe sattvasyaasapakṣe ca asattvasyayathā kṛtakatvaṃ prayatnānantarīyakatvaṃ ca nityatve sādhye viruddho hetvābhāsaḥ anayoḥ sapakṣe asattvamasapakṣe ca sattvam iti viparyayasiddhiḥ etau ca sādhyaviparyayasādhanād viruddhau nanu ca tṛtīyo api iṣṭavighātakṛd viruddhaḥ yathā parārthāś cakṣurādayaḥ saṃghātatvāc śayanaāsanaādyaṅgavad iti tad iṣṭasaṃhatapārārthyaviparyayasādhanād viruddhaḥ sa iha kasmān na uktaḥ anayor antarbhāvāt na hy ayam ābhyāṃ sādhyaviparyayasādhanatvena bhidyate na hi iṣṭauktayoḥ sādhyatvena kaścid viśeṣa iti dvayo rūpayor ekasya asiddhāv aparasya ca sandehe anaikāntikaḥ yathā vītarāgaḥ kaścit sarvajño vāvaktṛtvād iti vyatireko atra asiddhaḥsandigdho anvayaḥ sarvajñavītarāgayor viprakarṣād vacanaādes tatra sattvam asattvaṃ vā sandigdham anayor eva dvayo rūpayoḥ sandehe anaikāntikaḥ yathā sātmakaṃ jīvaccharīraṃ prāṇaādimattvād iti na hi sātmakanirātmakābhyām anyo rāśir asti yatra ayaṃ prāṇaādir vartate ātmano vṛttivyavacchedābhyāṃ sarvasaṃgrahād na apy anayor ekatra vṛttiniścayaḥ sātmakatvena anātmakatvena vā prasiddhe prāṇaāder asiddheḥ tasmāj jīvaccharīrasambandhī prāṇaādiḥ sātmakād anātmakāc ca sarvasmād vyāvṛttatvena asiddhes tābhyāṃ na vyatiricyate na tatra anveti ekātmany apy asiddheḥ na api sātmakād anātmakāc ca tasya anvayavyatirekayor abhāvaniścayaḥ ekaabhāvaniścayasya aparabhāvaniścayanāntarīyakatvāt anvayavyatirekayor anyonyavyavacchedarūpatvāt tata eva anvayavyatirekayoḥ sandehād anaikāntikāḥ sādhyaitarayor ato niścayaabhāvāt  evam eṣāṃ trayāṇāṃ rūpāṇām ekaikasya dvayor dvayor vā rūpayor asiddhau sandehe vā yathāyogam asiddhaviruddhaanaikāntikās trayo hetvābhāsāḥ  viruddhāvyabhicāry api saṃśayahetur uktaḥ sa iha kasmān na uktaḥ anumānaviṣaye asambhavāt na hi sambhavo asti kāryasvabhāvayor uktalakṣaṇayor anupalambhasya ca viruddhatāyāḥ na ca anyo avyabhicārī tasmād avastudarśanabalapravṛttam āgamaāśrayam anumānam āśritya tadarthavicāreṣu viruddhāvyabhicārī sādhanadoṣa uktaḥ śāstrakārāṇām artheṣu bhrāntyā viparītasvabhāvaupasaṃhārasambhavāt na hy asya sambhavo yathāvasthitavastusthitiṣv ātmakāryaanupalambheṣu tatra udāharaṇamyat sarvadeśaavasthitaiḥ svasambandhibhir yugapad abhisambadhyate tat sarvagatamyathā ākāśam abhisambadhyate ca sarvadeśaavasthitaiḥ svasambandhibhir yugapat sāmānyam iti tatsambandhisvabhāvamātraanubandhinī taddeśasaṃnihitasvabhāvatā na hi yo yatra na asti taddeśam ātmanā vyāpnoti iti svabhāvahetuprayogaḥ dvitīyo api prayogaḥyad upalabdhilakṣaṇaprāptaṃ san na upalabhyate na tat tatra asti tad yathākvacid avidyamāno ghaṭaḥ na upalabhyate ca upalabdhilakṣaṇaprāptaṃ sāmānyaṃ vyaktyantarāleṣviti ayam anupalambhaḥ svabhāvaś ca parasparaviruddhaarthasādhanād ekatra saṃśayaṃ janayataḥ  trirūpo hetur uktaḥ tāvatā ca arthapratītir iti na pṛthag dṛṣṭānto nāma sādhanaavayavaḥ kaścid tena na asya lakṣaṇaṃ pṛthag ucyate  hetoḥ sapakṣa eva sattvam asapakṣāc ca sarvato vyāvṛttī rūpam uktam abhedenapunar viśeṣeṇa kāryasvabhāvayor uktalakṣaṇayor janmatanmātraanubandhau darśanīyaavaktau tac ca darśayatāyatra dhūmas tatra agniḥasaty agnau na kvacid dhūmo yathā mahānasaitarayoḥyatra kṛtakatvaṃ tatra anityatvamanityatvaabhāvo kṛtakatvaasambhavo yathāghaṭaākāśayoḥiti darśanīyam na hy anyathā sapakṣavipakṣayoḥ sadasattve yathoktaprakāre śakye darśayitum tat kāryatāniyamaḥ kāryaliṅgasyasvabhāvaliṅgasya ca svabhāvena vyāptiḥ asmiṃś ca arthe darśite darśita eva dṛṣṭānto bhavati etāvān mātrarūpatvāt tasya iti etena eva dṛṣṭāntadoṣā api nirastā bhavanti yathā nityaḥ śabdo amūrtatvāt karmavat paramāṇuvad ghaṭavad iti ete dṛṣṭāntābhāsāḥ sādhyasādhanadharmaubhayavikalāḥ tathā sandigdhasādhyadharmaādayaś ca yathā rāgaādimān ayaṃ vacanād rathyāpuruṣavat maraṇadharmo ayaṃ puruṣo rāgaādimattvād rathyāpuruṣavat asarvajño ayaṃ rāgaādimatvād  rathyāpuruṣavad iti  tathā ananvayo apradarśitaanvayaś cayathā yo uktā sa rāgaādimāniṣṭapuruṣavat anityaḥ śabdaḥ kṛtakatvād ghaṭavad iti tathā viparītaanvayaḥyad anityaṃ tat kṛtakam iti sādharmyeṇa dṛṣṭāntadoṣāḥ vaidharmyeṇa apiparamāṇuvat karmavat ākāśavad iti sādhyaādyavyatirekiṇaḥ tathā sandigdhasādhyavyatirekaādayaḥyathā asarvajñāḥ kapilaādayo anāptā vā avidyamānasarvajñatāāptatāliṅgabhūtapramāṇaatiśayaśāsanatvād iti atra vaidharmyaudāharaṇamyaḥ sarvajña āpto vā sa jyotirjñānaādikam upadiṣṭavānyathā ṛṣabhavardhamānaādir iti tatra asarvajñatā anāptayoḥ sādhyadharmayoḥ sandigdho vyatirekaḥ sandigdhasādhanavyatireko yathāna trayīvidā brāhmaṇena grāhyavacanaḥ kaścid vivakṣitaḥ puruṣo rāgaādimattvād iti atra vaidharmyaudāharaṇam ye grāhyavacanā na te rāgaādimantaḥ tad yathā gautamaādayo dharmaśāstrāṇāṃ praṇetāra iti gautamaādibhyo rāgaādimattvasya sādhanadharmasya  vyāvṛttiḥ sandigdhā  sandigdhaubhayavyatireko yathāavītarāgāḥ kapilaādayaḥparigrahaāgrahayogād iti atra vaidharmyeṇa udāharaṇamyo vītarāgo na tasya parigrahaāgrahaḥyathā ṛṣabhaāder iti ṛṣabhaāder avītarāgatvaparigrahaāgrahayogayoḥ sādhyasādhanadharmayoḥ sandigdho vyatirekaḥ avyatireko yathāavītarāgo ayaṃ vaktṛtvāt vaidharmyeṇa udāharaṇamyatra avītarāgatvaṃ na asti na sa vaktā yathā upalakhaṇḍa iti yady apy upalakhaṇḍād ubhayaṃ vyāvṛttaṃ tathā api sarvo vītarāgo na vaktā iti vyāptyā vyatirekaasiddher avyatirekaḥ  apradarśitavyatireko yathāanityaḥ śabdaḥkṛtakatvād ākāśavad iti vaidharmyeṇa viparītavyatireko yathāyad akṛtakaṃ tan nityaṃ bhavati iti na hy ebhir dṛṣṭāntābhāsāir hetoḥ sāmānyalakṣaṇaṃ sapakṣa eva sattvaṃ vipakṣeca sarvatra asattvam eva niścayena śakyaṃ darśayituṃ viśeṣalakṣaṇaṃ vā tad arthāpattyāeṣāṃ nirāso draṣṭavyaḥ dūṣaṇā nyūnatāādyuktiḥ ye pūrvaṃ nyūnatāādayaḥ sādhanadoṣā uktās teṣām udbhāvanaṃ dūṣaṇam tena paraiṣṭaarthasiddhipratibandhāt dūṣaṇābhāsās tu jātayaḥ abhūtadoṣaudbhāvanāni jātyuttarāṇi iti
+Explanatory Remarks
+A number of five figures at the left side indicates the location of the key word
+in the basic texts In the case of the SV
+the HB and the VN
+the first three figures
+indicate the page number
+and the last two indicate the line number for example
+ In the case of the
+PV and the NB the second figure indicates the chapter number and the last three
+figures indicate the karika or sutra number for example PVPV the
+Pramanasiddhichapter v NBNB
+the Pararthanumanachapter sutra 
+In the case of the SP
+the last two figures indicate the karika number for example
+ In this database
+sentences are artificially divided into wordunits
+although they
+involve a phonetic fusion or union in the basic texts Further
+compound words are
+divided into their shortest constitutive elements we use a hyphen to indicate that
+hyphenated elements originally form a compound word
+with the following
+exceptions
+ The prefixes a
+dur
+nih remain undivided
+irrespective of attachment to
+words or compound words
+ Suffixes making an adverb
+for example vat
+vasa
+are divided But suffixes
+making a possessive adjective
+for example vat
+mat
+remain undivided and terms
+such as a numeral dha
+vidha
+prakara remain also undivided
+ Compound words with the suffixes ta
+tva or bhava
+bhuta fundamentally
+remain undivided For example
+karyakaranabhavabhutata
+ Compound words with evam
+tat
+tatha
+para
+yatha
+su sva in the
+wordhead fundamentally remain undivided For example
+evamjatiya
+tadutpatti
+tathakrta paratantra
+yathartha
+yathasvam
+sujnanatva svabhava
+ Some compound words which are regarded as terminology remain also
+undivided For example agnihotra
+ayogavyavaccheda
+arthapatti padartha
+paramartha
+prasajyapratisedha
+viruddhavyabhicarin
+samanantarapratyaya
+samtanaparinama
+samanyalaksana
+svabhavapratibandha
+ Those terms whose wordhead is subject to the Sandhi rules for example d
+dhetu are cited in their original form for example d hetu
+for the sake of
+using this database to make an KWIC index
+ August   Tsukuba
+Motoi ONO
+Note
+This database is quite a tentative one
+and I must admit that there are a lot of
+errors and defects in this version I would appreciate it very much if the user would
+point out any errors in this version so that we can make a better new version in the
+future
+Email onologostsukubaacjp 
+ samyagjñānapūrvikā sarvapuruṣaarthasiddhir iti tad vyutpādyate
+ dvividhaṃ samyagjñānam
+ pratyakṣam anumānaṃ ca iti
+ tatra pratyakṣaṃ kalpanā apoḍham abhrāntam
+ abhilāpasaṃsargayogyapratibhāsā pratītiḥ kalpanā
+ tayā rahitaṃ timiraāśubhramaṇanauyānasaṃkṣobhaādyanāhitavibhramaṃ jñānaṃ pratyakṣam
+ tat caturvidham
+ indriyajñānam
+ svaviṣayaanantaraviṣayasahakāriṇā indriyajñānena samanantarapratyayena janitaṃ tan manovijñānam
+ sarvacittacaittānām ātmasaṃvedanam
+ bhūtaarthabhāvanāprakarṣaparyantajaṃ yogijñānaṃ ca iti
+ tasya viṣayaḥ svalakṣaṇam
+ yasya arthasya saṃnidhānaasaṃnidhānābhyāṃ jñānapratibhāsabhedas tat svalakṣaṇam
+ tad eva paramārthasat
+ arthakriyāsāmarthyalakṣaṇatvād vastunaḥ
+ anyat sāmānyalakṣaṇam
+ so anumānasya viṣayaḥ
+ tad eva ca pratyakṣaṃ jñānaṃ pramāṇaphalam
+ arthapratītirūpatvāt
+ arthasārūpyam asya pramāṇam
+ tadvaśād arthapratītisiddher iti
+ anumānaṃ dvividhā
+ svārthaṃ parārthaṃ ca
+ tatra svārthaṃ trirūpāl liṅgād yad anumeye jñānaṃ tad anumānam
+ pramāṇaphalavyavasthā atra api pratyakṣavat
+ trairūpyaṃ punar liṅgasya anumeye sattvam eva
+sapakṣa eva sattvam
+asapakṣe ca asattvam eva niścitam
+ anumeyo atra jijñāṣitaviśeṣo dharmī
+ sādhyadharmasāmānyena samāno arthaḥ sapakṣaḥ
+ na sapakṣo asapakṣaḥ
+ tato anyas tadviruddhas tadabhāvaś ca iti
+ trirūpāṇi ca trīṇy eva liṅgāni
+ anupalabdhiḥ svabhāvaḥ kāryaṃ ca iti
+ tatra anupalabdhir yathā
+na pradeśaviśeṣe kvacid ghaṭaḥ
+upalabdhilakṣaṇaprāptasya anupalabdher iti
+ upalabdhilakṣaṇaprāptir upalambhapratyayaantarasākalyaṃ svabhāvaviśeṣaś ca
+ yaḥ svabhāvaḥ satsv anyeṣu upalambhapratyayeṣu san pratyakṣa eva bhavati sa svabhāvaviśeṣaḥ
+ svabhāvaḥ svasattāmātrabhāvini sādhyadharme hetuḥ
+ yathā vṛkṣo ayaṃ śiṃśapātvād iti
+ kāryaṃ yathā vahnir atra dhūmād iti
+ atra dvau vastusādhanau ekaḥ pratiṣedhahetuḥ
+ svabhāvapratibandhe hi saty artho arthaṃ gamayet
+ tadapratibaddhasya tadavyabhicāraniyamaabhāvāt
+ sa ca pratibandhaḥ sādhye arthe liṅgasya
+ vastutas tādātmyāt tadutpatteś ca
+ atadsvabhāvasya atadutpatteś ca tatra apratibaddhasvabhāvatvāt
+ te ca tādātmyatadupattī svabhāvakāryayor eva iti tābhyām eva vastusiddhiḥ
+ pratiṣedhasiddhir api yathoktāyā eva anupalabdheḥ
+ sati vastuni tasyā asambhavāt
+ anyathā ca anupalabdhilakṣaṇaprāpteṣu deśakālasvabhāvaviprakṛṣṭeṣv artheṣv ātmapratyakṣanivṛtter abhāvaniścayaabhāvāt
+ amūḍhasmṛtisaṃskārasya atītasya vartamānasya ca pratipattṛpratyakṣasya nivṛttir abhāvavyavahārapravartanī
+ tasyā eva abhāvaniścayāt
+ sā ca prayogabhedād ekadaśaprakārā
+ svabhāvaanupalabdhir yathā
+na atra dhūma upalabdhilakṣaṇaprāptasya anupalabdhir iti
+ kāryaanupalabdhir yathā
+na iha apratibaddhasāmarthyāni dhūmakāraṇāni santi dhūmaabhāvād iti
+ vyāpakaanupalabdhir yathā
+na atra śiṃśapā
+vṛkṣaabhāvād iti
+ svabhāvaviruddhaupalabdhir yathā
+na atra śītasparśo vahner iti
+ viruddhakāryaupalabdhir yathā
+na atra śītasparśo dhūmād iti
+ viruddhavyāptaupalabdhir yathā
+na dhūmabhāvī bhūtasya api bhāvasya vināśaḥ
+hetvantaraapekṣaṇād iti
+ kāryaviruddhaupalabdhir yathā
+na iha apratibaddhasāmarthyāni śītakāraṇāni santi vahner iti
+ vyāpakaviruddhaupalabdhir yathā
+na atra tuṣārasparśo vahner iti
+ kāraṇaanupalabdhir yathā
+na atra dhūmo vahnyabhāvād iti
+ kāraṇaviruddhaupalabdhir yathā
+na asya romaharṣaādiviśeṣāḥ
+saṃnihitadahanaviśeṣatvād iti
+ kāraṇaviruddhakāryaupalabdhir yathā
+na romaharṣaādiviśeṣayuktapuruṣavān ayaṃ pradeśaḥ dhūmād iti
+ ime sarve kāryaanupalabdhyādayo daśaanupalabdhiprayogāḥ svabhāvaanupalabdhau saṃgraham upayānti
+ pāraṃparyeṇa arthāntaravidhipratiṣedhāyāṃ prayogabhede api
+ prayogadarśanaabhyāsāt svayam apy evaṃ vyavacchedapratītir bhavati iti svārthe apy anumāne asyāḥ prayoganirdeśaḥ
+ sarvatra ca asyām abhāvavyavahārasādhanyām anupalabdhau yeṣāṃ svabhāvaviruddhaādīnām
+upalabdhyā kāraṇaādīnām anupalabdhyā ca pratiṣedha uktas teṣām upalabdhilakṣaṇaprāptānām
+ eva upalabdhir anupalabdhiś ca veditavyā
+ anyeṣāṃ virodhakāryakāraṇabhāvasiddheḥ
+ pramāṇanivṛttav apy arthaabhāvaasiddher iti
+ trirūpaliṅgaākhyānaṃ parārtham anumānam
+ kāraṇe kāryaupacārāt
+ tad dvividham
+ prayogabhedāt
+ sādharmyavaidharmyavacana iti
+ na anayor arthataḥ kaścid bhedaḥ
+ anyatra prayogabhedāt
+ tatra sādharmyavat prayogaḥ
+yad upalabdhilakṣaṇaprāptaṃ sann na upalabhyate so asadvyavahāraviṣayaḥ siddhaḥ
+ yathā anyaḥ kaścid dṛṣṭaḥ śaśaviṣāṇaādiḥ na upalabhyate ca kaścit pradeśaviśeṣa upalabdhilakṣaṇaprāpto ghaṭa ity anupalabdhiprayogaḥ 
+ tathā svabhāvahetoḥ prayogaḥ
+yat sat tat sarvam anityam
+yathā ghaṭaādir iti śuddhasya svabhāvahetoḥ prayogaḥ
+ yad utpattimat tad anityam iti svabhāvabhūtadharmabhedena svabhāvasya prayogaḥ
+ yat kṛtakaṃ tad anityam ity upādhibhedena
+ apekṣitaparavyāpāro hi bhāvaḥ svabhāvaniṣpattau kṛtaka iti
+ evaṃ pratyayabhedabheditvaādayo api draṣṭavyāḥ
+ sann utpattimān kṛtako vā śabda iti pakṣadharmaupadarśanam
+ sarva ete sādhanadharmā yathāsvaṃ pramāṇaiḥ siddhasādhanadharmamātraanubandha eva sādhyadharmo avagantavyāḥ
+ tasya eva tat
+ svabhāvasya ca hetutvāt
+ vastutas tayos tādātmyam
+ tanniṣpattāv aniṣpannasya tatsvabhāvatvaabhāvāt
+ vyabhicārasambhavāc ca
+ kāryahetoḥ prayogaḥ
+yatra dhūmas tatra agniḥ
+yathā mahānasaādau asti ca iha dhūma iti
+ iha api siddha eva kāryakāraṇabhāve kāraṇe sādhye kāryahetur vaktavyaḥ
+ vaidharmyavataḥ prayogaḥ
+yat sad upalabdhilakṣaṇaprāptaṃ tad upalabhyata eva
+yathā nīlaādiviśeṣaḥ na ca evam iha upalabdhilakṣaṇaprāptasya sata upalabdhir ghaṭasya ity anupalabdhiprayogaḥ
+ asaty anityatve na asty eva sattvam utpattimattvaṃ kṛtakatvaṃ vā saṃś ca śabda utpattimān kṛtako vā iti svabhāvahetoḥ prayogaḥ
+ asaty agnau na bhavaty eva dhūmaḥ atra ca asti dhūma iti kāryahetoḥ prayogaḥ
+ sādharmyeṇa api hi prayoge arthād vaidharmyagatir iti
+ asati tasmin sādhyena hetor anvayaabhāvāt
+ tathā vaidharmyeṇa apy anvayagatiḥ
+ asati tasmin sādhyaabhāve hetvabhāvasya asiddheḥ
+ na hi svabhāvapratibandhe asaty ekasya nivṛttav aparasya niyamena nivṛttiḥ
+ sa ca dviprakāraḥ sarvasya tādātmyalakṣaṇas tadutpattilakṣaṇaś ca ity uktam
+ tena hi nivṛttiṃ kathayatā pratibandho darśanīyaḥ tasmāt nivṛttivacanam ākṣiptapratibandhaupadarśanam
+eva bhavati yac ca pratibandhaupadarśanaṃ tad eva anvayavacanam ity ekena api
+vākyena anvayamukhena vyatirekamukhena vā prayuktena sapakṣaasapakṣayor liṅgasya
+sadasattvakhyāpanaṃ kṛtaṃ bhavati iti na avaśyaṃ vākyadvayaprayogaḥ
+ anupalabdhāv api
+yat sad upalabdhilakṣaṇaprāptaṃ tad upalabhyata eva ity ukte
+anupalabhyamānaṃ tādṛśam asad iti pratīter anvayasiddheḥ
+ dvayor apy anayoḥ prayogayor na avaśyaṃ pakṣanirdeśaḥ
+ yasmāt sādharmyavatprayoge api yad upalabdhilakṣaṇaprāptaṃ san na upalabhyate
+so asadvyavahāraviṣayaḥ na upalabhyate ca atra upalabdhilakṣaṇaprāpto ghaṭa
+ity ukte sāmarthyād eva na iha ghaṭa iti bhavati
+ tathā vaidharmyavatprayoge api
+yaḥ sadvyavahāraviṣaya upalabdhilakṣaṇaprāptaḥ
+sa upalabhyata eva na tathā atra tādṛśo ghaṭa upalabhyata ity ukte sāmarthyād eva na iha sadvyavahāraviṣaya iti bhavati
+ kīdṛśaḥ punaḥ pakṣa iti nirdeśyaḥ
+ svarūpeṇa eva svayam iṣṭo anirākṛtaḥ pakṣa iti
+ svarūpeṇa iti sādhyatvena iṣṭaḥ
+ svarūpeṇa eva iti sādhyatvena eva iṣṭo na sādhanatvena api
+ yathā śabdasya anityatve sādhye cākṣuṣatvaṃ hetuḥ
+śabde asiddhatvāt sādhyam na punas tad iha sādhyatvena eva iṣṭam
+sādhanatvena abhidhānāt
+ svayam iti vādinā
+ yas tadā sādhanam āha
+ etena yady api kvacic śāstre sthitaḥ sādhanam āha
+tac śāstrakāreṇa tasmin dharmiṇy anekadharmaabhyupagame api yas tadā tena vādinā dharmaḥ svayaṃ sādhayitum iṣṭaḥ
+sa eva sādhyo na itara ity uktaṃ bhavati
+ iṣṭa iti yatra arthe vivādena sādhanam upanyastaṃ tasya siddhim icchatā so anukto api vacanena sādhyaḥ
+ tad adhikaraṇatvād vivādasya
+ yathā parārthaś cakṣurādayaḥ saṃghātatvāc śayanaāsanaādyaṅgavad iti atra
+ātmaarthā ity anuktāv apy ātmaarthatā sādhyā tena na uktamātram eva sādhyam ity uktaṃ bhavati
+ anirākṛta iti
+etallakṣaṇayoge api yaḥ sādhayitum iṣṭo apy arthaḥ pratyakṣaanumānapratītisvavacanair nirākriyate
+na sa pakṣa iti pradarśanaartham
+ tatra pratyakṣanirākṛto yathā
+aśrāvaṇaḥ śabda iti
+ anumānanirākṛto yathā
+nityaḥ śabda iti
+ pratītinirākṛto yathā
+acandraḥ śaśī iti
+ svavacananirākṛto yathā
+na anumānaṃ pramāṇam
+ iti catvāraḥ pakṣābhāsā nirākṛtā bhavanti
+ evaṃ siddhasya
+asiddhasya api sādhanatvena abhimatasya
+svayaṃ vādinā tadā sādhayitum aniṣṭasya
+ uktamātrasya ca viparyayeṇa sādhyaḥ tena eva svarūpeṇa abhimato vādina iṣṭo anirākṛtaḥ pakṣa iti pakṣalakṣaṇam anavadyaṃ darśitaṃ bhavati 
+ trirūpaliṅgaākhyānaṃ parārthaanumānam ity uktam tatra trayāṇāṃ rūpāṇām ekasya api rūpasya anuktau sādhanābhāsaḥ
+ uktāv apy asiddhau sandehe vā pratipādyapratipādakayoḥ
+ ekasya rūpasya dharmisambandhasya asiddhau sandehe vā asiddho hetvābhāsāḥ
+ yathā anityaḥ śabda iti sādhye cākṣuṣatvam ubhayaasiddham
+ cetanās tarava iti sādhye sarvatvagapaharaṇe maraṇaṃ prativādyasiddham
+vijñānaindriyaāyur nirodhalakṣaṇasya maraṇasya anena abhyupagamāt
+tasya ca taruṣv asambhavāt
+ acetanāḥ sukhaādaya iti sādhye utpattimatvaṃ vā sāṃkhyasya svayaṃ vādino asiddham
+ tathā svayaṃ tadāśrayaṇasya vā sandehe asiddhaḥ
+ yathā bāṣpaādibhāvena sandihyamāno bhūtasaṃghāto agnisiddhāv upadiśyamānaḥ sandigdhaasiddhaḥ
+ yathā iha nikuñje mayūraḥ kekāyitād iti
+ tadāpātadeśavibhrame
+ dharmyasiddhāv apy asiddhaḥ
+yathā sarvagata ātmā iti sādhye sarvatra upalambhamānaguṇatvam
+ tathā ekasya rūpasya asapakṣe asattvasya asiddhāv anaikāntiko hetvābhāsaḥ
+ yathā śabdasya anityatvaādike dharme sādhye prameyatvaādiko dharmaḥ sapakṣavipakṣayoḥ sarvatra ekadeśe vā vartamānaḥ
+ tathā asya eva rūpasya sandehe apy anaikāntika eva
+ yathā asarvajñaḥ kaścid vivakṣitaḥ puruṣo rāgaādimān vā sādhye vaktṛtvaādiko dharmaḥ sandigdhavipakṣavyāvṛttikaḥ
+  sarvajño vaktā na upalabhyate ity evaṃprakārasya anupalambhasya adṛśyaātmaviṣayatvena sandehahetutvāt tato asarvajñaviparyayād vaktṛtvaāder  
+vyāvṛttiḥ sandigdhā 
+ vaktṛtvasarvajñatvayor virodhaabhāvāc ca yaḥ sarvajñaḥ sa vaktā na bhavati ity adarśane api vyatireko na sidhyati sandehāt
+ dvividho hi padārthānāṃ virodhaḥ
+ avikalakāraṇasya bhavato anyabhāve abhāvād virodhagatiḥ
+ śītauṣṇasparśavat
+ parasparaparihārasthitalakṣaṇatayā vā bhāvaabhāvavat
+ sa ca dvividho api virodho vaktṛtvasarvajñatvayor na sambhavati
+ na ca aviruddhavidher anupalabdhāv apy abhāvagatiḥ
+ rāgaādīnāṃ vacanaādeś ca kāryakāraṇabhāvaasiddheḥ
+ arthāntarasya ca akāraṇasya nivṛttau na vacanaāder nivṛttiḥ
+ iti sandigdhavyatireko anaikāntiko vacanaādiḥ
+ dvayo rūpayor viparyayasiddhau viruddhaḥ
+ kayor dvayoḥ
+ sapakṣe sattvasya
+asapakṣe ca asattvasya
+yathā kṛtakatvaṃ prayatnānantarīyakatvaṃ ca nityatve sādhye viruddho hetvābhāsaḥ
+ anayoḥ sapakṣe asattvam
+asapakṣe ca sattvam iti viparyayasiddhiḥ
+ etau ca sādhyaviparyayasādhanād viruddhau
+ nanu ca tṛtīyo api iṣṭavighātakṛd viruddhaḥ
+ yathā parārthāś cakṣurādayaḥ saṃghātatvāc śayanaāsanaādyaṅgavad iti
+ tad iṣṭasaṃhatapārārthyaviparyayasādhanād viruddhaḥ
+ sa iha kasmān na uktaḥ
+ anayor antarbhāvāt
+ na hy ayam ābhyāṃ sādhyaviparyayasādhanatvena bhidyate
+ na hi iṣṭauktayoḥ sādhyatvena kaścid viśeṣa iti
+ dvayo rūpayor ekasya asiddhāv aparasya ca sandehe anaikāntikaḥ
+ yathā vītarāgaḥ kaścit sarvajño vā
+vaktṛtvād iti vyatireko atra asiddhaḥ
+sandigdho anvayaḥ
+ sarvajñavītarāgayor viprakarṣād vacanaādes tatra sattvam asattvaṃ vā sandigdham
+ anayor eva dvayo rūpayoḥ sandehe anaikāntikaḥ
+ yathā sātmakaṃ jīvaccharīraṃ prāṇaādimattvād iti
+ na hi sātmakanirātmakābhyām anyo rāśir asti yatra ayaṃ prāṇaādir vartate
+ ātmano vṛttivyavacchedābhyāṃ sarvasaṃgrahād
+ na apy anayor ekatra vṛttiniścayaḥ
+ sātmakatvena anātmakatvena vā prasiddhe prāṇaāder asiddheḥ
+ tasmāj jīvaccharīrasambandhī prāṇaādiḥ sātmakād anātmakāc ca sarvasmād vyāvṛttatvena asiddhes tābhyāṃ na vyatiricyate
+ na tatra anveti
+ ekātmany apy asiddheḥ
+ na api sātmakād anātmakāc ca tasya anvayavyatirekayor abhāvaniścayaḥ
+ ekaabhāvaniścayasya aparabhāvaniścayanāntarīyakatvāt
+ anvayavyatirekayor anyonyavyavacchedarūpatvāt tata eva anvayavyatirekayoḥ sandehād anaikāntikāḥ
+ sādhyaitarayor ato niścayaabhāvāt
+  evam eṣāṃ trayāṇāṃ rūpāṇām ekaikasya dvayor dvayor vā rūpayor asiddhau sandehe vā yathāyogam asiddhaviruddhaanaikāntikās trayo hetvābhāsāḥ 
+ viruddhāvyabhicāry api saṃśayahetur uktaḥ sa iha kasmān na uktaḥ
+ anumānaviṣaye asambhavāt
+ na hi sambhavo asti kāryasvabhāvayor uktalakṣaṇayor anupalambhasya ca viruddhatāyāḥ
+ na ca anyo avyabhicārī
+ tasmād avastudarśanabalapravṛttam āgamaāśrayam anumānam āśritya tadarthavicāreṣu viruddhāvyabhicārī sādhanadoṣa uktaḥ
+ śāstrakārāṇām artheṣu bhrāntyā viparītasvabhāvaupasaṃhārasambhavāt
+ na hy asya sambhavo yathāvasthitavastusthitiṣv ātmakāryaanupalambheṣu
+ tatra udāharaṇam
+yat sarvadeśaavasthitaiḥ svasambandhibhir yugapad abhisambadhyate tat sarvagatam
+yathā ākāśam abhisambadhyate ca sarvadeśaavasthitaiḥ svasambandhibhir yugapat sāmānyam iti
+ tatsambandhisvabhāvamātraanubandhinī taddeśasaṃnihitasvabhāvatā
+ na hi yo yatra na asti taddeśam ātmanā vyāpnoti iti svabhāvahetuprayogaḥ
+ dvitīyo api prayogaḥ
+yad upalabdhilakṣaṇaprāptaṃ san na upalabhyate na tat tatra asti tad yathā
+kvacid avidyamāno ghaṭaḥ na upalabhyate ca upalabdhilakṣaṇaprāptaṃ sāmānyaṃ vyaktyantarāleṣv
+iti ayam anupalambhaḥ svabhāvaś ca parasparaviruddhaarthasādhanād ekatra saṃśayaṃ janayataḥ
+  trirūpo hetur uktaḥ tāvatā ca arthapratītir iti na pṛthag dṛṣṭānto nāma sādhanaavayavaḥ kaścid tena na asya lakṣaṇaṃ pṛthag ucyate 
+ hetoḥ sapakṣa eva sattvam asapakṣāc ca sarvato vyāvṛttī rūpam uktam abhedena
+punar viśeṣeṇa kāryasvabhāvayor uktalakṣaṇayor janmatanmātraanubandhau darśanīyaavaktau tac ca darśayatā
+yatra dhūmas tatra agniḥ
+asaty agnau na kvacid dhūmo yathā mahānasaitarayoḥ
+yatra kṛtakatvaṃ tatra anityatvam
+anityatvaabhāvo kṛtakatvaasambhavo yathā
+ghaṭaākāśayoḥ
+iti darśanīyam na hy anyathā sapakṣavipakṣayoḥ sadasattve yathoktaprakāre śakye darśayitum tat kāryatāniyamaḥ kāryaliṅgasya
+svabhāvaliṅgasya ca svabhāvena vyāptiḥ asmiṃś ca arthe darśite darśita eva dṛṣṭānto bhavati etāvān mātrarūpatvāt tasya iti
+ etena eva dṛṣṭāntadoṣā api nirastā bhavanti
+ yathā nityaḥ śabdo amūrtatvāt karmavat paramāṇuvad ghaṭavad iti ete dṛṣṭāntābhāsāḥ sādhyasādhanadharmaubhayavikalāḥ
+ tathā sandigdhasādhyadharmaādayaś ca
+ yathā rāgaādimān ayaṃ vacanād rathyāpuruṣavat maraṇadharmo ayaṃ puruṣo rāgaādimattvād rathyāpuruṣavat asarvajño ayaṃ rāgaādimatvād  
+rathyāpuruṣavad iti 
+ tathā ananvayo apradarśitaanvayaś ca
+yathā yo uktā sa rāgaādimān
+iṣṭapuruṣavat anityaḥ śabdaḥ kṛtakatvād ghaṭavad iti
+ tathā viparītaanvayaḥ
+yad anityaṃ tat kṛtakam iti
+ sādharmyeṇa dṛṣṭāntadoṣāḥ
+ vaidharmyeṇa api
+paramāṇuvat karmavat ākāśavad iti sādhyaādyavyatirekiṇaḥ
+ tathā sandigdhasādhyavyatirekaādayaḥ
+yathā asarvajñāḥ kapilaādayo anāptā vā avidyamānasarvajñatāāptatāliṅgabhūtapramāṇaatiśayaśāsanatvād iti atra vaidharmyaudāharaṇam
+yaḥ sarvajña āpto vā sa jyotirjñānaādikam upadiṣṭavān
+yathā ṛṣabhavardhamānaādir iti tatra asarvajñatā anāptayoḥ sādhyadharmayoḥ sandigdho vyatirekaḥ
+ sandigdhasādhanavyatireko yathā
+na trayīvidā brāhmaṇena grāhyavacanaḥ kaścid vivakṣitaḥ puruṣo rāgaādimattvād iti atra vaidharmyaudāharaṇam
+ ye grāhyavacanā na te rāgaādimantaḥ tad yathā gautamaādayo dharmaśāstrāṇāṃ praṇetāra iti gautamaādibhyo rāgaādimattvasya sādhanadharmasya  
+vyāvṛttiḥ sandigdhā 
+ sandigdhaubhayavyatireko yathā
+avītarāgāḥ kapilaādayaḥ
+parigrahaāgrahayogād iti atra vaidharmyeṇa udāharaṇam
+yo vītarāgo na tasya parigrahaāgrahaḥ
+yathā ṛṣabhaāder iti ṛṣabhaāder avītarāgatvaparigrahaāgrahayogayoḥ sādhyasādhanadharmayoḥ sandigdho vyatirekaḥ
+ avyatireko yathā
+avītarāgo ayaṃ vaktṛtvāt vaidharmyeṇa udāharaṇam
+yatra avītarāgatvaṃ na asti na sa vaktā
+ yathā upalakhaṇḍa iti yady apy upalakhaṇḍād ubhayaṃ vyāvṛttaṃ tathā api sarvo vītarāgo na vaktā iti vyāptyā vyatirekaasiddher avyatirekaḥ 
+ apradarśitavyatireko yathā
+anityaḥ śabdaḥ
+kṛtakatvād ākāśavad iti vaidharmyeṇa
+ viparītavyatireko yathā
+yad akṛtakaṃ tan nityaṃ bhavati iti
+ na hy ebhir dṛṣṭāntābhāsāir hetoḥ sāmānyalakṣaṇaṃ sapakṣa eva sattvaṃ vipakṣe
+ca sarvatra asattvam eva niścayena śakyaṃ darśayituṃ viśeṣalakṣaṇaṃ vā tad arthāpattyā
+eṣāṃ nirāso draṣṭavyaḥ
+ dūṣaṇā nyūnatāādyuktiḥ
+ ye pūrvaṃ nyūnatāādayaḥ sādhanadoṣā uktās teṣām udbhāvanaṃ dūṣaṇam tena paraiṣṭaarthasiddhipratibandhāt
+ dūṣaṇābhāsās tu jātayaḥ
+ abhūtadoṣaudbhāvanāni jātyuttarāṇi iti
