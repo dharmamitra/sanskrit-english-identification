@@ -14,7 +14,9 @@ chrono = "0.4.35"
 clap = {version = "4.5.1", features = ["derive"]}
 fast_text = "0.1.2"
 fasttext = "0.7.8"
+indicatif = "0.17.8"
 mktemp = "0.5.1"
 regex = "1.10.3"
+spinoff = "0.8.0"
 tokio = { version = "1.36.0", features = ["full"] }
 zip = "0.6.6"

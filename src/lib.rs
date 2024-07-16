@@ -3,13 +3,16 @@ use std::{fs, path::PathBuf};
 use clap::{Args, Parser, Subcommand};
 
 pub fn get_files_in_folder(path: &str) -> Result<Vec<PathBuf>, Box<dyn Error>> {
-    println!("{}", path);
     let entries = fs::read_dir(path).expect("Expected valid path");
     let mut all: Vec<PathBuf> = entries
-        .filter_map(|entry| Some(entry.ok()?.path()))
+        .filter_map(|entry| {
+            Some(entry.ok()?.path())
+        })
         .collect();
 
     all.sort();
+
+    println!("Files loaded!");
 
     Ok(all)
 }

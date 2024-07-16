@@ -9,8 +9,9 @@ use fasttext::FastText;
 use sanskrit_english_identification::{get_files_in_folder, CLIArgs, RunType, TrainType};
 use aws_config::meta::region::RegionProviderChain;
 use aws_config::{BehaviorVersion, Region};
-use std::{fs, io};
-use std::cmp;
+use std::fs;
+use indicatif::ProgressBar;
+use spinoff::{spinner, spinners, Color, Spinner};
 
 pub mod services;
 
@@ -19,6 +20,8 @@ use services::s3_service::get_model_cloud;
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
+    let frames = spinner!(["○", "◎", "◉", "●", "◉", "◎"], 100);
+
     let t: SystemTime = SystemTime::now();
 
     let args: CLIArgs = CLIArgs::parse();
@@ -70,25 +73,46 @@ async fn main() -> Result<(), Box<dyn Error>> {
         }
         RunType::PredictVectors(vectors_command) => {
             let input_files = vectors_command.input_files;
+            
             let paths_files = get_files_in_folder(&input_files).unwrap();
+
             let bucket_name = vectors_command.bucket_name;
+
+            /*
+            cargo run predict-vectors -i /Users/aarnavsrivastava/Desktop/_/sanskrit-english-identification/output_models_englishhindisanskrittibetan.bin -l /Users/aarnavsrivastava/Desktop/_/sanskrit-english-identification/drive-files
+             */
             
             if vectors_command.input_model.is_some() {
                 let model_path = vectors_command.input_model.expect("Expected input model");
 
                 let mut ftt = FastText::new();
+
+                let mut predictions_strings = Vec::new();
+
+                let mut spinner = Spinner::new(frames, "Loading model...", None); 
+
                 ftt.load_model(&model_path)?;
+                spinner.success("Model loaded!");
+
+                let pb = ProgressBar::new(paths_files.len() as u64);
                 
                 for path in paths_files {
+                    pb.inc(1);
                     let text = fs::read_to_string(&path).unwrap();
 
                     let predictions = ftt.predict(&text, 3, 0.0).unwrap();
 
-                    if predictions.len() > 0 && predictions[0].label != "__label__english" {
-                        println!("Prediction for {}: {:?}\n", path.to_str().unwrap(), predictions);
+                    if predictions.len() > 0 {
+                        predictions_strings.push(format!("Prediction for {}: {:?}\n", path.to_str().unwrap(), predictions[0]));
                     } else if predictions.len() == 0 {
-                        println!("{} is empty\n", path.to_str().unwrap());
+                        predictions_strings.push(format!("{} is empty\n", path.to_str().unwrap()));
                     }
+                }
+
+                pb.finish_with_message("Files processed");
+
+                for prediction in predictions_strings {
+                    println!("{}", prediction);
                 }
             } else if vectors_command.model_key.is_some() {
                 let model_key = vectors_command.model_key.expect("Expected input model");

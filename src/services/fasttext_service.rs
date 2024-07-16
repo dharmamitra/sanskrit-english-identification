@@ -1,6 +1,5 @@
 use aws_sdk_s3::Client;
 use sanskrit_english_identification::get_files_in_folder;
-use std::cell::RefCell;
 use std::cmp;
 use std::collections::HashMap;
 use std::fs::OpenOptions;
