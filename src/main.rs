@@ -1,6 +1,5 @@
 use std::fs::File;
 use std::io::Read;
-use std::path::PathBuf;
 use std::{error::Error, result::Result};
 use std::time::{SystemTime, Duration};
 use aws_sdk_s3::Client;
@@ -11,7 +10,7 @@ use aws_config::meta::region::RegionProviderChain;
 use aws_config::{BehaviorVersion, Region};
 use std::fs;
 use indicatif::ProgressBar;
-use spinoff::{spinner, spinners, Color, Spinner};
+use spinoff::{spinner, spinners, Spinner};
 
 pub mod services;
 
@@ -36,8 +35,9 @@ async fn main() -> Result<(), Box<dyn Error>> {
                     let output_directory = vectors_command.output_directory;
                     let bucket_name = vectors_command.bucket_name;
 
-                    let input_path = PathBuf::from("/Users/aarnavsrivastava/Desktop/sanskrit-english-identification/input_texts.txt");
+                    let input_path = vectors_command.input_directory.unwrap();
 
+                    println!("{}", &input_path);
                     let mut file = File::open(input_path)?;
 
                     let mut buf = vec![];
@@ -46,6 +46,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
                     let lines = contents.split("\n");
 
+                    println!("Collecting labels...");
                     for line in lines {
                         if input_directories.len() == labels.len() {
                             input_directories.push(line.to_string());
@@ -54,16 +55,23 @@ async fn main() -> Result<(), Box<dyn Error>> {
                         }
                     }
             
+                    println!("Labels collected.");
                     if output_directory.is_some() {
-                        let new_path = output_directory.expect("Expected output directory");
+                        // cargo run train vectors -i /Users/aarnavsrivastava/Desktop/_/sanskrit-english-identification/input_texts.txt -o /Users/aarnavsrivastava/Desktop/_/sanskrit-english-identification
+                        let mut new_path = output_directory.expect("Expected output directory");
+
+                        if new_path.ends_with("/") {
+                            new_path = new_path[..&new_path.len() - 1].to_string();
+                        }
                         gen_ftt_word_vectors_local(input_directories, labels, &new_path)?;
                     } else {
+                        let curr_dir = std::env::current_dir().unwrap();
                         let region_provider = RegionProviderChain::first_try(Region::new("us-east-1"));
                         let shared_config = aws_config::defaults(BehaviorVersion::latest()).region(region_provider).load().await;
                         let client = Client::new(&shared_config);
                         let bucket_name = bucket_name.expect("Expected bucket name");
 
-                        // gen_ftt_word_vectors_cloud(&paths_one, &paths_two, &client, &bucket_name, &vectors_command.label_one, &vectors_command.label_two, min).await?;
+                        gen_ftt_word_vectors_cloud(input_directories, labels, &client, &bucket_name, curr_dir.to_str().unwrap()).await?;
                     }
                 }
                 TrainType::Model(_models_command) => {
@@ -125,12 +133,32 @@ async fn main() -> Result<(), Box<dyn Error>> {
                 get_model_cloud(&client, &bucket_name, &model_key).await?;
 
                 let mut ftt = FastText::new();
+
+                let mut predictions_strings = Vec::new();
+
+                let mut spinner = Spinner::new(frames, "Loading model...", None); 
                 ftt.load_model(&model_key)?;
+                spinner.success("Model loaded!");
+
+                let pb = ProgressBar::new(paths_files.len() as u64);
                 
                 for path in paths_files {
+                    pb.inc(1);
                     let text = fs::read_to_string(&path).unwrap();
 
                     let predictions = ftt.predict(&text, 3, 0.0).unwrap();
+
+                    if predictions.len() > 0 {
+                        predictions_strings.push(format!("Prediction for {}: {:?}\n", path.to_str().unwrap(), predictions[0]));
+                    } else if predictions.len() == 0 {
+                        predictions_strings.push(format!("{} is empty\n", path.to_str().unwrap()));
+                    }
+                }
+
+                pb.finish_with_message("Files processed");
+
+                for prediction in predictions_strings {
+                    println!("{}", prediction);
                 }
 
                 fs::remove_file(model_key)?;

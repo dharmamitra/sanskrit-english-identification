@@ -4,10 +4,10 @@
 /sanskrit_temp
 /english_wordvectors
 /sanskrit_wordvectors
-english*
 *.bin
 *.vec
-sanskrit*
+*_processed.txt
 /fastText
 /output_models
 /drive-files*
+output.txt

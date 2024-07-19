@@ -55,6 +55,8 @@ pub struct ModelCommand {
 #[derive(Debug, Args)]
 pub struct VectorsCommand {
     #[clap(short, long, value_parser = clap::builder::NonEmptyStringValueParser::new())]
+    pub input_directory: Option<String>,
+    #[clap(short, long, value_parser = clap::builder::NonEmptyStringValueParser::new())]
     pub output_directory: Option<String>,
     #[clap(short, long, value_parser = clap::builder::NonEmptyStringValueParser::new())]
     pub bucket_name: Option<String>,
