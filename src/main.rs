@@ -5,7 +5,7 @@ use std::time::{SystemTime, Duration};
 use aws_sdk_s3::Client;
 use clap::Parser;
 use fasttext::FastText;
-use sanskrit_english_identification::{get_files_in_folder, CLIArgs, RunType, TrainType};
+use sanskrit_english_identification::{get_files_in_folder, CLIArgs, RunType, SortType, TrainType};
 use aws_config::meta::region::RegionProviderChain;
 use aws_config::{BehaviorVersion, Region};
 use std::fs;
@@ -24,6 +24,8 @@ async fn main() -> Result<(), Box<dyn Error>> {
     let t: SystemTime = SystemTime::now();
 
     let args: CLIArgs = CLIArgs::parse();
+
+    // TODO: make service that lets you label texts, sorting them into folders
 
     match args.run_type {
         RunType::Train(train_command) => {
@@ -65,6 +67,8 @@ async fn main() -> Result<(), Box<dyn Error>> {
                         }
                         gen_ftt_word_vectors_local(input_directories, labels, &new_path)?;
                     } else {
+                        // Untested !!
+                        // could be bugs, don't have an AWS account rn to verify functionaliy
                         let curr_dir = std::env::current_dir().unwrap();
                         let region_provider = RegionProviderChain::first_try(Region::new("us-east-1"));
                         let shared_config = aws_config::defaults(BehaviorVersion::latest()).region(region_provider).load().await;
@@ -164,6 +168,21 @@ async fn main() -> Result<(), Box<dyn Error>> {
                 fs::remove_file(model_key)?;
             } else {
                 panic!("Neither bucket nor input file given - exiting");
+            }
+        },
+        RunType::SortData(sort_command) => {
+            match sort_command.command {
+                SortType::Manual(manual_command) => {
+                    let directory = manual_command.sort_directory;
+
+                    todo!();
+                }
+                SortType::FromTSV(tsv_command) => {
+                    let files_directory = tsv_command.sort_directory;
+                    let tsv_path = tsv_command.tsv_path;
+
+                    todo!();
+                }
             }
         },
     }

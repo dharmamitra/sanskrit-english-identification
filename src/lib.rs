@@ -27,7 +27,34 @@ pub struct CLIArgs {
 #[derive(Debug, Subcommand)]
 pub enum RunType {
     Train(TrainCommand),
-    PredictVectors(VectorsPredictCommand)
+    PredictVectors(VectorsPredictCommand),
+    SortData(SortDataCommand)
+}
+
+#[derive(Debug, Args)]
+pub struct SortDataCommand {
+    #[clap(subcommand)]
+    pub command: SortType,
+}
+
+#[derive(Debug, Subcommand)]
+pub enum SortType {
+    Manual(ManualSortCommand),
+    FromTSV(TSVSortCommand)
+}
+
+#[derive(Debug, Args)]
+pub struct ManualSortCommand {
+    #[clap(short, long, value_parser = clap::builder::NonEmptyStringValueParser::new())]
+    pub sort_directory: String,
+}
+
+#[derive(Debug, Args)]
+pub struct TSVSortCommand {
+    #[clap(short, long, value_parser = clap::builder::NonEmptyStringValueParser::new())]
+    pub sort_directory: String,
+    #[clap(short='l', long="local_directory", value_parser = clap::builder::NonEmptyStringValueParser::new())]
+    pub tsv_path: String,
 }
 
 #[derive(Debug, Args)]
