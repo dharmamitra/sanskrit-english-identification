@@ -53,7 +53,7 @@ pub struct ManualSortCommand {
 pub struct TSVSortCommand {
     #[clap(short, long, value_parser = clap::builder::NonEmptyStringValueParser::new())]
     pub sort_directory: String,
-    #[clap(short='l', long="local_directory", value_parser = clap::builder::NonEmptyStringValueParser::new())]
+    #[clap(short, long, value_parser = clap::builder::NonEmptyStringValueParser::new())]
     pub tsv_path: String,
 }
 

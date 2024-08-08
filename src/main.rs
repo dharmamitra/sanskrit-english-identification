@@ -16,6 +16,7 @@ pub mod services;
 
 use services::fasttext_service::{gen_ftt_word_vectors_local, gen_ftt_word_vectors_cloud};
 use services::s3_service::get_model_cloud;
+use services::sort_service::{manual_sort, tsv_sort};
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
@@ -175,13 +176,13 @@ async fn main() -> Result<(), Box<dyn Error>> {
                 SortType::Manual(manual_command) => {
                     let directory = manual_command.sort_directory;
 
-                    todo!();
+                    manual_sort(&directory);
                 }
                 SortType::FromTSV(tsv_command) => {
                     let files_directory = tsv_command.sort_directory;
                     let tsv_path = tsv_command.tsv_path;
 
-                    todo!();
+                    tsv_sort(&files_directory, &tsv_path);
                 }
             }
         },
