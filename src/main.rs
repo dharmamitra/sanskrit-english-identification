@@ -176,13 +176,13 @@ async fn main() -> Result<(), Box<dyn Error>> {
                 SortType::Manual(manual_command) => {
                     let directory = manual_command.sort_directory;
 
-                    manual_sort(&directory);
+                    manual_sort(&directory)?;
                 }
                 SortType::FromTSV(tsv_command) => {
                     let files_directory = tsv_command.sort_directory;
                     let tsv_path = tsv_command.tsv_path;
 
-                    tsv_sort(&files_directory, &tsv_path);
+                    tsv_sort(&files_directory, &tsv_path)?;
                 }
             }
         },
